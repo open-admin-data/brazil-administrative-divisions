@@ -1,0 +1,45 @@
+{
+  "id": "BR4102604",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barracão",
+    "en": "Barracao",
+    "slug": "barracao-br4102604"
+  },
+  "code": {
+    "id": "BR4102604",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.737",
+    "lon": "-51.436"
+  },
+  "metadata": {},
+  "source": {}
+}

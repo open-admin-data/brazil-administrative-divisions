@@ -1,0 +1,45 @@
+{
+  "id": "BR3528908",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mariápolis",
+    "en": "Mariapolis",
+    "slug": "mariapolis-br3528908"
+  },
+  "code": {
+    "id": "BR3528908",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.786",
+    "lon": "-51.17"
+  },
+  "metadata": {},
+  "source": {}
+}

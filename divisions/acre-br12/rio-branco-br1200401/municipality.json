@@ -1,0 +1,45 @@
+{
+  "id": "BR1200401",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rio Branco",
+    "en": "Rio Branco",
+    "slug": "rio-branco-br1200401"
+  },
+  "code": {
+    "id": "BR1200401",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR12",
+    "level": 1,
+    "name": {
+      "local": "Acre",
+      "en": "Acre",
+      "slug": "acre-br12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.272",
+    "lon": "-58.16"
+  },
+  "metadata": {},
+  "source": {}
+}

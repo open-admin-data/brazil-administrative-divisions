@@ -1,0 +1,45 @@
+{
+  "id": "BR4116703",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Aurora",
+    "en": "Nova Aurora",
+    "slug": "nova-aurora-br4116703"
+  },
+  "code": {
+    "id": "BR4116703",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.099",
+    "lon": "-48.286"
+  },
+  "metadata": {},
+  "source": {}
+}

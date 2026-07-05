@@ -1,0 +1,45 @@
+{
+  "id": "BR2508406",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lastro",
+    "en": "Lastro",
+    "slug": "lastro-br2508406"
+  },
+  "code": {
+    "id": "BR2508406",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.543",
+    "lon": "-38.179"
+  },
+  "metadata": {},
+  "source": {}
+}

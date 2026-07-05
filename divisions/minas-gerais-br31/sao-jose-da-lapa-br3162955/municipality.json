@@ -1,0 +1,45 @@
+{
+  "id": "BR3162955",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José da Lapa",
+    "en": "Sao Jose da Lapa",
+    "slug": "sao-jose-da-lapa-br3162955"
+  },
+  "code": {
+    "id": "BR3162955",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.696",
+    "lon": "-43.993"
+  },
+  "metadata": {},
+  "source": {}
+}

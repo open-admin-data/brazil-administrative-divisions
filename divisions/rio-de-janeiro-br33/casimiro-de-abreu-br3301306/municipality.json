@@ -1,0 +1,45 @@
+{
+  "id": "BR3301306",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Casimiro de Abreu",
+    "en": "Casimiro de Abreu",
+    "slug": "casimiro-de-abreu-br3301306"
+  },
+  "code": {
+    "id": "BR3301306",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR33",
+    "level": 1,
+    "name": {
+      "local": "Rio de Janeiro",
+      "en": "Rio de Janeiro",
+      "slug": "rio-de-janeiro-br33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.483",
+    "lon": "-42.142"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1500701",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Anajás",
+    "en": "Anajas",
+    "slug": "anajas-br1500701"
+  },
+  "code": {
+    "id": "BR1500701",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.82",
+    "lon": "-50.058"
+  },
+  "metadata": {},
+  "source": {}
+}

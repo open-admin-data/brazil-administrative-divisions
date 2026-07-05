@@ -1,0 +1,45 @@
+{
+  "id": "BR5100805",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Apiacás",
+    "en": "Apiacas",
+    "slug": "apiacas-br5100805"
+  },
+  "code": {
+    "id": "BR5100805",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.99",
+    "lon": "-57.812"
+  },
+  "metadata": {},
+  "source": {}
+}

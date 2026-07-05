@@ -1,0 +1,45 @@
+{
+  "id": "BR2104107",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Fortaleza dos Nogueiras",
+    "en": "Fortaleza dos Nogueiras",
+    "slug": "fortaleza-dos-nogueiras-br2104107"
+  },
+  "code": {
+    "id": "BR2104107",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.819",
+    "lon": "-46.042"
+  },
+  "metadata": {},
+  "source": {}
+}

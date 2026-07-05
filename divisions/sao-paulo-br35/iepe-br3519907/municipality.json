@@ -1,0 +1,45 @@
+{
+  "id": "BR3519907",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Iepê",
+    "en": "Iepe",
+    "slug": "iepe-br3519907"
+  },
+  "code": {
+    "id": "BR3519907",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.654",
+    "lon": "-51.038"
+  },
+  "metadata": {},
+  "source": {}
+}

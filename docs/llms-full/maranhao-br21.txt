@@ -1,0 +1,1094 @@
+# Maranhao — Brazil Administrative Divisions
+
+> 217 municipalitys
+> Code: BR21
+> Coordinates: -5.232, -45.409
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Açailândia (Acailandia)
+
+Code: BR2100055, Coordinates: -4.73, -47.295
+
+
+### Afonso Cunha
+
+Code: BR2100105, Coordinates: -4.204, -43.239
+
+
+### Água Doce do Maranhão (Agua Doce do Maranhao)
+
+Code: BR2100154, Coordinates: -2.922, -42.136
+
+
+### Alcântara (Alcantara)
+
+Code: BR2100204, Coordinates: -2.393, -44.541
+
+
+### Aldeias Altas
+
+Code: BR2100303, Coordinates: -4.587, -43.457
+
+
+### Altamira do Maranhão (Altamira do Maranhao)
+
+Code: BR2100402, Coordinates: -4.16, -45.507
+
+
+### Alto Alegre do Maranhão (Alto Alegre do Maranhao)
+
+Code: BR2100436, Coordinates: -4.254, -44.364
+
+
+### Alto Alegre do Pindaré (Alto Alegre do Pindare)
+
+Code: BR2100477, Coordinates: -3.843, -45.982
+
+
+### Alto Parnaíba (Alto Parnaiba)
+
+Code: BR2100501, Coordinates: -9.498, -46.163
+
+
+### Amapá do Maranhão (Amapa do Maranhao)
+
+Code: BR2100550, Coordinates: -1.699, -45.889
+
+
+### Amarante do Maranhão (Amarante do Maranhao)
+
+Code: BR2100600, Coordinates: -5.458, -46.694
+
+
+### Anajatuba
+
+Code: BR2100709, Coordinates: -3.242, -44.548
+
+
+### Anapurus
+
+Code: BR2100808, Coordinates: -3.547, -43.104
+
+
+### Apicum-Açu (Apicum-Acu)
+
+Code: BR2100832, Coordinates: -1.543, -45.075
+
+
+### Araguanã (Araguana)
+
+Code: BR2100873, Coordinates: -3.003, -45.785
+
+
+### Araioses
+
+Code: BR2100907, Coordinates: -2.924, -42.022
+
+
+### Arame
+
+Code: BR2100956, Coordinates: -5.071, -45.947
+
+
+### Arari
+
+Code: BR2101004, Coordinates: -3.581, -44.773
+
+
+### Axixá (Axixa)
+
+Code: BR2101103, Coordinates: -2.848, -44.104
+
+
+### Bacabal
+
+Code: BR2101202, Coordinates: -4.019, -44.732
+
+
+### Bacabeira
+
+Code: BR2101251, Coordinates: -2.897, -44.342
+
+
+### Bacuri
+
+Code: BR2101301, Coordinates: -1.666, -45.138
+
+
+### Bacurituba
+
+Code: BR2101350, Coordinates: -2.683, -44.693
+
+
+### Balsas
+
+Code: BR2101400, Coordinates: -8.475, -46.489
+
+
+### Barão de Grajaú (Barao de Grajau)
+
+Code: BR2101509, Coordinates: -6.624, -43.2
+
+
+### Barra do Corda
+
+Code: BR2101608, Coordinates: -5.374, -45.089
+
+
+### Barreirinhas
+
+Code: BR2101707, Coordinates: -2.789, -42.974
+
+
+### Bela Vista do Maranhão (Bela Vista do Maranhao)
+
+Code: BR2101772, Coordinates: -3.786, -45.266
+
+
+### Belágua (Belagua)
+
+Code: BR2101731, Coordinates: -3.066, -43.487
+
+
+### Benedito Leite
+
+Code: BR2101806, Coordinates: -7.129, -44.591
+
+
+### Bequimão (Bequimao)
+
+Code: BR2101905, Coordinates: -2.409, -44.794
+
+
+### Bernardo do Mearim
+
+Code: BR2101939, Coordinates: -4.681, -44.639
+
+
+### Boa Vista do Gurupi
+
+Code: BR2101970, Coordinates: -1.752, -46.21
+
+
+### Bom Jardim
+
+Code: BR2102002, Coordinates: -22.184, -42.339
+
+
+### Bom Jesus das Selvas
+
+Code: BR2102036, Coordinates: -4.511, -46.66
+
+
+### Bom Lugar
+
+Code: BR2102077, Coordinates: -4.292, -45.066
+
+
+### Brejo
+
+Code: BR2102101, Coordinates: -3.697, -42.859
+
+
+### Brejo de Areia
+
+Code: BR2102150, Coordinates: -4.33, -45.631
+
+
+### Buriti
+
+Code: BR2102200, Coordinates: -3.934, -42.894
+
+
+### Buriti Bravo
+
+Code: BR2102309, Coordinates: -5.749, -43.779
+
+
+### Buriticupu
+
+Code: BR2102325, Coordinates: -4.403, -46.373
+
+
+### Buritirana
+
+Code: BR2102358, Coordinates: -5.503, -47.04
+
+
+### Cachoeira Grande
+
+Code: BR2102374, Coordinates: -3.089, -43.984
+
+
+### Cajapió (Cajapio)
+
+Code: BR2102408, Coordinates: -2.865, -44.543
+
+
+### Cajari
+
+Code: BR2102507, Coordinates: -3.389, -45.02
+
+
+### Campestre do Maranhão (Campestre do Maranhao)
+
+Code: BR2102556, Coordinates: -6.154, -47.246
+
+
+### Cândido Mendes (Candido Mendes)
+
+Code: BR2102606, Coordinates: -1.561, -45.652
+
+
+### Cantanhede
+
+Code: BR2102705, Coordinates: -3.667, -44.24
+
+
+### Capinzal do Norte
+
+Code: BR2102754, Coordinates: -4.703, -44.308
+
+
+### Carolina
+
+Code: BR2102804, Coordinates: -7.479, -47.157
+
+
+### Carutapera
+
+Code: BR2102903, Coordinates: -1.256, -46.004
+
+
+### Caxias
+
+Code: BR2103000, Coordinates: -4.835, -43.408
+
+
+### Cedral
+
+Code: BR2103109, Coordinates: -20.917, -49.265
+
+
+### Central do Maranhão (Central do Maranhao)
+
+Code: BR2103125, Coordinates: -2.26, -44.834
+
+
+### Centro do Guilherme
+
+Code: BR2103158, Coordinates: -2.409, -46.074
+
+
+### Centro Novo do Maranhão (Centro Novo do Maranhao)
+
+Code: BR2103174, Coordinates: -3.083, -46.654
+
+
+### Chapadinha
+
+Code: BR2103208, Coordinates: -3.769, -43.482
+
+
+### Cidelândia (Cidelandia)
+
+Code: BR2103257, Coordinates: -5.052, -47.859
+
+
+### Codó (Codo)
+
+Code: BR2103307, Coordinates: -4.73, -43.96
+
+
+### Coelho Neto
+
+Code: BR2103406, Coordinates: -4.187, -43.129
+
+
+### Colinas
+
+Code: BR2103505, Coordinates: -29.393, -51.88
+
+
+### Conceição do Lago-Açu (Conceicao do Lago-Acu)
+
+Code: BR2103554, Coordinates: -3.738, -44.811
+
+
+### Coroatá (Coroata)
+
+Code: BR2103604, Coordinates: -4.088, -44.218
+
+
+### Cururupu
+
+Code: BR2103703, Coordinates: -1.72, -44.749
+
+
+### Davinópolis (Davinopolis)
+
+Code: BR2103752, Coordinates: -18.145, -47.582
+
+
+### Dom Pedro
+
+Code: BR2103802, Coordinates: -5.052, -44.428
+
+
+### Duque Bacelar
+
+Code: BR2103901, Coordinates: -4.111, -43.027
+
+
+### Esperantinópolis (Esperantinopolis)
+
+Code: BR2104008, Coordinates: -4.914, -44.825
+
+
+### Estreito
+
+Code: BR2104057, Coordinates: -6.788, -47.168
+
+
+### Feira Nova do Maranhão (Feira Nova do Maranhao)
+
+Code: BR2104073, Coordinates: -6.973, -46.671
+
+
+### Fernando Falcão (Fernando Falcao)
+
+Code: BR2104081, Coordinates: -6.246, -45.348
+
+
+### Formosa da Serra Negra
+
+Code: BR2104099, Coordinates: -6.667, -46.131
+
+
+### Fortaleza dos Nogueiras
+
+Code: BR2104107, Coordinates: -6.819, -46.042
+
+
+### Fortuna
+
+Code: BR2104206, Coordinates: -5.644, -44.007
+
+
+### Godofredo Viana
+
+Code: BR2104305, Coordinates: -1.319, -45.745
+
+
+### Gonçalves Dias (Goncalves Dias)
+
+Code: BR2104404, Coordinates: -5.119, -44.209
+
+
+### Governador Archer
+
+Code: BR2104503, Coordinates: -4.946, -44.188
+
+
+### Governador Edison Lobão (Governador Edison Lobao)
+
+Code: BR2104552, Coordinates: -5.741, -47.328
+
+
+### Governador Eugênio Barros (Governador Eugenio Barros)
+
+Code: BR2104602, Coordinates: -5.428, -44.007
+
+
+### Governador Luiz Rocha
+
+Code: BR2104628, Coordinates: -5.537, -44.101
+
+
+### Governador Newton Bello
+
+Code: BR2104651, Coordinates: -3.397, -45.965
+
+
+### Governador Nunes Freire
+
+Code: BR2104677, Coordinates: -2.039, -45.865
+
+
+### Graça Aranha (Graca Aranha)
+
+Code: BR2104701, Coordinates: -5.417, -44.347
+
+
+### Grajaú (Grajau)
+
+Code: BR2104800, Coordinates: -5.8, -45.908
+
+
+### Guimarães (Guimaraes)
+
+Code: BR2104909, Coordinates: -2.139, -44.654
+
+
+### Humberto de Campos
+
+Code: BR2105005, Coordinates: -2.658, -43.544
+
+
+### Icatu
+
+Code: BR2105104, Coordinates: -2.561, -43.839
+
+
+### Igarapé do Meio (Igarape do Meio)
+
+Code: BR2105153, Coordinates: -3.662, -45.137
+
+
+### Igarapé Grande (Igarape Grande)
+
+Code: BR2105203, Coordinates: -4.571, -44.859
+
+
+### Imperatriz
+
+Code: BR2105302, Coordinates: -5.35, -47.564
+
+
+### Itaipava do Grajaú (Itaipava do Grajau)
+
+Code: BR2105351, Coordinates: -5.168, -45.665
+
+
+### Itapecuru Mirim
+
+Code: BR2105401, Coordinates: -3.359, -44.335
+
+
+### Itinga do Maranhão (Itinga do Maranhao)
+
+Code: BR2105427, Coordinates: -4.114, -47.227
+
+
+### Jatobá (Jatoba)
+
+Code: BR2105450, Coordinates: -9.225, -38.194
+
+
+### Jenipapo dos Vieiras
+
+Code: BR2105476, Coordinates: -5.386, -45.486
+
+
+### João Lisboa (Joao Lisboa)
+
+Code: BR2105500, Coordinates: -5.235, -47.139
+
+
+### Joselândia (Joselandia)
+
+Code: BR2105609, Coordinates: -5.006, -44.729
+
+
+### Junco do Maranhão (Junco do Maranhao)
+
+Code: BR2105658, Coordinates: -1.909, -46.104
+
+
+### Lago da Pedra
+
+Code: BR2105708, Coordinates: -4.745, -45.221
+
+
+### Lago do Junco
+
+Code: BR2105807, Coordinates: -4.497, -44.927
+
+
+### Lago dos Rodrigues
+
+Code: BR2105948, Coordinates: -4.604, -44.926
+
+
+### Lago Verde
+
+Code: BR2105906, Coordinates: -3.98, -44.818
+
+
+### Lagoa do Mato
+
+Code: BR2105922, Coordinates: -5.97, -43.591
+
+
+### Lagoa Grande do Maranhão (Lagoa Grande do Maranhao)
+
+Code: BR2105963, Coordinates: -4.891, -45.425
+
+
+### Lajeado Novo
+
+Code: BR2105989, Coordinates: -6.103, -46.961
+
+
+### Lima Campos
+
+Code: BR2106003, Coordinates: -4.581, -44.479
+
+
+### Loreto
+
+Code: BR2106102, Coordinates: -7.146, -45.243
+
+
+### Luís Domingues (Luis Domingues)
+
+Code: BR2106201, Coordinates: -1.321, -45.846
+
+
+### Magalhães de Almeida (Magalhaes de Almeida)
+
+Code: BR2106300, Coordinates: -3.326, -42.137
+
+
+### Maracaçumé (Maracacume)
+
+Code: BR2106326, Coordinates: -2.007, -45.978
+
+
+### Marajá do Sena (Maraja do Sena)
+
+Code: BR2106359, Coordinates: -4.741, -45.528
+
+
+### Maranhãozinho (Maranhaozinho)
+
+Code: BR2106375, Coordinates: -2.5, -45.994
+
+
+### Mata Roma
+
+Code: BR2106409, Coordinates: -3.587, -43.238
+
+
+### Matinha
+
+Code: BR2106508, Coordinates: -3.092, -45.004
+
+
+### Matões (Matoes)
+
+Code: BR2106607, Coordinates: -5.356, -43.296
+
+
+### Matões do Norte (Matoes do Norte)
+
+Code: BR2106631, Coordinates: -3.778, -44.41
+
+
+### Milagres do Maranhão (Milagres do Maranhao)
+
+Code: BR2106672, Coordinates: -3.505, -42.875
+
+
+### Mirador
+
+Code: BR2106706, Coordinates: -23.218, -52.76
+
+
+### Miranda do Norte
+
+Code: BR2106755, Coordinates: -3.483, -44.489
+
+
+### Mirinzal
+
+Code: BR2106805, Coordinates: -2.053, -44.777
+
+
+### Monção (Moncao)
+
+Code: BR2106904, Coordinates: -3.551, -45.317
+
+
+### Montes Altos
+
+Code: BR2107001, Coordinates: -5.871, -47.079
+
+
+### Morros
+
+Code: BR2107100, Coordinates: -3.034, -43.892
+
+
+### Nina Rodrigues
+
+Code: BR2107209, Coordinates: -3.469, -43.776
+
+
+### Nova Colinas
+
+Code: BR2107258, Coordinates: -7.247, -46.275
+
+
+### Nova Iorque
+
+Code: BR2107308, Coordinates: -6.839, -44.083
+
+
+### Nova Olinda do Maranhão (Nova Olinda do Maranhao)
+
+Code: BR2107357, Coordinates: -2.982, -45.958
+
+
+### Olho d&#39;Água das Cunhãs (Olho d&#39;Agua das Cunhas)
+
+Code: BR2107407, Coordinates: -4.123, -45.085
+
+
+### Olinda Nova do Maranhão (Olinda Nova do Maranhao)
+
+Code: BR2107456, Coordinates: -2.977, -44.991
+
+
+### Paço do Lumiar (Paco do Lumiar)
+
+Code: BR2107506, Coordinates: -2.499, -44.121
+
+
+### Palmeirândia (Palmeirandia)
+
+Code: BR2107605, Coordinates: -2.662, -45.06
+
+
+### Paraibano
+
+Code: BR2107704, Coordinates: -6.392, -43.883
+
+
+### Parnarama
+
+Code: BR2107803, Coordinates: -5.613, -43.595
+
+
+### Passagem Franca
+
+Code: BR2107902, Coordinates: -6.112, -43.765
+
+
+### Pastos Bons
+
+Code: BR2108009, Coordinates: -6.709, -44.204
+
+
+### Paulino Neves
+
+Code: BR2108058, Coordinates: -2.883, -42.599
+
+
+### Paulo Ramos
+
+Code: BR2108108, Coordinates: -4.565, -45.399
+
+
+### Pedreiras
+
+Code: BR2108207, Coordinates: -4.589, -44.585
+
+
+### Pedro do Rosário (Pedro do Rosario)
+
+Code: BR2108256, Coordinates: -2.872, -45.413
+
+
+### Penalva
+
+Code: BR2108306, Coordinates: -3.254, -45.222
+
+
+### Peri Mirim
+
+Code: BR2108405, Coordinates: -2.543, -44.918
+
+
+### Peritoró (Peritoro)
+
+Code: BR2108454, Coordinates: -4.338, -44.319
+
+
+### Pindaré-Mirim (Pindare-Mirim)
+
+Code: BR2108504, Coordinates: -3.632, -45.393
+
+
+### Pinheiro
+
+Code: BR2108603, Coordinates: -2.569, -45.093
+
+
+### Pio XII
+
+Code: BR2108702, Coordinates: -3.817, -45.092
+
+
+### Pirapemas
+
+Code: BR2108801, Coordinates: -3.754, -44.236
+
+
+### Poção de Pedras (Pocao de Pedras)
+
+Code: BR2108900, Coordinates: -4.808, -44.832
+
+
+### Porto Franco
+
+Code: BR2109007, Coordinates: -6.348, -47.078
+
+
+### Porto Rico do Maranhão (Porto Rico do Maranhao)
+
+Code: BR2109056, Coordinates: -1.874, -44.634
+
+
+### Presidente Dutra
+
+Code: BR2109106, Coordinates: -11.305, -41.987
+
+
+### Presidente Juscelino
+
+Code: BR2109205, Coordinates: -18.726, -44.086
+
+
+### Presidente Médici (Presidente Medici)
+
+Code: BR2109239, Coordinates: -2.29, -45.782
+
+
+### Presidente Sarney
+
+Code: BR2109270, Coordinates: -2.623, -45.427
+
+
+### Presidente Vargas
+
+Code: BR2109304, Coordinates: -3.435, -44.015
+
+
+### Primeira Cruz
+
+Code: BR2109403, Coordinates: -2.666, -43.369
+
+
+### Raposa
+
+Code: BR2109452, Coordinates: -2.454, -44.096
+
+
+### Riachão (Riachao)
+
+Code: BR2109502, Coordinates: -6.556, -35.638
+
+
+### Ribamar Fiquene
+
+Code: BR2109551, Coordinates: -5.942, -47.293
+
+
+### Rosário (Rosario)
+
+Code: BR2109601, Coordinates: -2.957, -44.185
+
+
+### Sambaíba (Sambaiba)
+
+Code: BR2109700, Coordinates: -7.547, -45.617
+
+
+### Santa Filomena do Maranhão (Santa Filomena do Maranhao)
+
+Code: BR2109759, Coordinates: -5.498, -44.595
+
+
+### Santa Helena
+
+Code: BR2109809, Coordinates: -26.925, -53.611
+
+
+### Santa Inês (Santa Ines)
+
+Code: BR2109908, Coordinates: -22.69, -51.91
+
+
+### Santa Luzia
+
+Code: BR2110005, Coordinates: -19.728, -43.827
+
+
+### Santa Luzia do Paruá (Santa Luzia do Parua)
+
+Code: BR2110039, Coordinates: -2.598, -45.866
+
+
+### Santa Quitéria do Maranhão (Santa Quiteria do Maranhao)
+
+Code: BR2110104, Coordinates: -3.351, -42.911
+
+
+### Santa Rita
+
+Code: BR2110203, Coordinates: -7.09, -34.974
+
+
+### Santana do Maranhão (Santana do Maranhao)
+
+Code: BR2110237, Coordinates: -3.148, -42.719
+
+
+### Santo Amaro do Maranhão (Santo Amaro do Maranhao)
+
+Code: BR2110278, Coordinates: -2.637, -43.173
+
+
+### Santo Antônio dos Lopes (Santo Antonio dos Lopes)
+
+Code: BR2110302, Coordinates: -4.805, -44.449
+
+
+### São Benedito do Rio Preto (Sao Benedito do Rio Preto)
+
+Code: BR2110401, Coordinates: -3.361, -43.715
+
+
+### São Bento (Sao Bento)
+
+Code: BR2110500, Coordinates: -6.459, -37.492
+
+
+### São Bernardo (Sao Bernardo)
+
+Code: BR2110609, Coordinates: -3.418, -42.393
+
+
+### São Domingos do Azeitão (Sao Domingos do Azeitao)
+
+Code: BR2110658, Coordinates: -6.848, -44.615
+
+
+### São Domingos do Maranhão (Sao Domingos do Maranhao)
+
+Code: BR2110708, Coordinates: -5.638, -44.365
+
+
+### São Félix de Balsas (Sao Felix de Balsas)
+
+Code: BR2110807, Coordinates: -7.006, -44.835
+
+
+### São Francisco do Brejão (Sao Francisco do Brejao)
+
+Code: BR2110856, Coordinates: -5.161, -47.346
+
+
+### São Francisco do Maranhão (Sao Francisco do Maranhao)
+
+Code: BR2110906, Coordinates: -6.243, -43.055
+
+
+### São João Batista (Sao Joao Batista)
+
+Code: BR2111003, Coordinates: -27.327, -48.858
+
+
+### São João do Carú (Sao Joao do Caru)
+
+Code: BR2111029, Coordinates: -3.577, -46.367
+
+
+### São João do Paraíso (Sao Joao do Paraiso)
+
+Code: BR2111052, Coordinates: -15.352, -41.967
+
+
+### São João do Soter (Sao Joao do Soter)
+
+Code: BR2111078, Coordinates: -4.97, -43.741
+
+
+### São João dos Patos (Sao Joao dos Patos)
+
+Code: BR2111102, Coordinates: -6.573, -43.625
+
+
+### São José de Ribamar (Sao Jose de Ribamar)
+
+Code: BR2111201, Coordinates: -2.565, -44.137
+
+
+### São José dos Basílios (Sao Jose dos Basilios)
+
+Code: BR2111250, Coordinates: -5.045, -44.591
+
+
+### São Luís (Sao Luis)
+
+Code: BR2111300, Coordinates: -2.622, -44.283
+
+
+### São Luís Gonzaga do Maranhão (Sao Luis Gonzaga do Maranhao)
+
+Code: BR2111409, Coordinates: -4.41, -44.743
+
+
+### São Mateus do Maranhão (Sao Mateus do Maranhao)
+
+Code: BR2111508, Coordinates: -3.977, -44.535
+
+
+### São Pedro da Água Branca (Sao Pedro da Agua Branca)
+
+Code: BR2111532, Coordinates: -5.17, -48.388
+
+
+### São Pedro dos Crentes (Sao Pedro dos Crentes)
+
+Code: BR2111573, Coordinates: -6.848, -46.681
+
+
+### São Raimundo das Mangabeiras (Sao Raimundo das Mangabeiras)
+
+Code: BR2111607, Coordinates: -6.973, -45.743
+
+
+### São Raimundo do Doca Bezerra (Sao Raimundo do Doca Bezerra)
+
+Code: BR2111631, Coordinates: -5.089, -45.143
+
+
+### São Roberto (Sao Roberto)
+
+Code: BR2111672, Coordinates: -5.027, -45.028
+
+
+### São Vicente Ferrer (Sao Vicente Ferrer)
+
+Code: BR2111706, Coordinates: -7.596, -35.495
+
+
+### Satubinha
+
+Code: BR2111722, Coordinates: -3.88, -45.264
+
+
+### Senador Alexandre Costa
+
+Code: BR2111748, Coordinates: -5.297, -43.902
+
+
+### Senador La Rocque
+
+Code: BR2111763, Coordinates: -5.395, -47.156
+
+
+### Serrano do Maranhão (Serrano do Maranhao)
+
+Code: BR2111789, Coordinates: -1.793, -45.015
+
+
+### Sítio Novo (Sitio Novo)
+
+Code: BR2111805, Coordinates: -6.125, -35.967
+
+
+### Sucupira do Norte
+
+Code: BR2111904, Coordinates: -6.469, -44.231
+
+
+### Sucupira do Riachão (Sucupira do Riachao)
+
+Code: BR2111953, Coordinates: -6.398, -43.451
+
+
+### Tasso Fragoso
+
+Code: BR2112001, Coordinates: -8.283, -45.847
+
+
+### Timbiras
+
+Code: BR2112100, Coordinates: -4.184, -43.804
+
+
+### Timon
+
+Code: BR2112209, Coordinates: -5.196, -42.981
+
+
+### Trizidela do Vale
+
+Code: BR2112233, Coordinates: -4.557, -44.635
+
+
+### Tufilândia (Tufilandia)
+
+Code: BR2112274, Coordinates: -3.698, -45.576
+
+
+### Tuntum
+
+Code: BR2112308, Coordinates: -5.477, -44.729
+
+
+### Turiaçu (Turiacu)
+
+Code: BR2112407, Coordinates: -1.7, -45.381
+
+
+### Turilândia (Turilandia)
+
+Code: BR2112456, Coordinates: -2.128, -45.357
+
+
+### Tutóia (Tutoia)
+
+Code: BR2112506, Coordinates: -2.831, -42.398
+
+
+### Urbano Santos
+
+Code: BR2112605, Coordinates: -3.347, -43.293
+
+
+### Vargem Grande
+
+Code: BR2112704, Coordinates: -3.611, -43.886
+
+
+### Viana
+
+Code: BR2112803, Coordinates: -20.38, -40.53
+
+
+### Vila Nova dos Martírios (Vila Nova dos Martirios)
+
+Code: BR2112852, Coordinates: -5.086, -48.066
+
+
+### Vitória do Mearim (Vitoria do Mearim)
+
+Code: BR2112902, Coordinates: -3.599, -44.901
+
+
+### Vitorino Freire
+
+Code: BR2113009, Coordinates: -4.144, -45.352
+
+
+### Zé Doca (Ze Doca)
+
+Code: BR2114007, Coordinates: -3.188, -45.949
+
+

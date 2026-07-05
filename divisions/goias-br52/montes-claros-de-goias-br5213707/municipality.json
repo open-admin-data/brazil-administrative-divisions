@@ -1,0 +1,45 @@
+{
+  "id": "BR5213707",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Montes Claros de Goiás",
+    "en": "Montes Claros de Goias",
+    "slug": "montes-claros-de-goias-br5213707"
+  },
+  "code": {
+    "id": "BR5213707",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.919",
+    "lon": "-51.543"
+  },
+  "metadata": {},
+  "source": {}
+}

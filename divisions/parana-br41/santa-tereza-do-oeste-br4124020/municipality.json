@@ -1,0 +1,45 @@
+{
+  "id": "BR4124020",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Tereza do Oeste",
+    "en": "Santa Tereza do Oeste",
+    "slug": "santa-tereza-do-oeste-br4124020"
+  },
+  "code": {
+    "id": "BR4124020",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.041",
+    "lon": "-53.608"
+  },
+  "metadata": {},
+  "source": {}
+}

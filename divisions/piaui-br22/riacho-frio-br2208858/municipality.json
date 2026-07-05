@@ -1,0 +1,45 @@
+{
+  "id": "BR2208858",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Riacho Frio",
+    "en": "Riacho Frio",
+    "slug": "riacho-frio-br2208858"
+  },
+  "code": {
+    "id": "BR2208858",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.816",
+    "lon": "-44.713"
+  },
+  "metadata": {},
+  "source": {}
+}

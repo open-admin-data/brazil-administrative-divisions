@@ -1,0 +1,45 @@
+{
+  "id": "BR2309607",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pacajus",
+    "en": "Pacajus",
+    "slug": "pacajus-br2309607"
+  },
+  "code": {
+    "id": "BR2309607",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.19",
+    "lon": "-38.521"
+  },
+  "metadata": {},
+  "source": {}
+}

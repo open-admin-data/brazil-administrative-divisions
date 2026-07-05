@@ -1,0 +1,45 @@
+{
+  "id": "BR2109403",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Primeira Cruz",
+    "en": "Primeira Cruz",
+    "slug": "primeira-cruz-br2109403"
+  },
+  "code": {
+    "id": "BR2109403",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.666",
+    "lon": "-43.369"
+  },
+  "metadata": {},
+  "source": {}
+}

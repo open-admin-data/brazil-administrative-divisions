@@ -1,0 +1,45 @@
+{
+  "id": "BR4112207",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Janiópolis",
+    "en": "Janiopolis",
+    "slug": "janiopolis-br4112207"
+  },
+  "code": {
+    "id": "BR4112207",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.095",
+    "lon": "-52.808"
+  },
+  "metadata": {},
+  "source": {}
+}

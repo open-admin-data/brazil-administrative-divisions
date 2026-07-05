@@ -1,0 +1,45 @@
+{
+  "id": "BR2108256",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pedro do Rosário",
+    "en": "Pedro do Rosario",
+    "slug": "pedro-do-rosario-br2108256"
+  },
+  "code": {
+    "id": "BR2108256",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.872",
+    "lon": "-45.413"
+  },
+  "metadata": {},
+  "source": {}
+}

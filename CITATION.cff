@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Brazil Administrative Divisions Dataset"
+version: "2026.07"
+date-released: "2026-07-05"
+url: "https://github.com/open-admin-data/brazil-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/brazil-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - brazil
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Brazil's administrative hierarchy:
+  27 states, 5,572 municipalitys.
+  Bilingual with coordinates and postal codes where available.

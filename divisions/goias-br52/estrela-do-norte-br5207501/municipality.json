@@ -1,0 +1,45 @@
+{
+  "id": "BR5207501",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Estrela do Norte",
+    "en": "Estrela do Norte",
+    "slug": "estrela-do-norte-br5207501"
+  },
+  "code": {
+    "id": "BR5207501",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.782",
+    "lon": "-49.09"
+  },
+  "metadata": {},
+  "source": {}
+}

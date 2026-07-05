@@ -1,0 +1,45 @@
+{
+  "id": "BR3516853",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Gavião Peixoto",
+    "en": "Gaviao Peixoto",
+    "slug": "gaviao-peixoto-br3516853"
+  },
+  "code": {
+    "id": "BR3516853",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.802",
+    "lon": "-48.456"
+  },
+  "metadata": {},
+  "source": {}
+}

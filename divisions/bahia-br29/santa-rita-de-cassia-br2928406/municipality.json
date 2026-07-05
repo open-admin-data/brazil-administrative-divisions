@@ -1,0 +1,45 @@
+{
+  "id": "BR2928406",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Rita de Cássia",
+    "en": "Santa Rita de Cassia",
+    "slug": "santa-rita-de-cassia-br2928406"
+  },
+  "code": {
+    "id": "BR2928406",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.036",
+    "lon": "-44.647"
+  },
+  "metadata": {},
+  "source": {}
+}

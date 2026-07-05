@@ -1,0 +1,45 @@
+{
+  "id": "BR4218707",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tubarão",
+    "en": "Tubarao",
+    "slug": "tubarao-br4218707"
+  },
+  "code": {
+    "id": "BR4218707",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.481",
+    "lon": "-49.05"
+  },
+  "metadata": {},
+  "source": {}
+}

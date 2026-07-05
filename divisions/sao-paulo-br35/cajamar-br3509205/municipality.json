@@ -1,0 +1,45 @@
+{
+  "id": "BR3509205",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cajamar",
+    "en": "Cajamar",
+    "slug": "cajamar-br3509205"
+  },
+  "code": {
+    "id": "BR3509205",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.35",
+    "lon": "-46.875"
+  },
+  "metadata": {},
+  "source": {}
+}

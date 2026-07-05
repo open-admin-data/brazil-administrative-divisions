@@ -1,0 +1,45 @@
+{
+  "id": "BR2928703",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Antônio de Jesus",
+    "en": "Santo Antonio de Jesus",
+    "slug": "santo-antonio-de-jesus-br2928703"
+  },
+  "code": {
+    "id": "BR2928703",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.004",
+    "lon": "-39.212"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1502202",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Capanema",
+    "en": "Capanema",
+    "slug": "capanema-br1502202"
+  },
+  "code": {
+    "id": "BR1502202",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.619",
+    "lon": "-53.777"
+  },
+  "metadata": {},
+  "source": {}
+}

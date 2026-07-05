@@ -1,0 +1,45 @@
+{
+  "id": "BR4207684",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ipuaçu",
+    "en": "Ipuacu",
+    "slug": "ipuacu-br4207684"
+  },
+  "code": {
+    "id": "BR4207684",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.679",
+    "lon": "-52.481"
+  },
+  "metadata": {},
+  "source": {}
+}

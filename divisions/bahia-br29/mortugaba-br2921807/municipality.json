@@ -1,0 +1,45 @@
+{
+  "id": "BR2921807",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mortugaba",
+    "en": "Mortugaba",
+    "slug": "mortugaba-br2921807"
+  },
+  "code": {
+    "id": "BR2921807",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.986",
+    "lon": "-42.327"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2904001",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Boninal",
+    "en": "Boninal",
+    "slug": "boninal-br2904001"
+  },
+  "code": {
+    "id": "BR2904001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.802",
+    "lon": "-41.823"
+  },
+  "metadata": {},
+  "source": {}
+}

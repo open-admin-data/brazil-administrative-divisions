@@ -1,0 +1,45 @@
+{
+  "id": "BR4204806",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Curitibanos",
+    "en": "Curitibanos",
+    "slug": "curitibanos-br4204806"
+  },
+  "code": {
+    "id": "BR4204806",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.271",
+    "lon": "-50.629"
+  },
+  "metadata": {},
+  "source": {}
+}

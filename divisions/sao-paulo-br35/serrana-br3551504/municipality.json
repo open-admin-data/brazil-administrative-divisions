@@ -1,0 +1,45 @@
+{
+  "id": "BR3551504",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Serrana",
+    "en": "Serrana",
+    "slug": "serrana-br3551504"
+  },
+  "code": {
+    "id": "BR3551504",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.207",
+    "lon": "-47.617"
+  },
+  "metadata": {},
+  "source": {}
+}

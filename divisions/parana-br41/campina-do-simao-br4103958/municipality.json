@@ -1,0 +1,45 @@
+{
+  "id": "BR4103958",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campina do Simão",
+    "en": "Campina do Simao",
+    "slug": "campina-do-simao-br4103958"
+  },
+  "code": {
+    "id": "BR4103958",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.093",
+    "lon": "-51.779"
+  },
+  "metadata": {},
+  "source": {}
+}

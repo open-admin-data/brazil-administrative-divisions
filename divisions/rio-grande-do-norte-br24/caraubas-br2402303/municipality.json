@@ -1,0 +1,45 @@
+{
+  "id": "BR2402303",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Caraúbas",
+    "en": "Caraubas",
+    "slug": "caraubas-br2402303"
+  },
+  "code": {
+    "id": "BR2402303",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR24",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Norte",
+      "en": "Rio Grande do Norte",
+      "slug": "rio-grande-do-norte-br24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.745",
+    "lon": "-36.516"
+  },
+  "metadata": {},
+  "source": {}
+}

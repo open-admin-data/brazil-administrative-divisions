@@ -1,0 +1,45 @@
+{
+  "id": "BR2920809",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Marcionílio Souza",
+    "en": "Marcionilio Souza",
+    "slug": "marcionilio-souza-br2920809"
+  },
+  "code": {
+    "id": "BR2920809",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.117",
+    "lon": "-40.662"
+  },
+  "metadata": {},
+  "source": {}
+}

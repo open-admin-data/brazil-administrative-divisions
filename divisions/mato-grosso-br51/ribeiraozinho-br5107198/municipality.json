@@ -1,0 +1,45 @@
+{
+  "id": "BR5107198",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ribeirãozinho",
+    "en": "Ribeiraozinho",
+    "slug": "ribeiraozinho-br5107198"
+  },
+  "code": {
+    "id": "BR5107198",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.494",
+    "lon": "-52.746"
+  },
+  "metadata": {},
+  "source": {}
+}

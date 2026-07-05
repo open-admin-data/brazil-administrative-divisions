@@ -1,0 +1,45 @@
+{
+  "id": "BR5101308",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Arenápolis",
+    "en": "Arenapolis",
+    "slug": "arenapolis-br5101308"
+  },
+  "code": {
+    "id": "BR5101308",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.502",
+    "lon": "-56.843"
+  },
+  "metadata": {},
+  "source": {}
+}

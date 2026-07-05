@@ -1,0 +1,45 @@
+{
+  "id": "BR3165107",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Tomás de Aquino",
+    "en": "Sao Tomas de Aquino",
+    "slug": "sao-tomas-de-aquino-br3165107"
+  },
+  "code": {
+    "id": "BR3165107",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.776",
+    "lon": "-47.126"
+  },
+  "metadata": {},
+  "source": {}
+}

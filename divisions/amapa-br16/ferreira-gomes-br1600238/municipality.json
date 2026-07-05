@@ -1,0 +1,45 @@
+{
+  "id": "BR1600238",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ferreira Gomes",
+    "en": "Ferreira Gomes",
+    "slug": "ferreira-gomes-br1600238"
+  },
+  "code": {
+    "id": "BR1600238",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR16",
+    "level": 1,
+    "name": {
+      "local": "Amapá",
+      "en": "Amapa",
+      "slug": "amapa-br16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.916",
+    "lon": "-51.401"
+  },
+  "metadata": {},
+  "source": {}
+}

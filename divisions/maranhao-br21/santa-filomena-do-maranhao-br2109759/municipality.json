@@ -1,0 +1,45 @@
+{
+  "id": "BR2109759",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Filomena do Maranhão",
+    "en": "Santa Filomena do Maranhao",
+    "slug": "santa-filomena-do-maranhao-br2109759"
+  },
+  "code": {
+    "id": "BR2109759",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.498",
+    "lon": "-44.595"
+  },
+  "metadata": {},
+  "source": {}
+}

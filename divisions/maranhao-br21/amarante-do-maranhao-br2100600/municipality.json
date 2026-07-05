@@ -1,0 +1,45 @@
+{
+  "id": "BR2100600",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Amarante do Maranhão",
+    "en": "Amarante do Maranhao",
+    "slug": "amarante-do-maranhao-br2100600"
+  },
+  "code": {
+    "id": "BR2100600",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.458",
+    "lon": "-46.694"
+  },
+  "metadata": {},
+  "source": {}
+}

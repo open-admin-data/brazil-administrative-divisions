@@ -1,0 +1,45 @@
+{
+  "id": "BR1718659",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rio da Conceição",
+    "en": "Rio da Conceicao",
+    "slug": "rio-da-conceicao-br1718659"
+  },
+  "code": {
+    "id": "BR1718659",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.348",
+    "lon": "-46.767"
+  },
+  "metadata": {},
+  "source": {}
+}

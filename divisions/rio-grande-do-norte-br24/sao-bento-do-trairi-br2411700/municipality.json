@@ -1,0 +1,45 @@
+{
+  "id": "BR2411700",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Bento do Trairí",
+    "en": "Sao Bento do Trairi",
+    "slug": "sao-bento-do-trairi-br2411700"
+  },
+  "code": {
+    "id": "BR2411700",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR24",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Norte",
+      "en": "Rio Grande do Norte",
+      "slug": "rio-grande-do-norte-br24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.391",
+    "lon": "-36.05"
+  },
+  "metadata": {},
+  "source": {}
+}

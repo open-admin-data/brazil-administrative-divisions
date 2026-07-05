@@ -1,0 +1,45 @@
+{
+  "id": "BR4128401",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Uraí",
+    "en": "Urai",
+    "slug": "urai-br4128401"
+  },
+  "code": {
+    "id": "BR4128401",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.207",
+    "lon": "-50.793"
+  },
+  "metadata": {},
+  "source": {}
+}

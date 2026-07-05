@@ -1,0 +1,45 @@
+{
+  "id": "BR2106904",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Monção",
+    "en": "Moncao",
+    "slug": "moncao-br2106904"
+  },
+  "code": {
+    "id": "BR2106904",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.551",
+    "lon": "-45.317"
+  },
+  "metadata": {},
+  "source": {}
+}

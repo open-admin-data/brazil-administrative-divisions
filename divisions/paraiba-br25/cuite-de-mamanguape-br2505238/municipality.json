@@ -1,0 +1,45 @@
+{
+  "id": "BR2505238",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cuité de Mamanguape",
+    "en": "Cuite de Mamanguape",
+    "slug": "cuite-de-mamanguape-br2505238"
+  },
+  "code": {
+    "id": "BR2505238",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.905",
+    "lon": "-35.247"
+  },
+  "metadata": {},
+  "source": {}
+}

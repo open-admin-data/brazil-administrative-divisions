@@ -1,0 +1,45 @@
+{
+  "id": "BR3172202",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Wenceslau Braz",
+    "en": "Wenceslau Braz",
+    "slug": "wenceslau-braz-br3172202"
+  },
+  "code": {
+    "id": "BR3172202",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.887",
+    "lon": "-49.792"
+  },
+  "metadata": {},
+  "source": {}
+}

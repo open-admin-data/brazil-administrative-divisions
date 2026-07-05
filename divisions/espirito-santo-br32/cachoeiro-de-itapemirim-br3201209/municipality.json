@@ -1,0 +1,45 @@
+{
+  "id": "BR3201209",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cachoeiro de Itapemirim",
+    "en": "Cachoeiro de Itapemirim",
+    "slug": "cachoeiro-de-itapemirim-br3201209"
+  },
+  "code": {
+    "id": "BR3201209",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.77",
+    "lon": "-41.201"
+  },
+  "metadata": {},
+  "source": {}
+}

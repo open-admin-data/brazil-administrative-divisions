@@ -1,0 +1,45 @@
+{
+  "id": "BR1304237",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tonantins",
+    "en": "Tonantins",
+    "slug": "tonantins-br1304237"
+  },
+  "code": {
+    "id": "BR1304237",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.637",
+    "lon": "-67.802"
+  },
+  "metadata": {},
+  "source": {}
+}

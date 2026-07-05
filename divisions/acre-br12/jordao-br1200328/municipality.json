@@ -1,0 +1,45 @@
+{
+  "id": "BR1200328",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jordão",
+    "en": "Jordao",
+    "slug": "jordao-br1200328"
+  },
+  "code": {
+    "id": "BR1200328",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR12",
+    "level": 1,
+    "name": {
+      "local": "Acre",
+      "en": "Acre",
+      "slug": "acre-br12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.112",
+    "lon": "-71.799"
+  },
+  "metadata": {},
+  "source": {}
+}

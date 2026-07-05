@@ -1,0 +1,45 @@
+{
+  "id": "BR4123600",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Inês",
+    "en": "Santa Ines",
+    "slug": "santa-ines-br4123600"
+  },
+  "code": {
+    "id": "BR4123600",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.69",
+    "lon": "-51.91"
+  },
+  "metadata": {},
+  "source": {}
+}

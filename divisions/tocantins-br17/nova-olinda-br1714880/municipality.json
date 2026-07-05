@@ -1,0 +1,45 @@
+{
+  "id": "BR1714880",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Olinda",
+    "en": "Nova Olinda",
+    "slug": "nova-olinda-br1714880"
+  },
+  "code": {
+    "id": "BR1714880",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.455",
+    "lon": "-38.038"
+  },
+  "metadata": {},
+  "source": {}
+}

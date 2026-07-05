@@ -1,0 +1,45 @@
+{
+  "id": "BR2703106",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Igaci",
+    "en": "Igaci",
+    "slug": "igaci-br2703106"
+  },
+  "code": {
+    "id": "BR2703106",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.575",
+    "lon": "-36.675"
+  },
+  "metadata": {},
+  "source": {}
+}

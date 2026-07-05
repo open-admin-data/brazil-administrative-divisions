@@ -1,0 +1,45 @@
+{
+  "id": "BR2105351",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itaipava do Grajaú",
+    "en": "Itaipava do Grajau",
+    "slug": "itaipava-do-grajau-br2105351"
+  },
+  "code": {
+    "id": "BR2105351",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.168",
+    "lon": "-45.665"
+  },
+  "metadata": {},
+  "source": {}
+}

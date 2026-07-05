@@ -1,0 +1,45 @@
+{
+  "id": "BR3106606",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bertópolis",
+    "en": "Bertopolis",
+    "slug": "bertopolis-br3106606"
+  },
+  "code": {
+    "id": "BR3106606",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.954",
+    "lon": "-40.563"
+  },
+  "metadata": {},
+  "source": {}
+}

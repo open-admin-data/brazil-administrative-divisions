@@ -1,0 +1,45 @@
+{
+  "id": "BR2606101",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Glória do Goitá",
+    "en": "Gloria do Goita",
+    "slug": "gloria-do-goita-br2606101"
+  },
+  "code": {
+    "id": "BR2606101",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR26",
+    "level": 1,
+    "name": {
+      "local": "Pernambuco",
+      "en": "Pernambuco",
+      "slug": "pernambuco-br26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.019",
+    "lon": "-35.334"
+  },
+  "metadata": {},
+  "source": {}
+}

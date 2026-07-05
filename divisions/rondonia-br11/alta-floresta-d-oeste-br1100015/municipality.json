@@ -1,0 +1,45 @@
+{
+  "id": "BR1100015",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alta Floresta D'Oeste",
+    "en": "Alta Floresta D'Oeste",
+    "slug": "alta-floresta-d-oeste-br1100015"
+  },
+  "code": {
+    "id": "BR1100015",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.557",
+    "lon": "-62.429"
+  },
+  "metadata": {},
+  "source": {}
+}

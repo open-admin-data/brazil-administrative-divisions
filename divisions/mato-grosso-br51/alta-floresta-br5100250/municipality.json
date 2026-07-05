@@ -1,0 +1,45 @@
+{
+  "id": "BR5100250",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alta Floresta",
+    "en": "Alta Floresta",
+    "slug": "alta-floresta-br5100250"
+  },
+  "code": {
+    "id": "BR5100250",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.13",
+    "lon": "-56.396"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2400802",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Angicos",
+    "en": "Angicos",
+    "slug": "angicos-br2400802"
+  },
+  "code": {
+    "id": "BR2400802",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR24",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Norte",
+      "en": "Rio Grande do Norte",
+      "slug": "rio-grande-do-norte-br24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.669",
+    "lon": "-36.565"
+  },
+  "metadata": {},
+  "source": {}
+}

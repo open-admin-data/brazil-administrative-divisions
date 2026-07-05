@@ -1,0 +1,45 @@
+{
+  "id": "BR2707305",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Porto Calvo",
+    "en": "Porto Calvo",
+    "slug": "porto-calvo-br2707305"
+  },
+  "code": {
+    "id": "BR2707305",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.062",
+    "lon": "-35.385"
+  },
+  "metadata": {},
+  "source": {}
+}

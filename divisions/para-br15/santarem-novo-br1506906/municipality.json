@@ -1,0 +1,45 @@
+{
+  "id": "BR1506906",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santarém Novo",
+    "en": "Santarem Novo",
+    "slug": "santarem-novo-br1506906"
+  },
+  "code": {
+    "id": "BR1506906",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.89",
+    "lon": "-47.359"
+  },
+  "metadata": {},
+  "source": {}
+}

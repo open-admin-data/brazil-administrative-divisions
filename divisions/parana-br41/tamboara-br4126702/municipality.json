@@ -1,0 +1,45 @@
+{
+  "id": "BR4126702",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tamboara",
+    "en": "Tamboara",
+    "slug": "tamboara-br4126702"
+  },
+  "code": {
+    "id": "BR4126702",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.199",
+    "lon": "-52.478"
+  },
+  "metadata": {},
+  "source": {}
+}

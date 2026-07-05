@@ -1,0 +1,45 @@
+{
+  "id": "BR3304201",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Resende",
+    "en": "Resende",
+    "slug": "resende-br3304201"
+  },
+  "code": {
+    "id": "BR3304201",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR33",
+    "level": 1,
+    "name": {
+      "local": "Rio de Janeiro",
+      "en": "Rio de Janeiro",
+      "slug": "rio-de-janeiro-br33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.457",
+    "lon": "-44.503"
+  },
+  "metadata": {},
+  "source": {}
+}

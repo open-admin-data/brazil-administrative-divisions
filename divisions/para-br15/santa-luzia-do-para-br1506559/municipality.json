@@ -1,0 +1,45 @@
+{
+  "id": "BR1506559",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Luzia do Pará",
+    "en": "Santa Luzia do Para",
+    "slug": "santa-luzia-do-para-br1506559"
+  },
+  "code": {
+    "id": "BR1506559",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.685",
+    "lon": "-46.94"
+  },
+  "metadata": {},
+  "source": {}
+}

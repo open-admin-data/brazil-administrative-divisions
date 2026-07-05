@@ -1,0 +1,45 @@
+{
+  "id": "BR3203205",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Linhares",
+    "en": "Linhares",
+    "slug": "linhares-br3203205"
+  },
+  "code": {
+    "id": "BR3203205",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.345",
+    "lon": "-40.187"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR4127882",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tunas do Paraná",
+    "en": "Tunas do Parana",
+    "slug": "tunas-do-parana-br4127882"
+  },
+  "code": {
+    "id": "BR4127882",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.974",
+    "lon": "-48.898"
+  },
+  "metadata": {},
+  "source": {}
+}

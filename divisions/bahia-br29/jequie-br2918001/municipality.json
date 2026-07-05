@@ -1,0 +1,45 @@
+{
+  "id": "BR2918001",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jequié",
+    "en": "Jequie",
+    "slug": "jequie-br2918001"
+  },
+  "code": {
+    "id": "BR2918001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.901",
+    "lon": "-40.077"
+  },
+  "metadata": {},
+  "source": {}
+}

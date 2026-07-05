@@ -1,0 +1,45 @@
+{
+  "id": "BR2516409",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tacima",
+    "en": "Tacima",
+    "slug": "tacima-br2516409"
+  },
+  "code": {
+    "id": "BR2516409",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.533",
+    "lon": "-35.515"
+  },
+  "metadata": {},
+  "source": {}
+}

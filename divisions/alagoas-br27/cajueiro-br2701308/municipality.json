@@ -1,0 +1,45 @@
+{
+  "id": "BR2701308",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cajueiro",
+    "en": "Cajueiro",
+    "slug": "cajueiro-br2701308"
+  },
+  "code": {
+    "id": "BR2701308",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.42",
+    "lon": "-36.166"
+  },
+  "metadata": {},
+  "source": {}
+}

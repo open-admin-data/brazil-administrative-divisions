@@ -1,0 +1,45 @@
+{
+  "id": "BR4311239",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lagoa Bonita do Sul",
+    "en": "Lagoa Bonita do Sul",
+    "slug": "lagoa-bonita-do-sul-br4311239"
+  },
+  "code": {
+    "id": "BR4311239",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.506",
+    "lon": "-53.033"
+  },
+  "metadata": {},
+  "source": {}
+}

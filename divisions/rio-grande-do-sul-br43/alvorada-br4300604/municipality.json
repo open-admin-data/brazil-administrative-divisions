@@ -1,0 +1,45 @@
+{
+  "id": "BR4300604",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alvorada",
+    "en": "Alvorada",
+    "slug": "alvorada-br4300604"
+  },
+  "code": {
+    "id": "BR4300604",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.989",
+    "lon": "-51.03"
+  },
+  "metadata": {},
+  "source": {}
+}

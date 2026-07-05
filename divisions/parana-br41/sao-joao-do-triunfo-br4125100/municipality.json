@@ -1,0 +1,45 @@
+{
+  "id": "BR4125100",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São João do Triunfo",
+    "en": "Sao Joao do Triunfo",
+    "slug": "sao-joao-do-triunfo-br4125100"
+  },
+  "code": {
+    "id": "BR4125100",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.695",
+    "lon": "-50.265"
+  },
+  "metadata": {},
+  "source": {}
+}

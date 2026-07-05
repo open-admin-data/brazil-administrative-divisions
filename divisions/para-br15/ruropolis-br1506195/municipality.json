@@ -1,0 +1,45 @@
+{
+  "id": "BR1506195",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rurópolis",
+    "en": "Ruropolis",
+    "slug": "ruropolis-br1506195"
+  },
+  "code": {
+    "id": "BR1506195",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.181",
+    "lon": "-55.188"
+  },
+  "metadata": {},
+  "source": {}
+}

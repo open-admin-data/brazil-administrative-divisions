@@ -1,0 +1,45 @@
+{
+  "id": "BR4108304",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Foz do Iguaçu",
+    "en": "Foz do Iguacu",
+    "slug": "foz-do-iguacu-br4108304"
+  },
+  "code": {
+    "id": "BR4108304",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.45",
+    "lon": "-54.45"
+  },
+  "metadata": {},
+  "source": {}
+}

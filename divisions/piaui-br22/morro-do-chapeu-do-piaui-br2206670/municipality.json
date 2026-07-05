@@ -1,0 +1,45 @@
+{
+  "id": "BR2206670",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Morro do Chapéu do Piauí",
+    "en": "Morro do Chapeu do Piaui",
+    "slug": "morro-do-chapeu-do-piaui-br2206670"
+  },
+  "code": {
+    "id": "BR2206670",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.689",
+    "lon": "-42.234"
+  },
+  "metadata": {},
+  "source": {}
+}

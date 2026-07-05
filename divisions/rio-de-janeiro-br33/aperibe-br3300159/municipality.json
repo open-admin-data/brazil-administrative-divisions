@@ -1,0 +1,45 @@
+{
+  "id": "BR3300159",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Aperibé",
+    "en": "Aperibe",
+    "slug": "aperibe-br3300159"
+  },
+  "code": {
+    "id": "BR3300159",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR33",
+    "level": 1,
+    "name": {
+      "local": "Rio de Janeiro",
+      "en": "Rio de Janeiro",
+      "slug": "rio-de-janeiro-br33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.646",
+    "lon": "-42.139"
+  },
+  "metadata": {},
+  "source": {}
+}

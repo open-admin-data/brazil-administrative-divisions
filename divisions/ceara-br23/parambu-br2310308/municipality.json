@@ -1,0 +1,45 @@
+{
+  "id": "BR2310308",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Parambu",
+    "en": "Parambu",
+    "slug": "parambu-br2310308"
+  },
+  "code": {
+    "id": "BR2310308",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.271",
+    "lon": "-40.595"
+  },
+  "metadata": {},
+  "source": {}
+}

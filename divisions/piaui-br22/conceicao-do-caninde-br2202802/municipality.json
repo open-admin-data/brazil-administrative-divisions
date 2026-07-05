@@ -1,0 +1,45 @@
+{
+  "id": "BR2202802",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Conceição do Canindé",
+    "en": "Conceicao do Caninde",
+    "slug": "conceicao-do-caninde-br2202802"
+  },
+  "code": {
+    "id": "BR2202802",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.91",
+    "lon": "-41.53"
+  },
+  "metadata": {},
+  "source": {}
+}

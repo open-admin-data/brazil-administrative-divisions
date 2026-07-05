@@ -1,0 +1,45 @@
+{
+  "id": "BR5107107",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José dos Quatro Marcos",
+    "en": "Sao Jose dos Quatro Marcos",
+    "slug": "sao-jose-dos-quatro-marcos-br5107107"
+  },
+  "code": {
+    "id": "BR5107107",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.525",
+    "lon": "-58.333"
+  },
+  "metadata": {},
+  "source": {}
+}

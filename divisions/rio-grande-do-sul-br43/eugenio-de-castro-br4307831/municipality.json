@@ -1,0 +1,45 @@
+{
+  "id": "BR4307831",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Eugênio de Castro",
+    "en": "Eugenio de Castro",
+    "slug": "eugenio-de-castro-br4307831"
+  },
+  "code": {
+    "id": "BR4307831",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.573",
+    "lon": "-54.266"
+  },
+  "metadata": {},
+  "source": {}
+}

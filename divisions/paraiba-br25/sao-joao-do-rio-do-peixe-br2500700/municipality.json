@@ -1,0 +1,45 @@
+{
+  "id": "BR2500700",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São João do Rio do Peixe",
+    "en": "Sao Joao do Rio do Peixe",
+    "slug": "sao-joao-do-rio-do-peixe-br2500700"
+  },
+  "code": {
+    "id": "BR2500700",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.721",
+    "lon": "-38.423"
+  },
+  "metadata": {},
+  "source": {}
+}

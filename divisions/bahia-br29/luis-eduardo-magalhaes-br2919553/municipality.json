@@ -1,0 +1,45 @@
+{
+  "id": "BR2919553",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Luís Eduardo Magalhães",
+    "en": "Luis Eduardo Magalhaes",
+    "slug": "luis-eduardo-magalhaes-br2919553"
+  },
+  "code": {
+    "id": "BR2919553",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.251",
+    "lon": "-46.2"
+  },
+  "metadata": {},
+  "source": {}
+}

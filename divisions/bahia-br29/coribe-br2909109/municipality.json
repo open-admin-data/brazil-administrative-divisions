@@ -1,0 +1,45 @@
+{
+  "id": "BR2909109",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Coribe",
+    "en": "Coribe",
+    "slug": "coribe-br2909109"
+  },
+  "code": {
+    "id": "BR2909109",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.812",
+    "lon": "-44.303"
+  },
+  "metadata": {},
+  "source": {}
+}

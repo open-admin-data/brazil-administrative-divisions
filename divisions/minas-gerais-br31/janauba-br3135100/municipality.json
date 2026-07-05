@@ -1,0 +1,45 @@
+{
+  "id": "BR3135100",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Janaúba",
+    "en": "Janauba",
+    "slug": "janauba-br3135100"
+  },
+  "code": {
+    "id": "BR3135100",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.812",
+    "lon": "-43.377"
+  },
+  "metadata": {},
+  "source": {}
+}

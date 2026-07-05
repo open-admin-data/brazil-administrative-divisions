@@ -1,0 +1,45 @@
+{
+  "id": "BR2704104",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lagoa da Canoa",
+    "en": "Lagoa da Canoa",
+    "slug": "lagoa-da-canoa-br2704104"
+  },
+  "code": {
+    "id": "BR2704104",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.806",
+    "lon": "-36.749"
+  },
+  "metadata": {},
+  "source": {}
+}

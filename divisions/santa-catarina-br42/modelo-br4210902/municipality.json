@@ -1,0 +1,45 @@
+{
+  "id": "BR4210902",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Modelo",
+    "en": "Modelo",
+    "slug": "modelo-br4210902"
+  },
+  "code": {
+    "id": "BR4210902",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.772",
+    "lon": "-53.049"
+  },
+  "metadata": {},
+  "source": {}
+}

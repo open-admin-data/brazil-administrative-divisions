@@ -1,0 +1,45 @@
+{
+  "id": "BR1501204",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Baião",
+    "en": "Baiao",
+    "slug": "baiao-br1501204"
+  },
+  "code": {
+    "id": "BR1501204",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.242",
+    "lon": "-49.729"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2110237",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santana do Maranhão",
+    "en": "Santana do Maranhao",
+    "slug": "santana-do-maranhao-br2110237"
+  },
+  "code": {
+    "id": "BR2110237",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.148",
+    "lon": "-42.719"
+  },
+  "metadata": {},
+  "source": {}
+}

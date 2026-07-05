@@ -1,0 +1,45 @@
+{
+  "id": "BR3556701",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vinhedo",
+    "en": "Vinhedo",
+    "slug": "vinhedo-br3556701"
+  },
+  "code": {
+    "id": "BR3556701",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.05",
+    "lon": "-46.978"
+  },
+  "metadata": {},
+  "source": {}
+}

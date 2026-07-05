@@ -1,0 +1,45 @@
+{
+  "id": "BR2400307",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Afonso Bezerra",
+    "en": "Afonso Bezerra",
+    "slug": "afonso-bezerra-br2400307"
+  },
+  "code": {
+    "id": "BR2400307",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR24",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Norte",
+      "en": "Rio Grande do Norte",
+      "slug": "rio-grande-do-norte-br24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.461",
+    "lon": "-36.704"
+  },
+  "metadata": {},
+  "source": {}
+}

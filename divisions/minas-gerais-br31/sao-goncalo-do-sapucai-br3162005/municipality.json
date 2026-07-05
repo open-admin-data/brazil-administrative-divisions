@@ -1,0 +1,45 @@
+{
+  "id": "BR3162005",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Gonçalo do Sapucaí",
+    "en": "Sao Goncalo do Sapucai",
+    "slug": "sao-goncalo-do-sapucai-br3162005"
+  },
+  "code": {
+    "id": "BR3162005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.909",
+    "lon": "-45.601"
+  },
+  "metadata": {},
+  "source": {}
+}

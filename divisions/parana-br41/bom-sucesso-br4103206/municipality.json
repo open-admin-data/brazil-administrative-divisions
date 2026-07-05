@@ -1,0 +1,45 @@
+{
+  "id": "BR4103206",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bom Sucesso",
+    "en": "Bom Sucesso",
+    "slug": "bom-sucesso-br4103206"
+  },
+  "code": {
+    "id": "BR4103206",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.694",
+    "lon": "-51.819"
+  },
+  "metadata": {},
+  "source": {}
+}

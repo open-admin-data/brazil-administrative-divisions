@@ -1,0 +1,45 @@
+{
+  "id": "BR1400472",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rorainópolis",
+    "en": "Rorainopolis",
+    "slug": "rorainopolis-br1400472"
+  },
+  "code": {
+    "id": "BR1400472",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR14",
+    "level": 1,
+    "name": {
+      "local": "Roraima",
+      "en": "Roraima",
+      "slug": "roraima-br14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.055",
+    "lon": "-60.846"
+  },
+  "metadata": {},
+  "source": {}
+}

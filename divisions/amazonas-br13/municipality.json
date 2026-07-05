@@ -1,0 +1,2792 @@
+[
+  {
+    "id": "BR1300029",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alvarães",
+      "en": "Alvaraes",
+      "slug": "alvaraes-br1300029"
+    },
+    "code": {
+      "id": "BR1300029",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.755",
+      "lon": "-65.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1300060",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amaturá",
+      "en": "Amatura",
+      "slug": "amatura-br1300060"
+    },
+    "code": {
+      "id": "BR1300060",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "-68.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1300086",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Anamã",
+      "en": "Anama",
+      "slug": "anama-br1300086"
+    },
+    "code": {
+      "id": "BR1300086",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.479",
+      "lon": "-61.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1300102",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Anori",
+      "en": "Anori",
+      "slug": "anori-br1300102"
+    },
+    "code": {
+      "id": "BR1300102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.241",
+      "lon": "-62.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1300144",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Apuí",
+      "en": "Apui",
+      "slug": "apui-br1300144"
+    },
+    "code": {
+      "id": "BR1300144",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.918",
+      "lon": "-59.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1300201",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atalaia do Norte",
+      "en": "Atalaia do Norte",
+      "slug": "atalaia-do-norte-br1300201"
+    },
+    "code": {
+      "id": "BR1300201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.611",
+      "lon": "-71.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1300300",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Autazes",
+      "en": "Autazes",
+      "slug": "autazes-br1300300"
+    },
+    "code": {
+      "id": "BR1300300",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "-59.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1300409",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barcelos",
+      "en": "Barcelos",
+      "slug": "barcelos-br1300409"
+    },
+    "code": {
+      "id": "BR1300409",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.496",
+      "lon": "-63.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1300508",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barreirinha",
+      "en": "Barreirinha",
+      "slug": "barreirinha-br1300508"
+    },
+    "code": {
+      "id": "BR1300508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.012",
+      "lon": "-57.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1300607",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Benjamin Constant",
+      "en": "Benjamin Constant",
+      "slug": "benjamin-constant-br1300607"
+    },
+    "code": {
+      "id": "BR1300607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.589",
+      "lon": "-70.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1300631",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Beruri",
+      "en": "Beruri",
+      "slug": "beruri-br1300631"
+    },
+    "code": {
+      "id": "BR1300631",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.35",
+      "lon": "-61.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1300680",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Boa Vista do Ramos",
+      "en": "Boa Vista do Ramos",
+      "slug": "boa-vista-do-ramos-br1300680"
+    },
+    "code": {
+      "id": "BR1300680",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.121",
+      "lon": "-57.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1300706",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Boca do Acre",
+      "en": "Boca do Acre",
+      "slug": "boca-do-acre-br1300706"
+    },
+    "code": {
+      "id": "BR1300706",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.464",
+      "lon": "-67.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1300805",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Borba",
+      "en": "Borba",
+      "slug": "borba-br1300805"
+    },
+    "code": {
+      "id": "BR1300805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.108",
+      "lon": "-59.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1300839",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caapiranga",
+      "en": "Caapiranga",
+      "slug": "caapiranga-br1300839"
+    },
+    "code": {
+      "id": "BR1300839",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.143",
+      "lon": "-61.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1300904",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Canutama",
+      "en": "Canutama",
+      "slug": "canutama-br1300904"
+    },
+    "code": {
+      "id": "BR1300904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.631",
+      "lon": "-63.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1301001",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carauari",
+      "en": "Carauari",
+      "slug": "carauari-br1301001"
+    },
+    "code": {
+      "id": "BR1301001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.042",
+      "lon": "-67.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1301100",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Careiro",
+      "en": "Careiro",
+      "slug": "careiro-br1301100"
+    },
+    "code": {
+      "id": "BR1301100",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.9",
+      "lon": "-60.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1301159",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Careiro da Várzea",
+      "en": "Careiro da Varzea",
+      "slug": "careiro-da-varzea-br1301159"
+    },
+    "code": {
+      "id": "BR1301159",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.376",
+      "lon": "-59.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1301209",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coari",
+      "en": "Coari",
+      "slug": "coari-br1301209"
+    },
+    "code": {
+      "id": "BR1301209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.827",
+      "lon": "-64.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1301308",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Codajás",
+      "en": "Codajas",
+      "slug": "codajas-br1301308"
+    },
+    "code": {
+      "id": "BR1301308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.155",
+      "lon": "-63.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1301407",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Eirunepé",
+      "en": "Eirunepe",
+      "slug": "eirunepe-br1301407"
+    },
+    "code": {
+      "id": "BR1301407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.134",
+      "lon": "-70.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1301506",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Envira",
+      "en": "Envira",
+      "slug": "envira-br1301506"
+    },
+    "code": {
+      "id": "BR1301506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.505",
+      "lon": "-70.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1301605",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fonte Boa",
+      "en": "Fonte Boa",
+      "slug": "fonte-boa-br1301605"
+    },
+    "code": {
+      "id": "BR1301605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.555",
+      "lon": "-66.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1301654",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guajará",
+      "en": "Guajara",
+      "slug": "guajara-br1301654"
+    },
+    "code": {
+      "id": "BR1301654",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.137",
+      "lon": "-72.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1301704",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Humaitá",
+      "en": "Humaita",
+      "slug": "humaita-br1301704"
+    },
+    "code": {
+      "id": "BR1301704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.585",
+      "lon": "-54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1301803",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ipixuna",
+      "en": "Ipixuna",
+      "slug": "ipixuna-br1301803"
+    },
+    "code": {
+      "id": "BR1301803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.137",
+      "lon": "-71.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1301852",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Iranduba",
+      "en": "Iranduba",
+      "slug": "iranduba-br1301852"
+    },
+    "code": {
+      "id": "BR1301852",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.104",
+      "lon": "-60.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1301902",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itacoatiara",
+      "en": "Itacoatiara",
+      "slug": "itacoatiara-br1301902"
+    },
+    "code": {
+      "id": "BR1301902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.195",
+      "lon": "-58.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1301951",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itamarati",
+      "en": "Itamarati",
+      "slug": "itamarati-br1301951"
+    },
+    "code": {
+      "id": "BR1301951",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.739",
+      "lon": "-67.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1302009",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itapiranga",
+      "en": "Itapiranga",
+      "slug": "itapiranga-br1302009"
+    },
+    "code": {
+      "id": "BR1302009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.104",
+      "lon": "-53.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1302108",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Japurá",
+      "en": "Japura",
+      "slug": "japura-br1302108"
+    },
+    "code": {
+      "id": "BR1302108",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.422",
+      "lon": "-52.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1302207",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juruá",
+      "en": "Jurua",
+      "slug": "jurua-br1302207"
+    },
+    "code": {
+      "id": "BR1302207",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.267",
+      "lon": "-66.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1302306",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jutaí",
+      "en": "Jutai",
+      "slug": "jutai-br1302306"
+    },
+    "code": {
+      "id": "BR1302306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.609",
+      "lon": "-68.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1302405",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lábrea",
+      "en": "Labrea",
+      "slug": "labrea-br1302405"
+    },
+    "code": {
+      "id": "BR1302405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.051",
+      "lon": "-66.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1302504",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Manacapuru",
+      "en": "Manacapuru",
+      "slug": "manacapuru-br1302504"
+    },
+    "code": {
+      "id": "BR1302504",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "-61.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1302553",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Manaquiri",
+      "en": "Manaquiri",
+      "slug": "manaquiri-br1302553"
+    },
+    "code": {
+      "id": "BR1302553",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "-60.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1302603",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Manaus",
+      "en": "Manaus",
+      "slug": "manaus-br1302603"
+    },
+    "code": {
+      "id": "BR1302603",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.671",
+      "lon": "-60.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1302702",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Manicoré",
+      "en": "Manicore",
+      "slug": "manicore-br1302702"
+    },
+    "code": {
+      "id": "BR1302702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.024",
+      "lon": "-61.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1302801",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maraã",
+      "en": "Maraa",
+      "slug": "maraa-br1302801"
+    },
+    "code": {
+      "id": "BR1302801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.68",
+      "lon": "-64.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1302900",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maués",
+      "en": "Maues",
+      "slug": "maues-br1302900"
+    },
+    "code": {
+      "id": "BR1302900",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.078",
+      "lon": "-58.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1303007",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nhamundá",
+      "en": "Nhamunda",
+      "slug": "nhamunda-br1303007"
+    },
+    "code": {
+      "id": "BR1303007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.359",
+      "lon": "-57.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1303106",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Olinda do Norte",
+      "en": "Nova Olinda do Norte",
+      "slug": "nova-olinda-do-norte-br1303106"
+    },
+    "code": {
+      "id": "BR1303106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.965",
+      "lon": "-58.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1303205",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Novo Airão",
+      "en": "Novo Airao",
+      "slug": "novo-airao-br1303205"
+    },
+    "code": {
+      "id": "BR1303205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.901",
+      "lon": "-61.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1303304",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Novo Aripuanã",
+      "en": "Novo Aripuana",
+      "slug": "novo-aripuana-br1303304"
+    },
+    "code": {
+      "id": "BR1303304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.921",
+      "lon": "-60.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1303403",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Parintins",
+      "en": "Parintins",
+      "slug": "parintins-br1303403"
+    },
+    "code": {
+      "id": "BR1303403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.642",
+      "lon": "-56.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1303502",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pauini",
+      "en": "Pauini",
+      "slug": "pauini-br1303502"
+    },
+    "code": {
+      "id": "BR1303502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.714",
+      "lon": "-67.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1303536",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Presidente Figueiredo",
+      "en": "Presidente Figueiredo",
+      "slug": "presidente-figueiredo-br1303536"
+    },
+    "code": {
+      "id": "BR1303536",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.209",
+      "lon": "-60.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1303569",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rio Preto da Eva",
+      "en": "Rio Preto da Eva",
+      "slug": "rio-preto-da-eva-br1303569"
+    },
+    "code": {
+      "id": "BR1303569",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.47",
+      "lon": "-59.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1303601",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Isabel do Rio Negro",
+      "en": "Santa Isabel do Rio Negro",
+      "slug": "santa-isabel-do-rio-negro-br1303601"
+    },
+    "code": {
+      "id": "BR1303601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.216",
+      "lon": "-65.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1303700",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo Antônio do Içá",
+      "en": "Santo Antonio do Ica",
+      "slug": "santo-antonio-do-ica-br1303700"
+    },
+    "code": {
+      "id": "BR1303700",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.142",
+      "lon": "-68.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1303809",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Gabriel da Cachoeira",
+      "en": "Sao Gabriel da Cachoeira",
+      "slug": "sao-gabriel-da-cachoeira-br1303809"
+    },
+    "code": {
+      "id": "BR1303809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.231",
+      "lon": "-67.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1303908",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Paulo de Olivença",
+      "en": "Sao Paulo de Olivenca",
+      "slug": "sao-paulo-de-olivenca-br1303908"
+    },
+    "code": {
+      "id": "BR1303908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.499",
+      "lon": "-69.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1303957",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Sebastião do Uatumã",
+      "en": "Sao Sebastiao do Uatuma",
+      "slug": "sao-sebastiao-do-uatuma-br1303957"
+    },
+    "code": {
+      "id": "BR1303957",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.866",
+      "lon": "-58.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1304005",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Silves",
+      "en": "Silves",
+      "slug": "silves-br1304005"
+    },
+    "code": {
+      "id": "BR1304005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.781",
+      "lon": "-58.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1304062",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tabatinga",
+      "en": "Tabatinga",
+      "slug": "tabatinga-br1304062"
+    },
+    "code": {
+      "id": "BR1304062",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.724",
+      "lon": "-48.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1304104",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tapauá",
+      "en": "Tapaua",
+      "slug": "tapaua-br1304104"
+    },
+    "code": {
+      "id": "BR1304104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.318",
+      "lon": "-66.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1304203",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tefé",
+      "en": "Tefe",
+      "slug": "tefe-br1304203"
+    },
+    "code": {
+      "id": "BR1304203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.426",
+      "lon": "-65.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1304237",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tonantins",
+      "en": "Tonantins",
+      "slug": "tonantins-br1304237"
+    },
+    "code": {
+      "id": "BR1304237",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.637",
+      "lon": "-67.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1304260",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Uarini",
+      "en": "Uarini",
+      "slug": "uarini-br1304260"
+    },
+    "code": {
+      "id": "BR1304260",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.14",
+      "lon": "-65.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1304302",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Urucará",
+      "en": "Urucara",
+      "slug": "urucara-br1304302"
+    },
+    "code": {
+      "id": "BR1304302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.185",
+      "lon": "-58.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1304401",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Urucurituba",
+      "en": "Urucurituba",
+      "slug": "urucurituba-br1304401"
+    },
+    "code": {
+      "id": "BR1304401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR13",
+        "level": 1,
+        "name": {
+          "local": "Amazonas",
+          "en": "Amazonas",
+          "slug": "amazonas-br13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.843",
+      "lon": "-57.732"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

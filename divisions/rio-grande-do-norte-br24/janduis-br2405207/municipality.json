@@ -1,0 +1,45 @@
+{
+  "id": "BR2405207",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Janduís",
+    "en": "Janduis",
+    "slug": "janduis-br2405207"
+  },
+  "code": {
+    "id": "BR2405207",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR24",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Norte",
+      "en": "Rio Grande do Norte",
+      "slug": "rio-grande-do-norte-br24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.959",
+    "lon": "-37.49"
+  },
+  "metadata": {},
+  "source": {}
+}

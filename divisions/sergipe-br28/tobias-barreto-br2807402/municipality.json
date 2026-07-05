@@ -1,0 +1,45 @@
+{
+  "id": "BR2807402",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tobias Barreto",
+    "en": "Tobias Barreto",
+    "slug": "tobias-barreto-br2807402"
+  },
+  "code": {
+    "id": "BR2807402",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.098",
+    "lon": "-38.023"
+  },
+  "metadata": {},
+  "source": {}
+}

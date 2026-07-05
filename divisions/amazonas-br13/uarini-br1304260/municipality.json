@@ -1,0 +1,45 @@
+{
+  "id": "BR1304260",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Uarini",
+    "en": "Uarini",
+    "slug": "uarini-br1304260"
+  },
+  "code": {
+    "id": "BR1304260",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.14",
+    "lon": "-65.413"
+  },
+  "metadata": {},
+  "source": {}
+}

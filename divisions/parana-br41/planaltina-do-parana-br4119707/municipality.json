@@ -1,0 +1,45 @@
+{
+  "id": "BR4119707",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Planaltina do Paraná",
+    "en": "Planaltina do Parana",
+    "slug": "planaltina-do-parana-br4119707"
+  },
+  "code": {
+    "id": "BR4119707",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.102",
+    "lon": "-52.924"
+  },
+  "metadata": {},
+  "source": {}
+}

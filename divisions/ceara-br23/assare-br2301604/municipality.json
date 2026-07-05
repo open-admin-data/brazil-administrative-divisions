@@ -1,0 +1,45 @@
+{
+  "id": "BR2301604",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Assaré",
+    "en": "Assare",
+    "slug": "assare-br2301604"
+  },
+  "code": {
+    "id": "BR2301604",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.92",
+    "lon": "-39.818"
+  },
+  "metadata": {},
+  "source": {}
+}

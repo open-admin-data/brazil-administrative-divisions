@@ -1,0 +1,45 @@
+{
+  "id": "BR4116109",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Moreira Sales",
+    "en": "Moreira Sales",
+    "slug": "moreira-sales-br4116109"
+  },
+  "code": {
+    "id": "BR4116109",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.01",
+    "lon": "-52.973"
+  },
+  "metadata": {},
+  "source": {}
+}

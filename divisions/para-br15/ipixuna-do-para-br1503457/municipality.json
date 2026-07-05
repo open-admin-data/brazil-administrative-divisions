@@ -1,0 +1,45 @@
+{
+  "id": "BR1503457",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ipixuna do Pará",
+    "en": "Ipixuna do Para",
+    "slug": "ipixuna-do-para-br1503457"
+  },
+  "code": {
+    "id": "BR1503457",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.965",
+    "lon": "-48.093"
+  },
+  "metadata": {},
+  "source": {}
+}

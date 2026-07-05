@@ -1,0 +1,8282 @@
+[
+  {
+    "id": "BR2300101",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Abaiara",
+      "en": "Abaiara",
+      "slug": "abaiara-br2300101"
+    },
+    "code": {
+      "id": "BR2300101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.347",
+      "lon": "-39.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2300150",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acarape",
+      "en": "Acarape",
+      "slug": "acarape-br2300150"
+    },
+    "code": {
+      "id": "BR2300150",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.22",
+      "lon": "-38.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2300200",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acaraú",
+      "en": "Acarau",
+      "slug": "acarau-br2300200"
+    },
+    "code": {
+      "id": "BR2300200",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "-40.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2300309",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acopiara",
+      "en": "Acopiara",
+      "slug": "acopiara-br2300309"
+    },
+    "code": {
+      "id": "BR2300309",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.095",
+      "lon": "-39.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2300408",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aiuaba",
+      "en": "Aiuaba",
+      "slug": "aiuaba-br2300408"
+    },
+    "code": {
+      "id": "BR2300408",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.609",
+      "lon": "-40.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2300507",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alcântaras",
+      "en": "Alcantaras",
+      "slug": "alcantaras-br2300507"
+    },
+    "code": {
+      "id": "BR2300507",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.59",
+      "lon": "-40.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2300606",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Altaneira",
+      "en": "Altaneira",
+      "slug": "altaneira-br2300606"
+    },
+    "code": {
+      "id": "BR2300606",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.982",
+      "lon": "-39.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2300705",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alto Santo",
+      "en": "Alto Santo",
+      "slug": "alto-santo-br2300705"
+    },
+    "code": {
+      "id": "BR2300705",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.525",
+      "lon": "-38.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2300754",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amontada",
+      "en": "Amontada",
+      "slug": "amontada-br2300754"
+    },
+    "code": {
+      "id": "BR2300754",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.257",
+      "lon": "-39.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2300804",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Antonina do Norte",
+      "en": "Antonina do Norte",
+      "slug": "antonina-do-norte-br2300804"
+    },
+    "code": {
+      "id": "BR2300804",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.747",
+      "lon": "-39.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2300903",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Apuiarés",
+      "en": "Apuiares",
+      "slug": "apuiares-br2300903"
+    },
+    "code": {
+      "id": "BR2300903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.984",
+      "lon": "-39.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2301000",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aquiraz",
+      "en": "Aquiraz",
+      "slug": "aquiraz-br2301000"
+    },
+    "code": {
+      "id": "BR2301000",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.968",
+      "lon": "-38.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2301109",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aracati",
+      "en": "Aracati",
+      "slug": "aracati-br2301109"
+    },
+    "code": {
+      "id": "BR2301109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.622",
+      "lon": "-37.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2301208",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aracoiaba",
+      "en": "Aracoiaba",
+      "slug": "aracoiaba-br2301208"
+    },
+    "code": {
+      "id": "BR2301208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.791",
+      "lon": "-35.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2301257",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ararendá",
+      "en": "Ararenda",
+      "slug": "ararenda-br2301257"
+    },
+    "code": {
+      "id": "BR2301257",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.766",
+      "lon": "-40.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2301307",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Araripe",
+      "en": "Araripe",
+      "slug": "araripe-br2301307"
+    },
+    "code": {
+      "id": "BR2301307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.193",
+      "lon": "-40.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2301406",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aratuba",
+      "en": "Aratuba",
+      "slug": "aratuba-br2301406"
+    },
+    "code": {
+      "id": "BR2301406",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.417",
+      "lon": "-39.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2301505",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arneiroz",
+      "en": "Arneiroz",
+      "slug": "arneiroz-br2301505"
+    },
+    "code": {
+      "id": "BR2301505",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.234",
+      "lon": "-40.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2301604",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Assaré",
+      "en": "Assare",
+      "slug": "assare-br2301604"
+    },
+    "code": {
+      "id": "BR2301604",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.92",
+      "lon": "-39.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2301703",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aurora",
+      "en": "Aurora",
+      "slug": "aurora-br2301703"
+    },
+    "code": {
+      "id": "BR2301703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.328",
+      "lon": "-49.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2301802",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Baixio",
+      "en": "Baixio",
+      "slug": "baixio-br2301802"
+    },
+    "code": {
+      "id": "BR2301802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.718",
+      "lon": "-38.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2301851",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Banabuiú",
+      "en": "Banabuiu",
+      "slug": "banabuiu-br2301851"
+    },
+    "code": {
+      "id": "BR2301851",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.29",
+      "lon": "-38.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2301901",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barbalha",
+      "en": "Barbalha",
+      "slug": "barbalha-br2301901"
+    },
+    "code": {
+      "id": "BR2301901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.377",
+      "lon": "-39.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2301950",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barreira",
+      "en": "Barreira",
+      "slug": "barreira-br2301950"
+    },
+    "code": {
+      "id": "BR2301950",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.34",
+      "lon": "-38.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2302008",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barro",
+      "en": "Barro",
+      "slug": "barro-br2302008"
+    },
+    "code": {
+      "id": "BR2302008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.141",
+      "lon": "-38.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2302057",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barroquinha",
+      "en": "Barroquinha",
+      "slug": "barroquinha-br2302057"
+    },
+    "code": {
+      "id": "BR2302057",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.98",
+      "lon": "-41.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2302107",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Baturité",
+      "en": "Baturite",
+      "slug": "baturite-br2302107"
+    },
+    "code": {
+      "id": "BR2302107",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.336",
+      "lon": "-38.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2302206",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Beberibe",
+      "en": "Beberibe",
+      "slug": "beberibe-br2302206"
+    },
+    "code": {
+      "id": "BR2302206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.429",
+      "lon": "-38.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2302305",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bela Cruz",
+      "en": "Bela Cruz",
+      "slug": "bela-cruz-br2302305"
+    },
+    "code": {
+      "id": "BR2302305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.067",
+      "lon": "-40.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2302404",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Boa Viagem",
+      "en": "Boa Viagem",
+      "slug": "boa-viagem-br2302404"
+    },
+    "code": {
+      "id": "BR2302404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.064",
+      "lon": "-39.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2302503",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Brejo Santo",
+      "en": "Brejo Santo",
+      "slug": "brejo-santo-br2302503"
+    },
+    "code": {
+      "id": "BR2302503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.603",
+      "lon": "-38.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2302602",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Camocim",
+      "en": "Camocim",
+      "slug": "camocim-br2302602"
+    },
+    "code": {
+      "id": "BR2302602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.928",
+      "lon": "-40.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2302701",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Campos Sales",
+      "en": "Campos Sales",
+      "slug": "campos-sales-br2302701"
+    },
+    "code": {
+      "id": "BR2302701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.928",
+      "lon": "-40.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2302800",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Canindé",
+      "en": "Caninde",
+      "slug": "caninde-br2302800"
+    },
+    "code": {
+      "id": "BR2302800",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.415",
+      "lon": "-39.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2302909",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Capistrano",
+      "en": "Capistrano",
+      "slug": "capistrano-br2302909"
+    },
+    "code": {
+      "id": "BR2302909",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.475",
+      "lon": "-38.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2303006",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caridade",
+      "en": "Caridade",
+      "slug": "caridade-br2303006"
+    },
+    "code": {
+      "id": "BR2303006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.218",
+      "lon": "-39.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2303105",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cariré",
+      "en": "Carire",
+      "slug": "carire-br2303105"
+    },
+    "code": {
+      "id": "BR2303105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.916",
+      "lon": "-40.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2303204",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caririaçu",
+      "en": "Caririacu",
+      "slug": "caririacu-br2303204"
+    },
+    "code": {
+      "id": "BR2303204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.038",
+      "lon": "-39.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2303303",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cariús",
+      "en": "Carius",
+      "slug": "carius-br2303303"
+    },
+    "code": {
+      "id": "BR2303303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.639",
+      "lon": "-39.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2303402",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carnaubal",
+      "en": "Carnaubal",
+      "slug": "carnaubal-br2303402"
+    },
+    "code": {
+      "id": "BR2303402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.129",
+      "lon": "-41.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2303501",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cascavel",
+      "en": "Cascavel",
+      "slug": "cascavel-br2303501"
+    },
+    "code": {
+      "id": "BR2303501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.042",
+      "lon": "-53.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2303600",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Catarina",
+      "en": "Catarina",
+      "slug": "catarina-br2303600"
+    },
+    "code": {
+      "id": "BR2303600",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.264",
+      "lon": "-39.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2303659",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Catunda",
+      "en": "Catunda",
+      "slug": "catunda-br2303659"
+    },
+    "code": {
+      "id": "BR2303659",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.617",
+      "lon": "-40.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2303709",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caucaia",
+      "en": "Caucaia",
+      "slug": "caucaia-br2303709"
+    },
+    "code": {
+      "id": "BR2303709",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.796",
+      "lon": "-38.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2303808",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cedro",
+      "en": "Cedro",
+      "slug": "cedro-br2303808"
+    },
+    "code": {
+      "id": "BR2303808",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.718",
+      "lon": "-39.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2303907",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chaval",
+      "en": "Chaval",
+      "slug": "chaval-br2303907"
+    },
+    "code": {
+      "id": "BR2303907",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.076",
+      "lon": "-41.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2303931",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Choró",
+      "en": "Choro",
+      "slug": "choro-br2303931"
+    },
+    "code": {
+      "id": "BR2303931",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.762",
+      "lon": "-39.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2303956",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chorozinho",
+      "en": "Chorozinho",
+      "slug": "chorozinho-br2303956"
+    },
+    "code": {
+      "id": "BR2303956",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.304",
+      "lon": "-38.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2304004",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coreaú",
+      "en": "Coreau",
+      "slug": "coreau-br2304004"
+    },
+    "code": {
+      "id": "BR2304004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.667",
+      "lon": "-40.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2304103",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Crateús",
+      "en": "Crateus",
+      "slug": "crateus-br2304103"
+    },
+    "code": {
+      "id": "BR2304103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.267",
+      "lon": "-40.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2304202",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Crato",
+      "en": "Crato",
+      "slug": "crato-br2304202"
+    },
+    "code": {
+      "id": "BR2304202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.219",
+      "lon": "-39.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2304236",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Croatá",
+      "en": "Croata",
+      "slug": "croata-br2304236"
+    },
+    "code": {
+      "id": "BR2304236",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.393",
+      "lon": "-40.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2304251",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cruz",
+      "en": "Cruz",
+      "slug": "cruz-br2304251"
+    },
+    "code": {
+      "id": "BR2304251",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.895",
+      "lon": "-40.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2304269",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Deputado Irapuan Pinheiro",
+      "en": "Deputado Irapuan Pinheiro",
+      "slug": "deputado-irapuan-pinheiro-br2304269"
+    },
+    "code": {
+      "id": "BR2304269",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.895",
+      "lon": "-39.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2304277",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ereré",
+      "en": "Erere",
+      "slug": "erere-br2304277"
+    },
+    "code": {
+      "id": "BR2304277",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.01",
+      "lon": "-38.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2304285",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Eusébio",
+      "en": "Eusebio",
+      "slug": "eusebio-br2304285"
+    },
+    "code": {
+      "id": "BR2304285",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.871",
+      "lon": "-38.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2304301",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Farias Brito",
+      "en": "Farias Brito",
+      "slug": "farias-brito-br2304301"
+    },
+    "code": {
+      "id": "BR2304301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.908",
+      "lon": "-39.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2304350",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Forquilha",
+      "en": "Forquilha",
+      "slug": "forquilha-br2304350"
+    },
+    "code": {
+      "id": "BR2304350",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.832",
+      "lon": "-40.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2304400",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fortaleza",
+      "en": "Fortaleza",
+      "slug": "fortaleza-br2304400"
+    },
+    "code": {
+      "id": "BR2304400",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.784",
+      "lon": "-38.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2304459",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fortim",
+      "en": "Fortim",
+      "slug": "fortim-br2304459"
+    },
+    "code": {
+      "id": "BR2304459",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.446",
+      "lon": "-37.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2304509",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Frecheirinha",
+      "en": "Frecheirinha",
+      "slug": "frecheirinha-br2304509"
+    },
+    "code": {
+      "id": "BR2304509",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.705",
+      "lon": "-40.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2304608",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "General Sampaio",
+      "en": "General Sampaio",
+      "slug": "general-sampaio-br2304608"
+    },
+    "code": {
+      "id": "BR2304608",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.078",
+      "lon": "-39.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2304657",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Graça",
+      "en": "Graca",
+      "slug": "graca-br2304657"
+    },
+    "code": {
+      "id": "BR2304657",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.049",
+      "lon": "-40.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2304707",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Granja",
+      "en": "Granja",
+      "slug": "granja-br2304707"
+    },
+    "code": {
+      "id": "BR2304707",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.338",
+      "lon": "-41.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2304806",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Granjeiro",
+      "en": "Granjeiro",
+      "slug": "granjeiro-br2304806"
+    },
+    "code": {
+      "id": "BR2304806",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.927",
+      "lon": "-39.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2304905",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Groaíras",
+      "en": "Groairas",
+      "slug": "groairas-br2304905"
+    },
+    "code": {
+      "id": "BR2304905",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.918",
+      "lon": "-40.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2304954",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guaiúba",
+      "en": "Guaiuba",
+      "slug": "guaiuba-br2304954"
+    },
+    "code": {
+      "id": "BR2304954",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.106",
+      "lon": "-38.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2305001",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guaraciaba do Norte",
+      "en": "Guaraciaba do Norte",
+      "slug": "guaraciaba-do-norte-br2305001"
+    },
+    "code": {
+      "id": "BR2305001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.228",
+      "lon": "-40.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2305100",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guaramiranga",
+      "en": "Guaramiranga",
+      "slug": "guaramiranga-br2305100"
+    },
+    "code": {
+      "id": "BR2305100",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.232",
+      "lon": "-38.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2305209",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Hidrolândia",
+      "en": "Hidrolandia",
+      "slug": "hidrolandia-br2305209"
+    },
+    "code": {
+      "id": "BR2305209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.012",
+      "lon": "-49.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2305233",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Horizonte",
+      "en": "Horizonte",
+      "slug": "horizonte-br2305233"
+    },
+    "code": {
+      "id": "BR2305233",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.088",
+      "lon": "-38.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2305266",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ibaretama",
+      "en": "Ibaretama",
+      "slug": "ibaretama-br2305266"
+    },
+    "code": {
+      "id": "BR2305266",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.748",
+      "lon": "-38.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2305308",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ibiapina",
+      "en": "Ibiapina",
+      "slug": "ibiapina-br2305308"
+    },
+    "code": {
+      "id": "BR2305308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.957",
+      "lon": "-41.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2305332",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ibicuitinga",
+      "en": "Ibicuitinga",
+      "slug": "ibicuitinga-br2305332"
+    },
+    "code": {
+      "id": "BR2305332",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.97",
+      "lon": "-38.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2305357",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Icapuí",
+      "en": "Icapui",
+      "slug": "icapui-br2305357"
+    },
+    "code": {
+      "id": "BR2305357",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.726",
+      "lon": "-37.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2305407",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Icó",
+      "en": "Ico",
+      "slug": "ico-br2305407"
+    },
+    "code": {
+      "id": "BR2305407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.363",
+      "lon": "-38.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2305506",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Iguatu",
+      "en": "Iguatu",
+      "slug": "iguatu-br2305506"
+    },
+    "code": {
+      "id": "BR2305506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.681",
+      "lon": "-53.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2305605",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Independência",
+      "en": "Independencia",
+      "slug": "independencia-br2305605"
+    },
+    "code": {
+      "id": "BR2305605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.887",
+      "lon": "-54.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2305654",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ipaporanga",
+      "en": "Ipaporanga",
+      "slug": "ipaporanga-br2305654"
+    },
+    "code": {
+      "id": "BR2305654",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.869",
+      "lon": "-40.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2305704",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ipaumirim",
+      "en": "Ipaumirim",
+      "slug": "ipaumirim-br2305704"
+    },
+    "code": {
+      "id": "BR2305704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.811",
+      "lon": "-38.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2305803",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ipu",
+      "en": "Ipu",
+      "slug": "ipu-br2305803"
+    },
+    "code": {
+      "id": "BR2305803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.372",
+      "lon": "-40.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2305902",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ipueiras",
+      "en": "Ipueiras",
+      "slug": "ipueiras-br2305902"
+    },
+    "code": {
+      "id": "BR2305902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.582",
+      "lon": "-40.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2306009",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Iracema",
+      "en": "Iracema",
+      "slug": "iracema-br2306009"
+    },
+    "code": {
+      "id": "BR2306009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.788",
+      "lon": "-38.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2306108",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Irauçuba",
+      "en": "Iraucuba",
+      "slug": "iraucuba-br2306108"
+    },
+    "code": {
+      "id": "BR2306108",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.927",
+      "lon": "-39.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2306207",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itaiçaba",
+      "en": "Itaicaba",
+      "slug": "itaicaba-br2306207"
+    },
+    "code": {
+      "id": "BR2306207",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.714",
+      "lon": "-37.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2306256",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itaitinga",
+      "en": "Itaitinga",
+      "slug": "itaitinga-br2306256"
+    },
+    "code": {
+      "id": "BR2306256",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.99",
+      "lon": "-38.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2306306",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itapajé",
+      "en": "Itapaje",
+      "slug": "itapaje-br2306306"
+    },
+    "code": {
+      "id": "BR2306306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.732",
+      "lon": "-39.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2306405",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itapipoca",
+      "en": "Itapipoca",
+      "slug": "itapipoca-br2306405"
+    },
+    "code": {
+      "id": "BR2306405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.381",
+      "lon": "-39.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2306504",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itapiúna",
+      "en": "Itapiuna",
+      "slug": "itapiuna-br2306504"
+    },
+    "code": {
+      "id": "BR2306504",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.597",
+      "lon": "-38.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2306553",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itarema",
+      "en": "Itarema",
+      "slug": "itarema-br2306553"
+    },
+    "code": {
+      "id": "BR2306553",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.089",
+      "lon": "-39.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2306603",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itatira",
+      "en": "Itatira",
+      "slug": "itatira-br2306603"
+    },
+    "code": {
+      "id": "BR2306603",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.592",
+      "lon": "-39.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2306702",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jaguaretama",
+      "en": "Jaguaretama",
+      "slug": "jaguaretama-br2306702"
+    },
+    "code": {
+      "id": "BR2306702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.509",
+      "lon": "-38.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2306801",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jaguaribara",
+      "en": "Jaguaribara",
+      "slug": "jaguaribara-br2306801"
+    },
+    "code": {
+      "id": "BR2306801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.613",
+      "lon": "-38.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2306900",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jaguaribe",
+      "en": "Jaguaribe",
+      "slug": "jaguaribe-br2306900"
+    },
+    "code": {
+      "id": "BR2306900",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.992",
+      "lon": "-38.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2307007",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jaguaruana",
+      "en": "Jaguaruana",
+      "slug": "jaguaruana-br2307007"
+    },
+    "code": {
+      "id": "BR2307007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.823",
+      "lon": "-37.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2307106",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jardim",
+      "en": "Jardim",
+      "slug": "jardim-br2307106"
+    },
+    "code": {
+      "id": "BR2307106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.636",
+      "lon": "-56.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2307205",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jati",
+      "en": "Jati",
+      "slug": "jati-br2307205"
+    },
+    "code": {
+      "id": "BR2307205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.72",
+      "lon": "-38.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2307254",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jijoca de Jericoacoara",
+      "en": "Jijoca de Jericoacoara",
+      "slug": "jijoca-de-jericoacoara-br2307254"
+    },
+    "code": {
+      "id": "BR2307254",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.877",
+      "lon": "-40.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2307304",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juazeiro do Norte",
+      "en": "Juazeiro do Norte",
+      "slug": "juazeiro-do-norte-br2307304"
+    },
+    "code": {
+      "id": "BR2307304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.178",
+      "lon": "-39.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2307403",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jucás",
+      "en": "Jucas",
+      "slug": "jucas-br2307403"
+    },
+    "code": {
+      "id": "BR2307403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.452",
+      "lon": "-39.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2307502",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lavras da Mangabeira",
+      "en": "Lavras da Mangabeira",
+      "slug": "lavras-da-mangabeira-br2307502"
+    },
+    "code": {
+      "id": "BR2307502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.769",
+      "lon": "-38.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2307601",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Limoeiro do Norte",
+      "en": "Limoeiro do Norte",
+      "slug": "limoeiro-do-norte-br2307601"
+    },
+    "code": {
+      "id": "BR2307601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.17",
+      "lon": "-38.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2307635",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Madalena",
+      "en": "Madalena",
+      "slug": "madalena-br2307635"
+    },
+    "code": {
+      "id": "BR2307635",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.87",
+      "lon": "-39.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2307650",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maracanaú",
+      "en": "Maracanau",
+      "slug": "maracanau-br2307650"
+    },
+    "code": {
+      "id": "BR2307650",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.881",
+      "lon": "-38.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2307700",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maranguape",
+      "en": "Maranguape",
+      "slug": "maranguape-br2307700"
+    },
+    "code": {
+      "id": "BR2307700",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.02",
+      "lon": "-38.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2307809",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Marco",
+      "en": "Marco",
+      "slug": "marco-br2307809"
+    },
+    "code": {
+      "id": "BR2307809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "-40.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2307908",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Martinópole",
+      "en": "Martinopole",
+      "slug": "martinopole-br2307908"
+    },
+    "code": {
+      "id": "BR2307908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.192",
+      "lon": "-40.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2308005",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Massapê",
+      "en": "Massape",
+      "slug": "massape-br2308005"
+    },
+    "code": {
+      "id": "BR2308005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.506",
+      "lon": "-40.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2308104",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mauriti",
+      "en": "Mauriti",
+      "slug": "mauriti-br2308104"
+    },
+    "code": {
+      "id": "BR2308104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.398",
+      "lon": "-38.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2308203",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Meruoca",
+      "en": "Meruoca",
+      "slug": "meruoca-br2308203"
+    },
+    "code": {
+      "id": "BR2308203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.581",
+      "lon": "-40.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2308302",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Milagres",
+      "en": "Milagres",
+      "slug": "milagres-br2308302"
+    },
+    "code": {
+      "id": "BR2308302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.921",
+      "lon": "-39.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2308351",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Milhã",
+      "en": "Milha",
+      "slug": "milha-br2308351"
+    },
+    "code": {
+      "id": "BR2308351",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.634",
+      "lon": "-39.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2308377",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Miraíma",
+      "en": "Miraima",
+      "slug": "miraima-br2308377"
+    },
+    "code": {
+      "id": "BR2308377",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.573",
+      "lon": "-39.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2308401",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Missão Velha",
+      "en": "Missao Velha",
+      "slug": "missao-velha-br2308401"
+    },
+    "code": {
+      "id": "BR2308401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.269",
+      "lon": "-39.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2308500",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mombaça",
+      "en": "Mombaca",
+      "slug": "mombaca-br2308500"
+    },
+    "code": {
+      "id": "BR2308500",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.807",
+      "lon": "-39.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2308609",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Monsenhor Tabosa",
+      "en": "Monsenhor Tabosa",
+      "slug": "monsenhor-tabosa-br2308609"
+    },
+    "code": {
+      "id": "BR2308609",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.953",
+      "lon": "-40.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2308708",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Morada Nova",
+      "en": "Morada Nova",
+      "slug": "morada-nova-br2308708"
+    },
+    "code": {
+      "id": "BR2308708",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.902",
+      "lon": "-38.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2308807",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Moraújo",
+      "en": "Moraujo",
+      "slug": "moraujo-br2308807"
+    },
+    "code": {
+      "id": "BR2308807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.434",
+      "lon": "-40.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2308906",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Morrinhos",
+      "en": "Morrinhos",
+      "slug": "morrinhos-br2308906"
+    },
+    "code": {
+      "id": "BR2308906",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.79",
+      "lon": "-49.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2309003",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mucambo",
+      "en": "Mucambo",
+      "slug": "mucambo-br2309003"
+    },
+    "code": {
+      "id": "BR2309003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.899",
+      "lon": "-40.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2309102",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mulungu",
+      "en": "Mulungu",
+      "slug": "mulungu-br2309102"
+    },
+    "code": {
+      "id": "BR2309102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.996",
+      "lon": "-35.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2309201",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Olinda",
+      "en": "Nova Olinda",
+      "slug": "nova-olinda-br2309201"
+    },
+    "code": {
+      "id": "BR2309201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.455",
+      "lon": "-38.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2309300",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Russas",
+      "en": "Nova Russas",
+      "slug": "nova-russas-br2309300"
+    },
+    "code": {
+      "id": "BR2309300",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.736",
+      "lon": "-40.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2309409",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Novo Oriente",
+      "en": "Novo Oriente",
+      "slug": "novo-oriente-br2309409"
+    },
+    "code": {
+      "id": "BR2309409",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.587",
+      "lon": "-40.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2309458",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ocara",
+      "en": "Ocara",
+      "slug": "ocara-br2309458"
+    },
+    "code": {
+      "id": "BR2309458",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.535",
+      "lon": "-38.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2309508",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Orós",
+      "en": "Oros",
+      "slug": "oros-br2309508"
+    },
+    "code": {
+      "id": "BR2309508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.235",
+      "lon": "-38.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2309607",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pacajus",
+      "en": "Pacajus",
+      "slug": "pacajus-br2309607"
+    },
+    "code": {
+      "id": "BR2309607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.19",
+      "lon": "-38.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2309706",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pacatuba",
+      "en": "Pacatuba",
+      "slug": "pacatuba-br2309706"
+    },
+    "code": {
+      "id": "BR2309706",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.498",
+      "lon": "-36.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2309805",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pacoti",
+      "en": "Pacoti",
+      "slug": "pacoti-br2309805"
+    },
+    "code": {
+      "id": "BR2309805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.201",
+      "lon": "-38.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2309904",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pacujá",
+      "en": "Pacuja",
+      "slug": "pacuja-br2309904"
+    },
+    "code": {
+      "id": "BR2309904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.978",
+      "lon": "-40.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2310001",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palhano",
+      "en": "Palhano",
+      "slug": "palhano-br2310001"
+    },
+    "code": {
+      "id": "BR2310001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.667",
+      "lon": "-38.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2310100",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palmácia",
+      "en": "Palmacia",
+      "slug": "palmacia-br2310100"
+    },
+    "code": {
+      "id": "BR2310100",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.12",
+      "lon": "-38.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2310209",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paracuru",
+      "en": "Paracuru",
+      "slug": "paracuru-br2310209"
+    },
+    "code": {
+      "id": "BR2310209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.487",
+      "lon": "-39.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2310258",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paraipaba",
+      "en": "Paraipaba",
+      "slug": "paraipaba-br2310258"
+    },
+    "code": {
+      "id": "BR2310258",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.427",
+      "lon": "-39.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2310308",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Parambu",
+      "en": "Parambu",
+      "slug": "parambu-br2310308"
+    },
+    "code": {
+      "id": "BR2310308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.271",
+      "lon": "-40.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2310407",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paramoti",
+      "en": "Paramoti",
+      "slug": "paramoti-br2310407"
+    },
+    "code": {
+      "id": "BR2310407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.142",
+      "lon": "-39.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2310506",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedra Branca",
+      "en": "Pedra Branca",
+      "slug": "pedra-branca-br2310506"
+    },
+    "code": {
+      "id": "BR2310506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.471",
+      "lon": "-38.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2310605",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Penaforte",
+      "en": "Penaforte",
+      "slug": "penaforte-br2310605"
+    },
+    "code": {
+      "id": "BR2310605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.8",
+      "lon": "-39.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2310704",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pentecoste",
+      "en": "Pentecoste",
+      "slug": "pentecoste-br2310704"
+    },
+    "code": {
+      "id": "BR2310704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.843",
+      "lon": "-39.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2310803",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pereiro",
+      "en": "Pereiro",
+      "slug": "pereiro-br2310803"
+    },
+    "code": {
+      "id": "BR2310803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.995",
+      "lon": "-38.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2310852",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pindoretama",
+      "en": "Pindoretama",
+      "slug": "pindoretama-br2310852"
+    },
+    "code": {
+      "id": "BR2310852",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.046",
+      "lon": "-38.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2310902",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Piquet Carneiro",
+      "en": "Piquet Carneiro",
+      "slug": "piquet-carneiro-br2310902"
+    },
+    "code": {
+      "id": "BR2310902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.887",
+      "lon": "-39.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2310951",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pires Ferreira",
+      "en": "Pires Ferreira",
+      "slug": "pires-ferreira-br2310951"
+    },
+    "code": {
+      "id": "BR2310951",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.255",
+      "lon": "-40.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2311009",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Poranga",
+      "en": "Poranga",
+      "slug": "poranga-br2311009"
+    },
+    "code": {
+      "id": "BR2311009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.788",
+      "lon": "-41.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2311108",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porteiras",
+      "en": "Porteiras",
+      "slug": "porteiras-br2311108"
+    },
+    "code": {
+      "id": "BR2311108",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.568",
+      "lon": "-39.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2311207",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Potengi",
+      "en": "Potengi",
+      "slug": "potengi-br2311207"
+    },
+    "code": {
+      "id": "BR2311207",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.054",
+      "lon": "-40.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2311231",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Potiretama",
+      "en": "Potiretama",
+      "slug": "potiretama-br2311231"
+    },
+    "code": {
+      "id": "BR2311231",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.762",
+      "lon": "-38.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2311264",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quiterianópolis",
+      "en": "Quiterianopolis",
+      "slug": "quiterianopolis-br2311264"
+    },
+    "code": {
+      "id": "BR2311264",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.88",
+      "lon": "-40.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2311306",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quixadá",
+      "en": "Quixada",
+      "slug": "quixada-br2311306"
+    },
+    "code": {
+      "id": "BR2311306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.934",
+      "lon": "-38.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2311355",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quixelô",
+      "en": "Quixelo",
+      "slug": "quixelo-br2311355"
+    },
+    "code": {
+      "id": "BR2311355",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.156",
+      "lon": "-39.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2311405",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quixeramobim",
+      "en": "Quixeramobim",
+      "slug": "quixeramobim-br2311405"
+    },
+    "code": {
+      "id": "BR2311405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.165",
+      "lon": "-39.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2311504",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quixeré",
+      "en": "Quixere",
+      "slug": "quixere-br2311504"
+    },
+    "code": {
+      "id": "BR2311504",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.074",
+      "lon": "-37.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2311603",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Redenção",
+      "en": "Redencao",
+      "slug": "redencao-br2311603"
+    },
+    "code": {
+      "id": "BR2311603",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.268",
+      "lon": "-38.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2311702",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Reriutaba",
+      "en": "Reriutaba",
+      "slug": "reriutaba-br2311702"
+    },
+    "code": {
+      "id": "BR2311702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.139",
+      "lon": "-40.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2311801",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Russas",
+      "en": "Russas",
+      "slug": "russas-br2311801"
+    },
+    "code": {
+      "id": "BR2311801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.853",
+      "lon": "-38.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2311900",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Saboeiro",
+      "en": "Saboeiro",
+      "slug": "saboeiro-br2311900"
+    },
+    "code": {
+      "id": "BR2311900",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.47",
+      "lon": "-39.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2311959",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Salitre",
+      "en": "Salitre",
+      "slug": "salitre-br2311959"
+    },
+    "code": {
+      "id": "BR2311959",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.151",
+      "lon": "-40.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2312205",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Quitéria",
+      "en": "Santa Quiteria",
+      "slug": "santa-quiteria-br2312205"
+    },
+    "code": {
+      "id": "BR2312205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.399",
+      "lon": "-39.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2312007",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santana do Acaraú",
+      "en": "Santana do Acarau",
+      "slug": "santana-do-acarau-br2312007"
+    },
+    "code": {
+      "id": "BR2312007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.513",
+      "lon": "-40.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2312106",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santana do Cariri",
+      "en": "Santana do Cariri",
+      "slug": "santana-do-cariri-br2312106"
+    },
+    "code": {
+      "id": "BR2312106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.173",
+      "lon": "-39.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2312304",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Benedito",
+      "en": "Sao Benedito",
+      "slug": "sao-benedito-br2312304"
+    },
+    "code": {
+      "id": "BR2312304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.052",
+      "lon": "-40.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2312403",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Gonçalo do Amarante",
+      "en": "Sao Goncalo do Amarante",
+      "slug": "sao-goncalo-do-amarante-br2312403"
+    },
+    "code": {
+      "id": "BR2312403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.763",
+      "lon": "-35.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2312502",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São João do Jaguaribe",
+      "en": "Sao Joao do Jaguaribe",
+      "slug": "sao-joao-do-jaguaribe-br2312502"
+    },
+    "code": {
+      "id": "BR2312502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.314",
+      "lon": "-38.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2312601",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Luís do Curu",
+      "en": "Sao Luis do Curu",
+      "slug": "sao-luis-do-curu-br2312601"
+    },
+    "code": {
+      "id": "BR2312601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.651",
+      "lon": "-39.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2312700",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Senador Pompeu",
+      "en": "Senador Pompeu",
+      "slug": "senador-pompeu-br2312700"
+    },
+    "code": {
+      "id": "BR2312700",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.589",
+      "lon": "-39.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2312809",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Senador Sá",
+      "en": "Senador Sa",
+      "slug": "senador-sa-br2312809"
+    },
+    "code": {
+      "id": "BR2312809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.277",
+      "lon": "-40.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2312908",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sobral",
+      "en": "Sobral",
+      "slug": "sobral-br2312908"
+    },
+    "code": {
+      "id": "BR2312908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.826",
+      "lon": "-40.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2313005",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Solonópole",
+      "en": "Solonopole",
+      "slug": "solonopole-br2313005"
+    },
+    "code": {
+      "id": "BR2313005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.862",
+      "lon": "-38.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2313104",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tabuleiro do Norte",
+      "en": "Tabuleiro do Norte",
+      "slug": "tabuleiro-do-norte-br2313104"
+    },
+    "code": {
+      "id": "BR2313104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.28",
+      "lon": "-38.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2313203",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tamboril",
+      "en": "Tamboril",
+      "slug": "tamboril-br2313203"
+    },
+    "code": {
+      "id": "BR2313203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.918",
+      "lon": "-40.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2313252",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tarrafas",
+      "en": "Tarrafas",
+      "slug": "tarrafas-br2313252"
+    },
+    "code": {
+      "id": "BR2313252",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.725",
+      "lon": "-39.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2313302",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tauá",
+      "en": "Taua",
+      "slug": "taua-br2313302"
+    },
+    "code": {
+      "id": "BR2313302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.888",
+      "lon": "-40.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2313351",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tejuçuoca",
+      "en": "Tejucuoca",
+      "slug": "tejucuoca-br2313351"
+    },
+    "code": {
+      "id": "BR2313351",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.927",
+      "lon": "-39.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2313401",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tianguá",
+      "en": "Tiangua",
+      "slug": "tiangua-br2313401"
+    },
+    "code": {
+      "id": "BR2313401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.705",
+      "lon": "-41.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2313500",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Trairi",
+      "en": "Trairi",
+      "slug": "trairi-br2313500"
+    },
+    "code": {
+      "id": "BR2313500",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.352",
+      "lon": "-39.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2313559",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tururu",
+      "en": "Tururu",
+      "slug": "tururu-br2313559"
+    },
+    "code": {
+      "id": "BR2313559",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.534",
+      "lon": "-39.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2313609",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ubajara",
+      "en": "Ubajara",
+      "slug": "ubajara-br2313609"
+    },
+    "code": {
+      "id": "BR2313609",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.868",
+      "lon": "-40.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2313708",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Umari",
+      "en": "Umari",
+      "slug": "umari-br2313708"
+    },
+    "code": {
+      "id": "BR2313708",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.612",
+      "lon": "-38.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2313757",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Umirim",
+      "en": "Umirim",
+      "slug": "umirim-br2313757"
+    },
+    "code": {
+      "id": "BR2313757",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "-39.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2313807",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Uruburetama",
+      "en": "Uruburetama",
+      "slug": "uruburetama-br2313807"
+    },
+    "code": {
+      "id": "BR2313807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.631",
+      "lon": "-39.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2313906",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Uruoca",
+      "en": "Uruoca",
+      "slug": "uruoca-br2313906"
+    },
+    "code": {
+      "id": "BR2313906",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.339",
+      "lon": "-40.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2313955",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Varjota",
+      "en": "Varjota",
+      "slug": "varjota-br2313955"
+    },
+    "code": {
+      "id": "BR2313955",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.174",
+      "lon": "-40.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2314003",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Várzea Alegre",
+      "en": "Varzea Alegre",
+      "slug": "varzea-alegre-br2314003"
+    },
+    "code": {
+      "id": "BR2314003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.734",
+      "lon": "-39.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2314102",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Viçosa do Ceará",
+      "en": "Vicosa do Ceara",
+      "slug": "vicosa-do-ceara-br2314102"
+    },
+    "code": {
+      "id": "BR2314102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR23",
+        "level": 1,
+        "name": {
+          "local": "Ceará",
+          "en": "Ceara",
+          "slug": "ceara-br23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.57",
+      "lon": "-41.177"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

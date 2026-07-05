@@ -1,0 +1,45 @@
+{
+  "id": "BR3162302",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São João da Mata",
+    "en": "Sao Joao da Mata",
+    "slug": "sao-joao-da-mata-br3162302"
+  },
+  "code": {
+    "id": "BR3162302",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.939",
+    "lon": "-45.928"
+  },
+  "metadata": {},
+  "source": {}
+}

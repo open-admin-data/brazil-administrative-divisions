@@ -1,0 +1,45 @@
+{
+  "id": "BR4315149",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Presidente Lucena",
+    "en": "Presidente Lucena",
+    "slug": "presidente-lucena-br4315149"
+  },
+  "code": {
+    "id": "BR4315149",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.528",
+    "lon": "-51.189"
+  },
+  "metadata": {},
+  "source": {}
+}

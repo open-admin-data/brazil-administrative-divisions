@@ -1,0 +1,45 @@
+{
+  "id": "BR2109106",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Presidente Dutra",
+    "en": "Presidente Dutra",
+    "slug": "presidente-dutra-br2109106"
+  },
+  "code": {
+    "id": "BR2109106",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.305",
+    "lon": "-41.987"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3515129",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Emilianópolis",
+    "en": "Emilianopolis",
+    "slug": "emilianopolis-br3515129"
+  },
+  "code": {
+    "id": "BR3515129",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.782",
+    "lon": "-51.476"
+  },
+  "metadata": {},
+  "source": {}
+}

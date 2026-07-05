@@ -1,0 +1,45 @@
+{
+  "id": "BR5000203",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Água Clara",
+    "en": "Agua Clara",
+    "slug": "agua-clara-br5000203"
+  },
+  "code": {
+    "id": "BR5000203",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR50",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso do Sul",
+      "en": "Mato Grosso do Sul",
+      "slug": "mato-grosso-do-sul-br50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.088",
+    "lon": "-52.854"
+  },
+  "metadata": {},
+  "source": {}
+}

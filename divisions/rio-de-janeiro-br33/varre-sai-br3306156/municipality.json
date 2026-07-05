@@ -1,0 +1,45 @@
+{
+  "id": "BR3306156",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Varre-Sai",
+    "en": "Varre-Sai",
+    "slug": "varre-sai-br3306156"
+  },
+  "code": {
+    "id": "BR3306156",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR33",
+    "level": 1,
+    "name": {
+      "local": "Rio de Janeiro",
+      "en": "Rio de Janeiro",
+      "slug": "rio-de-janeiro-br33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.897",
+    "lon": "-41.821"
+  },
+  "metadata": {},
+  "source": {}
+}

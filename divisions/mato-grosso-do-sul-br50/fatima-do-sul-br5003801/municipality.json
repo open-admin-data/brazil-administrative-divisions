@@ -1,0 +1,45 @@
+{
+  "id": "BR5003801",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Fátima do Sul",
+    "en": "Fatima do Sul",
+    "slug": "fatima-do-sul-br5003801"
+  },
+  "code": {
+    "id": "BR5003801",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR50",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso do Sul",
+      "en": "Mato Grosso do Sul",
+      "slug": "mato-grosso-do-sul-br50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.328",
+    "lon": "-54.456"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR5220207",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Miguel do Araguaia",
+    "en": "Sao Miguel do Araguaia",
+    "slug": "sao-miguel-do-araguaia-br5220207"
+  },
+  "code": {
+    "id": "BR5220207",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.006",
+    "lon": "-50.278"
+  },
+  "metadata": {},
+  "source": {}
+}

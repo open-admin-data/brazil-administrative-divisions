@@ -1,0 +1,45 @@
+{
+  "id": "BR4218103",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Timbé do Sul",
+    "en": "Timbe do Sul",
+    "slug": "timbe-do-sul-br4218103"
+  },
+  "code": {
+    "id": "BR4218103",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.806",
+    "lon": "-49.903"
+  },
+  "metadata": {},
+  "source": {}
+}

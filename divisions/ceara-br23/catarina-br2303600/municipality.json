@@ -1,0 +1,45 @@
+{
+  "id": "BR2303600",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Catarina",
+    "en": "Catarina",
+    "slug": "catarina-br2303600"
+  },
+  "code": {
+    "id": "BR2303600",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.264",
+    "lon": "-39.927"
+  },
+  "metadata": {},
+  "source": {}
+}

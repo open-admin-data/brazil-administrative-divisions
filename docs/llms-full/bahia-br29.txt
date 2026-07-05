@@ -1,0 +1,2094 @@
+# Bahia — Brazil Administrative Divisions
+
+> 417 municipalitys
+> Code: BR29
+> Coordinates: -12.58, -41.827
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Abaíra (Abaira)
+
+Code: BR2900108, Coordinates: -13.315, -41.732
+
+
+### Abaré (Abare)
+
+Code: BR2900207, Coordinates: -8.809, -39.258
+
+
+### Acajutiba
+
+Code: BR2900306, Coordinates: -11.636, -38.01
+
+
+### Adustina
+
+Code: BR2900355, Coordinates: -10.521, -37.996
+
+
+### Água Fria (Agua Fria)
+
+Code: BR2900405, Coordinates: -11.797, -38.688
+
+
+### Aiquara
+
+Code: BR2900603, Coordinates: -14.093, -39.868
+
+
+### Alagoinhas
+
+Code: BR2900702, Coordinates: -12.076, -38.389
+
+
+### Alcobaça (Alcobaca)
+
+Code: BR2900801, Coordinates: -17.406, -39.42
+
+
+### Almadina
+
+Code: BR2900900, Coordinates: -14.702, -39.67
+
+
+### Amargosa
+
+Code: BR2901007, Coordinates: -13.029, -39.608
+
+
+### Amélia Rodrigues (Amelia Rodrigues)
+
+Code: BR2901106, Coordinates: -12.422, -38.715
+
+
+### América Dourada (America Dourada)
+
+Code: BR2901155, Coordinates: -11.421, -41.469
+
+
+### Anagé (Anage)
+
+Code: BR2901205, Coordinates: -14.605, -40.979
+
+
+### Andaraí (Andarai)
+
+Code: BR2901304, Coordinates: -12.788, -41.241
+
+
+### Andorinha
+
+Code: BR2901353, Coordinates: -10.273, -39.862
+
+
+### Angical
+
+Code: BR2901403, Coordinates: -11.993, -44.782
+
+
+### Anguera
+
+Code: BR2901502, Coordinates: -12.184, -39.207
+
+
+### Antas
+
+Code: BR2901601, Coordinates: -10.449, -38.293
+
+
+### Antônio Cardoso (Antonio Cardoso)
+
+Code: BR2901700, Coordinates: -12.38, -39.143
+
+
+### Antônio Gonçalves (Antonio Goncalves)
+
+Code: BR2901809, Coordinates: -10.62, -40.35
+
+
+### Aporá (Apora)
+
+Code: BR2901908, Coordinates: -11.745, -38.209
+
+
+### Apuarema
+
+Code: BR2901957, Coordinates: -13.818, -39.76
+
+
+### Araçás (Aracas)
+
+Code: BR2902054, Coordinates: -12.132, -38.199
+
+
+### Aracatu
+
+Code: BR2902005, Coordinates: -14.381, -41.356
+
+
+### Araci
+
+Code: BR2902104, Coordinates: -11.19, -39.12
+
+
+### Aramari
+
+Code: BR2902203, Coordinates: -12.03, -38.55
+
+
+### Arataca
+
+Code: BR2902252, Coordinates: -15.247, -39.422
+
+
+### Aratuípe (Aratuipe)
+
+Code: BR2902302, Coordinates: -13.087, -39.074
+
+
+### Aurelino Leal
+
+Code: BR2902401, Coordinates: -14.336, -39.509
+
+
+### Baianópolis (Baianopolis)
+
+Code: BR2902500, Coordinates: -12.598, -44.432
+
+
+### Baixa Grande
+
+Code: BR2902609, Coordinates: -11.969, -40.15
+
+
+### Banzaê (Banzae)
+
+Code: BR2902658, Coordinates: -10.598, -38.657
+
+
+### Barra
+
+Code: BR2902708, Coordinates: -11.097, -43.413
+
+
+### Barra da Estiva
+
+Code: BR2902807, Coordinates: -13.695, -41.087
+
+
+### Barra do Choça (Barra do Choca)
+
+Code: BR2902906, Coordinates: -14.955, -40.669
+
+
+### Barra do Mendes
+
+Code: BR2903003, Coordinates: -11.994, -42.085
+
+
+### Barra do Rocha
+
+Code: BR2903102, Coordinates: -14.09, -39.585
+
+
+### Barreiras
+
+Code: BR2903201, Coordinates: -11.929, -45.713
+
+
+### Barro Alto
+
+Code: BR2903235, Coordinates: -14.892, -48.87
+
+
+### Barro Preto
+
+Code: BR2903300, Coordinates: -14.764, -39.445
+
+
+### Barrocas
+
+Code: BR2903276, Coordinates: -11.57, -39.099
+
+
+### Belmonte
+
+Code: BR2903409, Coordinates: -26.853, -53.619
+
+
+### Belo Campo
+
+Code: BR2903508, Coordinates: -14.892, -41.208
+
+
+### Biritinga
+
+Code: BR2903607, Coordinates: -11.653, -38.818
+
+
+### Boa Nova
+
+Code: BR2903706, Coordinates: -14.357, -40.225
+
+
+### Boa Vista do Tupim
+
+Code: BR2903805, Coordinates: -12.781, -40.72
+
+
+### Bom Jesus da Lapa
+
+Code: BR2903904, Coordinates: -13.189, -43.306
+
+
+### Bom Jesus da Serra
+
+Code: BR2903953, Coordinates: -14.394, -40.612
+
+
+### Boninal
+
+Code: BR2904001, Coordinates: -12.802, -41.823
+
+
+### Bonito
+
+Code: BR2904050, Coordinates: -20.927, -56.319
+
+
+### Boquira
+
+Code: BR2904100, Coordinates: -12.733, -42.647
+
+
+### Botuporã (Botupora)
+
+Code: BR2904209, Coordinates: -13.336, -42.542
+
+
+### Brejões (Brejoes)
+
+Code: BR2904308, Coordinates: -13.104, -39.834
+
+
+### Brejolândia (Brejolandia)
+
+Code: BR2904407, Coordinates: -12.419, -43.943
+
+
+### Brotas de Macaúbas (Brotas de Macaubas)
+
+Code: BR2904506, Coordinates: -12.127, -42.518
+
+
+### Brumado
+
+Code: BR2904605, Coordinates: -14.143, -41.632
+
+
+### Buerarema
+
+Code: BR2904704, Coordinates: -14.995, -39.271
+
+
+### Buritirama
+
+Code: BR2904753, Coordinates: -10.561, -43.687
+
+
+### Caatiba
+
+Code: BR2904803, Coordinates: -15.006, -40.333
+
+
+### Cabaceiras do Paraguaçu (Cabaceiras do Paraguacu)
+
+Code: BR2904852, Coordinates: -12.566, -39.189
+
+
+### Cachoeira
+
+Code: BR2904902, Coordinates: -12.65, -38.863
+
+
+### Caculé (Cacule)
+
+Code: BR2905008, Coordinates: -14.474, -42.353
+
+
+### Caém (Caem)
+
+Code: BR2905107, Coordinates: -11.174, -40.261
+
+
+### Caetanos
+
+Code: BR2905156, Coordinates: -14.291, -40.978
+
+
+### Caetité (Caetite)
+
+Code: BR2905206, Coordinates: -13.866, -42.45
+
+
+### Cafarnaum
+
+Code: BR2905305, Coordinates: -11.699, -41.5
+
+
+### Cairu
+
+Code: BR2905404, Coordinates: -13.548, -38.972
+
+
+### Caldeirão Grande (Caldeirao Grande)
+
+Code: BR2905503, Coordinates: -11.05, -40.189
+
+
+### Camacan
+
+Code: BR2905602, Coordinates: -15.446, -39.508
+
+
+### Camaçari (Camacari)
+
+Code: BR2905701, Coordinates: -12.612, -38.195
+
+
+### Camamu
+
+Code: BR2905800, Coordinates: -14.005, -39.18
+
+
+### Campo Alegre de Lourdes
+
+Code: BR2905909, Coordinates: -9.485, -43.053
+
+
+### Campo Formoso
+
+Code: BR2906006, Coordinates: -10.233, -40.845
+
+
+### Canápolis (Canapolis)
+
+Code: BR2906105, Coordinates: -18.779, -49.275
+
+
+### Canarana
+
+Code: BR2906204, Coordinates: -13.179, -52.382
+
+
+### Canavieiras
+
+Code: BR2906303, Coordinates: -15.667, -39.174
+
+
+### Candeal
+
+Code: BR2906402, Coordinates: -11.889, -39.204
+
+
+### Candeias
+
+Code: BR2906501, Coordinates: -20.75, -45.269
+
+
+### Candiba
+
+Code: BR2906600, Coordinates: -14.401, -42.839
+
+
+### Cândido Sales (Candido Sales)
+
+Code: BR2906709, Coordinates: -15.402, -41.217
+
+
+### Cansanção (Cansancao)
+
+Code: BR2906808, Coordinates: -10.785, -39.428
+
+
+### Canudos
+
+Code: BR2906824, Coordinates: -9.945, -38.982
+
+
+### Capela do Alto Alegre
+
+Code: BR2906857, Coordinates: -11.67, -39.841
+
+
+### Capim Grosso
+
+Code: BR2906873, Coordinates: -11.267, -40.01
+
+
+### Caraíbas (Caraibas)
+
+Code: BR2906899, Coordinates: -14.624, -41.258
+
+
+### Caravelas
+
+Code: BR2906907, Coordinates: -17.642, -39.768
+
+
+### Cardeal da Silva
+
+Code: BR2907004, Coordinates: -12.027, -37.944
+
+
+### Carinhanha
+
+Code: BR2907103, Coordinates: -13.979, -43.936
+
+
+### Casa Nova
+
+Code: BR2907202, Coordinates: -9.11, -41.174
+
+
+### Castro Alves
+
+Code: BR2907301, Coordinates: -12.74, -39.369
+
+
+### Catolândia (Catolandia)
+
+Code: BR2907400, Coordinates: -12.271, -44.673
+
+
+### Catu
+
+Code: BR2907509, Coordinates: -12.355, -38.424
+
+
+### Caturama
+
+Code: BR2907558, Coordinates: -13.186, -42.283
+
+
+### Central
+
+Code: BR2907608, Coordinates: -11.175, -42.084
+
+
+### Chorrochó (Chorrocho)
+
+Code: BR2907707, Coordinates: -9.307, -39.184
+
+
+### Cícero Dantas (Cicero Dantas)
+
+Code: BR2907806, Coordinates: -10.489, -38.458
+
+
+### Cipó (Cipo)
+
+Code: BR2907905, Coordinates: -11.092, -38.526
+
+
+### Coaraci
+
+Code: BR2908002, Coordinates: -14.664, -39.594
+
+
+### Cocos
+
+Code: BR2908101, Coordinates: -14.564, -45.226
+
+
+### Conceição da Feira (Conceicao da Feira)
+
+Code: BR2908200, Coordinates: -12.502, -38.989
+
+
+### Conceição do Almeida (Conceicao do Almeida)
+
+Code: BR2908309, Coordinates: -12.853, -39.234
+
+
+### Conceição do Coité (Conceicao do Coite)
+
+Code: BR2908408, Coordinates: -11.504, -39.199
+
+
+### Conceição do Jacuípe (Conceicao do Jacuipe)
+
+Code: BR2908507, Coordinates: -12.321, -38.748
+
+
+### Conde
+
+Code: BR2908606, Coordinates: -11.808, -37.691
+
+
+### Condeúba (Condeuba)
+
+Code: BR2908705, Coordinates: -14.929, -42.05
+
+
+### Contendas do Sincorá (Contendas do Sincora)
+
+Code: BR2908804, Coordinates: -13.809, -41.05
+
+
+### Coração de Maria (Coracao de Maria)
+
+Code: BR2908903, Coordinates: -12.227, -38.792
+
+
+### Cordeiros
+
+Code: BR2909000, Coordinates: -15.024, -41.899
+
+
+### Coribe
+
+Code: BR2909109, Coordinates: -13.812, -44.303
+
+
+### Coronel João Sá (Coronel Joao Sa)
+
+Code: BR2909208, Coordinates: -10.318, -37.957
+
+
+### Correntina
+
+Code: BR2909307, Coordinates: -13.483, -45.313
+
+
+### Cotegipe
+
+Code: BR2909406, Coordinates: -11.584, -44.168
+
+
+### Cravolândia (Cravolandia)
+
+Code: BR2909505, Coordinates: -13.455, -39.752
+
+
+### Crisópolis (Crisopolis)
+
+Code: BR2909604, Coordinates: -11.549, -38.121
+
+
+### Cristópolis (Cristopolis)
+
+Code: BR2909703, Coordinates: -12.194, -44.187
+
+
+### Cruz das Almas
+
+Code: BR2909802, Coordinates: -12.674, -39.12
+
+
+### Curaçá (Curaca)
+
+Code: BR2909901, Coordinates: -9.165, -39.669
+
+
+### Dário Meira (Dario Meira)
+
+Code: BR2910008, Coordinates: -14.411, -39.977
+
+
+### Dias d&#39;Ávila (Dias d&#39;Avila)
+
+Code: BR2910057, Coordinates: -12.591, -38.275
+
+
+### Dom Basílio (Dom Basilio)
+
+Code: BR2910107, Coordinates: -13.821, -41.744
+
+
+### Dom Macedo Costa
+
+Code: BR2910206, Coordinates: -12.921, -39.169
+
+
+### Elísio Medrado (Elisio Medrado)
+
+Code: BR2910305, Coordinates: -12.941, -39.525
+
+
+### Encruzilhada
+
+Code: BR2910404, Coordinates: -15.574, -40.919
+
+
+### Entre Rios
+
+Code: BR2910503, Coordinates: -26.732, -52.598
+
+
+### Érico Cardoso (Erico Cardoso)
+
+Code: BR2900504, Coordinates: -13.425, -42.074
+
+
+### Esplanada
+
+Code: BR2910602, Coordinates: -11.95, -37.89
+
+
+### Euclides da Cunha
+
+Code: BR2910701, Coordinates: -10.488, -38.93
+
+
+### Eunápolis (Eunapolis)
+
+Code: BR2910727, Coordinates: -16.324, -39.642
+
+
+### Fátima (Fatima)
+
+Code: BR2910750, Coordinates: -10.579, -38.22
+
+
+### Feira da Mata
+
+Code: BR2910776, Coordinates: -14.17, -44.273
+
+
+### Feira de Santana
+
+Code: BR2910800, Coordinates: -12.213, -39.061
+
+
+### Filadélfia (Filadelfia)
+
+Code: BR2910859, Coordinates: -10.747, -40.169
+
+
+### Firmino Alves
+
+Code: BR2910909, Coordinates: -14.911, -39.922
+
+
+### Floresta Azul
+
+Code: BR2911006, Coordinates: -14.86, -39.731
+
+
+### Formosa do Rio Preto
+
+Code: BR2911105, Coordinates: -10.949, -45.437
+
+
+### Gandu
+
+Code: BR2911204, Coordinates: -13.816, -39.476
+
+
+### Gavião (Gaviao)
+
+Code: BR2911253, Coordinates: -11.486, -39.764
+
+
+### Gentio do Ouro
+
+Code: BR2911303, Coordinates: -11.373, -42.567
+
+
+### Glória (Gloria)
+
+Code: BR2911402, Coordinates: -9.215, -38.429
+
+
+### Gongogi
+
+Code: BR2911501, Coordinates: -14.296, -39.595
+
+
+### Governador Mangabeira
+
+Code: BR2911600, Coordinates: -12.58, -39.08
+
+
+### Guajeru
+
+Code: BR2911659, Coordinates: -14.613, -41.945
+
+
+### Guanambi
+
+Code: BR2911709, Coordinates: -14.204, -42.791
+
+
+### Guaratinga
+
+Code: BR2911808, Coordinates: -16.572, -39.985
+
+
+### Heliópolis (Heliopolis)
+
+Code: BR2911857, Coordinates: -10.734, -38.246
+
+
+### Iaçu (Iacu)
+
+Code: BR2911907, Coordinates: -12.826, -40.191
+
+
+### Ibiassucê (Ibiassuce)
+
+Code: BR2912004, Coordinates: -14.284, -42.305
+
+
+### Ibicaraí (Ibicarai)
+
+Code: BR2912103, Coordinates: -14.86, -39.568
+
+
+### Ibicoara
+
+Code: BR2912202, Coordinates: -13.362, -41.3
+
+
+### Ibicuí (Ibicui)
+
+Code: BR2912301, Coordinates: -14.654, -39.867
+
+
+### Ibipeba
+
+Code: BR2912400, Coordinates: -11.526, -42.193
+
+
+### Ibipitanga
+
+Code: BR2912509, Coordinates: -12.886, -42.361
+
+
+### Ibiquera
+
+Code: BR2912608, Coordinates: -12.64, -40.859
+
+
+### Ibirapitanga
+
+Code: BR2912707, Coordinates: -14.035, -39.436
+
+
+### Ibirapuã (Ibirapua)
+
+Code: BR2912806, Coordinates: -17.748, -40.003
+
+
+### Ibirataia
+
+Code: BR2912905, Coordinates: -13.976, -39.613
+
+
+### Ibitiara
+
+Code: BR2913002, Coordinates: -12.567, -42.386
+
+
+### Ibititá (Ibitita)
+
+Code: BR2913101, Coordinates: -11.659, -41.876
+
+
+### Ibotirama
+
+Code: BR2913200, Coordinates: -11.995, -43.191
+
+
+### Ichu
+
+Code: BR2913309, Coordinates: -11.716, -39.186
+
+
+### Igaporã (Igapora)
+
+Code: BR2913408, Coordinates: -13.852, -42.754
+
+
+### Igrapiúna (Igrapiuna)
+
+Code: BR2913457, Coordinates: -13.889, -39.233
+
+
+### Iguaí (Iguai)
+
+Code: BR2913507, Coordinates: -14.629, -40.077
+
+
+### Ilhéus (Ilheus)
+
+Code: BR2913606, Coordinates: -14.764, -39.222
+
+
+### Inhambupe
+
+Code: BR2913705, Coordinates: -11.814, -38.389
+
+
+### Ipecaetá (Ipecaeta)
+
+Code: BR2913804, Coordinates: -12.323, -39.331
+
+
+### Ipiaú (Ipiau)
+
+Code: BR2913903, Coordinates: -14.049, -39.726
+
+
+### Ipirá (Ipira)
+
+Code: BR2914000, Coordinates: -27.386, -51.797
+
+
+### Ipupiara
+
+Code: BR2914109, Coordinates: -11.773, -42.449
+
+
+### Irajuba
+
+Code: BR2914208, Coordinates: -13.246, -40.035
+
+
+### Iramaia
+
+Code: BR2914307, Coordinates: -13.521, -40.871
+
+
+### Iraquara
+
+Code: BR2914406, Coordinates: -12.3, -41.553
+
+
+### Irará (Irara)
+
+Code: BR2914505, Coordinates: -12.033, -38.753
+
+
+### Irecê (Irece)
+
+Code: BR2914604, Coordinates: -11.324, -41.835
+
+
+### Itabela
+
+Code: BR2914653, Coordinates: -16.692, -39.528
+
+
+### Itaberaba
+
+Code: BR2914703, Coordinates: -12.469, -40.222
+
+
+### Itabuna
+
+Code: BR2914802, Coordinates: -14.893, -39.309
+
+
+### Itacaré (Itacare)
+
+Code: BR2914901, Coordinates: -14.344, -39.12
+
+
+### Itaeté (Itaete)
+
+Code: BR2915007, Coordinates: -13.057, -41.059
+
+
+### Itagi
+
+Code: BR2915106, Coordinates: -14.162, -40.03
+
+
+### Itagibá (Itagiba)
+
+Code: BR2915205, Coordinates: -14.258, -39.826
+
+
+### Itagimirim
+
+Code: BR2915304, Coordinates: -16.121, -39.789
+
+
+### Itaguaçu da Bahia (Itaguacu da Bahia)
+
+Code: BR2915353, Coordinates: -10.666, -42.292
+
+
+### Itaju do Colônia (Itaju do Colonia)
+
+Code: BR2915403, Coordinates: -15.139, -39.715
+
+
+### Itajuípe (Itajuipe)
+
+Code: BR2915502, Coordinates: -14.685, -39.426
+
+
+### Itamaraju
+
+Code: BR2915601, Coordinates: -16.983, -39.754
+
+
+### Itamari
+
+Code: BR2915700, Coordinates: -13.773, -39.672
+
+
+### Itambé (Itambe)
+
+Code: BR2915809, Coordinates: -23.692, -52.016
+
+
+### Itanagra
+
+Code: BR2915908, Coordinates: -12.302, -38.085
+
+
+### Itanhém (Itanhem)
+
+Code: BR2916005, Coordinates: -17.092, -40.357
+
+
+### Itaparica
+
+Code: BR2916104, Coordinates: -12.878, -38.664
+
+
+### Itapé (Itape)
+
+Code: BR2916203, Coordinates: -14.951, -39.529
+
+
+### Itapebi
+
+Code: BR2916302, Coordinates: -15.886, -39.663
+
+
+### Itapetinga
+
+Code: BR2916401, Coordinates: -15.356, -40.056
+
+
+### Itapicuru
+
+Code: BR2916500, Coordinates: -11.196, -38.147
+
+
+### Itapitanga
+
+Code: BR2916609, Coordinates: -14.453, -39.595
+
+
+### Itaquara
+
+Code: BR2916708, Coordinates: -13.455, -39.892
+
+
+### Itarantim
+
+Code: BR2916807, Coordinates: -15.704, -40.05
+
+
+### Itatim
+
+Code: BR2916856, Coordinates: -12.701, -39.725
+
+
+### Itiruçu (Itirucu)
+
+Code: BR2916906, Coordinates: -13.503, -40.173
+
+
+### Itiúba (Itiuba)
+
+Code: BR2917003, Coordinates: -10.731, -39.836
+
+
+### Itororó (Itororo)
+
+Code: BR2917102, Coordinates: -15.05, -40.023
+
+
+### Ituaçu (Ituacu)
+
+Code: BR2917201, Coordinates: -13.879, -41.404
+
+
+### Ituberá (Itubera)
+
+Code: BR2917300, Coordinates: -13.754, -39.148
+
+
+### Iuiu
+
+Code: BR2917334, Coordinates: -14.602, -43.634
+
+
+### Jaborandi
+
+Code: BR2917359, Coordinates: -20.654, -48.41
+
+
+### Jacaraci
+
+Code: BR2917409, Coordinates: -14.804, -42.369
+
+
+### Jacobina
+
+Code: BR2917508, Coordinates: -11.12, -40.519
+
+
+### Jaguaquara
+
+Code: BR2917607, Coordinates: -13.568, -39.938
+
+
+### Jaguarari
+
+Code: BR2917706, Coordinates: -10.061, -40.056
+
+
+### Jaguaripe
+
+Code: BR2917805, Coordinates: -13.117, -39.019
+
+
+### Jandaíra (Jandaira)
+
+Code: BR2917904, Coordinates: -11.595, -37.631
+
+
+### Jequié (Jequie)
+
+Code: BR2918001, Coordinates: -13.901, -40.077
+
+
+### Jeremoabo
+
+Code: BR2918100, Coordinates: -10.074, -38.465
+
+
+### Jiquiriçá (Jiquirica)
+
+Code: BR2918209, Coordinates: -13.325, -39.59
+
+
+### Jitaúna (Jitauna)
+
+Code: BR2918308, Coordinates: -13.961, -39.843
+
+
+### João Dourado (Joao Dourado)
+
+Code: BR2918357, Coordinates: -11.189, -41.53
+
+
+### Juazeiro
+
+Code: BR2918407, Coordinates: -9.452, -40.278
+
+
+### Jucuruçu (Jucurucu)
+
+Code: BR2918456, Coordinates: -16.839, -40.092
+
+
+### Jussara
+
+Code: BR2918506, Coordinates: -15.675, -51.302
+
+
+### Jussari
+
+Code: BR2918555, Coordinates: -15.138, -39.499
+
+
+### Jussiape
+
+Code: BR2918605, Coordinates: -13.482, -41.628
+
+
+### Lafaiete Coutinho
+
+Code: BR2918704, Coordinates: -13.64, -40.298
+
+
+### Lagoa Real
+
+Code: BR2918753, Coordinates: -14.041, -42.226
+
+
+### Laje
+
+Code: BR2918803, Coordinates: -13.177, -39.308
+
+
+### Lajedão (Lajedao)
+
+Code: BR2918902, Coordinates: -17.573, -40.326
+
+
+### Lajedinho
+
+Code: BR2919009, Coordinates: -12.426, -41.047
+
+
+### Lajedo do Tabocal
+
+Code: BR2919058, Coordinates: -13.426, -40.253
+
+
+### Lamarão (Lamarao)
+
+Code: BR2919108, Coordinates: -11.794, -38.907
+
+
+### Lapão (Lapao)
+
+Code: BR2919157, Coordinates: -11.566, -41.735
+
+
+### Lauro de Freitas
+
+Code: BR2919207, Coordinates: -12.854, -38.325
+
+
+### Lençóis (Lencois)
+
+Code: BR2919306, Coordinates: -12.465, -41.329
+
+
+### Licínio de Almeida (Licinio de Almeida)
+
+Code: BR2919405, Coordinates: -14.62, -42.483
+
+
+### Livramento de Nossa Senhora
+
+Code: BR2919504, Coordinates: -13.817, -41.977
+
+
+### Luís Eduardo Magalhães (Luis Eduardo Magalhaes)
+
+Code: BR2919553, Coordinates: -12.251, -46.2
+
+
+### Macajuba
+
+Code: BR2919603, Coordinates: -12.141, -40.272
+
+
+### Macarani
+
+Code: BR2919702, Coordinates: -15.572, -40.398
+
+
+### Macaúbas (Macaubas)
+
+Code: BR2919801, Coordinates: -13.127, -42.693
+
+
+### Macururé (Macurure)
+
+Code: BR2919900, Coordinates: -9.417, -38.963
+
+
+### Madre de Deus
+
+Code: BR2919926, Coordinates: -12.735, -38.621
+
+
+### Maetinga
+
+Code: BR2919959, Coordinates: -14.717, -41.493
+
+
+### Maiquinique
+
+Code: BR2920007, Coordinates: -15.671, -40.286
+
+
+### Mairi
+
+Code: BR2920106, Coordinates: -11.731, -40.192
+
+
+### Malhada
+
+Code: BR2920205, Coordinates: -14.169, -43.645
+
+
+### Malhada de Pedras
+
+Code: BR2920304, Coordinates: -14.343, -41.849
+
+
+### Manoel Vitorino
+
+Code: BR2920403, Coordinates: -14.042, -40.548
+
+
+### Mansidão (Mansidao)
+
+Code: BR2920452, Coordinates: -11.189, -44.104
+
+
+### Maracás (Maracas)
+
+Code: BR2920502, Coordinates: -13.625, -40.595
+
+
+### Maragogipe
+
+Code: BR2920601, Coordinates: -12.847, -38.951
+
+
+### Maraú (Marau)
+
+Code: BR2920700, Coordinates: -28.46, -52.269
+
+
+### Marcionílio Souza (Marcionilio Souza)
+
+Code: BR2920809, Coordinates: -13.117, -40.662
+
+
+### Mascote
+
+Code: BR2920908, Coordinates: -15.662, -39.412
+
+
+### Mata de São João (Mata de Sao Joao)
+
+Code: BR2921005, Coordinates: -12.485, -38.147
+
+
+### Matina
+
+Code: BR2921054, Coordinates: -13.894, -42.967
+
+
+### Medeiros Neto
+
+Code: BR2921104, Coordinates: -17.387, -40.288
+
+
+### Miguel Calmon
+
+Code: BR2921203, Coordinates: -11.502, -40.563
+
+
+### Milagres
+
+Code: BR2921302, Coordinates: -12.921, -39.762
+
+
+### Mirangaba
+
+Code: BR2921401, Coordinates: -10.777, -40.659
+
+
+### Mirante
+
+Code: BR2921450, Coordinates: -14.144, -40.761
+
+
+### Monte Santo
+
+Code: BR2921500, Coordinates: -10.398, -39.434
+
+
+### Morpará (Morpara)
+
+Code: BR2921609, Coordinates: -11.715, -43.04
+
+
+### Morro do Chapéu (Morro do Chapeu)
+
+Code: BR2921708, Coordinates: -11.319, -41.314
+
+
+### Mortugaba
+
+Code: BR2921807, Coordinates: -14.986, -42.327
+
+
+### Mucugê (Mucuge)
+
+Code: BR2921906, Coordinates: -13.132, -41.475
+
+
+### Mucuri
+
+Code: BR2922003, Coordinates: -17.955, -39.935
+
+
+### Mulungu do Morro
+
+Code: BR2922052, Coordinates: -12.009, -41.464
+
+
+### Mundo Novo
+
+Code: BR2922102, Coordinates: -13.72, -50.213
+
+
+### Muniz Ferreira
+
+Code: BR2922201, Coordinates: -13.009, -39.103
+
+
+### Muquém do São Francisco (Muquem do Sao Francisco)
+
+Code: BR2922250, Coordinates: -12.125, -43.546
+
+
+### Muritiba
+
+Code: BR2922300, Coordinates: -12.63, -39.074
+
+
+### Mutuípe (Mutuipe)
+
+Code: BR2922409, Coordinates: -13.331, -39.511
+
+
+### Nazaré (Nazare)
+
+Code: BR2922508, Coordinates: -12.939, -38.98
+
+
+### Nilo Peçanha (Nilo Pecanha)
+
+Code: BR2922607, Coordinates: -13.656, -39.182
+
+
+### Nordestina
+
+Code: BR2922656, Coordinates: -10.891, -39.446
+
+
+### Nova Canaã (Nova Canaa)
+
+Code: BR2922706, Coordinates: -14.836, -40.2
+
+
+### Nova Fátima (Nova Fatima)
+
+Code: BR2922730, Coordinates: -23.403, -50.538
+
+
+### Nova Ibiá (Nova Ibia)
+
+Code: BR2922755, Coordinates: -13.842, -39.579
+
+
+### Nova Itarana
+
+Code: BR2922805, Coordinates: -13.061, -40.021
+
+
+### Nova Redenção (Nova Redencao)
+
+Code: BR2922854, Coordinates: -12.822, -41.132
+
+
+### Nova Soure
+
+Code: BR2922904, Coordinates: -11.323, -38.49
+
+
+### Nova Viçosa (Nova Vicosa)
+
+Code: BR2923001, Coordinates: -17.877, -39.659
+
+
+### Novo Horizonte
+
+Code: BR2923035, Coordinates: -26.501, -52.78
+
+
+### Novo Triunfo
+
+Code: BR2923050, Coordinates: -10.358, -38.494
+
+
+### Olindina
+
+Code: BR2923100, Coordinates: -11.392, -38.37
+
+
+### Oliveira dos Brejinhos
+
+Code: BR2923209, Coordinates: -12.261, -42.742
+
+
+### Ouriçangas (Ouricangas)
+
+Code: BR2923308, Coordinates: -12.012, -38.652
+
+
+### Ourolândia (Ourolandia)
+
+Code: BR2923357, Coordinates: -10.822, -41.137
+
+
+### Palmas de Monte Alto
+
+Code: BR2923407, Coordinates: -14.099, -43.192
+
+
+### Palmeiras
+
+Code: BR2923506, Coordinates: -12.505, -41.527
+
+
+### Paramirim
+
+Code: BR2923605, Coordinates: -13.536, -42.222
+
+
+### Paratinga
+
+Code: BR2923704, Coordinates: -12.777, -43.079
+
+
+### Paripiranga
+
+Code: BR2923803, Coordinates: -10.592, -37.888
+
+
+### Pau Brasil
+
+Code: BR2923902, Coordinates: -15.477, -39.677
+
+
+### Paulo Afonso
+
+Code: BR2924009, Coordinates: -9.533, -38.228
+
+
+### Pé de Serra (Pe de Serra)
+
+Code: BR2924058, Coordinates: -11.901, -39.624
+
+
+### Pedrão (Pedrao)
+
+Code: BR2924108, Coordinates: -12.14, -38.627
+
+
+### Pedro Alexandre
+
+Code: BR2924207, Coordinates: -10.042, -37.947
+
+
+### Piatã (Piata)
+
+Code: BR2924306, Coordinates: -13.061, -41.914
+
+
+### Pilão Arcado (Pilao Arcado)
+
+Code: BR2924405, Coordinates: -9.964, -43.218
+
+
+### Pindaí (Pindai)
+
+Code: BR2924504, Coordinates: -14.508, -42.647
+
+
+### Pindobaçu (Pindobacu)
+
+Code: BR2924603, Coordinates: -10.736, -40.336
+
+
+### Pintadas
+
+Code: BR2924652, Coordinates: -11.874, -39.89
+
+
+### Piraí do Norte (Pirai do Norte)
+
+Code: BR2924678, Coordinates: -13.823, -39.391
+
+
+### Piripá (Piripa)
+
+Code: BR2924702, Coordinates: -14.973, -41.752
+
+
+### Piritiba
+
+Code: BR2924801, Coordinates: -11.658, -40.546
+
+
+### Planaltino
+
+Code: BR2924900, Coordinates: -13.188, -40.278
+
+
+### Planalto
+
+Code: BR2925006, Coordinates: -27.343, -53.093
+
+
+### Poções (Pocoes)
+
+Code: BR2925105, Coordinates: -14.557, -40.36
+
+
+### Pojuca
+
+Code: BR2925204, Coordinates: -12.36, -38.231
+
+
+### Ponto Novo
+
+Code: BR2925253, Coordinates: -10.908, -40.118
+
+
+### Porto Seguro
+
+Code: BR2925303, Coordinates: -16.659, -39.304
+
+
+### Potiraguá (Potiragua)
+
+Code: BR2925402, Coordinates: -15.669, -39.769
+
+
+### Prado
+
+Code: BR2925501, Coordinates: -17.158, -39.384
+
+
+### Presidente Dutra
+
+Code: BR2925600, Coordinates: -11.305, -41.987
+
+
+### Presidente Jânio Quadros (Presidente Janio Quadros)
+
+Code: BR2925709, Coordinates: -14.748, -41.736
+
+
+### Presidente Tancredo Neves
+
+Code: BR2925758, Coordinates: -13.456, -39.427
+
+
+### Queimadas
+
+Code: BR2925808, Coordinates: -10.983, -39.717
+
+
+### Quijingue
+
+Code: BR2925907, Coordinates: -10.79, -39.004
+
+
+### Quixabeira
+
+Code: BR2925931, Coordinates: -11.41, -40.122
+
+
+### Rafael Jambeiro
+
+Code: BR2925956, Coordinates: -12.485, -39.517
+
+
+### Remanso
+
+Code: BR2926004, Coordinates: -9.57, -42.322
+
+
+### Retirolândia (Retirolandia)
+
+Code: BR2926103, Coordinates: -11.502, -39.419
+
+
+### Riachão das Neves (Riachao das Neves)
+
+Code: BR2926202, Coordinates: -11.703, -45.171
+
+
+### Riachão do Jacuípe (Riachao do Jacuipe)
+
+Code: BR2926301, Coordinates: -11.854, -39.394
+
+
+### Riacho de Santana
+
+Code: BR2926400, Coordinates: -13.723, -43.026
+
+
+### Ribeira do Amparo
+
+Code: BR2926509, Coordinates: -10.984, -38.379
+
+
+### Ribeira do Pombal
+
+Code: BR2926608, Coordinates: -10.751, -38.585
+
+
+### Ribeirão do Largo (Ribeirao do Largo)
+
+Code: BR2926657, Coordinates: -15.393, -40.673
+
+
+### Rio de Contas
+
+Code: BR2926707, Coordinates: -13.61, -41.706
+
+
+### Rio do Antônio (Rio do Antonio)
+
+Code: BR2926806, Coordinates: -14.268, -42.134
+
+
+### Rio do Pires
+
+Code: BR2926905, Coordinates: -13.124, -42.158
+
+
+### Rio Real
+
+Code: BR2927002, Coordinates: -11.536, -37.892
+
+
+### Rodelas
+
+Code: BR2927101, Coordinates: -9.163, -38.646
+
+
+### Ruy Barbosa
+
+Code: BR2927200, Coordinates: -12.242, -40.415
+
+
+### Salinas da Margarida
+
+Code: BR2927309, Coordinates: -12.892, -38.766
+
+
+### Salvador
+
+Code: BR2927408, Coordinates: -12.867, -38.473
+
+
+### Santa Bárbara (Santa Barbara)
+
+Code: BR2927507, Coordinates: -20.027, -43.446
+
+
+### Santa Brígida (Santa Brigida)
+
+Code: BR2927606, Coordinates: -9.741, -38.095
+
+
+### Santa Cruz Cabrália (Santa Cruz Cabralia)
+
+Code: BR2927705, Coordinates: -16.294, -39.191
+
+
+### Santa Cruz da Vitória (Santa Cruz da Vitoria)
+
+Code: BR2927804, Coordinates: -14.908, -39.788
+
+
+### Santa Inês (Santa Ines)
+
+Code: BR2927903, Coordinates: -22.69, -51.91
+
+
+### Santa Luzia
+
+Code: BR2928059, Coordinates: -19.728, -43.827
+
+
+### Santa Maria da Vitória (Santa Maria da Vitoria)
+
+Code: BR2928109, Coordinates: -13.253, -44.383
+
+
+### Santa Rita de Cássia (Santa Rita de Cassia)
+
+Code: BR2928406, Coordinates: -11.036, -44.647
+
+
+### Santa Terezinha
+
+Code: BR2928505, Coordinates: -10.379, -50.827
+
+
+### Santaluz
+
+Code: BR2928000, Coordinates: -11.182, -39.478
+
+
+### Santana
+
+Code: BR2928208, Coordinates: -13.056, -43.946
+
+
+### Santanópolis (Santanopolis)
+
+Code: BR2928307, Coordinates: -11.975, -38.87
+
+
+### Santo Amaro
+
+Code: BR2928604, Coordinates: -12.57, -38.792
+
+
+### Santo Antônio de Jesus (Santo Antonio de Jesus)
+
+Code: BR2928703, Coordinates: -13.004, -39.212
+
+
+### Santo Estêvão (Santo Estevao)
+
+Code: BR2928802, Coordinates: -12.468, -39.279
+
+
+### São Desidério (Sao Desiderio)
+
+Code: BR2928901, Coordinates: -12.862, -45.71
+
+
+### São Domingos (Sao Domingos)
+
+Code: BR2928950, Coordinates: -13.53, -46.491
+
+
+### São Felipe (Sao Felipe)
+
+Code: BR2929107, Coordinates: -12.855, -39.1
+
+
+### São Félix (Sao Felix)
+
+Code: BR2929008, Coordinates: -12.676, -39.002
+
+
+### São Félix do Coribe (Sao Felix do Coribe)
+
+Code: BR2929057, Coordinates: -13.545, -43.975
+
+
+### São Francisco do Conde (Sao Francisco do Conde)
+
+Code: BR2929206, Coordinates: -12.655, -38.615
+
+
+### São Gabriel (Sao Gabriel)
+
+Code: BR2929255, Coordinates: -30.318, -54.373
+
+
+### São Gonçalo dos Campos (Sao Goncalo dos Campos)
+
+Code: BR2929305, Coordinates: -12.433, -38.975
+
+
+### São José da Vitória (Sao Jose da Vitoria)
+
+Code: BR2929354, Coordinates: -15.074, -39.362
+
+
+### São José do Jacuípe (Sao Jose do Jacuipe)
+
+Code: BR2929370, Coordinates: -11.449, -39.903
+
+
+### São Miguel das Matas (Sao Miguel das Matas)
+
+Code: BR2929404, Coordinates: -13.051, -39.418
+
+
+### São Sebastião do Passé (Sao Sebastiao do Passe)
+
+Code: BR2929503, Coordinates: -12.511, -38.47
+
+
+### Sapeaçu (Sapeacu)
+
+Code: BR2929602, Coordinates: -12.726, -39.224
+
+
+### Sátiro Dias (Satiro Dias)
+
+Code: BR2929701, Coordinates: -11.606, -38.53
+
+
+### Saubara
+
+Code: BR2929750, Coordinates: -12.78, -38.802
+
+
+### Saúde (Saude)
+
+Code: BR2929800, Coordinates: -10.866, -40.393
+
+
+### Seabra
+
+Code: BR2929909, Coordinates: -12.327, -41.91
+
+
+### Sebastião Laranjeiras (Sebastiao Laranjeiras)
+
+Code: BR2930006, Coordinates: -14.62, -43.154
+
+
+### Senhor do Bonfim
+
+Code: BR2930105, Coordinates: -10.44, -40.121
+
+
+### Sento Sé (Sento Se)
+
+Code: BR2930204, Coordinates: -10.177, -41.526
+
+
+### Serra do Ramalho
+
+Code: BR2930154, Coordinates: -13.455, -43.739
+
+
+### Serra Dourada
+
+Code: BR2930303, Coordinates: -12.877, -43.902
+
+
+### Serra Preta
+
+Code: BR2930402, Coordinates: -12.066, -39.354
+
+
+### Serrinha
+
+Code: BR2930501, Coordinates: -11.658, -38.985
+
+
+### Serrolândia (Serrolandia)
+
+Code: BR2930600, Coordinates: -11.477, -40.236
+
+
+### Simões Filho (Simoes Filho)
+
+Code: BR2930709, Coordinates: -12.777, -38.395
+
+
+### Sítio do Mato (Sitio do Mato)
+
+Code: BR2930758, Coordinates: -12.967, -43.49
+
+
+### Sítio do Quinto (Sitio do Quinto)
+
+Code: BR2930766, Coordinates: -10.33, -38.102
+
+
+### Sobradinho
+
+Code: BR2930774, Coordinates: -29.397, -53.01
+
+
+### Souto Soares
+
+Code: BR2930808, Coordinates: -11.999, -41.929
+
+
+### Tabocas do Brejo Velho
+
+Code: BR2930907, Coordinates: -12.474, -44.083
+
+
+### Tanhaçu (Tanhacu)
+
+Code: BR2931004, Coordinates: -14.109, -41.151
+
+
+### Tanque Novo
+
+Code: BR2931053, Coordinates: -13.58, -42.525
+
+
+### Tanquinho
+
+Code: BR2931103, Coordinates: -11.962, -39.104
+
+
+### Taperoá (Taperoa)
+
+Code: BR2931202, Coordinates: -13.566, -39.215
+
+
+### Tapiramutá (Tapiramuta)
+
+Code: BR2931301, Coordinates: -11.872, -40.801
+
+
+### Teixeira de Freitas
+
+Code: BR2931350, Coordinates: -17.313, -39.88
+
+
+### Teodoro Sampaio
+
+Code: BR2931400, Coordinates: -22.422, -52.369
+
+
+### Teofilândia (Teofilandia)
+
+Code: BR2931509, Coordinates: -11.495, -38.954
+
+
+### Teolândia (Teolandia)
+
+Code: BR2931608, Coordinates: -13.556, -39.487
+
+
+### Terra Nova
+
+Code: BR2931707, Coordinates: -12.384, -38.598
+
+
+### Tremedal
+
+Code: BR2931806, Coordinates: -14.952, -41.438
+
+
+### Tucano
+
+Code: BR2931905, Coordinates: -10.962, -38.815
+
+
+### Uauá (Uaua)
+
+Code: BR2932002, Coordinates: -9.932, -39.43
+
+
+### Ubaíra (Ubaira)
+
+Code: BR2932101, Coordinates: -13.293, -39.674
+
+
+### Ubaitaba
+
+Code: BR2932200, Coordinates: -14.275, -39.402
+
+
+### Ubatã (Ubata)
+
+Code: BR2932309, Coordinates: -14.078, -39.521
+
+
+### Uibaí (Uibai)
+
+Code: BR2932408, Coordinates: -11.379, -42.126
+
+
+### Umburanas
+
+Code: BR2932457, Coordinates: -10.551, -41.242
+
+
+### Una
+
+Code: BR2932507, Coordinates: -15.206, -39.198
+
+
+### Urandi
+
+Code: BR2932606, Coordinates: -14.743, -42.66
+
+
+### Uruçuca (Urucuca)
+
+Code: BR2932705, Coordinates: -14.505, -39.21
+
+
+### Utinga
+
+Code: BR2932804, Coordinates: -12.01, -41.129
+
+
+### Valença (Valenca)
+
+Code: BR2932903, Coordinates: -22.24, -43.872
+
+
+### Valente
+
+Code: BR2933000, Coordinates: -11.38, -39.431
+
+
+### Várzea da Roça (Varzea da Roca)
+
+Code: BR2933059, Coordinates: -11.565, -40.088
+
+
+### Várzea do Poço (Varzea do Poco)
+
+Code: BR2933109, Coordinates: -11.573, -40.293
+
+
+### Várzea Nova (Varzea Nova)
+
+Code: BR2933158, Coordinates: -11.078, -41.175
+
+
+### Varzedo
+
+Code: BR2933174, Coordinates: -12.974, -39.389
+
+
+### Vera Cruz
+
+Code: BR2933208, Coordinates: -29.767, -52.527
+
+
+### Vereda
+
+Code: BR2933257, Coordinates: -17.164, -39.995
+
+
+### Vitória da Conquista (Vitoria da Conquista)
+
+Code: BR2933307, Coordinates: -15.187, -40.972
+
+
+### Wagner
+
+Code: BR2933406, Coordinates: -12.25, -41.148
+
+
+### Wanderley
+
+Code: BR2933455, Coordinates: -11.805, -43.968
+
+
+### Wenceslau Guimarães (Wenceslau Guimaraes)
+
+Code: BR2933505, Coordinates: -13.62, -39.613
+
+
+### Xique-Xique
+
+Code: BR2933604, Coordinates: -10.898, -42.711
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "BR2502508",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Boqueirão",
+    "en": "Boqueirao",
+    "slug": "boqueirao-br2502508"
+  },
+  "code": {
+    "id": "BR2502508",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.523",
+    "lon": "-36.139"
+  },
+  "metadata": {},
+  "source": {}
+}

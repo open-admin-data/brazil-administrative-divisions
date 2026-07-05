@@ -1,0 +1,45 @@
+{
+  "id": "BR2503001",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Caaporã",
+    "en": "Caapora",
+    "slug": "caapora-br2503001"
+  },
+  "code": {
+    "id": "BR2503001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.492",
+    "lon": "-34.911"
+  },
+  "metadata": {},
+  "source": {}
+}

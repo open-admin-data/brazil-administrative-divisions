@@ -1,0 +1,45 @@
+{
+  "id": "BR4322202",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tupanciretã",
+    "en": "Tupancireta",
+    "slug": "tupancireta-br4322202"
+  },
+  "code": {
+    "id": "BR4322202",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.035",
+    "lon": "-53.999"
+  },
+  "metadata": {},
+  "source": {}
+}

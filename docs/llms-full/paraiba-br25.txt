@@ -1,0 +1,1124 @@
+# Paraiba — Brazil Administrative Divisions
+
+> 223 municipalitys
+> Code: BR25
+> Coordinates: -7.164, -37.035
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Água Branca (Agua Branca)
+
+Code: BR2500106, Coordinates: -9.256, -37.927
+
+
+### Aguiar
+
+Code: BR2500205, Coordinates: -7.095, -38.222
+
+
+### Alagoa Grande
+
+Code: BR2500304, Coordinates: -7.042, -35.607
+
+
+### Alagoa Nova
+
+Code: BR2500403, Coordinates: -7.059, -35.772
+
+
+### Alagoinha
+
+Code: BR2500502, Coordinates: -8.535, -36.761
+
+
+### Alcantil
+
+Code: BR2500536, Coordinates: -7.684, -36.042
+
+
+### Algodão de Jandaíra (Algodao de Jandaira)
+
+Code: BR2500577, Coordinates: -6.892, -35.934
+
+
+### Alhandra
+
+Code: BR2500601, Coordinates: -7.353, -34.921
+
+
+### Amparo
+
+Code: BR2500734, Coordinates: -22.699, -46.8
+
+
+### Aparecida
+
+Code: BR2500775, Coordinates: -22.913, -45.237
+
+
+### Araçagi (Aracagi)
+
+Code: BR2500809, Coordinates: -6.845, -35.359
+
+
+### Arara
+
+Code: BR2500908, Coordinates: -6.85, -35.738
+
+
+### Araruna
+
+Code: BR2501005, Coordinates: -23.951, -52.583
+
+
+### Areia
+
+Code: BR2501104, Coordinates: -6.958, -35.691
+
+
+### Areia de Baraúnas (Areia de Baraunas)
+
+Code: BR2501153, Coordinates: -7.121, -36.97
+
+
+### Areial
+
+Code: BR2501203, Coordinates: -7.044, -35.934
+
+
+### Aroeiras
+
+Code: BR2501302, Coordinates: -7.522, -35.7
+
+
+### Assunção (Assuncao)
+
+Code: BR2501351, Coordinates: -7.078, -36.7
+
+
+### Baía da Traição (Baia da Traicao)
+
+Code: BR2501401, Coordinates: -6.654, -34.972
+
+
+### Bananeiras
+
+Code: BR2501500, Coordinates: -6.675, -35.597
+
+
+### Baraúna (Barauna)
+
+Code: BR2501534, Coordinates: -6.61, -36.269
+
+
+### Barra de Santa Rosa
+
+Code: BR2501609, Coordinates: -6.731, -35.977
+
+
+### Barra de Santana
+
+Code: BR2501575, Coordinates: -7.578, -35.969
+
+
+### Barra de São Miguel (Barra de Sao Miguel)
+
+Code: BR2501708, Coordinates: -9.81, -35.949
+
+
+### Bayeux
+
+Code: BR2501807, Coordinates: -7.125, -34.917
+
+
+### Belém (Belem)
+
+Code: BR2501906, Coordinates: -9.557, -36.495
+
+
+### Belém do Brejo do Cruz (Belem do Brejo do Cruz)
+
+Code: BR2502003, Coordinates: -6.157, -37.382
+
+
+### Bernardino Batista
+
+Code: BR2502052, Coordinates: -6.489, -38.567
+
+
+### Boa Ventura
+
+Code: BR2502102, Coordinates: -7.417, -38.21
+
+
+### Boa Vista
+
+Code: BR2502151, Coordinates: -7.298, -36.189
+
+
+### Bom Jesus
+
+Code: BR2502201, Coordinates: -28.585, -50.451
+
+
+### Bom Sucesso
+
+Code: BR2502300, Coordinates: -23.694, -51.819
+
+
+### Bonito de Santa Fé (Bonito de Santa Fe)
+
+Code: BR2502409, Coordinates: -7.286, -38.474
+
+
+### Boqueirão (Boqueirao)
+
+Code: BR2502508, Coordinates: -7.523, -36.139
+
+
+### Borborema
+
+Code: BR2502706, Coordinates: -21.626, -49.049
+
+
+### Brejo do Cruz
+
+Code: BR2502805, Coordinates: -6.315, -37.489
+
+
+### Brejo dos Santos
+
+Code: BR2502904, Coordinates: -6.396, -37.862
+
+
+### Caaporã (Caapora)
+
+Code: BR2503001, Coordinates: -7.492, -34.911
+
+
+### Cabaceiras
+
+Code: BR2503100, Coordinates: -7.465, -36.279
+
+
+### Cabedelo
+
+Code: BR2503209, Coordinates: -7.04, -34.847
+
+
+### Cachoeira dos Índios (Cachoeira dos Indios)
+
+Code: BR2503308, Coordinates: -6.939, -38.714
+
+
+### Cacimba de Areia
+
+Code: BR2503407, Coordinates: -7.144, -37.156
+
+
+### Cacimba de Dentro
+
+Code: BR2503506, Coordinates: -6.639, -35.798
+
+
+### Cacimbas
+
+Code: BR2503555, Coordinates: -7.214, -37.098
+
+
+### Caiçara (Caicara)
+
+Code: BR2503605, Coordinates: -27.245, -53.472
+
+
+### Cajazeiras
+
+Code: BR2503704, Coordinates: -6.938, -38.56
+
+
+### Cajazeirinhas
+
+Code: BR2503753, Coordinates: -6.937, -37.818
+
+
+### Caldas Brandão (Caldas Brandao)
+
+Code: BR2503803, Coordinates: -7.124, -35.336
+
+
+### Camalaú (Camalau)
+
+Code: BR2503902, Coordinates: -7.898, -36.788
+
+
+### Campina Grande
+
+Code: BR2504009, Coordinates: -7.276, -35.921
+
+
+### Capim
+
+Code: BR2504033, Coordinates: -6.892, -35.18
+
+
+### Caraúbas (Caraubas)
+
+Code: BR2504074, Coordinates: -7.745, -36.516
+
+
+### Carrapateira
+
+Code: BR2504108, Coordinates: -7.044, -38.318
+
+
+### Casserengue
+
+Code: BR2504157, Coordinates: -6.756, -35.842
+
+
+### Catingueira
+
+Code: BR2504207, Coordinates: -7.2, -37.604
+
+
+### Catolé do Rocha (Catole do Rocha)
+
+Code: BR2504306, Coordinates: -6.307, -37.699
+
+
+### Caturité (Caturite)
+
+Code: BR2504355, Coordinates: -7.412, -36.05
+
+
+### Conceição (Conceicao)
+
+Code: BR2504405, Coordinates: -7.51, -38.522
+
+
+### Condado
+
+Code: BR2504504, Coordinates: -7.594, -35.086
+
+
+### Conde
+
+Code: BR2504603, Coordinates: -11.808, -37.691
+
+
+### Congo
+
+Code: BR2504702, Coordinates: -7.794, -36.633
+
+
+### Coremas
+
+Code: BR2504801, Coordinates: -7.084, -37.983
+
+
+### Coxixola
+
+Code: BR2504850, Coordinates: -7.677, -36.611
+
+
+### Cruz do Espírito Santo (Cruz do Espirito Santo)
+
+Code: BR2504900, Coordinates: -7.168, -35.107
+
+
+### Cubati
+
+Code: BR2505006, Coordinates: -6.849, -36.344
+
+
+### Cuité (Cuite)
+
+Code: BR2505105, Coordinates: -6.519, -36.073
+
+
+### Cuité de Mamanguape (Cuite de Mamanguape)
+
+Code: BR2505238, Coordinates: -6.905, -35.247
+
+
+### Cuitegi
+
+Code: BR2505204, Coordinates: -6.9, -35.503
+
+
+### Curral de Cima
+
+Code: BR2505279, Coordinates: -6.727, -35.282
+
+
+### Curral Velho
+
+Code: BR2505303, Coordinates: -7.545, -38.209
+
+
+### Damião (Damiao)
+
+Code: BR2505352, Coordinates: -6.674, -35.947
+
+
+### Desterro
+
+Code: BR2505402, Coordinates: -7.303, -37.102
+
+
+### Diamante
+
+Code: BR2505600, Coordinates: -7.451, -38.313
+
+
+### Dona Inês (Dona Ines)
+
+Code: BR2505709, Coordinates: -6.603, -35.639
+
+
+### Duas Estradas
+
+Code: BR2505808, Coordinates: -6.722, -35.394
+
+
+### Emas
+
+Code: BR2505907, Coordinates: -7.111, -37.759
+
+
+### Esperança (Esperanca)
+
+Code: BR2506004, Coordinates: -7.004, -35.889
+
+
+### Fagundes
+
+Code: BR2506103, Coordinates: -7.397, -35.795
+
+
+### Frei Martinho
+
+Code: BR2506202, Coordinates: -6.424, -36.446
+
+
+### Gado Bravo
+
+Code: BR2506251, Coordinates: -7.586, -35.822
+
+
+### Guarabira
+
+Code: BR2506301, Coordinates: -6.88, -35.458
+
+
+### Gurinhém (Gurinhem)
+
+Code: BR2506400, Coordinates: -7.146, -35.433
+
+
+### Gurjão (Gurjao)
+
+Code: BR2506509, Coordinates: -7.281, -36.48
+
+
+### Ibiara
+
+Code: BR2506608, Coordinates: -7.502, -38.389
+
+
+### Igaracy
+
+Code: BR2502607, Coordinates: -7.137, -38.11
+
+
+### Imaculada
+
+Code: BR2506707, Coordinates: -7.371, -37.564
+
+
+### Ingá (Inga)
+
+Code: BR2506806, Coordinates: -7.264, -35.633
+
+
+### Itabaiana
+
+Code: BR2506905, Coordinates: -10.691, -37.426
+
+
+### Itaporanga
+
+Code: BR2507002, Coordinates: -23.67, -49.478
+
+
+### Itapororoca
+
+Code: BR2507101, Coordinates: -6.819, -35.265
+
+
+### Itatuba
+
+Code: BR2507200, Coordinates: -7.432, -35.643
+
+
+### Jacaraú (Jacarau)
+
+Code: BR2507309, Coordinates: -6.608, -35.265
+
+
+### Jericó (Jerico)
+
+Code: BR2507408, Coordinates: -6.501, -37.806
+
+
+### João Pessoa (Joao Pessoa)
+
+Code: BR2507507, Coordinates: -7.151, -34.871
+
+
+### Joca Claudino
+
+Code: BR2513653, Coordinates: -6.47, -38.481
+
+
+### Juarez Távora (Juarez Tavora)
+
+Code: BR2507606, Coordinates: -7.172, -35.565
+
+
+### Juazeirinho
+
+Code: BR2507705, Coordinates: -7.033, -36.612
+
+
+### Junco do Seridó (Junco do Serido)
+
+Code: BR2507804, Coordinates: -6.986, -36.742
+
+
+### Juripiranga
+
+Code: BR2507903, Coordinates: -7.353, -35.213
+
+
+### Juru
+
+Code: BR2508000, Coordinates: -7.51, -37.798
+
+
+### Lagoa
+
+Code: BR2508109, Coordinates: -6.592, -37.902
+
+
+### Lagoa de Dentro
+
+Code: BR2508208, Coordinates: -6.688, -35.359
+
+
+### Lagoa Seca
+
+Code: BR2508307, Coordinates: -7.146, -35.857
+
+
+### Lastro
+
+Code: BR2508406, Coordinates: -6.543, -38.179
+
+
+### Livramento
+
+Code: BR2508505, Coordinates: -7.359, -36.91
+
+
+### Logradouro
+
+Code: BR2508554, Coordinates: -6.545, -35.435
+
+
+### Lucena
+
+Code: BR2508604, Coordinates: -6.921, -34.9
+
+
+### Mãe d&#39;Água (Mae d&#39;Agua)
+
+Code: BR2508703, Coordinates: -7.245, -37.423
+
+
+### Malta
+
+Code: BR2508802, Coordinates: -6.891, -37.521
+
+
+### Mamanguape
+
+Code: BR2508901, Coordinates: -6.69, -35.151
+
+
+### Manaíra (Manaira)
+
+Code: BR2509008, Coordinates: -7.726, -38.212
+
+
+### Marcação (Marcacao)
+
+Code: BR2509057, Coordinates: -6.757, -34.986
+
+
+### Mari
+
+Code: BR2509107, Coordinates: -7.041, -35.305
+
+
+### Marizópolis (Marizopolis)
+
+Code: BR2509156, Coordinates: -6.832, -38.337
+
+
+### Massaranduba
+
+Code: BR2509206, Coordinates: -26.627, -48.995
+
+
+### Mataraca
+
+Code: BR2509305, Coordinates: -6.557, -35.057
+
+
+### Matinhas
+
+Code: BR2509339, Coordinates: -7.118, -35.782
+
+
+### Mato Grosso
+
+Code: BR2509370, Coordinates: -6.556, -37.734
+
+
+### Maturéia (Matureia)
+
+Code: BR2509396, Coordinates: -7.281, -37.36
+
+
+### Mogeiro
+
+Code: BR2509404, Coordinates: -7.289, -35.487
+
+
+### Montadas
+
+Code: BR2509503, Coordinates: -7.095, -35.941
+
+
+### Monte Horebe
+
+Code: BR2509602, Coordinates: -7.206, -38.517
+
+
+### Monteiro
+
+Code: BR2509701, Coordinates: -7.912, -37.178
+
+
+### Mulungu
+
+Code: BR2509800, Coordinates: -6.996, -35.405
+
+
+### Natuba
+
+Code: BR2509909, Coordinates: -7.564, -35.564
+
+
+### Nazarezinho
+
+Code: BR2510006, Coordinates: -6.947, -38.331
+
+
+### Nova Floresta
+
+Code: BR2510105, Coordinates: -6.453, -36.203
+
+
+### Nova Olinda
+
+Code: BR2510204, Coordinates: -7.455, -38.038
+
+
+### Nova Palmeira
+
+Code: BR2510303, Coordinates: -6.67, -36.432
+
+
+### Olho d&#39;Água (Olho d&#39;Agua)
+
+Code: BR2510402, Coordinates: -7.308, -37.743
+
+
+### Olivedos
+
+Code: BR2510501, Coordinates: -7.001, -36.219
+
+
+### Ouro Velho
+
+Code: BR2510600, Coordinates: -7.609, -37.129
+
+
+### Parari
+
+Code: BR2510659, Coordinates: -7.325, -36.661
+
+
+### Passagem
+
+Code: BR2510709, Coordinates: -7.115, -37.043
+
+
+### Patos
+
+Code: BR2510808, Coordinates: -7.001, -37.337
+
+
+### Paulista
+
+Code: BR2510907, Coordinates: -7.929, -34.906
+
+
+### Pedra Branca
+
+Code: BR2511004, Coordinates: -7.471, -38.065
+
+
+### Pedra Lavrada
+
+Code: BR2511103, Coordinates: -6.789, -36.423
+
+
+### Pedras de Fogo
+
+Code: BR2511202, Coordinates: -7.357, -35.075
+
+
+### Pedro Régis (Pedro Regis)
+
+Code: BR2512721, Coordinates: -6.676, -35.283
+
+
+### Piancó (Pianco)
+
+Code: BR2511301, Coordinates: -7.153, -37.987
+
+
+### Picuí (Picui)
+
+Code: BR2511400, Coordinates: -6.49, -36.352
+
+
+### Pilar
+
+Code: BR2511509, Coordinates: -9.629, -36.045
+
+
+### Pilões (Piloes)
+
+Code: BR2511608, Coordinates: -6.877, -35.618
+
+
+### Pilõezinhos (Piloezinhos)
+
+Code: BR2511707, Coordinates: -6.851, -35.538
+
+
+### Pirpirituba
+
+Code: BR2511806, Coordinates: -6.777, -35.476
+
+
+### Pitimbu
+
+Code: BR2511905, Coordinates: -7.434, -34.842
+
+
+### Pocinhos
+
+Code: BR2512002, Coordinates: -7.03, -36.072
+
+
+### Poço Dantas (Poco Dantas)
+
+Code: BR2512036, Coordinates: -6.382, -38.524
+
+
+### Poço de José de Moura (Poco de Jose de Moura)
+
+Code: BR2512077, Coordinates: -6.6, -38.493
+
+
+### Pombal
+
+Code: BR2512101, Coordinates: -6.807, -37.872
+
+
+### Prata
+
+Code: BR2512200, Coordinates: -19.321, -48.954
+
+
+### Princesa Isabel
+
+Code: BR2512309, Coordinates: -7.641, -38.005
+
+
+### Puxinanã (Puxinana)
+
+Code: BR2512408, Coordinates: -7.154, -35.955
+
+
+### Queimadas
+
+Code: BR2512507, Coordinates: -10.983, -39.717
+
+
+### Quixaba
+
+Code: BR2512606, Coordinates: -7.712, -37.869
+
+
+### Remígio (Remigio)
+
+Code: BR2512705, Coordinates: -6.932, -35.858
+
+
+### Riachão (Riachao)
+
+Code: BR2512747, Coordinates: -6.556, -35.638
+
+
+### Riachão do Bacamarte (Riachao do Bacamarte)
+
+Code: BR2512754, Coordinates: -7.242, -35.653
+
+
+### Riachão do Poço (Riachao do Poco)
+
+Code: BR2512762, Coordinates: -7.145, -35.286
+
+
+### Riacho de Santo Antônio (Riacho de Santo Antonio)
+
+Code: BR2512788, Coordinates: -7.656, -36.129
+
+
+### Riacho dos Cavalos
+
+Code: BR2512804, Coordinates: -6.509, -37.603
+
+
+### Rio Tinto
+
+Code: BR2512903, Coordinates: -6.781, -35.028
+
+
+### Salgadinho
+
+Code: BR2513000, Coordinates: -7.924, -35.595
+
+
+### Salgado de São Félix (Salgado de Sao Felix)
+
+Code: BR2513109, Coordinates: -7.42, -35.463
+
+
+### Santa Cecília (Santa Cecilia)
+
+Code: BR2513158, Coordinates: -26.919, -50.462
+
+
+### Santa Cruz
+
+Code: BR2513208, Coordinates: -8.319, -40.298
+
+
+### Santa Helena
+
+Code: BR2513307, Coordinates: -26.925, -53.611
+
+
+### Santa Inês (Santa Ines)
+
+Code: BR2513356, Coordinates: -22.69, -51.91
+
+
+### Santa Luzia
+
+Code: BR2513406, Coordinates: -19.728, -43.827
+
+
+### Santa Rita
+
+Code: BR2513703, Coordinates: -7.09, -34.974
+
+
+### Santa Teresinha
+
+Code: BR2513802, Coordinates: -7.101, -37.434
+
+
+### Santana de Mangueira
+
+Code: BR2513505, Coordinates: -7.632, -38.327
+
+
+### Santana dos Garrotes
+
+Code: BR2513604, Coordinates: -7.371, -37.94
+
+
+### Santo André (Santo Andre)
+
+Code: BR2513851, Coordinates: -23.732, -46.437
+
+
+### São Bentinho (Sao Bentinho)
+
+Code: BR2513927, Coordinates: -6.9, -37.71
+
+
+### São Bento (Sao Bento)
+
+Code: BR2513901, Coordinates: -6.459, -37.492
+
+
+### São Domingos (Sao Domingos)
+
+Code: BR2513968, Coordinates: -13.53, -46.491
+
+
+### São Domingos do Cariri (Sao Domingos do Cariri)
+
+Code: BR2513943, Coordinates: -7.588, -36.375
+
+
+### São Francisco (Sao Francisco)
+
+Code: BR2513984, Coordinates: -20.37, -50.676
+
+
+### São João do Cariri (Sao Joao do Cariri)
+
+Code: BR2514008, Coordinates: -7.445, -36.495
+
+
+### São João do Rio do Peixe (Sao Joao do Rio do Peixe)
+
+Code: BR2500700, Coordinates: -6.721, -38.423
+
+
+### São João do Tigre (Sao Joao do Tigre)
+
+Code: BR2514107, Coordinates: -8.125, -36.808
+
+
+### São José da Lagoa Tapada (Sao Jose da Lagoa Tapada)
+
+Code: BR2514206, Coordinates: -6.942, -38.11
+
+
+### São José de Caiana (Sao Jose de Caiana)
+
+Code: BR2514305, Coordinates: -7.248, -38.324
+
+
+### São José de Espinharas (Sao Jose de Espinharas)
+
+Code: BR2514404, Coordinates: -6.81, -37.409
+
+
+### São José de Piranhas (Sao Jose de Piranhas)
+
+Code: BR2514503, Coordinates: -7.11, -38.528
+
+
+### São José de Princesa (Sao Jose de Princesa)
+
+Code: BR2514552, Coordinates: -7.699, -38.095
+
+
+### São José do Bonfim (Sao Jose do Bonfim)
+
+Code: BR2514602, Coordinates: -7.146, -37.332
+
+
+### São José do Brejo do Cruz (Sao Jose do Brejo do Cruz)
+
+Code: BR2514651, Coordinates: -6.244, -37.365
+
+
+### São José do Sabugi (Sao Jose do Sabugi)
+
+Code: BR2514701, Coordinates: -6.851, -36.821
+
+
+### São José dos Cordeiros (Sao Jose dos Cordeiros)
+
+Code: BR2514800, Coordinates: -7.413, -36.876
+
+
+### São José dos Ramos (Sao Jose dos Ramos)
+
+Code: BR2514453, Coordinates: -7.245, -35.353
+
+
+### São Mamede (Sao Mamede)
+
+Code: BR2514909, Coordinates: -6.932, -37.069
+
+
+### São Miguel de Taipu (Sao Miguel de Taipu)
+
+Code: BR2515005, Coordinates: -7.246, -35.201
+
+
+### São Sebastião de Lagoa de Roça (Sao Sebastiao de Lagoa de Roca)
+
+Code: BR2515104, Coordinates: -7.086, -35.856
+
+
+### São Sebastião do Umbuzeiro (Sao Sebastiao do Umbuzeiro)
+
+Code: BR2515203, Coordinates: -8.146, -37.004
+
+
+### São Vicente do Seridó (Sao Vicente do Serido)
+
+Code: BR2515401, Coordinates: -6.866, -36.471
+
+
+### Sapé (Sape)
+
+Code: BR2515302, Coordinates: -7.063, -35.218
+
+
+### Serra Branca
+
+Code: BR2515500, Coordinates: -7.58, -36.733
+
+
+### Serra da Raiz
+
+Code: BR2515609, Coordinates: -6.706, -35.442
+
+
+### Serra Grande
+
+Code: BR2515708, Coordinates: -7.247, -38.388
+
+
+### Serra Redonda
+
+Code: BR2515807, Coordinates: -7.161, -35.668
+
+
+### Serraria
+
+Code: BR2515906, Coordinates: -6.84, -35.645
+
+
+### Sertãozinho (Sertaozinho)
+
+Code: BR2515930, Coordinates: -21.113, -47.997
+
+
+### Sobrado
+
+Code: BR2515971, Coordinates: -7.173, -35.25
+
+
+### Solânea (Solanea)
+
+Code: BR2516003, Coordinates: -6.747, -35.726
+
+
+### Soledade
+
+Code: BR2516102, Coordinates: -28.85, -52.519
+
+
+### Sossêgo (Sossego)
+
+Code: BR2516151, Coordinates: -6.691, -36.199
+
+
+### Sousa
+
+Code: BR2516201, Coordinates: -6.724, -38.252
+
+
+### Sumé (Sume)
+
+Code: BR2516300, Coordinates: -7.647, -36.914
+
+
+### Tacima
+
+Code: BR2516409, Coordinates: -6.533, -35.515
+
+
+### Taperoá (Taperoa)
+
+Code: BR2516508, Coordinates: -13.566, -39.215
+
+
+### Tavares
+
+Code: BR2516607, Coordinates: -31.245, -51.097
+
+
+### Teixeira
+
+Code: BR2516706, Coordinates: -7.248, -37.266
+
+
+### Tenório (Tenorio)
+
+Code: BR2516755, Coordinates: -6.954, -36.617
+
+
+### Triunfo
+
+Code: BR2516805, Coordinates: -29.833, -51.556
+
+
+### Uiraúna (Uirauna)
+
+Code: BR2516904, Coordinates: -6.513, -38.375
+
+
+### Umbuzeiro
+
+Code: BR2517001, Coordinates: -7.677, -35.746
+
+
+### Várzea (Varzea)
+
+Code: BR2517100, Coordinates: -6.794, -37.038
+
+
+### Vieirópolis (Vieiropolis)
+
+Code: BR2517209, Coordinates: -6.565, -38.28
+
+
+### Vista Serrana
+
+Code: BR2505501, Coordinates: -6.759, -37.564
+
+
+### Zabelê (Zabele)
+
+Code: BR2517407, Coordinates: -8.077, -37.092
+
+

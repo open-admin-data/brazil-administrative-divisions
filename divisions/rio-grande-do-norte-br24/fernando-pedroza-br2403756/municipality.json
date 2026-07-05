@@ -1,0 +1,45 @@
+{
+  "id": "BR2403756",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Fernando Pedroza",
+    "en": "Fernando Pedroza",
+    "slug": "fernando-pedroza-br2403756"
+  },
+  "code": {
+    "id": "BR2403756",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR24",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Norte",
+      "en": "Rio Grande do Norte",
+      "slug": "rio-grande-do-norte-br24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.727",
+    "lon": "-36.414"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2204501",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Guadalupe",
+    "en": "Guadalupe",
+    "slug": "guadalupe-br2204501"
+  },
+  "code": {
+    "id": "BR2204501",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.806",
+    "lon": "-43.771"
+  },
+  "metadata": {},
+  "source": {}
+}

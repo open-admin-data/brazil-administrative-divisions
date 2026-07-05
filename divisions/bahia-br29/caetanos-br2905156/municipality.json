@@ -1,0 +1,45 @@
+{
+  "id": "BR2905156",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Caetanos",
+    "en": "Caetanos",
+    "slug": "caetanos-br2905156"
+  },
+  "code": {
+    "id": "BR2905156",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.291",
+    "lon": "-40.978"
+  },
+  "metadata": {},
+  "source": {}
+}

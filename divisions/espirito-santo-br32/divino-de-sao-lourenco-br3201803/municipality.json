@@ -1,0 +1,45 @@
+{
+  "id": "BR3201803",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Divino de São Lourenço",
+    "en": "Divino de Sao Lourenco",
+    "slug": "divino-de-sao-lourenco-br3201803"
+  },
+  "code": {
+    "id": "BR3201803",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.596",
+    "lon": "-41.724"
+  },
+  "metadata": {},
+  "source": {}
+}

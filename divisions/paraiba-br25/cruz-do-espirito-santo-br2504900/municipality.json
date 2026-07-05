@@ -1,0 +1,45 @@
+{
+  "id": "BR2504900",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cruz do Espírito Santo",
+    "en": "Cruz do Espirito Santo",
+    "slug": "cruz-do-espirito-santo-br2504900"
+  },
+  "code": {
+    "id": "BR2504900",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.168",
+    "lon": "-35.107"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR5209937",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Inaciolândia",
+    "en": "Inaciolandia",
+    "slug": "inaciolandia-br5209937"
+  },
+  "code": {
+    "id": "BR5209937",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.516",
+    "lon": "-49.91"
+  },
+  "metadata": {},
+  "source": {}
+}

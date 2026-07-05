@@ -1,0 +1,45 @@
+{
+  "id": "BR2901403",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Angical",
+    "en": "Angical",
+    "slug": "angical-br2901403"
+  },
+  "code": {
+    "id": "BR2901403",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.993",
+    "lon": "-44.782"
+  },
+  "metadata": {},
+  "source": {}
+}

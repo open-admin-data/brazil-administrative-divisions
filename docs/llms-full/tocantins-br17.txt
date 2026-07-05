@@ -1,0 +1,704 @@
+# Tocantins — Brazil Administrative Divisions
+
+> 139 municipalitys
+> Code: BR17
+> Coordinates: -10.144, -48.057
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Abreulândia (Abreulandia)
+
+Code: BR1700251, Coordinates: -9.467, -49.309
+
+
+### Aguiarnópolis (Aguiarnopolis)
+
+Code: BR1700301, Coordinates: -6.476, -47.506
+
+
+### Aliança do Tocantins (Alianca do Tocantins)
+
+Code: BR1700350, Coordinates: -11.327, -48.927
+
+
+### Almas
+
+Code: BR1700400, Coordinates: -11.448, -47.224
+
+
+### Alvorada
+
+Code: BR1700707, Coordinates: -29.989, -51.03
+
+
+### Ananás (Ananas)
+
+Code: BR1701002, Coordinates: -6.189, -48.176
+
+
+### Angico
+
+Code: BR1701051, Coordinates: -6.44, -47.929
+
+
+### Aparecida do Rio Negro
+
+Code: BR1701101, Coordinates: -10.028, -47.988
+
+
+### Aragominas
+
+Code: BR1701309, Coordinates: -6.966, -48.592
+
+
+### Araguacema
+
+Code: BR1701903, Coordinates: -8.911, -49.417
+
+
+### Araguaçu (Araguacu)
+
+Code: BR1702000, Coordinates: -12.722, -49.741
+
+
+### Araguaína (Araguaina)
+
+Code: BR1702109, Coordinates: -7.332, -48.578
+
+
+### Araguanã (Araguana)
+
+Code: BR1702158, Coordinates: -3.003, -45.785
+
+
+### Araguatins
+
+Code: BR1702208, Coordinates: -5.658, -48.09
+
+
+### Arapoema
+
+Code: BR1702307, Coordinates: -7.699, -49.027
+
+
+### Arraias
+
+Code: BR1702406, Coordinates: -12.85, -47.116
+
+
+### Augustinópolis (Augustinopolis)
+
+Code: BR1702554, Coordinates: -5.51, -47.924
+
+
+### Aurora do Tocantins
+
+Code: BR1702703, Coordinates: -12.629, -46.422
+
+
+### Axixá do Tocantins (Axixa do Tocantins)
+
+Code: BR1702901, Coordinates: -5.678, -47.764
+
+
+### Babaçulândia (Babaculandia)
+
+Code: BR1703008, Coordinates: -7.196, -47.818
+
+
+### Bandeirantes do Tocantins
+
+Code: BR1703057, Coordinates: -8.018, -48.676
+
+
+### Barra do Ouro
+
+Code: BR1703073, Coordinates: -7.754, -47.576
+
+
+### Barrolândia (Barrolandia)
+
+Code: BR1703107, Coordinates: -9.851, -48.826
+
+
+### Bernardo Sayão (Bernardo Sayao)
+
+Code: BR1703206, Coordinates: -7.983, -48.96
+
+
+### Bom Jesus do Tocantins
+
+Code: BR1703305, Coordinates: -8.998, -47.873
+
+
+### Brasilândia do Tocantins (Brasilandia do Tocantins)
+
+Code: BR1703602, Coordinates: -8.277, -48.445
+
+
+### Brejinho de Nazaré (Brejinho de Nazare)
+
+Code: BR1703701, Coordinates: -11.031, -48.641
+
+
+### Buriti do Tocantins
+
+Code: BR1703800, Coordinates: -5.357, -48.134
+
+
+### Cachoeirinha
+
+Code: BR1703826, Coordinates: -29.925, -51.097
+
+
+### Campos Lindos
+
+Code: BR1703842, Coordinates: -8.232, -46.848
+
+
+### Cariri do Tocantins
+
+Code: BR1703867, Coordinates: -11.938, -49.22
+
+
+### Carmolândia (Carmolandia)
+
+Code: BR1703883, Coordinates: -7.047, -48.374
+
+
+### Carrasco Bonito
+
+Code: BR1703891, Coordinates: -5.337, -48.023
+
+
+### Caseara
+
+Code: BR1703909, Coordinates: -9.444, -49.833
+
+
+### Centenário (Centenario)
+
+Code: BR1704105, Coordinates: -27.787, -52.005
+
+
+### Chapada da Natividade
+
+Code: BR1705102, Coordinates: -11.541, -47.876
+
+
+### Chapada de Areia
+
+Code: BR1704600, Coordinates: -10.179, -49.183
+
+
+### Colinas do Tocantins
+
+Code: BR1705508, Coordinates: -8.096, -48.536
+
+
+### Colméia (Colmeia)
+
+Code: BR1716703, Coordinates: -8.879, -48.752
+
+
+### Combinado
+
+Code: BR1705557, Coordinates: -12.827, -46.523
+
+
+### Conceição do Tocantins (Conceicao do Tocantins)
+
+Code: BR1705607, Coordinates: -12.179, -47.327
+
+
+### Couto Magalhães (Couto Magalhaes)
+
+Code: BR1706001, Coordinates: -8.45, -49.166
+
+
+### Cristalândia (Cristalandia)
+
+Code: BR1706100, Coordinates: -10.639, -49.355
+
+
+### Crixás do Tocantins (Crixas do Tocantins)
+
+Code: BR1706258, Coordinates: -11.164, -49.07
+
+
+### Darcinópolis (Darcinopolis)
+
+Code: BR1706506, Coordinates: -6.745, -47.813
+
+
+### Dianópolis (Dianopolis)
+
+Code: BR1707009, Coordinates: -11.733, -46.799
+
+
+### Divinópolis do Tocantins (Divinopolis do Tocantins)
+
+Code: BR1707108, Coordinates: -9.656, -49.377
+
+
+### Dois Irmãos do Tocantins (Dois Irmaos do Tocantins)
+
+Code: BR1707207, Coordinates: -9.299, -49.075
+
+
+### Dueré (Duere)
+
+Code: BR1707306, Coordinates: -11.349, -49.479
+
+
+### Esperantina
+
+Code: BR1707405, Coordinates: -3.856, -42.168
+
+
+### Fátima (Fatima)
+
+Code: BR1707553, Coordinates: -10.579, -38.22
+
+
+### Figueirópolis (Figueiropolis)
+
+Code: BR1707652, Coordinates: -12.265, -49.287
+
+
+### Filadélfia (Filadelfia)
+
+Code: BR1707702, Coordinates: -10.747, -40.169
+
+
+### Formoso do Araguaia
+
+Code: BR1708205, Coordinates: -12.185, -50.099
+
+
+### Goianorte
+
+Code: BR1708304, Coordinates: -8.887, -48.974
+
+
+### Goiatins
+
+Code: BR1709005, Coordinates: -8.037, -47.486
+
+
+### Guaraí (Guarai)
+
+Code: BR1709302, Coordinates: -8.735, -48.438
+
+
+### Gurupi
+
+Code: BR1709500, Coordinates: -11.663, -48.866
+
+
+### Ipueiras
+
+Code: BR1709807, Coordinates: -4.582, -40.905
+
+
+### Itacajá (Itacaja)
+
+Code: BR1710508, Coordinates: -8.52, -47.671
+
+
+### Itaguatins
+
+Code: BR1710706, Coordinates: -5.823, -47.576
+
+
+### Itapiratins
+
+Code: BR1710904, Coordinates: -8.321, -47.995
+
+
+### Itaporã do Tocantins (Itapora do Tocantins)
+
+Code: BR1711100, Coordinates: -8.503, -48.735
+
+
+### Jaú do Tocantins (Jau do Tocantins)
+
+Code: BR1711506, Coordinates: -12.803, -48.648
+
+
+### Juarina
+
+Code: BR1711803, Coordinates: -8.137, -49.102
+
+
+### Lagoa da Confusão (Lagoa da Confusao)
+
+Code: BR1711902, Coordinates: -10.992, -49.969
+
+
+### Lagoa do Tocantins
+
+Code: BR1711951, Coordinates: -10.328, -47.489
+
+
+### Lajeado
+
+Code: BR1712009, Coordinates: -29.436, -52.022
+
+
+### Lavandeira
+
+Code: BR1712157, Coordinates: -12.839, -46.368
+
+
+### Lizarda
+
+Code: BR1712405, Coordinates: -9.518, -46.976
+
+
+### Luzinópolis (Luzinopolis)
+
+Code: BR1712454, Coordinates: -6.221, -47.887
+
+
+### Marianópolis do Tocantins (Marianopolis do Tocantins)
+
+Code: BR1712504, Coordinates: -9.81, -49.735
+
+
+### Mateiros
+
+Code: BR1712702, Coordinates: -10.551, -46.707
+
+
+### Maurilândia do Tocantins (Maurilandia do Tocantins)
+
+Code: BR1712801, Coordinates: -6.014, -47.583
+
+
+### Miracema do Tocantins
+
+Code: BR1713205, Coordinates: -9.758, -48.599
+
+
+### Miranorte
+
+Code: BR1713304, Coordinates: -9.382, -48.668
+
+
+### Monte do Carmo
+
+Code: BR1713601, Coordinates: -10.695, -47.993
+
+
+### Monte Santo do Tocantins
+
+Code: BR1713700, Coordinates: -10.003, -49.07
+
+
+### Muricilândia (Muricilandia)
+
+Code: BR1713957, Coordinates: -7.003, -48.77
+
+
+### Natividade
+
+Code: BR1714203, Coordinates: -21.042, -41.939
+
+
+### Nazaré (Nazare)
+
+Code: BR1714302, Coordinates: -12.939, -38.98
+
+
+### Nova Olinda
+
+Code: BR1714880, Coordinates: -7.455, -38.038
+
+
+### Nova Rosalândia (Nova Rosalandia)
+
+Code: BR1715002, Coordinates: -10.549, -48.978
+
+
+### Novo Acordo
+
+Code: BR1715101, Coordinates: -10.167, -47.396
+
+
+### Novo Alegre
+
+Code: BR1715150, Coordinates: -12.886, -46.56
+
+
+### Novo Jardim
+
+Code: BR1715259, Coordinates: -11.749, -46.484
+
+
+### Oliveira de Fátima (Oliveira de Fatima)
+
+Code: BR1715507, Coordinates: -10.668, -48.882
+
+
+### Palmas
+
+Code: BR1721000, Coordinates: -26.394, -51.842
+
+
+### Palmeirante
+
+Code: BR1715705, Coordinates: -7.862, -48.181
+
+
+### Palmeiras do Tocantins
+
+Code: BR1713809, Coordinates: -6.614, -47.668
+
+
+### Palmeirópolis (Palmeiropolis)
+
+Code: BR1715754, Coordinates: -13.06, -48.388
+
+
+### Paraíso do Tocantins (Paraiso do Tocantins)
+
+Code: BR1716109, Coordinates: -10.218, -48.853
+
+
+### Paranã (Parana)
+
+Code: BR1716208, Coordinates: -6.456, -38.288
+
+
+### Pau D&#39;Arco
+
+Code: BR1716307, Coordinates: -7.561, -48.912
+
+
+### Pedro Afonso
+
+Code: BR1716505, Coordinates: -9.222, -48.005
+
+
+### Peixe
+
+Code: BR1716604, Coordinates: -12.036, -48.585
+
+
+### Pequizeiro
+
+Code: BR1716653, Coordinates: -8.357, -48.925
+
+
+### Pindorama do Tocantins
+
+Code: BR1717008, Coordinates: -11.132, -47.562
+
+
+### Piraquê (Piraque)
+
+Code: BR1717206, Coordinates: -6.692, -48.261
+
+
+### Pium
+
+Code: BR1717503, Coordinates: -10.033, -49.76
+
+
+### Ponte Alta do Bom Jesus
+
+Code: BR1717800, Coordinates: -12.073, -46.563
+
+
+### Ponte Alta do Tocantins
+
+Code: BR1717909, Coordinates: -10.772, -47.251
+
+
+### Porto Alegre do Tocantins
+
+Code: BR1718006, Coordinates: -11.525, -47.044
+
+
+### Porto Nacional
+
+Code: BR1718204, Coordinates: -10.552, -48.494
+
+
+### Praia Norte
+
+Code: BR1718303, Coordinates: -5.489, -47.797
+
+
+### Presidente Kennedy
+
+Code: BR1718402, Coordinates: -21.14, -41.068
+
+
+### Pugmil
+
+Code: BR1718451, Coordinates: -10.417, -48.86
+
+
+### Recursolândia (Recursolandia)
+
+Code: BR1718501, Coordinates: -8.705, -47.1
+
+
+### Riachinho
+
+Code: BR1718550, Coordinates: -16.253, -45.901
+
+
+### Rio da Conceição (Rio da Conceicao)
+
+Code: BR1718659, Coordinates: -11.348, -46.767
+
+
+### Rio dos Bois
+
+Code: BR1718709, Coordinates: -9.234, -48.458
+
+
+### Rio Sono
+
+Code: BR1718758, Coordinates: -9.65, -47.421
+
+
+### Sampaio
+
+Code: BR1718808, Coordinates: -5.358, -47.918
+
+
+### Sandolândia (Sandolandia)
+
+Code: BR1718840, Coordinates: -12.405, -49.873
+
+
+### Santa Fé do Araguaia (Santa Fe do Araguaia)
+
+Code: BR1718865, Coordinates: -7.095, -48.946
+
+
+### Santa Maria do Tocantins
+
+Code: BR1718881, Coordinates: -8.833, -47.851
+
+
+### Santa Rita do Tocantins
+
+Code: BR1718899, Coordinates: -10.979, -49.358
+
+
+### Santa Rosa do Tocantins
+
+Code: BR1718907, Coordinates: -11.389, -48.107
+
+
+### Santa Tereza do Tocantins
+
+Code: BR1719004, Coordinates: -10.301, -47.726
+
+
+### Santa Terezinha do Tocantins
+
+Code: BR1720002, Coordinates: -6.473, -47.705
+
+
+### São Bento do Tocantins (Sao Bento do Tocantins)
+
+Code: BR1720101, Coordinates: -5.981, -47.98
+
+
+### São Félix do Tocantins (Sao Felix do Tocantins)
+
+Code: BR1720150, Coordinates: -10.076, -46.703
+
+
+### São Miguel do Tocantins (Sao Miguel do Tocantins)
+
+Code: BR1720200, Coordinates: -5.55, -47.615
+
+
+### São Salvador do Tocantins (Sao Salvador do Tocantins)
+
+Code: BR1720259, Coordinates: -12.568, -48.374
+
+
+### São Sebastião do Tocantins (Sao Sebastiao do Tocantins)
+
+Code: BR1720309, Coordinates: -5.248, -48.355
+
+
+### São Valério (Sao Valerio)
+
+Code: BR1720499, Coordinates: -11.849, -48.122
+
+
+### Silvanópolis (Silvanopolis)
+
+Code: BR1720655, Coordinates: -11.131, -47.999
+
+
+### Sítio Novo do Tocantins (Sitio Novo do Tocantins)
+
+Code: BR1720804, Coordinates: -5.624, -47.726
+
+
+### Sucupira
+
+Code: BR1720853, Coordinates: -12.124, -48.828
+
+
+### Tabocão (Tabocao)
+
+Code: BR1708254, Coordinates: -9.095, -48.575
+
+
+### Taguatinga
+
+Code: BR1720903, Coordinates: -12.377, -46.521
+
+
+### Taipas do Tocantins
+
+Code: BR1720937, Coordinates: -12.149, -47.002
+
+
+### Talismã (Talisma)
+
+Code: BR1720978, Coordinates: -12.668, -49.047
+
+
+### Tocantínia (Tocantinia)
+
+Code: BR1721109, Coordinates: -9.55, -48.148
+
+
+### Tocantinópolis (Tocantinopolis)
+
+Code: BR1721208, Coordinates: -6.245, -47.543
+
+
+### Tupirama
+
+Code: BR1721257, Coordinates: -8.906, -48.258
+
+
+### Tupiratins
+
+Code: BR1721307, Coordinates: -8.37, -48.223
+
+
+### Wanderlândia (Wanderlandia)
+
+Code: BR1722081, Coordinates: -6.853, -47.992
+
+
+### Xambioá (Xambioa)
+
+Code: BR1722107, Coordinates: -6.602, -48.457
+
+

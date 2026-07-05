@@ -1,0 +1,45 @@
+{
+  "id": "BR2513000",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Salgadinho",
+    "en": "Salgadinho",
+    "slug": "salgadinho-br2513000"
+  },
+  "code": {
+    "id": "BR2513000",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.924",
+    "lon": "-35.595"
+  },
+  "metadata": {},
+  "source": {}
+}

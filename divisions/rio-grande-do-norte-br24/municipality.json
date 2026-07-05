@@ -1,0 +1,7517 @@
+[
+  {
+    "id": "BR2400109",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acari",
+      "en": "Acari",
+      "slug": "acari-br2400109"
+    },
+    "code": {
+      "id": "BR2400109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.396",
+      "lon": "-36.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2400208",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Açu",
+      "en": "Acu",
+      "slug": "acu-br2400208"
+    },
+    "code": {
+      "id": "BR2400208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.584",
+      "lon": "-36.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2400307",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Afonso Bezerra",
+      "en": "Afonso Bezerra",
+      "slug": "afonso-bezerra-br2400307"
+    },
+    "code": {
+      "id": "BR2400307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.461",
+      "lon": "-36.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2400406",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Água Nova",
+      "en": "Agua Nova",
+      "slug": "agua-nova-br2400406"
+    },
+    "code": {
+      "id": "BR2400406",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.209",
+      "lon": "-38.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2400505",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alexandria",
+      "en": "Alexandria",
+      "slug": "alexandria-br2400505"
+    },
+    "code": {
+      "id": "BR2400505",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.385",
+      "lon": "-37.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2400604",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Almino Afonso",
+      "en": "Almino Afonso",
+      "slug": "almino-afonso-br2400604"
+    },
+    "code": {
+      "id": "BR2400604",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.148",
+      "lon": "-37.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2400703",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alto do Rodrigues",
+      "en": "Alto do Rodrigues",
+      "slug": "alto-do-rodrigues-br2400703"
+    },
+    "code": {
+      "id": "BR2400703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.346",
+      "lon": "-36.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2400802",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Angicos",
+      "en": "Angicos",
+      "slug": "angicos-br2400802"
+    },
+    "code": {
+      "id": "BR2400802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.669",
+      "lon": "-36.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2400901",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Antônio Martins",
+      "en": "Antonio Martins",
+      "slug": "antonio-martins-br2400901"
+    },
+    "code": {
+      "id": "BR2400901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.196",
+      "lon": "-37.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2401008",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Apodi",
+      "en": "Apodi",
+      "slug": "apodi-br2401008"
+    },
+    "code": {
+      "id": "BR2401008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.621",
+      "lon": "-37.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2401107",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Areia Branca",
+      "en": "Areia Branca",
+      "slug": "areia-branca-br2401107"
+    },
+    "code": {
+      "id": "BR2401107",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.783",
+      "lon": "-37.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2401206",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arês",
+      "en": "Ares",
+      "slug": "ares-br2401206"
+    },
+    "code": {
+      "id": "BR2401206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.192",
+      "lon": "-35.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2401404",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Baía Formosa",
+      "en": "Baia Formosa",
+      "slug": "baia-formosa-br2401404"
+    },
+    "code": {
+      "id": "BR2401404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.421",
+      "lon": "-35.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2401453",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Baraúna",
+      "en": "Barauna",
+      "slug": "barauna-br2401453"
+    },
+    "code": {
+      "id": "BR2401453",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.61",
+      "lon": "-36.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2401503",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barcelona",
+      "en": "Barcelona",
+      "slug": "barcelona-br2401503"
+    },
+    "code": {
+      "id": "BR2401503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.946",
+      "lon": "-35.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2401602",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bento Fernandes",
+      "en": "Bento Fernandes",
+      "slug": "bento-fernandes-br2401602"
+    },
+    "code": {
+      "id": "BR2401602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.638",
+      "lon": "-35.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2401651",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bodó",
+      "en": "Bodo",
+      "slug": "bodo-br2401651"
+    },
+    "code": {
+      "id": "BR2401651",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.932",
+      "lon": "-36.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2401701",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bom Jesus",
+      "en": "Bom Jesus",
+      "slug": "bom-jesus-br2401701"
+    },
+    "code": {
+      "id": "BR2401701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.585",
+      "lon": "-50.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2401800",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Brejinho",
+      "en": "Brejinho",
+      "slug": "brejinho-br2401800"
+    },
+    "code": {
+      "id": "BR2401800",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.343",
+      "lon": "-37.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2401859",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caiçara do Norte",
+      "en": "Caicara do Norte",
+      "slug": "caicara-do-norte-br2401859"
+    },
+    "code": {
+      "id": "BR2401859",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.184",
+      "lon": "-36.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2401909",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caiçara do Rio do Vento",
+      "en": "Caicara do Rio do Vento",
+      "slug": "caicara-do-rio-do-vento-br2401909"
+    },
+    "code": {
+      "id": "BR2401909",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.791",
+      "lon": "-35.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2402006",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caicó",
+      "en": "Caico",
+      "slug": "caico-br2402006"
+    },
+    "code": {
+      "id": "BR2402006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.466",
+      "lon": "-37.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2401305",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Campo Grande",
+      "en": "Campo Grande",
+      "slug": "campo-grande-br2401305"
+    },
+    "code": {
+      "id": "BR2401305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.985",
+      "lon": "-54.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2402105",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Campo Redondo",
+      "en": "Campo Redondo",
+      "slug": "campo-redondo-br2402105"
+    },
+    "code": {
+      "id": "BR2402105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.268",
+      "lon": "-36.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2402204",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Canguaretama",
+      "en": "Canguaretama",
+      "slug": "canguaretama-br2402204"
+    },
+    "code": {
+      "id": "BR2402204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.379",
+      "lon": "-35.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2402303",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caraúbas",
+      "en": "Caraubas",
+      "slug": "caraubas-br2402303"
+    },
+    "code": {
+      "id": "BR2402303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.745",
+      "lon": "-36.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2402402",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carnaúba dos Dantas",
+      "en": "Carnauba dos Dantas",
+      "slug": "carnauba-dos-dantas-br2402402"
+    },
+    "code": {
+      "id": "BR2402402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.562",
+      "lon": "-36.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2402501",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carnaubais",
+      "en": "Carnaubais",
+      "slug": "carnaubais-br2402501"
+    },
+    "code": {
+      "id": "BR2402501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.282",
+      "lon": "-36.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2402600",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ceará-Mirim",
+      "en": "Ceara-Mirim",
+      "slug": "ceara-mirim-br2402600"
+    },
+    "code": {
+      "id": "BR2402600",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.564",
+      "lon": "-35.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2402709",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cerro Corá",
+      "en": "Cerro Cora",
+      "slug": "cerro-cora-br2402709"
+    },
+    "code": {
+      "id": "BR2402709",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.973",
+      "lon": "-36.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2402808",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coronel Ezequiel",
+      "en": "Coronel Ezequiel",
+      "slug": "coronel-ezequiel-br2402808"
+    },
+    "code": {
+      "id": "BR2402808",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.331",
+      "lon": "-36.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2402907",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coronel João Pessoa",
+      "en": "Coronel Joao Pessoa",
+      "slug": "coronel-joao-pessoa-br2402907"
+    },
+    "code": {
+      "id": "BR2402907",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.265",
+      "lon": "-38.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2403004",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cruzeta",
+      "en": "Cruzeta",
+      "slug": "cruzeta-br2403004"
+    },
+    "code": {
+      "id": "BR2403004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.34",
+      "lon": "-36.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2403103",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Currais Novos",
+      "en": "Currais Novos",
+      "slug": "currais-novos-br2403103"
+    },
+    "code": {
+      "id": "BR2403103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.199",
+      "lon": "-36.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2403202",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Doutor Severiano",
+      "en": "Doutor Severiano",
+      "slug": "doutor-severiano-br2403202"
+    },
+    "code": {
+      "id": "BR2403202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.107",
+      "lon": "-38.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2403301",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Encanto",
+      "en": "Encanto",
+      "slug": "encanto-br2403301"
+    },
+    "code": {
+      "id": "BR2403301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.109",
+      "lon": "-38.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2403400",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Equador",
+      "en": "Equador",
+      "slug": "equador-br2403400"
+    },
+    "code": {
+      "id": "BR2403400",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.874",
+      "lon": "-36.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2403509",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br2403509"
+    },
+    "code": {
+      "id": "BR2403509",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.311",
+      "lon": "-35.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2403608",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Extremoz",
+      "en": "Extremoz",
+      "slug": "extremoz-br2403608"
+    },
+    "code": {
+      "id": "BR2403608",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.699",
+      "lon": "-35.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2403707",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Felipe Guerra",
+      "en": "Felipe Guerra",
+      "slug": "felipe-guerra-br2403707"
+    },
+    "code": {
+      "id": "BR2403707",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.538",
+      "lon": "-37.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2403756",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fernando Pedroza",
+      "en": "Fernando Pedroza",
+      "slug": "fernando-pedroza-br2403756"
+    },
+    "code": {
+      "id": "BR2403756",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.727",
+      "lon": "-36.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2403806",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Florânia",
+      "en": "Florania",
+      "slug": "florania-br2403806"
+    },
+    "code": {
+      "id": "BR2403806",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.174",
+      "lon": "-36.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2403905",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Francisco Dantas",
+      "en": "Francisco Dantas",
+      "slug": "francisco-dantas-br2403905"
+    },
+    "code": {
+      "id": "BR2403905",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.04",
+      "lon": "-38.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2404002",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Frutuoso Gomes",
+      "en": "Frutuoso Gomes",
+      "slug": "frutuoso-gomes-br2404002"
+    },
+    "code": {
+      "id": "BR2404002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.154",
+      "lon": "-37.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2404101",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Galinhos",
+      "en": "Galinhos",
+      "slug": "galinhos-br2404101"
+    },
+    "code": {
+      "id": "BR2404101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.145",
+      "lon": "-36.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2404200",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Goianinha",
+      "en": "Goianinha",
+      "slug": "goianinha-br2404200"
+    },
+    "code": {
+      "id": "BR2404200",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.279",
+      "lon": "-35.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2404309",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Governador Dix-Sept Rosado",
+      "en": "Governador Dix-Sept Rosado",
+      "slug": "governador-dix-sept-rosado-br2404309"
+    },
+    "code": {
+      "id": "BR2404309",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.394",
+      "lon": "-37.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2404408",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Grossos",
+      "en": "Grossos",
+      "slug": "grossos-br2404408"
+    },
+    "code": {
+      "id": "BR2404408",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.952",
+      "lon": "-37.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2404507",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guamaré",
+      "en": "Guamare",
+      "slug": "guamare-br2404507"
+    },
+    "code": {
+      "id": "BR2404507",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.14",
+      "lon": "-36.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2404606",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ielmo Marinho",
+      "en": "Ielmo Marinho",
+      "slug": "ielmo-marinho-br2404606"
+    },
+    "code": {
+      "id": "BR2404606",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.753",
+      "lon": "-35.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2404705",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ipanguaçu",
+      "en": "Ipanguacu",
+      "slug": "ipanguacu-br2404705"
+    },
+    "code": {
+      "id": "BR2404705",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.559",
+      "lon": "-36.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2404804",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ipueira",
+      "en": "Ipueira",
+      "slug": "ipueira-br2404804"
+    },
+    "code": {
+      "id": "BR2404804",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.767",
+      "lon": "-37.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2404853",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itajá",
+      "en": "Itaja",
+      "slug": "itaja-br2404853"
+    },
+    "code": {
+      "id": "BR2404853",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.117",
+      "lon": "-51.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2404903",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itaú",
+      "en": "Itau",
+      "slug": "itau-br2404903"
+    },
+    "code": {
+      "id": "BR2404903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.831",
+      "lon": "-37.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2405009",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jaçanã",
+      "en": "Jacana",
+      "slug": "jacana-br2405009"
+    },
+    "code": {
+      "id": "BR2405009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.409",
+      "lon": "-36.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2405108",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jandaíra",
+      "en": "Jandaira",
+      "slug": "jandaira-br2405108"
+    },
+    "code": {
+      "id": "BR2405108",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.595",
+      "lon": "-37.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2405207",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Janduís",
+      "en": "Janduis",
+      "slug": "janduis-br2405207"
+    },
+    "code": {
+      "id": "BR2405207",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.959",
+      "lon": "-37.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2405306",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Januário Cicco",
+      "en": "Januario Cicco",
+      "slug": "januario-cicco-br2405306"
+    },
+    "code": {
+      "id": "BR2405306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.151",
+      "lon": "-35.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2405405",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Japi",
+      "en": "Japi",
+      "slug": "japi-br2405405"
+    },
+    "code": {
+      "id": "BR2405405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.405",
+      "lon": "-35.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2405504",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jardim de Angicos",
+      "en": "Jardim de Angicos",
+      "slug": "jardim-de-angicos-br2405504"
+    },
+    "code": {
+      "id": "BR2405504",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.645",
+      "lon": "-35.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2405603",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jardim de Piranhas",
+      "en": "Jardim de Piranhas",
+      "slug": "jardim-de-piranhas-br2405603"
+    },
+    "code": {
+      "id": "BR2405603",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.265",
+      "lon": "-37.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2405702",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jardim do Seridó",
+      "en": "Jardim do Serido",
+      "slug": "jardim-do-serido-br2405702"
+    },
+    "code": {
+      "id": "BR2405702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.577",
+      "lon": "-36.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2405801",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "João Câmara",
+      "en": "Joao Camara",
+      "slug": "joao-camara-br2405801"
+    },
+    "code": {
+      "id": "BR2405801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.528",
+      "lon": "-35.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2405900",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "João Dias",
+      "en": "Joao Dias",
+      "slug": "joao-dias-br2405900"
+    },
+    "code": {
+      "id": "BR2405900",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.29",
+      "lon": "-37.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2406007",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "José da Penha",
+      "en": "Jose da Penha",
+      "slug": "jose-da-penha-br2406007"
+    },
+    "code": {
+      "id": "BR2406007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.333",
+      "lon": "-38.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2406106",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jucurutu",
+      "en": "Jucurutu",
+      "slug": "jucurutu-br2406106"
+    },
+    "code": {
+      "id": "BR2406106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.057",
+      "lon": "-37.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2406155",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jundiá",
+      "en": "Jundia",
+      "slug": "jundia-br2406155"
+    },
+    "code": {
+      "id": "BR2406155",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.952",
+      "lon": "-35.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2406205",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagoa d'Anta",
+      "en": "Lagoa d'Anta",
+      "slug": "lagoa-d-anta-br2406205"
+    },
+    "code": {
+      "id": "BR2406205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.363",
+      "lon": "-35.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2406304",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagoa de Pedras",
+      "en": "Lagoa de Pedras",
+      "slug": "lagoa-de-pedras-br2406304"
+    },
+    "code": {
+      "id": "BR2406304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.175",
+      "lon": "-35.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2406403",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagoa de Velhos",
+      "en": "Lagoa de Velhos",
+      "slug": "lagoa-de-velhos-br2406403"
+    },
+    "code": {
+      "id": "BR2406403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.021",
+      "lon": "-35.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2406502",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagoa Nova",
+      "en": "Lagoa Nova",
+      "slug": "lagoa-nova-br2406502"
+    },
+    "code": {
+      "id": "BR2406502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.118",
+      "lon": "-36.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2406601",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagoa Salgada",
+      "en": "Lagoa Salgada",
+      "slug": "lagoa-salgada-br2406601"
+    },
+    "code": {
+      "id": "BR2406601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.143",
+      "lon": "-35.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2406700",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lajes",
+      "en": "Lajes",
+      "slug": "lajes-br2406700"
+    },
+    "code": {
+      "id": "BR2406700",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.742",
+      "lon": "-36.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2406809",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lajes Pintadas",
+      "en": "Lajes Pintadas",
+      "slug": "lajes-pintadas-br2406809"
+    },
+    "code": {
+      "id": "BR2406809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.129",
+      "lon": "-36.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2406908",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lucrécia",
+      "en": "Lucrecia",
+      "slug": "lucrecia-br2406908"
+    },
+    "code": {
+      "id": "BR2406908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.112",
+      "lon": "-37.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2407005",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Luís Gomes",
+      "en": "Luis Gomes",
+      "slug": "luis-gomes-br2407005"
+    },
+    "code": {
+      "id": "BR2407005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.386",
+      "lon": "-38.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2407104",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Macaíba",
+      "en": "Macaiba",
+      "slug": "macaiba-br2407104"
+    },
+    "code": {
+      "id": "BR2407104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.93",
+      "lon": "-35.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2407203",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Macau",
+      "en": "Macau",
+      "slug": "macau-br2407203"
+    },
+    "code": {
+      "id": "BR2407203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.161",
+      "lon": "-36.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2407252",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Major Sales",
+      "en": "Major Sales",
+      "slug": "major-sales-br2407252"
+    },
+    "code": {
+      "id": "BR2407252",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.397",
+      "lon": "-38.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2407302",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Marcelino Vieira",
+      "en": "Marcelino Vieira",
+      "slug": "marcelino-vieira-br2407302"
+    },
+    "code": {
+      "id": "BR2407302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.301",
+      "lon": "-38.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2407401",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Martins",
+      "en": "Martins",
+      "slug": "martins-br2407401"
+    },
+    "code": {
+      "id": "BR2407401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.115",
+      "lon": "-37.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2407500",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maxaranguape",
+      "en": "Maxaranguape",
+      "slug": "maxaranguape-br2407500"
+    },
+    "code": {
+      "id": "BR2407500",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.465",
+      "lon": "-35.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2407609",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Messias Targino",
+      "en": "Messias Targino",
+      "slug": "messias-targino-br2407609"
+    },
+    "code": {
+      "id": "BR2407609",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.099",
+      "lon": "-37.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2407708",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Montanhas",
+      "en": "Montanhas",
+      "slug": "montanhas-br2407708"
+    },
+    "code": {
+      "id": "BR2407708",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.499",
+      "lon": "-35.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2407807",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Monte Alegre",
+      "en": "Monte Alegre",
+      "slug": "monte-alegre-br2407807"
+    },
+    "code": {
+      "id": "BR2407807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.086",
+      "lon": "-35.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2407906",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Monte das Gameleiras",
+      "en": "Monte das Gameleiras",
+      "slug": "monte-das-gameleiras-br2407906"
+    },
+    "code": {
+      "id": "BR2407906",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.44",
+      "lon": "-35.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2408003",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mossoró",
+      "en": "Mossoro",
+      "slug": "mossoro-br2408003"
+    },
+    "code": {
+      "id": "BR2408003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.112",
+      "lon": "-37.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2408102",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Natal",
+      "en": "Natal",
+      "slug": "natal-br2408102"
+    },
+    "code": {
+      "id": "BR2408102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.808",
+      "lon": "-35.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2408201",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nísia Floresta",
+      "en": "Nisia Floresta",
+      "slug": "nisia-floresta-br2408201"
+    },
+    "code": {
+      "id": "BR2408201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.063",
+      "lon": "-35.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2408300",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Cruz",
+      "en": "Nova Cruz",
+      "slug": "nova-cruz-br2408300"
+    },
+    "code": {
+      "id": "BR2408300",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.458",
+      "lon": "-35.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2408409",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Olho d'Água do Borges",
+      "en": "Olho d'Agua do Borges",
+      "slug": "olho-d-agua-do-borges-br2408409"
+    },
+    "code": {
+      "id": "BR2408409",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.999",
+      "lon": "-37.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2408508",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ouro Branco",
+      "en": "Ouro Branco",
+      "slug": "ouro-branco-br2408508"
+    },
+    "code": {
+      "id": "BR2408508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.53",
+      "lon": "-43.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2408607",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br2408607"
+    },
+    "code": {
+      "id": "BR2408607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.456",
+      "lon": "-38.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2408706",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paraú",
+      "en": "Parau",
+      "slug": "parau-br2408706"
+    },
+    "code": {
+      "id": "BR2408706",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.747",
+      "lon": "-37.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2408805",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Parazinho",
+      "en": "Parazinho",
+      "slug": "parazinho-br2408805"
+    },
+    "code": {
+      "id": "BR2408805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.312",
+      "lon": "-35.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2408904",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Parelhas",
+      "en": "Parelhas",
+      "slug": "parelhas-br2408904"
+    },
+    "code": {
+      "id": "BR2408904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.729",
+      "lon": "-36.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2403251",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Parnamirim",
+      "en": "Parnamirim",
+      "slug": "parnamirim-br2403251"
+    },
+    "code": {
+      "id": "BR2403251",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.211",
+      "lon": "-39.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2409100",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Passa e Fica",
+      "en": "Passa e Fica",
+      "slug": "passa-e-fica-br2409100"
+    },
+    "code": {
+      "id": "BR2409100",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.453",
+      "lon": "-35.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2409209",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Passagem",
+      "en": "Passagem",
+      "slug": "passagem-br2409209"
+    },
+    "code": {
+      "id": "BR2409209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.115",
+      "lon": "-37.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2409308",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Patu",
+      "en": "Patu",
+      "slug": "patu-br2409308"
+    },
+    "code": {
+      "id": "BR2409308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.126",
+      "lon": "-37.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2409407",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pau dos Ferros",
+      "en": "Pau dos Ferros",
+      "slug": "pau-dos-ferros-br2409407"
+    },
+    "code": {
+      "id": "BR2409407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.107",
+      "lon": "-38.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2409506",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedra Grande",
+      "en": "Pedra Grande",
+      "slug": "pedra-grande-br2409506"
+    },
+    "code": {
+      "id": "BR2409506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.125",
+      "lon": "-35.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2409605",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedra Preta",
+      "en": "Pedra Preta",
+      "slug": "pedra-preta-br2409605"
+    },
+    "code": {
+      "id": "BR2409605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.745",
+      "lon": "-54.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2409704",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedro Avelino",
+      "en": "Pedro Avelino",
+      "slug": "pedro-avelino-br2409704"
+    },
+    "code": {
+      "id": "BR2409704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.486",
+      "lon": "-36.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2409803",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedro Velho",
+      "en": "Pedro Velho",
+      "slug": "pedro-velho-br2409803"
+    },
+    "code": {
+      "id": "BR2409803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.46",
+      "lon": "-35.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2409902",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pendências",
+      "en": "Pendencias",
+      "slug": "pendencias-br2409902"
+    },
+    "code": {
+      "id": "BR2409902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.259",
+      "lon": "-36.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2410009",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pilões",
+      "en": "Piloes",
+      "slug": "piloes-br2410009"
+    },
+    "code": {
+      "id": "BR2410009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.877",
+      "lon": "-35.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2410108",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Poço Branco",
+      "en": "Poco Branco",
+      "slug": "poco-branco-br2410108"
+    },
+    "code": {
+      "id": "BR2410108",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.565",
+      "lon": "-35.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2410207",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Portalegre",
+      "en": "Portalegre",
+      "slug": "portalegre-br2410207"
+    },
+    "code": {
+      "id": "BR2410207",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.023",
+      "lon": "-38.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2410256",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto do Mangue",
+      "en": "Porto do Mangue",
+      "slug": "porto-do-mangue-br2410256"
+    },
+    "code": {
+      "id": "BR2410256",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.081",
+      "lon": "-36.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2410405",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pureza",
+      "en": "Pureza",
+      "slug": "pureza-br2410405"
+    },
+    "code": {
+      "id": "BR2410405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.42",
+      "lon": "-35.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2410504",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rafael Fernandes",
+      "en": "Rafael Fernandes",
+      "slug": "rafael-fernandes-br2410504"
+    },
+    "code": {
+      "id": "BR2410504",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.199",
+      "lon": "-38.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2410603",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rafael Godeiro",
+      "en": "Rafael Godeiro",
+      "slug": "rafael-godeiro-br2410603"
+    },
+    "code": {
+      "id": "BR2410603",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.059",
+      "lon": "-37.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2410702",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Riacho da Cruz",
+      "en": "Riacho da Cruz",
+      "slug": "riacho-da-cruz-br2410702"
+    },
+    "code": {
+      "id": "BR2410702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.931",
+      "lon": "-37.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2410801",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Riacho de Santana",
+      "en": "Riacho de Santana",
+      "slug": "riacho-de-santana-br2410801"
+    },
+    "code": {
+      "id": "BR2410801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.723",
+      "lon": "-43.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2410900",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Riachuelo",
+      "en": "Riachuelo",
+      "slug": "riachuelo-br2410900"
+    },
+    "code": {
+      "id": "BR2410900",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.722",
+      "lon": "-37.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2408953",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rio do Fogo",
+      "en": "Rio do Fogo",
+      "slug": "rio-do-fogo-br2408953"
+    },
+    "code": {
+      "id": "BR2408953",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.396",
+      "lon": "-35.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2411007",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rodolfo Fernandes",
+      "en": "Rodolfo Fernandes",
+      "slug": "rodolfo-fernandes-br2411007"
+    },
+    "code": {
+      "id": "BR2411007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.885",
+      "lon": "-38.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2411106",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ruy Barbosa",
+      "en": "Ruy Barbosa",
+      "slug": "ruy-barbosa-br2411106"
+    },
+    "code": {
+      "id": "BR2411106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.242",
+      "lon": "-40.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2411205",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz",
+      "en": "Santa Cruz",
+      "slug": "santa-cruz-br2411205"
+    },
+    "code": {
+      "id": "BR2411205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.319",
+      "lon": "-40.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2409332",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Maria",
+      "en": "Santa Maria",
+      "slug": "santa-maria-br2409332"
+    },
+    "code": {
+      "id": "BR2409332",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.777",
+      "lon": "-53.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2411403",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santana do Matos",
+      "en": "Santana do Matos",
+      "slug": "santana-do-matos-br2411403"
+    },
+    "code": {
+      "id": "BR2411403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.906",
+      "lon": "-36.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2411429",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santana do Seridó",
+      "en": "Santana do Serido",
+      "slug": "santana-do-serido-br2411429"
+    },
+    "code": {
+      "id": "BR2411429",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.718",
+      "lon": "-36.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2411502",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo Antônio",
+      "en": "Santo Antonio",
+      "slug": "santo-antonio-br2411502"
+    },
+    "code": {
+      "id": "BR2411502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.318",
+      "lon": "-35.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2411601",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Bento do Norte",
+      "en": "Sao Bento do Norte",
+      "slug": "sao-bento-do-norte-br2411601"
+    },
+    "code": {
+      "id": "BR2411601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.143",
+      "lon": "-36.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2411700",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Bento do Trairí",
+      "en": "Sao Bento do Trairi",
+      "slug": "sao-bento-do-trairi-br2411700"
+    },
+    "code": {
+      "id": "BR2411700",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.391",
+      "lon": "-36.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2411809",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Fernando",
+      "en": "Sao Fernando",
+      "slug": "sao-fernando-br2411809"
+    },
+    "code": {
+      "id": "BR2411809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.294",
+      "lon": "-37.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2411908",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Francisco do Oeste",
+      "en": "Sao Francisco do Oeste",
+      "slug": "sao-francisco-do-oeste-br2411908"
+    },
+    "code": {
+      "id": "BR2411908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.978",
+      "lon": "-38.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2412005",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Gonçalo do Amarante",
+      "en": "Sao Goncalo do Amarante",
+      "slug": "sao-goncalo-do-amarante-br2412005"
+    },
+    "code": {
+      "id": "BR2412005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.763",
+      "lon": "-35.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2412104",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São João do Sabugi",
+      "en": "Sao Joao do Sabugi",
+      "slug": "sao-joao-do-sabugi-br2412104"
+    },
+    "code": {
+      "id": "BR2412104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.695",
+      "lon": "-37.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2412203",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José de Mipibu",
+      "en": "Sao Jose de Mipibu",
+      "slug": "sao-jose-de-mipibu-br2412203"
+    },
+    "code": {
+      "id": "BR2412203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.056",
+      "lon": "-35.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2412302",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José do Campestre",
+      "en": "Sao Jose do Campestre",
+      "slug": "sao-jose-do-campestre-br2412302"
+    },
+    "code": {
+      "id": "BR2412302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.289",
+      "lon": "-35.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2412401",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José do Seridó",
+      "en": "Sao Jose do Serido",
+      "slug": "sao-jose-do-serido-br2412401"
+    },
+    "code": {
+      "id": "BR2412401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.488",
+      "lon": "-36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2412500",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Miguel",
+      "en": "Sao Miguel",
+      "slug": "sao-miguel-br2412500"
+    },
+    "code": {
+      "id": "BR2412500",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.208",
+      "lon": "-38.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2412559",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Miguel do Gostoso",
+      "en": "Sao Miguel do Gostoso",
+      "slug": "sao-miguel-do-gostoso-br2412559"
+    },
+    "code": {
+      "id": "BR2412559",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.154",
+      "lon": "-35.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2412609",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Paulo do Potengi",
+      "en": "Sao Paulo do Potengi",
+      "slug": "sao-paulo-do-potengi-br2412609"
+    },
+    "code": {
+      "id": "BR2412609",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.897",
+      "lon": "-35.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2412708",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Pedro",
+      "en": "Sao Pedro",
+      "slug": "sao-pedro-br2412708"
+    },
+    "code": {
+      "id": "BR2412708",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.558",
+      "lon": "-47.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2412807",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Rafael",
+      "en": "Sao Rafael",
+      "slug": "sao-rafael-br2412807"
+    },
+    "code": {
+      "id": "BR2412807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.849",
+      "lon": "-36.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2412906",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Tomé",
+      "en": "Sao Tome",
+      "slug": "sao-tome-br2412906"
+    },
+    "code": {
+      "id": "BR2412906",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.526",
+      "lon": "-52.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2413003",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Vicente",
+      "en": "Sao Vicente",
+      "slug": "sao-vicente-br2413003"
+    },
+    "code": {
+      "id": "BR2413003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.964",
+      "lon": "-46.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2413102",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Senador Elói de Souza",
+      "en": "Senador Eloi de Souza",
+      "slug": "senador-eloi-de-souza-br2413102"
+    },
+    "code": {
+      "id": "BR2413102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.04",
+      "lon": "-35.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2413201",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Senador Georgino Avelino",
+      "en": "Senador Georgino Avelino",
+      "slug": "senador-georgino-avelino-br2413201"
+    },
+    "code": {
+      "id": "BR2413201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.156",
+      "lon": "-35.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2410306",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Serra Caiada",
+      "en": "Serra Caiada",
+      "slug": "serra-caiada-br2410306"
+    },
+    "code": {
+      "id": "BR2410306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.107",
+      "lon": "-35.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2413300",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Serra de São Bento",
+      "en": "Serra de Sao Bento",
+      "slug": "serra-de-sao-bento-br2413300"
+    },
+    "code": {
+      "id": "BR2413300",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.434",
+      "lon": "-35.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2413359",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Serra do Mel",
+      "en": "Serra do Mel",
+      "slug": "serra-do-mel-br2413359"
+    },
+    "code": {
+      "id": "BR2413359",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.127",
+      "lon": "-37.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2413409",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Serra Negra do Norte",
+      "en": "Serra Negra do Norte",
+      "slug": "serra-negra-do-norte-br2413409"
+    },
+    "code": {
+      "id": "BR2413409",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.584",
+      "lon": "-37.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2413508",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Serrinha",
+      "en": "Serrinha",
+      "slug": "serrinha-br2413508"
+    },
+    "code": {
+      "id": "BR2413508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.658",
+      "lon": "-38.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2413557",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Serrinha dos Pintos",
+      "en": "Serrinha dos Pintos",
+      "slug": "serrinha-dos-pintos-br2413557"
+    },
+    "code": {
+      "id": "BR2413557",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.158",
+      "lon": "-37.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2413607",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Severiano Melo",
+      "en": "Severiano Melo",
+      "slug": "severiano-melo-br2413607"
+    },
+    "code": {
+      "id": "BR2413607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.801",
+      "lon": "-37.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2413706",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sítio Novo",
+      "en": "Sitio Novo",
+      "slug": "sitio-novo-br2413706"
+    },
+    "code": {
+      "id": "BR2413706",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.125",
+      "lon": "-35.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2413805",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Taboleiro Grande",
+      "en": "Taboleiro Grande",
+      "slug": "taboleiro-grande-br2413805"
+    },
+    "code": {
+      "id": "BR2413805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.948",
+      "lon": "-38.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2413904",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Taipu",
+      "en": "Taipu",
+      "slug": "taipu-br2413904"
+    },
+    "code": {
+      "id": "BR2413904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.55",
+      "lon": "-35.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2414001",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tangará",
+      "en": "Tangara",
+      "slug": "tangara-br2414001"
+    },
+    "code": {
+      "id": "BR2414001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.141",
+      "lon": "-51.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2414100",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tenente Ananias",
+      "en": "Tenente Ananias",
+      "slug": "tenente-ananias-br2414100"
+    },
+    "code": {
+      "id": "BR2414100",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.453",
+      "lon": "-38.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2414159",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tenente Laurentino Cruz",
+      "en": "Tenente Laurentino Cruz",
+      "slug": "tenente-laurentino-cruz-br2414159"
+    },
+    "code": {
+      "id": "BR2414159",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.162",
+      "lon": "-36.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2411056",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tibau",
+      "en": "Tibau",
+      "slug": "tibau-br2411056"
+    },
+    "code": {
+      "id": "BR2411056",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.909",
+      "lon": "-37.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2414209",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tibau do Sul",
+      "en": "Tibau do Sul",
+      "slug": "tibau-do-sul-br2414209"
+    },
+    "code": {
+      "id": "BR2414209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.248",
+      "lon": "-35.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2414308",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Timbaúba dos Batistas",
+      "en": "Timbauba dos Batistas",
+      "slug": "timbauba-dos-batistas-br2414308"
+    },
+    "code": {
+      "id": "BR2414308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.474",
+      "lon": "-37.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2414407",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Touros",
+      "en": "Touros",
+      "slug": "touros-br2414407"
+    },
+    "code": {
+      "id": "BR2414407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.297",
+      "lon": "-35.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2414456",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Triunfo Potiguar",
+      "en": "Triunfo Potiguar",
+      "slug": "triunfo-potiguar-br2414456"
+    },
+    "code": {
+      "id": "BR2414456",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.942",
+      "lon": "-37.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2414506",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Umarizal",
+      "en": "Umarizal",
+      "slug": "umarizal-br2414506"
+    },
+    "code": {
+      "id": "BR2414506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.012",
+      "lon": "-37.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2414605",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Upanema",
+      "en": "Upanema",
+      "slug": "upanema-br2414605"
+    },
+    "code": {
+      "id": "BR2414605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.687",
+      "lon": "-37.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2414704",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Várzea",
+      "en": "Varzea",
+      "slug": "varzea-br2414704"
+    },
+    "code": {
+      "id": "BR2414704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.794",
+      "lon": "-37.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2414753",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Venha-Ver",
+      "en": "Venha-Ver",
+      "slug": "venha-ver-br2414753"
+    },
+    "code": {
+      "id": "BR2414753",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.331",
+      "lon": "-38.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2414803",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vera Cruz",
+      "en": "Vera Cruz",
+      "slug": "vera-cruz-br2414803"
+    },
+    "code": {
+      "id": "BR2414803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.767",
+      "lon": "-52.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2414902",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Viçosa",
+      "en": "Vicosa",
+      "slug": "vicosa-br2414902"
+    },
+    "code": {
+      "id": "BR2414902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.734",
+      "lon": "-42.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2415008",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vila Flor",
+      "en": "Vila Flor",
+      "slug": "vila-flor-br2415008"
+    },
+    "code": {
+      "id": "BR2415008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR24",
+        "level": 1,
+        "name": {
+          "local": "Rio Grande do Norte",
+          "en": "Rio Grande do Norte",
+          "slug": "rio-grande-do-norte-br24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.296",
+      "lon": "-35.077"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "BR1502707",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Conceição do Araguaia",
+    "en": "Conceicao do Araguaia",
+    "slug": "conceicao-do-araguaia-br1502707"
+  },
+  "code": {
+    "id": "BR1502707",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.203",
+    "lon": "-49.604"
+  },
+  "metadata": {},
+  "source": {}
+}

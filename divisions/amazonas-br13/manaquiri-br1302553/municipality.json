@@ -1,0 +1,45 @@
+{
+  "id": "BR1302553",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Manaquiri",
+    "en": "Manaquiri",
+    "slug": "manaquiri-br1302553"
+  },
+  "code": {
+    "id": "BR1302553",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.815",
+    "lon": "-60.692"
+  },
+  "metadata": {},
+  "source": {}
+}

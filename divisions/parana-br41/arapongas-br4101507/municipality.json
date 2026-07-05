@@ -1,0 +1,45 @@
+{
+  "id": "BR4101507",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Arapongas",
+    "en": "Arapongas",
+    "slug": "arapongas-br4101507"
+  },
+  "code": {
+    "id": "BR4101507",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.438",
+    "lon": "-51.458"
+  },
+  "metadata": {},
+  "source": {}
+}

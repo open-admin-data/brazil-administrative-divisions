@@ -1,0 +1,45 @@
+{
+  "id": "BR2111904",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sucupira do Norte",
+    "en": "Sucupira do Norte",
+    "slug": "sucupira-do-norte-br2111904"
+  },
+  "code": {
+    "id": "BR2111904",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.469",
+    "lon": "-44.231"
+  },
+  "metadata": {},
+  "source": {}
+}

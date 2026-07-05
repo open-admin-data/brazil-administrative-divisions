@@ -1,0 +1,45 @@
+{
+  "id": "BR2106409",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mata Roma",
+    "en": "Mata Roma",
+    "slug": "mata-roma-br2106409"
+  },
+  "code": {
+    "id": "BR2106409",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.587",
+    "lon": "-43.238"
+  },
+  "metadata": {},
+  "source": {}
+}

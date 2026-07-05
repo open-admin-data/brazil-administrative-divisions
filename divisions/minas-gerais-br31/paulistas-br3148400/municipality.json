@@ -1,0 +1,45 @@
+{
+  "id": "BR3148400",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Paulistas",
+    "en": "Paulistas",
+    "slug": "paulistas-br3148400"
+  },
+  "code": {
+    "id": "BR3148400",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.443",
+    "lon": "-42.865"
+  },
+  "metadata": {},
+  "source": {}
+}

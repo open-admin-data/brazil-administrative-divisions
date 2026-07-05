@@ -1,0 +1,45 @@
+{
+  "id": "BR2209807",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Gonçalo do Piauí",
+    "en": "Sao Goncalo do Piaui",
+    "slug": "sao-goncalo-do-piaui-br2209807"
+  },
+  "code": {
+    "id": "BR2209807",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.026",
+    "lon": "-42.679"
+  },
+  "metadata": {},
+  "source": {}
+}

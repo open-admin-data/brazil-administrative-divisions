@@ -1,0 +1,45 @@
+{
+  "id": "BR4312385",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Monte Belo do Sul",
+    "en": "Monte Belo do Sul",
+    "slug": "monte-belo-do-sul-br4312385"
+  },
+  "code": {
+    "id": "BR4312385",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.129",
+    "lon": "-51.645"
+  },
+  "metadata": {},
+  "source": {}
+}

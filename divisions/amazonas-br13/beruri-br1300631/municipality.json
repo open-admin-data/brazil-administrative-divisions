@@ -1,0 +1,45 @@
+{
+  "id": "BR1300631",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Beruri",
+    "en": "Beruri",
+    "slug": "beruri-br1300631"
+  },
+  "code": {
+    "id": "BR1300631",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.35",
+    "lon": "-61.794"
+  },
+  "metadata": {},
+  "source": {}
+}

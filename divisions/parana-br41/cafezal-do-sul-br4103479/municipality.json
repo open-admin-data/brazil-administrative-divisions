@@ -1,0 +1,45 @@
+{
+  "id": "BR4103479",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cafezal do Sul",
+    "en": "Cafezal do Sul",
+    "slug": "cafezal-do-sul-br4103479"
+  },
+  "code": {
+    "id": "BR4103479",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.934",
+    "lon": "-53.588"
+  },
+  "metadata": {},
+  "source": {}
+}

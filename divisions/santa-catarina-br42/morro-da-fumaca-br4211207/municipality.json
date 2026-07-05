@@ -1,0 +1,45 @@
+{
+  "id": "BR4211207",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Morro da Fumaça",
+    "en": "Morro da Fumaca",
+    "slug": "morro-da-fumaca-br4211207"
+  },
+  "code": {
+    "id": "BR4211207",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.638",
+    "lon": "-49.269"
+  },
+  "metadata": {},
+  "source": {}
+}

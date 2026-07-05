@@ -1,0 +1,45 @@
+{
+  "id": "BR2311405",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Quixeramobim",
+    "en": "Quixeramobim",
+    "slug": "quixeramobim-br2311405"
+  },
+  "code": {
+    "id": "BR2311405",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.165",
+    "lon": "-39.302"
+  },
+  "metadata": {},
+  "source": {}
+}

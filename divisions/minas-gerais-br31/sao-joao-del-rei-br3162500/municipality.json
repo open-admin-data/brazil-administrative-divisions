@@ -1,0 +1,45 @@
+{
+  "id": "BR3162500",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São João del Rei",
+    "en": "Sao Joao del Rei",
+    "slug": "sao-joao-del-rei-br3162500"
+  },
+  "code": {
+    "id": "BR3162500",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.247",
+    "lon": "-44.263"
+  },
+  "metadata": {},
+  "source": {}
+}

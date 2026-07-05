@@ -1,0 +1,33 @@
+{
+  "id": "BR14",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Roraima",
+    "en": "Roraima",
+    "slug": "roraima-br14"
+  },
+  "code": {
+    "id": "BR14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.339",
+    "lon": "-61.611"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/br/states/roraima-br14/",
+    "api": "https://openadmindata.org/api/br/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3200136",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Águia Branca",
+    "en": "Aguia Branca",
+    "slug": "aguia-branca-br3200136"
+  },
+  "code": {
+    "id": "BR3200136",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.989",
+    "lon": "-40.718"
+  },
+  "metadata": {},
+  "source": {}
+}

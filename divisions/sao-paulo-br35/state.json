@@ -1,0 +1,33 @@
+{
+  "id": "BR35",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "São Paulo",
+    "en": "Sao Paulo",
+    "slug": "sao-paulo-br35"
+  },
+  "code": {
+    "id": "BR35",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 645
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.386",
+    "lon": "-48.382"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/br/states/sao-paulo-br35/",
+    "api": "https://openadmindata.org/api/br/"
+  }
+}

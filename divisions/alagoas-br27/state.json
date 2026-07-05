@@ -1,0 +1,33 @@
+{
+  "id": "BR27",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Alagoas",
+    "en": "Alagoas",
+    "slug": "alagoas-br27"
+  },
+  "code": {
+    "id": "BR27",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 102
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.421",
+    "lon": "-36.643"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/br/states/alagoas-br27/",
+    "api": "https://openadmindata.org/api/br/"
+  }
+}

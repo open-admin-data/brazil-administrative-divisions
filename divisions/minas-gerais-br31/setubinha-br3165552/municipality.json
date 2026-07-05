@@ -1,0 +1,45 @@
+{
+  "id": "BR3165552",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Setubinha",
+    "en": "Setubinha",
+    "slug": "setubinha-br3165552"
+  },
+  "code": {
+    "id": "BR3165552",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.622",
+    "lon": "-42.152"
+  },
+  "metadata": {},
+  "source": {}
+}

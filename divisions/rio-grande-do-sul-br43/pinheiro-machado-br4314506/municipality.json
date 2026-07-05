@@ -1,0 +1,45 @@
+{
+  "id": "BR4314506",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pinheiro Machado",
+    "en": "Pinheiro Machado",
+    "slug": "pinheiro-machado-br4314506"
+  },
+  "code": {
+    "id": "BR4314506",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-31.366",
+    "lon": "-53.404"
+  },
+  "metadata": {},
+  "source": {}
+}

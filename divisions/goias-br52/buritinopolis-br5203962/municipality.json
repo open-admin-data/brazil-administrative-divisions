@@ -1,0 +1,45 @@
+{
+  "id": "BR5203962",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Buritinópolis",
+    "en": "Buritinopolis",
+    "slug": "buritinopolis-br5203962"
+  },
+  "code": {
+    "id": "BR5203962",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.42",
+    "lon": "-46.327"
+  },
+  "metadata": {},
+  "source": {}
+}

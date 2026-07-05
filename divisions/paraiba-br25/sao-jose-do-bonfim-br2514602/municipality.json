@@ -1,0 +1,45 @@
+{
+  "id": "BR2514602",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José do Bonfim",
+    "en": "Sao Jose do Bonfim",
+    "slug": "sao-jose-do-bonfim-br2514602"
+  },
+  "code": {
+    "id": "BR2514602",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.146",
+    "lon": "-37.332"
+  },
+  "metadata": {},
+  "source": {}
+}

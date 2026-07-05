@@ -1,0 +1,45 @@
+{
+  "id": "BR1302504",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Manacapuru",
+    "en": "Manacapuru",
+    "slug": "manacapuru-br1302504"
+  },
+  "code": {
+    "id": "BR1302504",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.249",
+    "lon": "-61.021"
+  },
+  "metadata": {},
+  "source": {}
+}

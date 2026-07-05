@@ -1,0 +1,45 @@
+{
+  "id": "BR3159902",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Antônio do Amparo",
+    "en": "Santo Antonio do Amparo",
+    "slug": "santo-antonio-do-amparo-br3159902"
+  },
+  "code": {
+    "id": "BR3159902",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.918",
+    "lon": "-44.959"
+  },
+  "metadata": {},
+  "source": {}
+}

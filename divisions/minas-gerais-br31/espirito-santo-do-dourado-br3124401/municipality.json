@@ -1,0 +1,45 @@
+{
+  "id": "BR3124401",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Espírito Santo do Dourado",
+    "en": "Espirito Santo do Dourado",
+    "slug": "espirito-santo-do-dourado-br3124401"
+  },
+  "code": {
+    "id": "BR3124401",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.019",
+    "lon": "-45.979"
+  },
+  "metadata": {},
+  "source": {}
+}

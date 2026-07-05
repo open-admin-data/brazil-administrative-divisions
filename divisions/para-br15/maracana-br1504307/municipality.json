@@ -1,0 +1,45 @@
+{
+  "id": "BR1504307",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Maracanã",
+    "en": "Maracana",
+    "slug": "maracana-br1504307"
+  },
+  "code": {
+    "id": "BR1504307",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.763",
+    "lon": "-47.486"
+  },
+  "metadata": {},
+  "source": {}
+}

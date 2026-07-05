@@ -1,0 +1,45 @@
+{
+  "id": "BR3169307",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Três Corações",
+    "en": "Tres Coracoes",
+    "slug": "tres-coracoes-br3169307"
+  },
+  "code": {
+    "id": "BR3169307",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.699",
+    "lon": "-45.207"
+  },
+  "metadata": {},
+  "source": {}
+}

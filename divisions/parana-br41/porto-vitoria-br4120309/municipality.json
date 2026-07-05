@@ -1,0 +1,45 @@
+{
+  "id": "BR4120309",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Porto Vitória",
+    "en": "Porto Vitoria",
+    "slug": "porto-vitoria-br4120309"
+  },
+  "code": {
+    "id": "BR4120309",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.246",
+    "lon": "-51.246"
+  },
+  "metadata": {},
+  "source": {}
+}

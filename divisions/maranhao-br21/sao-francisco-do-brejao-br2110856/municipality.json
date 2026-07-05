@@ -1,0 +1,45 @@
+{
+  "id": "BR2110856",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Francisco do Brejão",
+    "en": "Sao Francisco do Brejao",
+    "slug": "sao-francisco-do-brejao-br2110856"
+  },
+  "code": {
+    "id": "BR2110856",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.161",
+    "lon": "-47.346"
+  },
+  "metadata": {},
+  "source": {}
+}

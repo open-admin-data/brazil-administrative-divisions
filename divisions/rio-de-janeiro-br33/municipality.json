@@ -1,0 +1,4142 @@
+[
+  {
+    "id": "BR3300100",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Angra dos Reis",
+      "en": "Angra dos Reis",
+      "slug": "angra-dos-reis-br3300100"
+    },
+    "code": {
+      "id": "BR3300100",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.957",
+      "lon": "-44.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3300159",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aperibé",
+      "en": "Aperibe",
+      "slug": "aperibe-br3300159"
+    },
+    "code": {
+      "id": "BR3300159",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.646",
+      "lon": "-42.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3300209",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Araruama",
+      "en": "Araruama",
+      "slug": "araruama-br3300209"
+    },
+    "code": {
+      "id": "BR3300209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.707",
+      "lon": "-42.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3300225",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Areal",
+      "en": "Areal",
+      "slug": "areal-br3300225"
+    },
+    "code": {
+      "id": "BR3300225",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.233",
+      "lon": "-43.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3300233",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Armação dos Búzios",
+      "en": "Armacao dos Buzios",
+      "slug": "armacao-dos-buzios-br3300233"
+    },
+    "code": {
+      "id": "BR3300233",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.772",
+      "lon": "-41.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3300258",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arraial do Cabo",
+      "en": "Arraial do Cabo",
+      "slug": "arraial-do-cabo-br3300258"
+    },
+    "code": {
+      "id": "BR3300258",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.941",
+      "lon": "-42.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3300308",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barra do Piraí",
+      "en": "Barra do Pirai",
+      "slug": "barra-do-pirai-br3300308"
+    },
+    "code": {
+      "id": "BR3300308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.413",
+      "lon": "-43.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3300407",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barra Mansa",
+      "en": "Barra Mansa",
+      "slug": "barra-mansa-br3300407"
+    },
+    "code": {
+      "id": "BR3300407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.497",
+      "lon": "-44.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3300456",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Belford Roxo",
+      "en": "Belford Roxo",
+      "slug": "belford-roxo-br3300456"
+    },
+    "code": {
+      "id": "BR3300456",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.719",
+      "lon": "-43.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3300506",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bom Jardim",
+      "en": "Bom Jardim",
+      "slug": "bom-jardim-br3300506"
+    },
+    "code": {
+      "id": "BR3300506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.184",
+      "lon": "-42.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3300605",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bom Jesus do Itabapoana",
+      "en": "Bom Jesus do Itabapoana",
+      "slug": "bom-jesus-do-itabapoana-br3300605"
+    },
+    "code": {
+      "id": "BR3300605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.111",
+      "lon": "-41.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3300704",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cabo Frio",
+      "en": "Cabo Frio",
+      "slug": "cabo-frio-br3300704"
+    },
+    "code": {
+      "id": "BR3300704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.696",
+      "lon": "-42.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3300803",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cachoeiras de Macacu",
+      "en": "Cachoeiras de Macacu",
+      "slug": "cachoeiras-de-macacu-br3300803"
+    },
+    "code": {
+      "id": "BR3300803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.496",
+      "lon": "-42.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3300902",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cambuci",
+      "en": "Cambuci",
+      "slug": "cambuci-br3300902"
+    },
+    "code": {
+      "id": "BR3300902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.506",
+      "lon": "-41.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3301009",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Campos dos Goytacazes",
+      "en": "Campos dos Goytacazes",
+      "slug": "campos-dos-goytacazes-br3301009"
+    },
+    "code": {
+      "id": "BR3301009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.665",
+      "lon": "-41.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3301108",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cantagalo",
+      "en": "Cantagalo",
+      "slug": "cantagalo-br3301108"
+    },
+    "code": {
+      "id": "BR3301108",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.29",
+      "lon": "-52.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3300936",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carapebus",
+      "en": "Carapebus",
+      "slug": "carapebus-br3300936"
+    },
+    "code": {
+      "id": "BR3300936",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.216",
+      "lon": "-41.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3301157",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cardoso Moreira",
+      "en": "Cardoso Moreira",
+      "slug": "cardoso-moreira-br3301157"
+    },
+    "code": {
+      "id": "BR3301157",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.532",
+      "lon": "-41.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3301207",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carmo",
+      "en": "Carmo",
+      "slug": "carmo-br3301207"
+    },
+    "code": {
+      "id": "BR3301207",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.893",
+      "lon": "-42.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3301306",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Casimiro de Abreu",
+      "en": "Casimiro de Abreu",
+      "slug": "casimiro-de-abreu-br3301306"
+    },
+    "code": {
+      "id": "BR3301306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.483",
+      "lon": "-42.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3300951",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Comendador Levy Gasparian",
+      "en": "Comendador Levy Gasparian",
+      "slug": "comendador-levy-gasparian-br3300951"
+    },
+    "code": {
+      "id": "BR3300951",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.035",
+      "lon": "-43.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3301405",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Conceição de Macabu",
+      "en": "Conceicao de Macabu",
+      "slug": "conceicao-de-macabu-br3301405"
+    },
+    "code": {
+      "id": "BR3301405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.141",
+      "lon": "-41.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3301504",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cordeiro",
+      "en": "Cordeiro",
+      "slug": "cordeiro-br3301504"
+    },
+    "code": {
+      "id": "BR3301504",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.074",
+      "lon": "-42.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3301603",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Duas Barras",
+      "en": "Duas Barras",
+      "slug": "duas-barras-br3301603"
+    },
+    "code": {
+      "id": "BR3301603",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.065",
+      "lon": "-42.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3301702",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Duque de Caxias",
+      "en": "Duque de Caxias",
+      "slug": "duque-de-caxias-br3301702"
+    },
+    "code": {
+      "id": "BR3301702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.639",
+      "lon": "-43.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3301801",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Engenheiro Paulo de Frontin",
+      "en": "Engenheiro Paulo de Frontin",
+      "slug": "engenheiro-paulo-de-frontin-br3301801"
+    },
+    "code": {
+      "id": "BR3301801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.54",
+      "lon": "-43.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3301850",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guapimirim",
+      "en": "Guapimirim",
+      "slug": "guapimirim-br3301850"
+    },
+    "code": {
+      "id": "BR3301850",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.581",
+      "lon": "-42.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3301876",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Iguaba Grande",
+      "en": "Iguaba Grande",
+      "slug": "iguaba-grande-br3301876"
+    },
+    "code": {
+      "id": "BR3301876",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.821",
+      "lon": "-42.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3301900",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itaboraí",
+      "en": "Itaborai",
+      "slug": "itaborai-br3301900"
+    },
+    "code": {
+      "id": "BR3301900",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.761",
+      "lon": "-42.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3302007",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itaguaí",
+      "en": "Itaguai",
+      "slug": "itaguai-br3302007"
+    },
+    "code": {
+      "id": "BR3302007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.83",
+      "lon": "-43.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3302056",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Italva",
+      "en": "Italva",
+      "slug": "italva-br3302056"
+    },
+    "code": {
+      "id": "BR3302056",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.396",
+      "lon": "-41.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3302106",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itaocara",
+      "en": "Itaocara",
+      "slug": "itaocara-br3302106"
+    },
+    "code": {
+      "id": "BR3302106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.745",
+      "lon": "-42.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3302205",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itaperuna",
+      "en": "Itaperuna",
+      "slug": "itaperuna-br3302205"
+    },
+    "code": {
+      "id": "BR3302205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.215",
+      "lon": "-41.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3302254",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itatiaia",
+      "en": "Itatiaia",
+      "slug": "itatiaia-br3302254"
+    },
+    "code": {
+      "id": "BR3302254",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.424",
+      "lon": "-44.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3302270",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Japeri",
+      "en": "Japeri",
+      "slug": "japeri-br3302270"
+    },
+    "code": {
+      "id": "BR3302270",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.665",
+      "lon": "-43.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3302304",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Laje do Muriaé",
+      "en": "Laje do Muriae",
+      "slug": "laje-do-muriae-br3302304"
+    },
+    "code": {
+      "id": "BR3302304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.241",
+      "lon": "-42.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3302403",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Macaé",
+      "en": "Macae",
+      "slug": "macae-br3302403"
+    },
+    "code": {
+      "id": "BR3302403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.307",
+      "lon": "-42.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3302452",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Macuco",
+      "en": "Macuco",
+      "slug": "macuco-br3302452"
+    },
+    "code": {
+      "id": "BR3302452",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.03",
+      "lon": "-42.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3302502",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Magé",
+      "en": "Mage",
+      "slug": "mage-br3302502"
+    },
+    "code": {
+      "id": "BR3302502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.619",
+      "lon": "-43.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3302601",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mangaratiba",
+      "en": "Mangaratiba",
+      "slug": "mangaratiba-br3302601"
+    },
+    "code": {
+      "id": "BR3302601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.929",
+      "lon": "-44.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3302700",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maricá",
+      "en": "Marica",
+      "slug": "marica-br3302700"
+    },
+    "code": {
+      "id": "BR3302700",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.901",
+      "lon": "-42.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3302809",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mendes",
+      "en": "Mendes",
+      "slug": "mendes-br3302809"
+    },
+    "code": {
+      "id": "BR3302809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.53",
+      "lon": "-43.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3302858",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mesquita",
+      "en": "Mesquita",
+      "slug": "mesquita-br3302858"
+    },
+    "code": {
+      "id": "BR3302858",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.794",
+      "lon": "-43.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3302908",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Miguel Pereira",
+      "en": "Miguel Pereira",
+      "slug": "miguel-pereira-br3302908"
+    },
+    "code": {
+      "id": "BR3302908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.511",
+      "lon": "-43.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3303005",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Miracema",
+      "en": "Miracema",
+      "slug": "miracema-br3303005"
+    },
+    "code": {
+      "id": "BR3303005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.377",
+      "lon": "-42.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3303104",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Natividade",
+      "en": "Natividade",
+      "slug": "natividade-br3303104"
+    },
+    "code": {
+      "id": "BR3303104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.042",
+      "lon": "-41.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3303203",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nilópolis",
+      "en": "Nilopolis",
+      "slug": "nilopolis-br3303203"
+    },
+    "code": {
+      "id": "BR3303203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.823",
+      "lon": "-43.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3303302",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Niterói",
+      "en": "Niteroi",
+      "slug": "niteroi-br3303302"
+    },
+    "code": {
+      "id": "BR3303302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.922",
+      "lon": "-43.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3303401",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Friburgo",
+      "en": "Nova Friburgo",
+      "slug": "nova-friburgo-br3303401"
+    },
+    "code": {
+      "id": "BR3303401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.325",
+      "lon": "-42.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3303500",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Iguaçu",
+      "en": "Nova Iguacu",
+      "slug": "nova-iguacu-br3303500"
+    },
+    "code": {
+      "id": "BR3303500",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.681",
+      "lon": "-43.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3303609",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paracambi",
+      "en": "Paracambi",
+      "slug": "paracambi-br3303609"
+    },
+    "code": {
+      "id": "BR3303609",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.614",
+      "lon": "-43.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3303708",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paraíba do Sul",
+      "en": "Paraiba do Sul",
+      "slug": "paraiba-do-sul-br3303708"
+    },
+    "code": {
+      "id": "BR3303708",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.171",
+      "lon": "-43.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3303807",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paraty",
+      "en": "Paraty",
+      "slug": "paraty-br3303807"
+    },
+    "code": {
+      "id": "BR3303807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.178",
+      "lon": "-44.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3303856",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paty do Alferes",
+      "en": "Paty do Alferes",
+      "slug": "paty-do-alferes-br3303856"
+    },
+    "code": {
+      "id": "BR3303856",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.409",
+      "lon": "-43.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3303906",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Petrópolis",
+      "en": "Petropolis",
+      "slug": "petropolis-br3303906"
+    },
+    "code": {
+      "id": "BR3303906",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.383",
+      "lon": "-43.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3303955",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pinheiral",
+      "en": "Pinheiral",
+      "slug": "pinheiral-br3303955"
+    },
+    "code": {
+      "id": "BR3303955",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.538",
+      "lon": "-44.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3304003",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Piraí",
+      "en": "Pirai",
+      "slug": "pirai-br3304003"
+    },
+    "code": {
+      "id": "BR3304003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.662",
+      "lon": "-43.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3304102",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porciúncula",
+      "en": "Porciuncula",
+      "slug": "porciuncula-br3304102"
+    },
+    "code": {
+      "id": "BR3304102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.895",
+      "lon": "-41.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3304110",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto Real",
+      "en": "Porto Real",
+      "slug": "porto-real-br3304110"
+    },
+    "code": {
+      "id": "BR3304110",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.448",
+      "lon": "-44.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3304128",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quatis",
+      "en": "Quatis",
+      "slug": "quatis-br3304128"
+    },
+    "code": {
+      "id": "BR3304128",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.354",
+      "lon": "-44.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3304144",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Queimados",
+      "en": "Queimados",
+      "slug": "queimados-br3304144"
+    },
+    "code": {
+      "id": "BR3304144",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.728",
+      "lon": "-43.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3304151",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quissamã",
+      "en": "Quissama",
+      "slug": "quissama-br3304151"
+    },
+    "code": {
+      "id": "BR3304151",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.108",
+      "lon": "-41.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3304201",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Resende",
+      "en": "Resende",
+      "slug": "resende-br3304201"
+    },
+    "code": {
+      "id": "BR3304201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.457",
+      "lon": "-44.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3304300",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rio Bonito",
+      "en": "Rio Bonito",
+      "slug": "rio-bonito-br3304300"
+    },
+    "code": {
+      "id": "BR3304300",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.749",
+      "lon": "-42.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3304409",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rio Claro",
+      "en": "Rio Claro",
+      "slug": "rio-claro-br3304409"
+    },
+    "code": {
+      "id": "BR3304409",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.402",
+      "lon": "-47.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3304508",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rio das Flores",
+      "en": "Rio das Flores",
+      "slug": "rio-das-flores-br3304508"
+    },
+    "code": {
+      "id": "BR3304508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.157",
+      "lon": "-43.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3304524",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rio das Ostras",
+      "en": "Rio das Ostras",
+      "slug": "rio-das-ostras-br3304524"
+    },
+    "code": {
+      "id": "BR3304524",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.445",
+      "lon": "-41.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3304557",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rio de Janeiro",
+      "en": "Rio de Janeiro",
+      "slug": "rio-de-janeiro-br3304557"
+    },
+    "code": {
+      "id": "BR3304557",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.929",
+      "lon": "-43.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3304607",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Maria Madalena",
+      "en": "Santa Maria Madalena",
+      "slug": "santa-maria-madalena-br3304607"
+    },
+    "code": {
+      "id": "BR3304607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.961",
+      "lon": "-41.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3304706",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo Antônio de Pádua",
+      "en": "Santo Antonio de Padua",
+      "slug": "santo-antonio-de-padua-br3304706"
+    },
+    "code": {
+      "id": "BR3304706",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.564",
+      "lon": "-42.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3304805",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Fidélis",
+      "en": "Sao Fidelis",
+      "slug": "sao-fidelis-br3304805"
+    },
+    "code": {
+      "id": "BR3304805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.702",
+      "lon": "-41.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3304755",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Francisco de Itabapoana",
+      "en": "Sao Francisco de Itabapoana",
+      "slug": "sao-francisco-de-itabapoana-br3304755"
+    },
+    "code": {
+      "id": "BR3304755",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.401",
+      "lon": "-41.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3304904",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Gonçalo",
+      "en": "Sao Goncalo",
+      "slug": "sao-goncalo-br3304904"
+    },
+    "code": {
+      "id": "BR3304904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.819",
+      "lon": "-43.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3305000",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São João da Barra",
+      "en": "Sao Joao da Barra",
+      "slug": "sao-joao-da-barra-br3305000"
+    },
+    "code": {
+      "id": "BR3305000",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.751",
+      "lon": "-41.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3305109",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São João de Meriti",
+      "en": "Sao Joao de Meriti",
+      "slug": "sao-joao-de-meriti-br3305109"
+    },
+    "code": {
+      "id": "BR3305109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.791",
+      "lon": "-43.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3305133",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José de Ubá",
+      "en": "Sao Jose de Uba",
+      "slug": "sao-jose-de-uba-br3305133"
+    },
+    "code": {
+      "id": "BR3305133",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.372",
+      "lon": "-41.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3305158",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José do Vale do Rio Preto",
+      "en": "Sao Jose do Vale do Rio Preto",
+      "slug": "sao-jose-do-vale-do-rio-preto-br3305158"
+    },
+    "code": {
+      "id": "BR3305158",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.162",
+      "lon": "-42.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3305208",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Pedro da Aldeia",
+      "en": "Sao Pedro da Aldeia",
+      "slug": "sao-pedro-da-aldeia-br3305208"
+    },
+    "code": {
+      "id": "BR3305208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.824",
+      "lon": "-42.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3305307",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Sebastião do Alto",
+      "en": "Sao Sebastiao do Alto",
+      "slug": "sao-sebastiao-do-alto-br3305307"
+    },
+    "code": {
+      "id": "BR3305307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.878",
+      "lon": "-42.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3305406",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sapucaia",
+      "en": "Sapucaia",
+      "slug": "sapucaia-br3305406"
+    },
+    "code": {
+      "id": "BR3305406",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.038",
+      "lon": "-42.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3305505",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Saquarema",
+      "en": "Saquarema",
+      "slug": "saquarema-br3305505"
+    },
+    "code": {
+      "id": "BR3305505",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.867",
+      "lon": "-42.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3305554",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Seropédica",
+      "en": "Seropedica",
+      "slug": "seropedica-br3305554"
+    },
+    "code": {
+      "id": "BR3305554",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.741",
+      "lon": "-43.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3305604",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Silva Jardim",
+      "en": "Silva Jardim",
+      "slug": "silva-jardim-br3305604"
+    },
+    "code": {
+      "id": "BR3305604",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.554",
+      "lon": "-42.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3305703",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sumidouro",
+      "en": "Sumidouro",
+      "slug": "sumidouro-br3305703"
+    },
+    "code": {
+      "id": "BR3305703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.133",
+      "lon": "-42.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3305752",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tanguá",
+      "en": "Tangua",
+      "slug": "tangua-br3305752"
+    },
+    "code": {
+      "id": "BR3305752",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.792",
+      "lon": "-42.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3305802",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Teresópolis",
+      "en": "Teresopolis",
+      "slug": "teresopolis-br3305802"
+    },
+    "code": {
+      "id": "BR3305802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.32",
+      "lon": "-42.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3305901",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Trajano de Moraes",
+      "en": "Trajano de Moraes",
+      "slug": "trajano-de-moraes-br3305901"
+    },
+    "code": {
+      "id": "BR3305901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.15",
+      "lon": "-42.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3306008",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Três Rios",
+      "en": "Tres Rios",
+      "slug": "tres-rios-br3306008"
+    },
+    "code": {
+      "id": "BR3306008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.114",
+      "lon": "-43.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3306107",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Valença",
+      "en": "Valenca",
+      "slug": "valenca-br3306107"
+    },
+    "code": {
+      "id": "BR3306107",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.24",
+      "lon": "-43.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3306156",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Varre-Sai",
+      "en": "Varre-Sai",
+      "slug": "varre-sai-br3306156"
+    },
+    "code": {
+      "id": "BR3306156",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.897",
+      "lon": "-41.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3306206",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vassouras",
+      "en": "Vassouras",
+      "slug": "vassouras-br3306206"
+    },
+    "code": {
+      "id": "BR3306206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.357",
+      "lon": "-43.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR3306305",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Volta Redonda",
+      "en": "Volta Redonda",
+      "slug": "volta-redonda-br3306305"
+    },
+    "code": {
+      "id": "BR3306305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR33",
+        "level": 1,
+        "name": {
+          "local": "Rio de Janeiro",
+          "en": "Rio de Janeiro",
+          "slug": "rio-de-janeiro-br33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.512",
+      "lon": "-44.079"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

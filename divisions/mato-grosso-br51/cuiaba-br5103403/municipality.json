@@ -1,0 +1,45 @@
+{
+  "id": "BR5103403",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cuiabá",
+    "en": "Cuiaba",
+    "slug": "cuiaba-br5103403"
+  },
+  "code": {
+    "id": "BR5103403",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.394",
+    "lon": "-55.91"
+  },
+  "metadata": {},
+  "source": {}
+}

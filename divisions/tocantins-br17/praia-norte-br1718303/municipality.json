@@ -1,0 +1,45 @@
+{
+  "id": "BR1718303",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Praia Norte",
+    "en": "Praia Norte",
+    "slug": "praia-norte-br1718303"
+  },
+  "code": {
+    "id": "BR1718303",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.489",
+    "lon": "-47.797"
+  },
+  "metadata": {},
+  "source": {}
+}

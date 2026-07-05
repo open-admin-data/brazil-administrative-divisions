@@ -1,0 +1,45 @@
+{
+  "id": "BR3200359",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alto Rio Novo",
+    "en": "Alto Rio Novo",
+    "slug": "alto-rio-novo-br3200359"
+  },
+  "code": {
+    "id": "BR3200359",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.034",
+    "lon": "-40.987"
+  },
+  "metadata": {},
+  "source": {}
+}

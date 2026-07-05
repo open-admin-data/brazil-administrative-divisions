@@ -1,0 +1,45 @@
+{
+  "id": "BR2918100",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jeremoabo",
+    "en": "Jeremoabo",
+    "slug": "jeremoabo-br2918100"
+  },
+  "code": {
+    "id": "BR2918100",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.074",
+    "lon": "-38.465"
+  },
+  "metadata": {},
+  "source": {}
+}

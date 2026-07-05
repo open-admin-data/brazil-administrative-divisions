@@ -1,0 +1,45 @@
+{
+  "id": "BR2917300",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ituberá",
+    "en": "Itubera",
+    "slug": "itubera-br2917300"
+  },
+  "code": {
+    "id": "BR2917300",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.754",
+    "lon": "-39.148"
+  },
+  "metadata": {},
+  "source": {}
+}

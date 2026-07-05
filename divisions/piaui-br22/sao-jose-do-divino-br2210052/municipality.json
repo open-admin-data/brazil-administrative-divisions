@@ -1,0 +1,45 @@
+{
+  "id": "BR2210052",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José do Divino",
+    "en": "Sao Jose do Divino",
+    "slug": "sao-jose-do-divino-br2210052"
+  },
+  "code": {
+    "id": "BR2210052",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.417",
+    "lon": "-41.372"
+  },
+  "metadata": {},
+  "source": {}
+}

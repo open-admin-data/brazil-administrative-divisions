@@ -1,0 +1,45 @@
+{
+  "id": "BR2414159",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tenente Laurentino Cruz",
+    "en": "Tenente Laurentino Cruz",
+    "slug": "tenente-laurentino-cruz-br2414159"
+  },
+  "code": {
+    "id": "BR2414159",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR24",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Norte",
+      "en": "Rio Grande do Norte",
+      "slug": "rio-grande-do-norte-br24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.162",
+    "lon": "-36.723"
+  },
+  "metadata": {},
+  "source": {}
+}

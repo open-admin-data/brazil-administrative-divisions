@@ -1,0 +1,45 @@
+{
+  "id": "BR5004106",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Guia Lopes da Laguna",
+    "en": "Guia Lopes da Laguna",
+    "slug": "guia-lopes-da-laguna-br5004106"
+  },
+  "code": {
+    "id": "BR5004106",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR50",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso do Sul",
+      "en": "Mato Grosso do Sul",
+      "slug": "mato-grosso-do-sul-br50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.619",
+    "lon": "-55.937"
+  },
+  "metadata": {},
+  "source": {}
+}

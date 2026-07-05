@@ -1,0 +1,45 @@
+{
+  "id": "BR3136652",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Juatuba",
+    "en": "Juatuba",
+    "slug": "juatuba-br3136652"
+  },
+  "code": {
+    "id": "BR3136652",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.955",
+    "lon": "-44.35"
+  },
+  "metadata": {},
+  "source": {}
+}

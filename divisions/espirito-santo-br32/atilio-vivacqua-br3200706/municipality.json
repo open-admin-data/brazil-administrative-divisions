@@ -1,0 +1,45 @@
+{
+  "id": "BR3200706",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Atílio Vivacqua",
+    "en": "Atilio Vivacqua",
+    "slug": "atilio-vivacqua-br3200706"
+  },
+  "code": {
+    "id": "BR3200706",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.958",
+    "lon": "-41.186"
+  },
+  "metadata": {},
+  "source": {}
+}

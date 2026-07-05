@@ -1,0 +1,45 @@
+{
+  "id": "BR1302009",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itapiranga",
+    "en": "Itapiranga",
+    "slug": "itapiranga-br1302009"
+  },
+  "code": {
+    "id": "BR1302009",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.104",
+    "lon": "-53.721"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2913606",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ilhéus",
+    "en": "Ilheus",
+    "slug": "ilheus-br2913606"
+  },
+  "code": {
+    "id": "BR2913606",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.764",
+    "lon": "-39.222"
+  },
+  "metadata": {},
+  "source": {}
+}

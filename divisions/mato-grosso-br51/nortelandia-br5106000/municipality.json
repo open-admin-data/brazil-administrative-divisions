@@ -1,0 +1,45 @@
+{
+  "id": "BR5106000",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nortelândia",
+    "en": "Nortelandia",
+    "slug": "nortelandia-br5106000"
+  },
+  "code": {
+    "id": "BR5106000",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.416",
+    "lon": "-56.743"
+  },
+  "metadata": {},
+  "source": {}
+}

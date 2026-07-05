@@ -1,0 +1,45 @@
+{
+  "id": "BR2704609",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Maravilha",
+    "en": "Maravilha",
+    "slug": "maravilha-br2704609"
+  },
+  "code": {
+    "id": "BR2704609",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.758",
+    "lon": "-53.19"
+  },
+  "metadata": {},
+  "source": {}
+}

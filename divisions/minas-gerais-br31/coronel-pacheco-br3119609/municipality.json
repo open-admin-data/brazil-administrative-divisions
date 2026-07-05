@@ -1,0 +1,45 @@
+{
+  "id": "BR3119609",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Coronel Pacheco",
+    "en": "Coronel Pacheco",
+    "slug": "coronel-pacheco-br3119609"
+  },
+  "code": {
+    "id": "BR3119609",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.607",
+    "lon": "-43.293"
+  },
+  "metadata": {},
+  "source": {}
+}

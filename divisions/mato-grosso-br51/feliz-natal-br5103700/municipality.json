@@ -1,0 +1,45 @@
+{
+  "id": "BR5103700",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Feliz Natal",
+    "en": "Feliz Natal",
+    "slug": "feliz-natal-br5103700"
+  },
+  "code": {
+    "id": "BR5103700",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.942",
+    "lon": "-54.223"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1101468",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pimenteiras do Oeste",
+    "en": "Pimenteiras do Oeste",
+    "slug": "pimenteiras-do-oeste-br1101468"
+  },
+  "code": {
+    "id": "BR1101468",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.201",
+    "lon": "-61.549"
+  },
+  "metadata": {},
+  "source": {}
+}

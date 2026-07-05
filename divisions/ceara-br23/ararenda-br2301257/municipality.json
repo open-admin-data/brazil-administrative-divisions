@@ -1,0 +1,45 @@
+{
+  "id": "BR2301257",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ararendá",
+    "en": "Ararenda",
+    "slug": "ararenda-br2301257"
+  },
+  "code": {
+    "id": "BR2301257",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.766",
+    "lon": "-40.742"
+  },
+  "metadata": {},
+  "source": {}
+}

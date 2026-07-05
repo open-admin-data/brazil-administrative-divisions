@@ -1,0 +1,45 @@
+{
+  "id": "BR2301802",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Baixio",
+    "en": "Baixio",
+    "slug": "baixio-br2301802"
+  },
+  "code": {
+    "id": "BR2301802",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.718",
+    "lon": "-38.748"
+  },
+  "metadata": {},
+  "source": {}
+}

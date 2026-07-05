@@ -1,0 +1,45 @@
+{
+  "id": "BR3118106",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Congonhas do Norte",
+    "en": "Congonhas do Norte",
+    "slug": "congonhas-do-norte-br3118106"
+  },
+  "code": {
+    "id": "BR3118106",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.882",
+    "lon": "-43.685"
+  },
+  "metadata": {},
+  "source": {}
+}

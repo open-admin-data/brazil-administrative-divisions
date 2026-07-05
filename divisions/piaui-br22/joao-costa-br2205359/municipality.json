@@ -1,0 +1,45 @@
+{
+  "id": "BR2205359",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "João Costa",
+    "en": "Joao Costa",
+    "slug": "joao-costa-br2205359"
+  },
+  "code": {
+    "id": "BR2205359",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.52",
+    "lon": "-42.589"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1303205",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Novo Airão",
+    "en": "Novo Airao",
+    "slug": "novo-airao-br1303205"
+  },
+  "code": {
+    "id": "BR1303205",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.901",
+    "lon": "-61.736"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2609105",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Machados",
+    "en": "Machados",
+    "slug": "machados-br2609105"
+  },
+  "code": {
+    "id": "BR2609105",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR26",
+    "level": 1,
+    "name": {
+      "local": "Pernambuco",
+      "en": "Pernambuco",
+      "slug": "pernambuco-br26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.712",
+    "lon": "-35.515"
+  },
+  "metadata": {},
+  "source": {}
+}

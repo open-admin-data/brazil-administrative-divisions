@@ -1,0 +1,45 @@
+{
+  "id": "BR2105476",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jenipapo dos Vieiras",
+    "en": "Jenipapo dos Vieiras",
+    "slug": "jenipapo-dos-vieiras-br2105476"
+  },
+  "code": {
+    "id": "BR2105476",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.386",
+    "lon": "-45.486"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3520004",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Igaraçu do Tietê",
+    "en": "Igaracu do Tiete",
+    "slug": "igaracu-do-tiete-br3520004"
+  },
+  "code": {
+    "id": "BR3520004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.541",
+    "lon": "-48.587"
+  },
+  "metadata": {},
+  "source": {}
+}

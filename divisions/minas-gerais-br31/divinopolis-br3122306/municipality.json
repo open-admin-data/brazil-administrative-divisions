@@ -1,0 +1,45 @@
+{
+  "id": "BR3122306",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Divinópolis",
+    "en": "Divinopolis",
+    "slug": "divinopolis-br3122306"
+  },
+  "code": {
+    "id": "BR3122306",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.103",
+    "lon": "-44.919"
+  },
+  "metadata": {},
+  "source": {}
+}

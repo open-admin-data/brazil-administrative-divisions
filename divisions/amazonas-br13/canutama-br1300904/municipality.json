@@ -1,0 +1,45 @@
+{
+  "id": "BR1300904",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Canutama",
+    "en": "Canutama",
+    "slug": "canutama-br1300904"
+  },
+  "code": {
+    "id": "BR1300904",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.631",
+    "lon": "-63.954"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1600303",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Macapá",
+    "en": "Macapa",
+    "slug": "macapa-br1600303"
+  },
+  "code": {
+    "id": "BR1600303",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR16",
+    "level": 1,
+    "name": {
+      "local": "Amapá",
+      "en": "Amapa",
+      "slug": "amapa-br16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.567",
+    "lon": "-50.809"
+  },
+  "metadata": {},
+  "source": {}
+}

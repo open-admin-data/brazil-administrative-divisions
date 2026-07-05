@@ -1,0 +1,45 @@
+{
+  "id": "BR3138609",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lima Duarte",
+    "en": "Lima Duarte",
+    "slug": "lima-duarte-br3138609"
+  },
+  "code": {
+    "id": "BR3138609",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.797",
+    "lon": "-43.877"
+  },
+  "metadata": {},
+  "source": {}
+}

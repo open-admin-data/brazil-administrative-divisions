@@ -1,0 +1,45 @@
+{
+  "id": "BR2930154",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Serra do Ramalho",
+    "en": "Serra do Ramalho",
+    "slug": "serra-do-ramalho-br2930154"
+  },
+  "code": {
+    "id": "BR2930154",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.455",
+    "lon": "-43.739"
+  },
+  "metadata": {},
+  "source": {}
+}

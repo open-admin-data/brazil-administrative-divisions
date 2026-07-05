@@ -1,0 +1,45 @@
+{
+  "id": "BR3530706",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mogi Guaçu",
+    "en": "Mogi Guacu",
+    "slug": "mogi-guacu-br3530706"
+  },
+  "code": {
+    "id": "BR3530706",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.253",
+    "lon": "-47.012"
+  },
+  "metadata": {},
+  "source": {}
+}

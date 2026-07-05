@@ -1,0 +1,45 @@
+{
+  "id": "BR4204400",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Coronel Freitas",
+    "en": "Coronel Freitas",
+    "slug": "coronel-freitas-br4204400"
+  },
+  "code": {
+    "id": "BR4204400",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.879",
+    "lon": "-52.768"
+  },
+  "metadata": {},
+  "source": {}
+}

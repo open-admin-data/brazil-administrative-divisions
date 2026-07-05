@@ -1,0 +1,45 @@
+{
+  "id": "BR3172004",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Visconde do Rio Branco",
+    "en": "Visconde do Rio Branco",
+    "slug": "visconde-do-rio-branco-br3172004"
+  },
+  "code": {
+    "id": "BR3172004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.008",
+    "lon": "-42.851"
+  },
+  "metadata": {},
+  "source": {}
+}

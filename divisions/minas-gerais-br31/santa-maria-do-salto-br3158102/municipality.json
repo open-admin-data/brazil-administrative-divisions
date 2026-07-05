@@ -1,0 +1,45 @@
+{
+  "id": "BR3158102",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Maria do Salto",
+    "en": "Santa Maria do Salto",
+    "slug": "santa-maria-do-salto-br3158102"
+  },
+  "code": {
+    "id": "BR3158102",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.318",
+    "lon": "-40.109"
+  },
+  "metadata": {},
+  "source": {}
+}

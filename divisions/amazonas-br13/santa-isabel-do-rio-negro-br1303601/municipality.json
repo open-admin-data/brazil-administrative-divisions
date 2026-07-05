@@ -1,0 +1,45 @@
+{
+  "id": "BR1303601",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Isabel do Rio Negro",
+    "en": "Santa Isabel do Rio Negro",
+    "slug": "santa-isabel-do-rio-negro-br1303601"
+  },
+  "code": {
+    "id": "BR1303601",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.216",
+    "lon": "-65.384"
+  },
+  "metadata": {},
+  "source": {}
+}

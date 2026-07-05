@@ -1,0 +1,45 @@
+{
+  "id": "BR4200408",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Água Doce",
+    "en": "Agua Doce",
+    "slug": "agua-doce-br4200408"
+  },
+  "code": {
+    "id": "BR4200408",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.818",
+    "lon": "-51.628"
+  },
+  "metadata": {},
+  "source": {}
+}

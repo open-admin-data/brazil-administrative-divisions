@@ -1,0 +1,45 @@
+{
+  "id": "BR4218400",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Treze de Maio",
+    "en": "Treze de Maio",
+    "slug": "treze-de-maio-br4218400"
+  },
+  "code": {
+    "id": "BR4218400",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.555",
+    "lon": "-49.154"
+  },
+  "metadata": {},
+  "source": {}
+}

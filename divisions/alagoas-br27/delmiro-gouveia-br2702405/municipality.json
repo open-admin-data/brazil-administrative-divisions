@@ -1,0 +1,45 @@
+{
+  "id": "BR2702405",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Delmiro Gouveia",
+    "en": "Delmiro Gouveia",
+    "slug": "delmiro-gouveia-br2702405"
+  },
+  "code": {
+    "id": "BR2702405",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.434",
+    "lon": "-38.043"
+  },
+  "metadata": {},
+  "source": {}
+}

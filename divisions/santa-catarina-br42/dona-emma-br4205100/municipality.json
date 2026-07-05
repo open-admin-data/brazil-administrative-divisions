@@ -1,0 +1,45 @@
+{
+  "id": "BR4205100",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dona Emma",
+    "en": "Dona Emma",
+    "slug": "dona-emma-br4205100"
+  },
+  "code": {
+    "id": "BR4205100",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.984",
+    "lon": "-49.79"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2310803",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pereiro",
+    "en": "Pereiro",
+    "slug": "pereiro-br2310803"
+  },
+  "code": {
+    "id": "BR2310803",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.995",
+    "lon": "-38.495"
+  },
+  "metadata": {},
+  "source": {}
+}

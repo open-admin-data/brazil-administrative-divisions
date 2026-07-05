@@ -1,0 +1,45 @@
+{
+  "id": "BR2210938",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sussuapara",
+    "en": "Sussuapara",
+    "slug": "sussuapara-br2210938"
+  },
+  "code": {
+    "id": "BR2210938",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.978",
+    "lon": "-41.391"
+  },
+  "metadata": {},
+  "source": {}
+}

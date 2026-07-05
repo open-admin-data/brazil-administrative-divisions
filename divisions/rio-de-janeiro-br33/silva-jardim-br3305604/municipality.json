@@ -1,0 +1,45 @@
+{
+  "id": "BR3305604",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Silva Jardim",
+    "en": "Silva Jardim",
+    "slug": "silva-jardim-br3305604"
+  },
+  "code": {
+    "id": "BR3305604",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR33",
+    "level": 1,
+    "name": {
+      "local": "Rio de Janeiro",
+      "en": "Rio de Janeiro",
+      "slug": "rio-de-janeiro-br33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.554",
+    "lon": "-42.371"
+  },
+  "metadata": {},
+  "source": {}
+}

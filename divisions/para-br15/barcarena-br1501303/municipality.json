@@ -1,0 +1,45 @@
+{
+  "id": "BR1501303",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barcarena",
+    "en": "Barcarena",
+    "slug": "barcarena-br1501303"
+  },
+  "code": {
+    "id": "BR1501303",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.552",
+    "lon": "-48.632"
+  },
+  "metadata": {},
+  "source": {}
+}

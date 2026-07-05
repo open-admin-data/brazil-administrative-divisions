@@ -1,0 +1,45 @@
+{
+  "id": "BR2917003",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itiúba",
+    "en": "Itiuba",
+    "slug": "itiuba-br2917003"
+  },
+  "code": {
+    "id": "BR2917003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.731",
+    "lon": "-39.836"
+  },
+  "metadata": {},
+  "source": {}
+}

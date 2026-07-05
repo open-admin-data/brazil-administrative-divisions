@@ -1,0 +1,45 @@
+{
+  "id": "BR2402402",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Carnaúba dos Dantas",
+    "en": "Carnauba dos Dantas",
+    "slug": "carnauba-dos-dantas-br2402402"
+  },
+  "code": {
+    "id": "BR2402402",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR24",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Norte",
+      "en": "Rio Grande do Norte",
+      "slug": "rio-grande-do-norte-br24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.562",
+    "lon": "-36.547"
+  },
+  "metadata": {},
+  "source": {}
+}

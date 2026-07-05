@@ -1,0 +1,45 @@
+{
+  "id": "BR2207801",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Paulistana",
+    "en": "Paulistana",
+    "slug": "paulistana-br2207801"
+  },
+  "code": {
+    "id": "BR2207801",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.137",
+    "lon": "-41.168"
+  },
+  "metadata": {},
+  "source": {}
+}

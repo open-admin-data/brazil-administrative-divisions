@@ -1,0 +1,45 @@
+{
+  "id": "BR4202800",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Braço do Norte",
+    "en": "Braco do Norte",
+    "slug": "braco-do-norte-br4202800"
+  },
+  "code": {
+    "id": "BR4202800",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.244",
+    "lon": "-49.151"
+  },
+  "metadata": {},
+  "source": {}
+}

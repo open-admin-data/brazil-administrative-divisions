@@ -1,0 +1,45 @@
+{
+  "id": "BR3115003",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cascalho Rico",
+    "en": "Cascalho Rico",
+    "slug": "cascalho-rico-br3115003"
+  },
+  "code": {
+    "id": "BR3115003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.549",
+    "lon": "-47.86"
+  },
+  "metadata": {},
+  "source": {}
+}

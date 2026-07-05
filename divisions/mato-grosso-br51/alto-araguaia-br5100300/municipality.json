@@ -1,0 +1,45 @@
+{
+  "id": "BR5100300",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alto Araguaia",
+    "en": "Alto Araguaia",
+    "slug": "alto-araguaia-br5100300"
+  },
+  "code": {
+    "id": "BR5100300",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.484",
+    "lon": "-53.419"
+  },
+  "metadata": {},
+  "source": {}
+}

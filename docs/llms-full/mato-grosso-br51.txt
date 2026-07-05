@@ -1,0 +1,714 @@
+# Mato Grosso — Brazil Administrative Divisions
+
+> 141 municipalitys
+> Code: BR51
+> Coordinates: -13.81, -55.812
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Acorizal
+
+Code: BR5100102, Coordinates: -15.167, -56.296
+
+
+### Água Boa (Agua Boa)
+
+Code: BR5100201, Coordinates: -14.144, -52.475
+
+
+### Alta Floresta
+
+Code: BR5100250, Coordinates: -10.13, -56.396
+
+
+### Alto Araguaia
+
+Code: BR5100300, Coordinates: -17.484, -53.419
+
+
+### Alto Boa Vista
+
+Code: BR5100359, Coordinates: -11.816, -51.793
+
+
+### Alto Garças (Alto Garcas)
+
+Code: BR5100409, Coordinates: -16.787, -53.57
+
+
+### Alto Paraguai
+
+Code: BR5100508, Coordinates: -14.741, -56.704
+
+
+### Alto Taquari
+
+Code: BR5100607, Coordinates: -17.775, -53.336
+
+
+### Apiacás (Apiacas)
+
+Code: BR5100805, Coordinates: -8.99, -57.812
+
+
+### Araguaiana
+
+Code: BR5101001, Coordinates: -15.021, -51.796
+
+
+### Araguainha
+
+Code: BR5101209, Coordinates: -16.782, -53.074
+
+
+### Araputanga
+
+Code: BR5101258, Coordinates: -15.183, -58.504
+
+
+### Arenápolis (Arenapolis)
+
+Code: BR5101308, Coordinates: -14.502, -56.843
+
+
+### Aripuanã (Aripuana)
+
+Code: BR5101407, Coordinates: -10.211, -59.665
+
+
+### Barão de Melgaço (Barao de Melgaco)
+
+Code: BR5101605, Coordinates: -16.843, -56.215
+
+
+### Barra do Bugres
+
+Code: BR5101704, Coordinates: -15.126, -57.414
+
+
+### Barra do Garças (Barra do Garcas)
+
+Code: BR5101803, Coordinates: -15.341, -52.528
+
+
+### Bom Jesus do Araguaia
+
+Code: BR5101852, Coordinates: -12.25, -51.771
+
+
+### Brasnorte
+
+Code: BR5101902, Coordinates: -12.211, -58.032
+
+
+### Cáceres (Caceres)
+
+Code: BR5102504, Coordinates: -16.568, -57.759
+
+
+### Campinápolis (Campinapolis)
+
+Code: BR5102603, Coordinates: -14.283, -53.146
+
+
+### Campo Novo do Parecis
+
+Code: BR5102637, Coordinates: -13.561, -57.9
+
+
+### Campo Verde
+
+Code: BR5102678, Coordinates: -15.573, -55.149
+
+
+### Campos de Júlio (Campos de Julio)
+
+Code: BR5102686, Coordinates: -13.591, -59.165
+
+
+### Canabrava do Norte
+
+Code: BR5102694, Coordinates: -11.16, -51.847
+
+
+### Canarana
+
+Code: BR5102702, Coordinates: -13.179, -52.382
+
+
+### Carlinda
+
+Code: BR5102793, Coordinates: -10.116, -55.895
+
+
+### Castanheira
+
+Code: BR5102850, Coordinates: -10.887, -58.666
+
+
+### Chapada dos Guimarães (Chapada dos Guimaraes)
+
+Code: BR5103007, Coordinates: -15.095, -55.561
+
+
+### Cláudia (Claudia)
+
+Code: BR5103056, Coordinates: -11.419, -54.982
+
+
+### Cocalinho
+
+Code: BR5103106, Coordinates: -13.743, -51.137
+
+
+### Colíder (Colider)
+
+Code: BR5103205, Coordinates: -10.553, -55.496
+
+
+### Colniza
+
+Code: BR5103254, Coordinates: -9.575, -60.161
+
+
+### Comodoro
+
+Code: BR5103304, Coordinates: -13.226, -59.788
+
+
+### Confresa
+
+Code: BR5103353, Coordinates: -10.307, -51.733
+
+
+### Conquista D&#39;Oeste
+
+Code: BR5103361, Coordinates: -14.571, -59.284
+
+
+### Cotriguaçu (Cotriguacu)
+
+Code: BR5103379, Coordinates: -9.467, -58.845
+
+
+### Cuiabá (Cuiaba)
+
+Code: BR5103403, Coordinates: -15.394, -55.91
+
+
+### Curvelândia (Curvelandia)
+
+Code: BR5103437, Coordinates: -15.619, -57.85
+
+
+### Denise
+
+Code: BR5103452, Coordinates: -14.74, -56.948
+
+
+### Diamantino
+
+Code: BR5103502, Coordinates: -14.069, -56.767
+
+
+### Dom Aquino
+
+Code: BR5103601, Coordinates: -15.712, -54.846
+
+
+### Feliz Natal
+
+Code: BR5103700, Coordinates: -11.942, -54.223
+
+
+### Figueirópolis D&#39;Oeste (Figueiropolis D&#39;Oeste)
+
+Code: BR5103809, Coordinates: -15.491, -58.69
+
+
+### Gaúcha do Norte (Gaucha do Norte)
+
+Code: BR5103858, Coordinates: -13.023, -53.483
+
+
+### General Carneiro
+
+Code: BR5103908, Coordinates: -15.555, -53.324
+
+
+### Glória D&#39;Oeste (Gloria D&#39;Oeste)
+
+Code: BR5103957, Coordinates: -15.898, -58.306
+
+
+### Guarantã do Norte (Guaranta do Norte)
+
+Code: BR5104104, Coordinates: -9.85, -54.697
+
+
+### Guiratinga
+
+Code: BR5104203, Coordinates: -16.361, -53.595
+
+
+### Indiavaí (Indiavai)
+
+Code: BR5104500, Coordinates: -15.31, -58.625
+
+
+### Ipiranga do Norte
+
+Code: BR5104526, Coordinates: -11.992, -55.966
+
+
+### Itanhangá (Itanhanga)
+
+Code: BR5104542, Coordinates: -12.179, -56.793
+
+
+### Itaúba (Itauba)
+
+Code: BR5104559, Coordinates: -11.092, -55.572
+
+
+### Itiquira
+
+Code: BR5104609, Coordinates: -17.401, -54.757
+
+
+### Jaciara
+
+Code: BR5104807, Coordinates: -16.003, -55.199
+
+
+### Jangada
+
+Code: BR5104906, Coordinates: -15.355, -56.566
+
+
+### Jauru
+
+Code: BR5105002, Coordinates: -15.302, -58.861
+
+
+### Juara
+
+Code: BR5105101, Coordinates: -11.089, -57.506
+
+
+### Juína (Juina)
+
+Code: BR5105150, Coordinates: -11.418, -59.482
+
+
+### Juruena
+
+Code: BR5105176, Coordinates: -10.429, -58.655
+
+
+### Juscimeira
+
+Code: BR5105200, Coordinates: -16.28, -55.012
+
+
+### Lambari D&#39;Oeste
+
+Code: BR5105234, Coordinates: -15.471, -57.829
+
+
+### Lucas do Rio Verde
+
+Code: BR5105259, Coordinates: -13.028, -56.137
+
+
+### Luciara
+
+Code: BR5105309, Coordinates: -10.894, -50.984
+
+
+### Marcelândia (Marcelandia)
+
+Code: BR5105580, Coordinates: -10.968, -54.134
+
+
+### Matupá (Matupa)
+
+Code: BR5105606, Coordinates: -10.03, -54.376
+
+
+### Mirassol d&#39;Oeste
+
+Code: BR5105622, Coordinates: -15.637, -58.023
+
+
+### Nobres
+
+Code: BR5105903, Coordinates: -14.412, -55.801
+
+
+### Nortelândia (Nortelandia)
+
+Code: BR5106000, Coordinates: -14.416, -56.743
+
+
+### Nossa Senhora do Livramento
+
+Code: BR5106109, Coordinates: -15.948, -56.496
+
+
+### Nova Bandeirantes
+
+Code: BR5106158, Coordinates: -9.655, -58.03
+
+
+### Nova Brasilândia (Nova Brasilandia)
+
+Code: BR5106208, Coordinates: -14.769, -55.114
+
+
+### Nova Canaã do Norte (Nova Canaa do Norte)
+
+Code: BR5106216, Coordinates: -10.694, -56.006
+
+
+### Nova Guarita
+
+Code: BR5108808, Coordinates: -10.27, -55.357
+
+
+### Nova Lacerda
+
+Code: BR5106182, Coordinates: -14.292, -59.819
+
+
+### Nova Marilândia (Nova Marilandia)
+
+Code: BR5108857, Coordinates: -14.306, -57.284
+
+
+### Nova Maringá (Nova Maringa)
+
+Code: BR5108907, Coordinates: -12.829, -57.258
+
+
+### Nova Monte Verde
+
+Code: BR5108956, Coordinates: -9.915, -57.26
+
+
+### Nova Mutum
+
+Code: BR5106224, Coordinates: -13.595, -56.159
+
+
+### Nova Nazaré (Nova Nazare)
+
+Code: BR5106174, Coordinates: -14.133, -51.897
+
+
+### Nova Olímpia (Nova Olimpia)
+
+Code: BR5106232, Coordinates: -14.788, -57.413
+
+
+### Nova Santa Helena
+
+Code: BR5106190, Coordinates: -10.88, -54.818
+
+
+### Nova Ubiratã (Nova Ubirata)
+
+Code: BR5106240, Coordinates: -12.68, -54.489
+
+
+### Nova Xavantina
+
+Code: BR5106257, Coordinates: -14.585, -52.287
+
+
+### Novo Horizonte do Norte
+
+Code: BR5106273, Coordinates: -11.369, -57.305
+
+
+### Novo Mundo
+
+Code: BR5106265, Coordinates: -9.89, -55.312
+
+
+### Novo Santo Antônio (Novo Santo Antonio)
+
+Code: BR5106315, Coordinates: -12.308, -50.879
+
+
+### Novo São Joaquim (Novo Sao Joaquim)
+
+Code: BR5106281, Coordinates: -15.103, -53.28
+
+
+### Paranaíta (Paranaita)
+
+Code: BR5106299, Coordinates: -9.564, -56.788
+
+
+### Paranatinga
+
+Code: BR5106307, Coordinates: -13.369, -54.031
+
+
+### Pedra Preta
+
+Code: BR5106372, Coordinates: -16.745, -54.171
+
+
+### Peixoto de Azevedo
+
+Code: BR5106422, Coordinates: -10.171, -54.104
+
+
+### Planalto da Serra
+
+Code: BR5106455, Coordinates: -14.539, -54.69
+
+
+### Poconé (Pocone)
+
+Code: BR5106505, Coordinates: -16.873, -56.981
+
+
+### Pontal do Araguaia
+
+Code: BR5106653, Coordinates: -15.946, -52.736
+
+
+### Ponte Branca
+
+Code: BR5106703, Coordinates: -16.657, -52.893
+
+
+### Pontes e Lacerda
+
+Code: BR5106752, Coordinates: -15.486, -59.433
+
+
+### Porto Alegre do Norte
+
+Code: BR5106778, Coordinates: -10.844, -51.707
+
+
+### Porto dos Gaúchos (Porto dos Gauchos)
+
+Code: BR5106802, Coordinates: -11.723, -56.862
+
+
+### Porto Esperidião (Porto Esperidiao)
+
+Code: BR5106828, Coordinates: -15.893, -58.915
+
+
+### Porto Estrela
+
+Code: BR5106851, Coordinates: -15.523, -57.234
+
+
+### Poxoréu (Poxoreu)
+
+Code: BR5107008, Coordinates: -15.776, -54.095
+
+
+### Primavera do Leste
+
+Code: BR5107040, Coordinates: -15.158, -54.21
+
+
+### Querência (Querencia)
+
+Code: BR5107065, Coordinates: -12.225, -52.639
+
+
+### Reserva do Cabaçal (Reserva do Cabacal)
+
+Code: BR5107156, Coordinates: -14.949, -58.464
+
+
+### Ribeirão Cascalheira (Ribeirao Cascalheira)
+
+Code: BR5107180, Coordinates: -12.815, -51.666
+
+
+### Ribeirãozinho (Ribeiraozinho)
+
+Code: BR5107198, Coordinates: -16.494, -52.746
+
+
+### Rio Branco
+
+Code: BR5107206, Coordinates: -15.272, -58.16
+
+
+### Rondolândia (Rondolandia)
+
+Code: BR5107578, Coordinates: -10.241, -61.028
+
+
+### Rondonópolis (Rondonopolis)
+
+Code: BR5107602, Coordinates: -16.564, -54.688
+
+
+### Rosário Oeste (Rosario Oeste)
+
+Code: BR5107701, Coordinates: -14.655, -55.76
+
+
+### Salto do Céu (Salto do Ceu)
+
+Code: BR5107750, Coordinates: -15.027, -58.095
+
+
+### Santa Carmem
+
+Code: BR5107248, Coordinates: -11.935, -54.828
+
+
+### Santa Cruz do Xingu
+
+Code: BR5107743, Coordinates: -10.14, -52.476
+
+
+### Santa Rita do Trivelato
+
+Code: BR5107768, Coordinates: -13.755, -55.306
+
+
+### Santa Terezinha
+
+Code: BR5107776, Coordinates: -10.379, -50.827
+
+
+### Santo Afonso
+
+Code: BR5107263, Coordinates: -14.452, -57.406
+
+
+### Santo Antônio do Leste (Santo Antonio do Leste)
+
+Code: BR5107792, Coordinates: -14.732, -53.699
+
+
+### Santo Antônio do Leverger (Santo Antonio do Leverger)
+
+Code: BR5107800, Coordinates: -16.444, -55.38
+
+
+### São Félix do Araguaia (Sao Felix do Araguaia)
+
+Code: BR5107859, Coordinates: -11.492, -52.086
+
+
+### São José do Povo (Sao Jose do Povo)
+
+Code: BR5107297, Coordinates: -16.454, -54.282
+
+
+### São José do Rio Claro (Sao Jose do Rio Claro)
+
+Code: BR5107305, Coordinates: -13.536, -56.794
+
+
+### São José do Xingu (Sao Jose do Xingu)
+
+Code: BR5107354, Coordinates: -10.66, -52.521
+
+
+### São José dos Quatro Marcos (Sao Jose dos Quatro Marcos)
+
+Code: BR5107107, Coordinates: -15.525, -58.333
+
+
+### São Pedro da Cipa (Sao Pedro da Cipa)
+
+Code: BR5107404, Coordinates: -15.958, -54.78
+
+
+### Sapezal
+
+Code: BR5107875, Coordinates: -12.972, -58.697
+
+
+### Serra Nova Dourada
+
+Code: BR5107883, Coordinates: -12.043, -51.339
+
+
+### Sinop
+
+Code: BR5107909, Coordinates: -11.753, -55.509
+
+
+### Sorriso
+
+Code: BR5107925, Coordinates: -12.672, -55.703
+
+
+### Tabaporã (Tabapora)
+
+Code: BR5107941, Coordinates: -11.021, -56.7
+
+
+### Tangará da Serra (Tangara da Serra)
+
+Code: BR5107958, Coordinates: -14.559, -58.046
+
+
+### Tapurah
+
+Code: BR5108006, Coordinates: -12.506, -56.54
+
+
+### Terra Nova do Norte
+
+Code: BR5108055, Coordinates: -10.567, -54.956
+
+
+### Tesouro
+
+Code: BR5108105, Coordinates: -15.978, -53.472
+
+
+### Torixoréu (Torixoreu)
+
+Code: BR5108204, Coordinates: -16.265, -52.874
+
+
+### União do Sul (Uniao do Sul)
+
+Code: BR5108303, Coordinates: -11.488, -54.264
+
+
+### Vale de São Domingos (Vale de Sao Domingos)
+
+Code: BR5108352, Coordinates: -15.145, -59.01
+
+
+### Várzea Grande (Varzea Grande)
+
+Code: BR5108402, Coordinates: -15.549, -56.278
+
+
+### Vera
+
+Code: BR5108501, Coordinates: -12.428, -55.335
+
+
+### Vila Bela da Santíssima Trindade (Vila Bela da Santissima Trindade)
+
+Code: BR5105507, Coordinates: -14.853, -60.071
+
+
+### Vila Rica
+
+Code: BR5108600, Coordinates: -10.124, -51.424
+
+

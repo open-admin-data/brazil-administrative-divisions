@@ -1,0 +1,45 @@
+{
+  "id": "BR2206001",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Marcos Parente",
+    "en": "Marcos Parente",
+    "slug": "marcos-parente-br2206001"
+  },
+  "code": {
+    "id": "BR2206001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.019",
+    "lon": "-43.878"
+  },
+  "metadata": {},
+  "source": {}
+}

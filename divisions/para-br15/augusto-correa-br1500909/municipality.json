@@ -1,0 +1,45 @@
+{
+  "id": "BR1500909",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Augusto Corrêa",
+    "en": "Augusto Correa",
+    "slug": "augusto-correa-br1500909"
+  },
+  "code": {
+    "id": "BR1500909",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.993",
+    "lon": "-46.491"
+  },
+  "metadata": {},
+  "source": {}
+}

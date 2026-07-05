@@ -1,0 +1,45 @@
+{
+  "id": "BR5222203",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vila Boa",
+    "en": "Vila Boa",
+    "slug": "vila-boa-br5222203"
+  },
+  "code": {
+    "id": "BR5222203",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.98",
+    "lon": "-47.084"
+  },
+  "metadata": {},
+  "source": {}
+}

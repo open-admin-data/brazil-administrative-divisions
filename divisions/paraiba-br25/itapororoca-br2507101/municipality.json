@@ -1,0 +1,45 @@
+{
+  "id": "BR2507101",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itapororoca",
+    "en": "Itapororoca",
+    "slug": "itapororoca-br2507101"
+  },
+  "code": {
+    "id": "BR2507101",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.819",
+    "lon": "-35.265"
+  },
+  "metadata": {},
+  "source": {}
+}

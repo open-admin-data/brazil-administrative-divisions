@@ -1,0 +1,45 @@
+{
+  "id": "BR4122156",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rio Bonito do Iguaçu",
+    "en": "Rio Bonito do Iguacu",
+    "slug": "rio-bonito-do-iguacu-br4122156"
+  },
+  "code": {
+    "id": "BR4122156",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.552",
+    "lon": "-52.631"
+  },
+  "metadata": {},
+  "source": {}
+}

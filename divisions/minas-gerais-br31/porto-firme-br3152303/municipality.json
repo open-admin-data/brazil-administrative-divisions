@@ -1,0 +1,45 @@
+{
+  "id": "BR3152303",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Porto Firme",
+    "en": "Porto Firme",
+    "slug": "porto-firme-br3152303"
+  },
+  "code": {
+    "id": "BR3152303",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.667",
+    "lon": "-43.076"
+  },
+  "metadata": {},
+  "source": {}
+}

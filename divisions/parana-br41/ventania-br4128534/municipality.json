@@ -1,0 +1,45 @@
+{
+  "id": "BR4128534",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ventania",
+    "en": "Ventania",
+    "slug": "ventania-br4128534"
+  },
+  "code": {
+    "id": "BR4128534",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.158",
+    "lon": "-50.233"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3161304",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Francisco de Sales",
+    "en": "Sao Francisco de Sales",
+    "slug": "sao-francisco-de-sales-br3161304"
+  },
+  "code": {
+    "id": "BR3161304",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.773",
+    "lon": "-49.817"
+  },
+  "metadata": {},
+  "source": {}
+}

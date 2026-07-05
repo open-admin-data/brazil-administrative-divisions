@@ -1,0 +1,45 @@
+{
+  "id": "BR3150539",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pingo d'Água",
+    "en": "Pingo d'Agua",
+    "slug": "pingo-d-agua-br3150539"
+  },
+  "code": {
+    "id": "BR3150539",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.745",
+    "lon": "-42.427"
+  },
+  "metadata": {},
+  "source": {}
+}

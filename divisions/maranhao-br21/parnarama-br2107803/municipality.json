@@ -1,0 +1,45 @@
+{
+  "id": "BR2107803",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Parnarama",
+    "en": "Parnarama",
+    "slug": "parnarama-br2107803"
+  },
+  "code": {
+    "id": "BR2107803",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.613",
+    "lon": "-43.595"
+  },
+  "metadata": {},
+  "source": {}
+}

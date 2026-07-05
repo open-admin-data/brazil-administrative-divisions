@@ -1,0 +1,45 @@
+{
+  "id": "BR2516003",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Solânea",
+    "en": "Solanea",
+    "slug": "solanea-br2516003"
+  },
+  "code": {
+    "id": "BR2516003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.747",
+    "lon": "-35.726"
+  },
+  "metadata": {},
+  "source": {}
+}

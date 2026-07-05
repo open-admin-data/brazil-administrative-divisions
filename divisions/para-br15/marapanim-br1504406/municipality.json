@@ -1,0 +1,45 @@
+{
+  "id": "BR1504406",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Marapanim",
+    "en": "Marapanim",
+    "slug": "marapanim-br1504406"
+  },
+  "code": {
+    "id": "BR1504406",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.767",
+    "lon": "-47.71"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2925808",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Queimadas",
+    "en": "Queimadas",
+    "slug": "queimadas-br2925808"
+  },
+  "code": {
+    "id": "BR2925808",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.983",
+    "lon": "-39.717"
+  },
+  "metadata": {},
+  "source": {}
+}

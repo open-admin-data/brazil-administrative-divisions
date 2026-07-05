@@ -1,0 +1,45 @@
+{
+  "id": "BR5107958",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tangará da Serra",
+    "en": "Tangara da Serra",
+    "slug": "tangara-da-serra-br5107958"
+  },
+  "code": {
+    "id": "BR5107958",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.559",
+    "lon": "-58.046"
+  },
+  "metadata": {},
+  "source": {}
+}

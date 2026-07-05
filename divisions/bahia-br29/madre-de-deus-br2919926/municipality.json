@@ -1,0 +1,45 @@
+{
+  "id": "BR2919926",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Madre de Deus",
+    "en": "Madre de Deus",
+    "slug": "madre-de-deus-br2919926"
+  },
+  "code": {
+    "id": "BR2919926",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.735",
+    "lon": "-38.621"
+  },
+  "metadata": {},
+  "source": {}
+}

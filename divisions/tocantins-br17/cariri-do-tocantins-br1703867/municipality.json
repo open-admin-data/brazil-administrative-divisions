@@ -1,0 +1,45 @@
+{
+  "id": "BR1703867",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cariri do Tocantins",
+    "en": "Cariri do Tocantins",
+    "slug": "cariri-do-tocantins-br1703867"
+  },
+  "code": {
+    "id": "BR1703867",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.938",
+    "lon": "-49.22"
+  },
+  "metadata": {},
+  "source": {}
+}

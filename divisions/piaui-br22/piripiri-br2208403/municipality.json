@@ -1,0 +1,45 @@
+{
+  "id": "BR2208403",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Piripiri",
+    "en": "Piripiri",
+    "slug": "piripiri-br2208403"
+  },
+  "code": {
+    "id": "BR2208403",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.376",
+    "lon": "-41.762"
+  },
+  "metadata": {},
+  "source": {}
+}

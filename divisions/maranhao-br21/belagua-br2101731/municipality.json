@@ -1,0 +1,45 @@
+{
+  "id": "BR2101731",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Belágua",
+    "en": "Belagua",
+    "slug": "belagua-br2101731"
+  },
+  "code": {
+    "id": "BR2101731",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.066",
+    "lon": "-43.487"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3529658",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mesópolis",
+    "en": "Mesopolis",
+    "slug": "mesopolis-br3529658"
+  },
+  "code": {
+    "id": "BR3529658",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.959",
+    "lon": "-50.619"
+  },
+  "metadata": {},
+  "source": {}
+}

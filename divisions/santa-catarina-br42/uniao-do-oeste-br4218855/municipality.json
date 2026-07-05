@@ -1,0 +1,45 @@
+{
+  "id": "BR4218855",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "União do Oeste",
+    "en": "Uniao do Oeste",
+    "slug": "uniao-do-oeste-br4218855"
+  },
+  "code": {
+    "id": "BR4218855",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.796",
+    "lon": "-52.875"
+  },
+  "metadata": {},
+  "source": {}
+}

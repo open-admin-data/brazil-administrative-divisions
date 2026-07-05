@@ -1,0 +1,45 @@
+{
+  "id": "BR4202073",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Balneário Gaivota",
+    "en": "Balneario Gaivota",
+    "slug": "balneario-gaivota-br4202073"
+  },
+  "code": {
+    "id": "BR4202073",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.142",
+    "lon": "-49.63"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2925006",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Planalto",
+    "en": "Planalto",
+    "slug": "planalto-br2925006"
+  },
+  "code": {
+    "id": "BR2925006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.343",
+    "lon": "-53.093"
+  },
+  "metadata": {},
+  "source": {}
+}

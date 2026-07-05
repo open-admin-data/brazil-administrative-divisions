@@ -1,0 +1,45 @@
+{
+  "id": "BR3107703",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bom Jesus do Amparo",
+    "en": "Bom Jesus do Amparo",
+    "slug": "bom-jesus-do-amparo-br3107703"
+  },
+  "code": {
+    "id": "BR3107703",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.719",
+    "lon": "-43.467"
+  },
+  "metadata": {},
+  "source": {}
+}

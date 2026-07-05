@@ -1,0 +1,45 @@
+{
+  "id": "BR5107743",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Cruz do Xingu",
+    "en": "Santa Cruz do Xingu",
+    "slug": "santa-cruz-do-xingu-br5107743"
+  },
+  "code": {
+    "id": "BR5107743",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.14",
+    "lon": "-52.476"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2202505",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Caracol",
+    "en": "Caracol",
+    "slug": "caracol-br2202505"
+  },
+  "code": {
+    "id": "BR2202505",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.976",
+    "lon": "-57.11"
+  },
+  "metadata": {},
+  "source": {}
+}

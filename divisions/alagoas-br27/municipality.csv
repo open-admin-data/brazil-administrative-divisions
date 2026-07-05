@@ -1,0 +1,103 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+BR2700102,Água Branca,Agua Branca,agua-branca-br2700102,BR2700102,-9.256,-37.927
+BR2700201,Anadia,Anadia,anadia-br2700201,BR2700201,-9.664,-36.33
+BR2700300,Arapiraca,Arapiraca,arapiraca-br2700300,BR2700300,-9.766,-36.603
+BR2700409,Atalaia,Atalaia,atalaia-br2700409,BR2700409,-23.125,-52.046
+BR2700508,Barra de Santo Antônio,Barra de Santo Antonio,barra-de-santo-antonio-br2700508,BR2700508,-9.391,-35.56
+BR2700607,Barra de São Miguel,Barra de Sao Miguel,barra-de-sao-miguel-br2700607,BR2700607,-9.81,-35.949
+BR2700706,Batalha,Batalha,batalha-br2700706,BR2700706,-9.742,-37.087
+BR2700805,Belém,Belem,belem-br2700805,BR2700805,-9.557,-36.495
+BR2700904,Belo Monte,Belo Monte,belo-monte-br2700904,BR2700904,-9.803,-37.194
+BR2701001,Boca da Mata,Boca da Mata,boca-da-mata-br2701001,BR2701001,-9.66,-36.154
+BR2701100,Branquinha,Branquinha,branquinha-br2701100,BR2701100,-9.229,-36.09
+BR2701209,Cacimbinhas,Cacimbinhas,cacimbinhas-br2701209,BR2701209,-9.458,-36.911
+BR2701308,Cajueiro,Cajueiro,cajueiro-br2701308,BR2701308,-9.42,-36.166
+BR2701357,Campestre,Campestre,campestre-br2701357,BR2701357,-21.731,-46.23
+BR2701407,Campo Alegre,Campo Alegre,campo-alegre-br2701407,BR2701407,-26.112,-49.22
+BR2701506,Campo Grande,Campo Grande,campo-grande-br2701506,BR2701506,-20.985,-54.228
+BR2701605,Canapi,Canapi,canapi-br2701605,BR2701605,-9.15,-37.51
+BR2701704,Capela,Capela,capela-br2701704,BR2701704,-10.438,-37.057
+BR2701803,Carneiros,Carneiros,carneiros-br2701803,BR2701803,-9.464,-37.343
+BR2701902,Chã Preta,Cha Preta,cha-preta-br2701902,BR2701902,-9.232,-36.316
+BR2702009,Coité do Nóia,Coite do Noia,coite-do-noia-br2702009,BR2702009,-9.629,-36.596
+BR2702108,Colônia Leopoldina,Colonia Leopoldina,colonia-leopoldina-br2702108,BR2702108,-8.908,-35.74
+BR2702207,Coqueiro Seco,Coqueiro Seco,coqueiro-seco-br2702207,BR2702207,-9.642,-35.811
+BR2702306,Coruripe,Coruripe,coruripe-br2702306,BR2702306,-10.093,-36.239
+BR2702355,Craíbas,Craibas,craibas-br2702355,BR2702355,-9.613,-36.803
+BR2702405,Delmiro Gouveia,Delmiro Gouveia,delmiro-gouveia-br2702405,BR2702405,-9.434,-38.043
+BR2702504,Dois Riachos,Dois Riachos,dois-riachos-br2702504,BR2702504,-9.361,-37.069
+BR2702553,Estrela de Alagoas,Estrela de Alagoas,estrela-de-alagoas-br2702553,BR2702553,-9.403,-36.771
+BR2702603,Feira Grande,Feira Grande,feira-grande-br2702603,BR2702603,-9.9,-36.66
+BR2702702,Feliz Deserto,Feliz Deserto,feliz-deserto-br2702702,BR2702702,-10.283,-36.354
+BR2702801,Flexeiras,Flexeiras,flexeiras-br2702801,BR2702801,-9.211,-35.788
+BR2702900,Girau do Ponciano,Girau do Ponciano,girau-do-ponciano-br2702900,BR2702900,-9.78,-36.844
+BR2703007,Ibateguara,Ibateguara,ibateguara-br2703007,BR2703007,-8.946,-35.916
+BR2703106,Igaci,Igaci,igaci-br2703106,BR2703106,-9.575,-36.675
+BR2703205,Igreja Nova,Igreja Nova,igreja-nova-br2703205,BR2703205,-10.169,-36.64
+BR2703304,Inhapi,Inhapi,inhapi-br2703304,BR2703304,-9.279,-37.66
+BR2703403,Jacaré dos Homens,Jacare dos Homens,jacare-dos-homens-br2703403,BR2703403,-9.657,-37.222
+BR2703502,Jacuípe,Jacuipe,jacuipe-br2703502,BR2703502,-8.872,-35.461
+BR2703601,Japaratinga,Japaratinga,japaratinga-br2703601,BR2703601,-9.095,-35.291
+BR2703700,Jaramataia,Jaramataia,jaramataia-br2703700,BR2703700,-9.65,-36.949
+BR2703759,Jequiá da Praia,Jequia da Praia,jequia-da-praia-br2703759,BR2703759,-9.905,-36.098
+BR2703809,Joaquim Gomes,Joaquim Gomes,joaquim-gomes-br2703809,BR2703809,-9.101,-35.774
+BR2703908,Jundiá,Jundia,jundia-br2703908,BR2703908,-8.952,-35.543
+BR2704005,Junqueiro,Junqueiro,junqueiro-br2704005,BR2704005,-9.87,-36.446
+BR2704104,Lagoa da Canoa,Lagoa da Canoa,lagoa-da-canoa-br2704104,BR2704104,-9.806,-36.749
+BR2704203,Limoeiro de Anadia,Limoeiro de Anadia,limoeiro-de-anadia-br2704203,BR2704203,-9.741,-36.475
+BR2704302,Maceió,Maceio,maceio-br2704302,BR2704302,-9.57,-35.695
+BR2704401,Major Isidoro,Major Isidoro,major-isidoro-br2704401,BR2704401,-9.529,-36.961
+BR2704906,Mar Vermelho,Mar Vermelho,mar-vermelho-br2704906,BR2704906,-9.48,-36.408
+BR2704500,Maragogi,Maragogi,maragogi-br2704500,BR2704500,-8.957,-35.274
+BR2704609,Maravilha,Maravilha,maravilha-br2704609,BR2704609,-26.758,-53.19
+BR2704708,Marechal Deodoro,Marechal Deodoro,marechal-deodoro-br2704708,BR2704708,-9.716,-35.911
+BR2704807,Maribondo,Maribondo,maribondo-br2704807,BR2704807,-9.559,-36.321
+BR2705002,Mata Grande,Mata Grande,mata-grande-br2705002,BR2705002,-8.99,-37.742
+BR2705101,Matriz de Camaragibe,Matriz de Camaragibe,matriz-de-camaragibe-br2705101,BR2705101,-9.122,-35.554
+BR2705200,Messias,Messias,messias-br2705200,BR2705200,-9.316,-35.823
+BR2705309,Minador do Negrão,Minador do Negrao,minador-do-negrao-br2705309,BR2705309,-9.327,-36.886
+BR2705408,Monteirópolis,Monteiropolis,monteiropolis-br2705408,BR2705408,-9.608,-37.287
+BR2705507,Murici,Murici,murici-br2705507,BR2705507,-9.317,-35.978
+BR2705606,Novo Lino,Novo Lino,novo-lino-br2705606,BR2705606,-8.935,-35.602
+BR2705705,Olho d'Água das Flores,Olho d'Agua das Flores,olho-d-agua-das-flores-br2705705,BR2705705,-9.561,-37.233
+BR2705804,Olho d'Água do Casado,Olho d'Agua do Casado,olho-d-agua-do-casado-br2705804,BR2705804,-9.46,-37.833
+BR2705903,Olho d'Água Grande,Olho d'Agua Grande,olho-d-agua-grande-br2705903,BR2705903,-10.057,-36.794
+BR2706000,Olivença,Olivenca,olivenca-br2706000,BR2706000,-9.468,-37.18
+BR2706109,Ouro Branco,Ouro Branco,ouro-branco-br2706109,BR2706109,-20.53,-43.702
+BR2706208,Palestina,Palestina,palestina-br2706208,BR2706208,-20.31,-49.525
+BR2706307,Palmeira dos Índios,Palmeira dos Indios,palmeira-dos-indios-br2706307,BR2706307,-9.4,-36.615
+BR2706406,Pão de Açúcar,Pao de Acucar,pao-de-acucar-br2706406,BR2706406,-9.665,-37.467
+BR2706422,Pariconha,Pariconha,pariconha-br2706422,BR2706422,-9.218,-38.022
+BR2706448,Paripueira,Paripueira,paripueira-br2706448,BR2706448,-9.435,-35.595
+BR2706505,Passo de Camaragibe,Passo de Camaragibe,passo-de-camaragibe-br2706505,BR2706505,-9.248,-35.495
+BR2706604,Paulo Jacinto,Paulo Jacinto,paulo-jacinto-br2706604,BR2706604,-9.364,-36.402
+BR2706703,Penedo,Penedo,penedo-br2706703,BR2706703,-10.258,-36.476
+BR2706802,Piaçabuçu,Piacabucu,piacabucu-br2706802,BR2706802,-10.383,-36.424
+BR2706901,Pilar,Pilar,pilar-br2706901,BR2706901,-9.629,-36.045
+BR2707008,Pindoba,Pindoba,pindoba-br2707008,BR2707008,-9.468,-36.303
+BR2707107,Piranhas,Piranhas,piranhas-br2707107,BR2707107,-16.408,-51.838
+BR2707206,Poço das Trincheiras,Poco das Trincheiras,poco-das-trincheiras-br2707206,BR2707206,-9.298,-37.333
+BR2707305,Porto Calvo,Porto Calvo,porto-calvo-br2707305,BR2707305,-9.062,-35.385
+BR2707404,Porto de Pedras,Porto de Pedras,porto-de-pedras-br2707404,BR2707404,-9.138,-35.412
+BR2707503,Porto Real do Colégio,Porto Real do Colegio,porto-real-do-colegio-br2707503,BR2707503,-10.106,-36.724
+BR2707602,Quebrangulo,Quebrangulo,quebrangulo-br2707602,BR2707602,-9.284,-36.477
+BR2707701,Rio Largo,Rio Largo,rio-largo-br2707701,BR2707701,-9.501,-35.904
+BR2707800,Roteiro,Roteiro,roteiro-br2707800,BR2707800,-9.862,-35.986
+BR2707909,Santa Luzia do Norte,Santa Luzia do Norte,santa-luzia-do-norte-br2707909,BR2707909,-9.608,-35.828
+BR2708006,Santana do Ipanema,Santana do Ipanema,santana-do-ipanema-br2708006,BR2708006,-9.348,-37.193
+BR2708105,Santana do Mundaú,Santana do Mundau,santana-do-mundau-br2708105,BR2708105,-9.107,-36.207
+BR2708204,São Brás,Sao Bras,sao-bras-br2708204,BR2708204,-10.119,-36.855
+BR2708303,São José da Laje,Sao Jose da Laje,sao-jose-da-laje-br2708303,BR2708303,-9.002,-36.058
+BR2708402,São José da Tapera,Sao Jose da Tapera,sao-jose-da-tapera-br2708402,BR2708402,-9.532,-37.567
+BR2708501,São Luís do Quitunde,Sao Luis do Quitunde,sao-luis-do-quitunde-br2708501,BR2708501,-9.213,-35.609
+BR2708600,São Miguel dos Campos,Sao Miguel dos Campos,sao-miguel-dos-campos-br2708600,BR2708600,-9.786,-36.09
+BR2708709,São Miguel dos Milagres,Sao Miguel dos Milagres,sao-miguel-dos-milagres-br2708709,BR2708709,-9.242,-35.408
+BR2708808,São Sebastião,Sao Sebastiao,sao-sebastiao-br2708808,BR2708808,-23.753,-45.598
+BR2708907,Satuba,Satuba,satuba-br2708907,BR2708907,-9.588,-35.845
+BR2708956,Senador Rui Palmeira,Senador Rui Palmeira,senador-rui-palmeira-br2708956,BR2708956,-9.361,-37.553
+BR2709004,Tanque d'Arca,Tanque d'Arca,tanque-d-arca-br2709004,BR2709004,-9.567,-36.403
+BR2709103,Taquarana,Taquarana,taquarana-br2709103,BR2709103,-9.615,-36.483
+BR2709152,Teotônio Vilela,Teotonio Vilela,teotonio-vilela-br2709152,BR2709152,-9.978,-36.397
+BR2709202,Traipu,Traipu,traipu-br2709202,BR2709202,-9.89,-36.963
+BR2709301,União dos Palmares,Uniao dos Palmares,uniao-dos-palmares-br2709301,BR2709301,-9.105,-36.034
+BR2709400,Viçosa,Vicosa,vicosa-br2709400,BR2709400,-20.734,-42.888

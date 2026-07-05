@@ -1,0 +1,45 @@
+{
+  "id": "BR2906899",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Caraíbas",
+    "en": "Caraibas",
+    "slug": "caraibas-br2906899"
+  },
+  "code": {
+    "id": "BR2906899",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.624",
+    "lon": "-41.258"
+  },
+  "metadata": {},
+  "source": {}
+}

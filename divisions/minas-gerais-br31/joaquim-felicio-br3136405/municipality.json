@@ -1,0 +1,45 @@
+{
+  "id": "BR3136405",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Joaquim Felício",
+    "en": "Joaquim Felicio",
+    "slug": "joaquim-felicio-br3136405"
+  },
+  "code": {
+    "id": "BR3136405",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.648",
+    "lon": "-44.107"
+  },
+  "metadata": {},
+  "source": {}
+}

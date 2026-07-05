@@ -1,0 +1,45 @@
+{
+  "id": "BR1500347",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Água Azul do Norte",
+    "en": "Agua Azul do Norte",
+    "slug": "agua-azul-do-norte-br1500347"
+  },
+  "code": {
+    "id": "BR1500347",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.647",
+    "lon": "-50.585"
+  },
+  "metadata": {},
+  "source": {}
+}

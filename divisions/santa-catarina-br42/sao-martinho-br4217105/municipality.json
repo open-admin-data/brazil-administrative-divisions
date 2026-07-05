@@ -1,0 +1,45 @@
+{
+  "id": "BR4217105",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Martinho",
+    "en": "Sao Martinho",
+    "slug": "sao-martinho-br4217105"
+  },
+  "code": {
+    "id": "BR4217105",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.73",
+    "lon": "-53.97"
+  },
+  "metadata": {},
+  "source": {}
+}

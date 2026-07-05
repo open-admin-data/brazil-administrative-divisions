@@ -1,0 +1,45 @@
+{
+  "id": "BR2211100",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "União",
+    "en": "Uniao",
+    "slug": "uniao-br2211100"
+  },
+  "code": {
+    "id": "BR2211100",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.593",
+    "lon": "-42.869"
+  },
+  "metadata": {},
+  "source": {}
+}

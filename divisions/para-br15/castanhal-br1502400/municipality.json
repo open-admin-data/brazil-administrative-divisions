@@ -1,0 +1,45 @@
+{
+  "id": "BR1502400",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Castanhal",
+    "en": "Castanhal",
+    "slug": "castanhal-br1502400"
+  },
+  "code": {
+    "id": "BR1502400",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.282",
+    "lon": "-47.84"
+  },
+  "metadata": {},
+  "source": {}
+}

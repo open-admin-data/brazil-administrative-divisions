@@ -1,0 +1,45 @@
+{
+  "id": "BR2103406",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Coelho Neto",
+    "en": "Coelho Neto",
+    "slug": "coelho-neto-br2103406"
+  },
+  "code": {
+    "id": "BR2103406",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.187",
+    "lon": "-43.129"
+  },
+  "metadata": {},
+  "source": {}
+}

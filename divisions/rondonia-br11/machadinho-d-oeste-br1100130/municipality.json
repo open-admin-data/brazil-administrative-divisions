@@ -1,0 +1,45 @@
+{
+  "id": "BR1100130",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Machadinho D'Oeste",
+    "en": "Machadinho D'Oeste",
+    "slug": "machadinho-d-oeste-br1100130"
+  },
+  "code": {
+    "id": "BR1100130",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.214",
+    "lon": "-62.087"
+  },
+  "metadata": {},
+  "source": {}
+}

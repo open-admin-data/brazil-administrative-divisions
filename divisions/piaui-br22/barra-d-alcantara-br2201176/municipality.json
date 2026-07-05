@@ -1,0 +1,45 @@
+{
+  "id": "BR2201176",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barra D'Alcântara",
+    "en": "Barra D'Alcantara",
+    "slug": "barra-d-alcantara-br2201176"
+  },
+  "code": {
+    "id": "BR2201176",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.518",
+    "lon": "-42.108"
+  },
+  "metadata": {},
+  "source": {}
+}

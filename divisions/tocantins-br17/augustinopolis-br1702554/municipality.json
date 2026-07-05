@@ -1,0 +1,45 @@
+{
+  "id": "BR1702554",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Augustinópolis",
+    "en": "Augustinopolis",
+    "slug": "augustinopolis-br1702554"
+  },
+  "code": {
+    "id": "BR1702554",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.51",
+    "lon": "-47.924"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3159407",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Rita de Ibitipoca",
+    "en": "Santa Rita de Ibitipoca",
+    "slug": "santa-rita-de-ibitipoca-br3159407"
+  },
+  "code": {
+    "id": "BR3159407",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.562",
+    "lon": "-43.947"
+  },
+  "metadata": {},
+  "source": {}
+}

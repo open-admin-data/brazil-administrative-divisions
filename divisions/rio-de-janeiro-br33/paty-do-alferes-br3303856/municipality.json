@@ -1,0 +1,45 @@
+{
+  "id": "BR3303856",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Paty do Alferes",
+    "en": "Paty do Alferes",
+    "slug": "paty-do-alferes-br3303856"
+  },
+  "code": {
+    "id": "BR3303856",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR33",
+    "level": 1,
+    "name": {
+      "local": "Rio de Janeiro",
+      "en": "Rio de Janeiro",
+      "slug": "rio-de-janeiro-br33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.409",
+    "lon": "-43.401"
+  },
+  "metadata": {},
+  "source": {}
+}

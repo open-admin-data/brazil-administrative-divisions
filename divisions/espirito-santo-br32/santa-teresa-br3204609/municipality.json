@@ -1,0 +1,45 @@
+{
+  "id": "BR3204609",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Teresa",
+    "en": "Santa Teresa",
+    "slug": "santa-teresa-br3204609"
+  },
+  "code": {
+    "id": "BR3204609",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.898",
+    "lon": "-40.642"
+  },
+  "metadata": {},
+  "source": {}
+}

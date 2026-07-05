@@ -1,0 +1,45 @@
+{
+  "id": "BR2106755",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Miranda do Norte",
+    "en": "Miranda do Norte",
+    "slug": "miranda-do-norte-br2106755"
+  },
+  "code": {
+    "id": "BR2106755",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.483",
+    "lon": "-44.489"
+  },
+  "metadata": {},
+  "source": {}
+}

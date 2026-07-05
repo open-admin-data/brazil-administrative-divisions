@@ -1,0 +1,45 @@
+{
+  "id": "BR3145059",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Porteirinha",
+    "en": "Nova Porteirinha",
+    "slug": "nova-porteirinha-br3145059"
+  },
+  "code": {
+    "id": "BR3145059",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.725",
+    "lon": "-43.277"
+  },
+  "metadata": {},
+  "source": {}
+}

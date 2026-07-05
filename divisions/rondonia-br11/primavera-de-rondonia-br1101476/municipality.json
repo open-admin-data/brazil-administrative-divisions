@@ -1,0 +1,45 @@
+{
+  "id": "BR1101476",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Primavera de Rondônia",
+    "en": "Primavera de Rondonia",
+    "slug": "primavera-de-rondonia-br1101476"
+  },
+  "code": {
+    "id": "BR1101476",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.919",
+    "lon": "-61.305"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2308351",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Milhã",
+    "en": "Milha",
+    "slug": "milha-br2308351"
+  },
+  "code": {
+    "id": "BR2308351",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.634",
+    "lon": "-39.202"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3122603",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dom Joaquim",
+    "en": "Dom Joaquim",
+    "slug": "dom-joaquim-br3122603"
+  },
+  "code": {
+    "id": "BR3122603",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.925",
+    "lon": "-43.26"
+  },
+  "metadata": {},
+  "source": {}
+}

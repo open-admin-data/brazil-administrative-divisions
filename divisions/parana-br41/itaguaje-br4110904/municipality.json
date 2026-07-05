@@ -1,0 +1,45 @@
+{
+  "id": "BR4110904",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itaguajé",
+    "en": "Itaguaje",
+    "slug": "itaguaje-br4110904"
+  },
+  "code": {
+    "id": "BR4110904",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.648",
+    "lon": "-51.979"
+  },
+  "metadata": {},
+  "source": {}
+}

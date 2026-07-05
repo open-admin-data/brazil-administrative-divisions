@@ -1,0 +1,45 @@
+{
+  "id": "BR2921906",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mucugê",
+    "en": "Mucuge",
+    "slug": "mucuge-br2921906"
+  },
+  "code": {
+    "id": "BR2921906",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.132",
+    "lon": "-41.475"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3122801",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dom Viçoso",
+    "en": "Dom Vicoso",
+    "slug": "dom-vicoso-br3122801"
+  },
+  "code": {
+    "id": "BR3122801",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.236",
+    "lon": "-45.151"
+  },
+  "metadata": {},
+  "source": {}
+}

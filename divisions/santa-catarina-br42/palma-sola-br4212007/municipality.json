@@ -1,0 +1,45 @@
+{
+  "id": "BR4212007",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Palma Sola",
+    "en": "Palma Sola",
+    "slug": "palma-sola-br4212007"
+  },
+  "code": {
+    "id": "BR4212007",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.403",
+    "lon": "-53.327"
+  },
+  "metadata": {},
+  "source": {}
+}

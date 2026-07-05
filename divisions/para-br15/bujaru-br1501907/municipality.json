@@ -1,0 +1,45 @@
+{
+  "id": "BR1501907",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bujaru",
+    "en": "Bujaru",
+    "slug": "bujaru-br1501907"
+  },
+  "code": {
+    "id": "BR1501907",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.651",
+    "lon": "-48.053"
+  },
+  "metadata": {},
+  "source": {}
+}

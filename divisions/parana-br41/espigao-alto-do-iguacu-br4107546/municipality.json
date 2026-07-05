@@ -1,0 +1,45 @@
+{
+  "id": "BR4107546",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Espigão Alto do Iguaçu",
+    "en": "Espigao Alto do Iguacu",
+    "slug": "espigao-alto-do-iguacu-br4107546"
+  },
+  "code": {
+    "id": "BR4107546",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.377",
+    "lon": "-52.79"
+  },
+  "metadata": {},
+  "source": {}
+}

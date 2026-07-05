@@ -1,0 +1,45 @@
+{
+  "id": "BR2313203",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tamboril",
+    "en": "Tamboril",
+    "slug": "tamboril-br2313203"
+  },
+  "code": {
+    "id": "BR2313203",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.918",
+    "lon": "-40.263"
+  },
+  "metadata": {},
+  "source": {}
+}

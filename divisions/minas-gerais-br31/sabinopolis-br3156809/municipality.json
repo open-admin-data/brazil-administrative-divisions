@@ -1,0 +1,45 @@
+{
+  "id": "BR3156809",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sabinópolis",
+    "en": "Sabinopolis",
+    "slug": "sabinopolis-br3156809"
+  },
+  "code": {
+    "id": "BR3156809",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.659",
+    "lon": "-43.062"
+  },
+  "metadata": {},
+  "source": {}
+}

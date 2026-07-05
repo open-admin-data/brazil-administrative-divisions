@@ -1,0 +1,45 @@
+{
+  "id": "BR3130200",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Igaratinga",
+    "en": "Igaratinga",
+    "slug": "igaratinga-br3130200"
+  },
+  "code": {
+    "id": "BR3130200",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.955",
+    "lon": "-44.722"
+  },
+  "metadata": {},
+  "source": {}
+}

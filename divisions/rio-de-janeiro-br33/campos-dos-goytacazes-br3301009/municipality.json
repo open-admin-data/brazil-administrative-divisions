@@ -1,0 +1,45 @@
+{
+  "id": "BR3301009",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campos dos Goytacazes",
+    "en": "Campos dos Goytacazes",
+    "slug": "campos-dos-goytacazes-br3301009"
+  },
+  "code": {
+    "id": "BR3301009",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR33",
+    "level": 1,
+    "name": {
+      "local": "Rio de Janeiro",
+      "en": "Rio de Janeiro",
+      "slug": "rio-de-janeiro-br33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.665",
+    "lon": "-41.456"
+  },
+  "metadata": {},
+  "source": {}
+}

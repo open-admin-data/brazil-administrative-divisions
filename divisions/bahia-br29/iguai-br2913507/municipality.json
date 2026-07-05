@@ -1,0 +1,45 @@
+{
+  "id": "BR2913507",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Iguaí",
+    "en": "Iguai",
+    "slug": "iguai-br2913507"
+  },
+  "code": {
+    "id": "BR2913507",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.629",
+    "lon": "-40.077"
+  },
+  "metadata": {},
+  "source": {}
+}

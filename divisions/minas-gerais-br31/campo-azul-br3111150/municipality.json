@@ -1,0 +1,45 @@
+{
+  "id": "BR3111150",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campo Azul",
+    "en": "Campo Azul",
+    "slug": "campo-azul-br3111150"
+  },
+  "code": {
+    "id": "BR3111150",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.522",
+    "lon": "-44.782"
+  },
+  "metadata": {},
+  "source": {}
+}

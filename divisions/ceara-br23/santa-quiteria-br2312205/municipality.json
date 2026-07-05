@@ -1,0 +1,45 @@
+{
+  "id": "BR2312205",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Quitéria",
+    "en": "Santa Quiteria",
+    "slug": "santa-quiteria-br2312205"
+  },
+  "code": {
+    "id": "BR2312205",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.399",
+    "lon": "-39.978"
+  },
+  "metadata": {},
+  "source": {}
+}

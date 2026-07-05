@@ -1,0 +1,45 @@
+{
+  "id": "BR2513158",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Cecília",
+    "en": "Santa Cecilia",
+    "slug": "santa-cecilia-br2513158"
+  },
+  "code": {
+    "id": "BR2513158",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.919",
+    "lon": "-50.462"
+  },
+  "metadata": {},
+  "source": {}
+}

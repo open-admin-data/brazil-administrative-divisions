@@ -1,0 +1,45 @@
+{
+  "id": "BR1101757",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vale do Anari",
+    "en": "Vale do Anari",
+    "slug": "vale-do-anari-br1101757"
+  },
+  "code": {
+    "id": "BR1101757",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.71",
+    "lon": "-61.928"
+  },
+  "metadata": {},
+  "source": {}
+}

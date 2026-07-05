@@ -1,0 +1,45 @@
+{
+  "id": "BR2703007",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ibateguara",
+    "en": "Ibateguara",
+    "slug": "ibateguara-br2703007"
+  },
+  "code": {
+    "id": "BR2703007",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.946",
+    "lon": "-35.916"
+  },
+  "metadata": {},
+  "source": {}
+}

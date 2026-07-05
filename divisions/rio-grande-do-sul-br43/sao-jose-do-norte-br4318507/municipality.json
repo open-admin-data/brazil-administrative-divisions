@@ -1,0 +1,45 @@
+{
+  "id": "BR4318507",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José do Norte",
+    "en": "Sao Jose do Norte",
+    "slug": "sao-jose-do-norte-br4318507"
+  },
+  "code": {
+    "id": "BR4318507",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-31.762",
+    "lon": "-51.714"
+  },
+  "metadata": {},
+  "source": {}
+}

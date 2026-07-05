@@ -1,0 +1,45 @@
+{
+  "id": "BR5000807",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Anaurilândia",
+    "en": "Anaurilandia",
+    "slug": "anaurilandia-br5000807"
+  },
+  "code": {
+    "id": "BR5000807",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR50",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso do Sul",
+      "en": "Mato Grosso do Sul",
+      "slug": "mato-grosso-do-sul-br50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.138",
+    "lon": "-52.761"
+  },
+  "metadata": {},
+  "source": {}
+}

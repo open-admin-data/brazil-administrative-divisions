@@ -1,0 +1,45 @@
+{
+  "id": "BR5211701",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jandaia",
+    "en": "Jandaia",
+    "slug": "jandaia-br5211701"
+  },
+  "code": {
+    "id": "BR5211701",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.132",
+    "lon": "-50.203"
+  },
+  "metadata": {},
+  "source": {}
+}

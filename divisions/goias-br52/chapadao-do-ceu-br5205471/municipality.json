@@ -1,0 +1,45 @@
+{
+  "id": "BR5205471",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chapadão do Céu",
+    "en": "Chapadao do Ceu",
+    "slug": "chapadao-do-ceu-br5205471"
+  },
+  "code": {
+    "id": "BR5205471",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.437",
+    "lon": "-52.565"
+  },
+  "metadata": {},
+  "source": {}
+}

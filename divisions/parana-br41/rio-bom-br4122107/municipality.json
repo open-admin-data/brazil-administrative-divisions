@@ -1,0 +1,45 @@
+{
+  "id": "BR4122107",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rio Bom",
+    "en": "Rio Bom",
+    "slug": "rio-bom-br4122107"
+  },
+  "code": {
+    "id": "BR4122107",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.8",
+    "lon": "-51.445"
+  },
+  "metadata": {},
+  "source": {}
+}

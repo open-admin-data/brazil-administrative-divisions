@@ -1,0 +1,45 @@
+{
+  "id": "BR5106455",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Planalto da Serra",
+    "en": "Planalto da Serra",
+    "slug": "planalto-da-serra-br5106455"
+  },
+  "code": {
+    "id": "BR5106455",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.539",
+    "lon": "-54.69"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3161205",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Francisco de Paula",
+    "en": "Sao Francisco de Paula",
+    "slug": "sao-francisco-de-paula-br3161205"
+  },
+  "code": {
+    "id": "BR3161205",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.235",
+    "lon": "-50.46"
+  },
+  "metadata": {},
+  "source": {}
+}

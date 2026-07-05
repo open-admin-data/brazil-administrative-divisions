@@ -1,0 +1,45 @@
+{
+  "id": "BR2103554",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Conceição do Lago-Açu",
+    "en": "Conceicao do Lago-Acu",
+    "slug": "conceicao-do-lago-acu-br2103554"
+  },
+  "code": {
+    "id": "BR2103554",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.738",
+    "lon": "-44.811"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2903201",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barreiras",
+    "en": "Barreiras",
+    "slug": "barreiras-br2903201"
+  },
+  "code": {
+    "id": "BR2903201",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.929",
+    "lon": "-45.713"
+  },
+  "metadata": {},
+  "source": {}
+}

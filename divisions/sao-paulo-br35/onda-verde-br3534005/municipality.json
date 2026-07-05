@@ -1,0 +1,45 @@
+{
+  "id": "BR3534005",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Onda Verde",
+    "en": "Onda Verde",
+    "slug": "onda-verde-br3534005"
+  },
+  "code": {
+    "id": "BR3534005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.617",
+    "lon": "-49.248"
+  },
+  "metadata": {},
+  "source": {}
+}

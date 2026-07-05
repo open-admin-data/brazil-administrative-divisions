@@ -1,0 +1,45 @@
+{
+  "id": "BR3516408",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Franco da Rocha",
+    "en": "Franco da Rocha",
+    "slug": "franco-da-rocha-br3516408"
+  },
+  "code": {
+    "id": "BR3516408",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.307",
+    "lon": "-46.736"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2700508",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barra de Santo Antônio",
+    "en": "Barra de Santo Antonio",
+    "slug": "barra-de-santo-antonio-br2700508"
+  },
+  "code": {
+    "id": "BR2700508",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.391",
+    "lon": "-35.56"
+  },
+  "metadata": {},
+  "source": {}
+}

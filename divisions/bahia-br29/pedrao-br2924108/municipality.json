@@ -1,0 +1,45 @@
+{
+  "id": "BR2924108",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pedrão",
+    "en": "Pedrao",
+    "slug": "pedrao-br2924108"
+  },
+  "code": {
+    "id": "BR2924108",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.14",
+    "lon": "-38.627"
+  },
+  "metadata": {},
+  "source": {}
+}

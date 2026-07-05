@@ -1,0 +1,45 @@
+{
+  "id": "BR2904050",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bonito",
+    "en": "Bonito",
+    "slug": "bonito-br2904050"
+  },
+  "code": {
+    "id": "BR2904050",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.927",
+    "lon": "-56.319"
+  },
+  "metadata": {},
+  "source": {}
+}

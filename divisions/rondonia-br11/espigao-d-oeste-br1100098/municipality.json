@@ -1,0 +1,45 @@
+{
+  "id": "BR1100098",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Espigão D'Oeste",
+    "en": "Espigao D'Oeste",
+    "slug": "espigao-d-oeste-br1100098"
+  },
+  "code": {
+    "id": "BR1100098",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.435",
+    "lon": "-60.712"
+  },
+  "metadata": {},
+  "source": {}
+}

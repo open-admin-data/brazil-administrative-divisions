@@ -1,0 +1,45 @@
+{
+  "id": "BR2707909",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Luzia do Norte",
+    "en": "Santa Luzia do Norte",
+    "slug": "santa-luzia-do-norte-br2707909"
+  },
+  "code": {
+    "id": "BR2707909",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.608",
+    "lon": "-35.828"
+  },
+  "metadata": {},
+  "source": {}
+}

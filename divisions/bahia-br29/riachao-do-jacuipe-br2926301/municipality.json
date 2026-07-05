@@ -1,0 +1,45 @@
+{
+  "id": "BR2926301",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Riachão do Jacuípe",
+    "en": "Riachao do Jacuipe",
+    "slug": "riachao-do-jacuipe-br2926301"
+  },
+  "code": {
+    "id": "BR2926301",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.854",
+    "lon": "-39.394"
+  },
+  "metadata": {},
+  "source": {}
+}

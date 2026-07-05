@@ -1,0 +1,45 @@
+{
+  "id": "BR2925253",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ponto Novo",
+    "en": "Ponto Novo",
+    "slug": "ponto-novo-br2925253"
+  },
+  "code": {
+    "id": "BR2925253",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.908",
+    "lon": "-40.118"
+  },
+  "metadata": {},
+  "source": {}
+}

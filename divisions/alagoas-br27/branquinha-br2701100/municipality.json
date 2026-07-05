@@ -1,0 +1,45 @@
+{
+  "id": "BR2701100",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Branquinha",
+    "en": "Branquinha",
+    "slug": "branquinha-br2701100"
+  },
+  "code": {
+    "id": "BR2701100",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.229",
+    "lon": "-36.09"
+  },
+  "metadata": {},
+  "source": {}
+}

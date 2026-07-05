@@ -1,0 +1,45 @@
+{
+  "id": "BR2203859",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Floresta do Piauí",
+    "en": "Floresta do Piaui",
+    "slug": "floresta-do-piaui-br2203859"
+  },
+  "code": {
+    "id": "BR2203859",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.487",
+    "lon": "-41.824"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR5214101",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mutunópolis",
+    "en": "Mutunopolis",
+    "slug": "mutunopolis-br5214101"
+  },
+  "code": {
+    "id": "BR5214101",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.713",
+    "lon": "-49.34"
+  },
+  "metadata": {},
+  "source": {}
+}

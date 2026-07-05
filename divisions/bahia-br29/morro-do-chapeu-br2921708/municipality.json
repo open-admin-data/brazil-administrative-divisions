@@ -1,0 +1,45 @@
+{
+  "id": "BR2921708",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Morro do Chapéu",
+    "en": "Morro do Chapeu",
+    "slug": "morro-do-chapeu-br2921708"
+  },
+  "code": {
+    "id": "BR2921708",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.319",
+    "lon": "-41.314"
+  },
+  "metadata": {},
+  "source": {}
+}

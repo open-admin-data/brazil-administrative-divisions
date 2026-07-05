@@ -1,0 +1,45 @@
+{
+  "id": "BR5106703",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ponte Branca",
+    "en": "Ponte Branca",
+    "slug": "ponte-branca-br5106703"
+  },
+  "code": {
+    "id": "BR5106703",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.657",
+    "lon": "-52.893"
+  },
+  "metadata": {},
+  "source": {}
+}

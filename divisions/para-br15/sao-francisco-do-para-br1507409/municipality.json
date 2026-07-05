@@ -1,0 +1,45 @@
+{
+  "id": "BR1507409",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Francisco do Pará",
+    "en": "Sao Francisco do Para",
+    "slug": "sao-francisco-do-para-br1507409"
+  },
+  "code": {
+    "id": "BR1507409",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.149",
+    "lon": "-47.754"
+  },
+  "metadata": {},
+  "source": {}
+}

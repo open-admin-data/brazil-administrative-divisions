@@ -1,0 +1,45 @@
+{
+  "id": "BR2105948",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lago dos Rodrigues",
+    "en": "Lago dos Rodrigues",
+    "slug": "lago-dos-rodrigues-br2105948"
+  },
+  "code": {
+    "id": "BR2105948",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.604",
+    "lon": "-44.926"
+  },
+  "metadata": {},
+  "source": {}
+}

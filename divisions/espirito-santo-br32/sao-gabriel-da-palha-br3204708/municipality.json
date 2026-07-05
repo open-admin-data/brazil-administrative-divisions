@@ -1,0 +1,45 @@
+{
+  "id": "BR3204708",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Gabriel da Palha",
+    "en": "Sao Gabriel da Palha",
+    "slug": "sao-gabriel-da-palha-br3204708"
+  },
+  "code": {
+    "id": "BR3204708",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.976",
+    "lon": "-40.53"
+  },
+  "metadata": {},
+  "source": {}
+}

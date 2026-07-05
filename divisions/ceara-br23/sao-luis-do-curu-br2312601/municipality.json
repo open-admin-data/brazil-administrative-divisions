@@ -1,0 +1,45 @@
+{
+  "id": "BR2312601",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Luís do Curu",
+    "en": "Sao Luis do Curu",
+    "slug": "sao-luis-do-curu-br2312601"
+  },
+  "code": {
+    "id": "BR2312601",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.651",
+    "lon": "-39.255"
+  },
+  "metadata": {},
+  "source": {}
+}

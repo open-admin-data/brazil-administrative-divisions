@@ -1,0 +1,45 @@
+{
+  "id": "BR4301206",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Arroio do Tigre",
+    "en": "Arroio do Tigre",
+    "slug": "arroio-do-tigre-br4301206"
+  },
+  "code": {
+    "id": "BR4301206",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.26",
+    "lon": "-53.065"
+  },
+  "metadata": {},
+  "source": {}
+}

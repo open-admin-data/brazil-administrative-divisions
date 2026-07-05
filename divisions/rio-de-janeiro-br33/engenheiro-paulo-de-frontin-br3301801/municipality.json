@@ -1,0 +1,45 @@
+{
+  "id": "BR3301801",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Engenheiro Paulo de Frontin",
+    "en": "Engenheiro Paulo de Frontin",
+    "slug": "engenheiro-paulo-de-frontin-br3301801"
+  },
+  "code": {
+    "id": "BR3301801",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR33",
+    "level": 1,
+    "name": {
+      "local": "Rio de Janeiro",
+      "en": "Rio de Janeiro",
+      "slug": "rio-de-janeiro-br33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.54",
+    "lon": "-43.663"
+  },
+  "metadata": {},
+  "source": {}
+}

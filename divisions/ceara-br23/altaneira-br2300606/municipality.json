@@ -1,0 +1,45 @@
+{
+  "id": "BR2300606",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Altaneira",
+    "en": "Altaneira",
+    "slug": "altaneira-br2300606"
+  },
+  "code": {
+    "id": "BR2300606",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.982",
+    "lon": "-39.69"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR4124509",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Inácio",
+    "en": "Santo Inacio",
+    "slug": "santo-inacio-br4124509"
+  },
+  "code": {
+    "id": "BR4124509",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.711",
+    "lon": "-51.798"
+  },
+  "metadata": {},
+  "source": {}
+}

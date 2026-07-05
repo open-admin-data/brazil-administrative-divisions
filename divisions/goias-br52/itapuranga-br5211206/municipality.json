@@ -1,0 +1,45 @@
+{
+  "id": "BR5211206",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itapuranga",
+    "en": "Itapuranga",
+    "slug": "itapuranga-br5211206"
+  },
+  "code": {
+    "id": "BR5211206",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.574",
+    "lon": "-49.931"
+  },
+  "metadata": {},
+  "source": {}
+}

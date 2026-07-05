@@ -1,0 +1,45 @@
+{
+  "id": "BR3127057",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Fronteira dos Vales",
+    "en": "Fronteira dos Vales",
+    "slug": "fronteira-dos-vales-br3127057"
+  },
+  "code": {
+    "id": "BR3127057",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.892",
+    "lon": "-40.82"
+  },
+  "metadata": {},
+  "source": {}
+}

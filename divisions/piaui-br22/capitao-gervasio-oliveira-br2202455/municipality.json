@@ -1,0 +1,45 @@
+{
+  "id": "BR2202455",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Capitão Gervásio Oliveira",
+    "en": "Capitao Gervasio Oliveira",
+    "slug": "capitao-gervasio-oliveira-br2202455"
+  },
+  "code": {
+    "id": "BR2202455",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.61",
+    "lon": "-41.929"
+  },
+  "metadata": {},
+  "source": {}
+}

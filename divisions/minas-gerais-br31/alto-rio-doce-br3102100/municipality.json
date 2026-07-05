@@ -1,0 +1,45 @@
+{
+  "id": "BR3102100",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alto Rio Doce",
+    "en": "Alto Rio Doce",
+    "slug": "alto-rio-doce-br3102100"
+  },
+  "code": {
+    "id": "BR3102100",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.021",
+    "lon": "-43.409"
+  },
+  "metadata": {},
+  "source": {}
+}

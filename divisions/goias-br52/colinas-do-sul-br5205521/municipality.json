@@ -1,0 +1,45 @@
+{
+  "id": "BR5205521",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Colinas do Sul",
+    "en": "Colinas do Sul",
+    "slug": "colinas-do-sul-br5205521"
+  },
+  "code": {
+    "id": "BR5205521",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.004",
+    "lon": "-48.057"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2104073",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Feira Nova do Maranhão",
+    "en": "Feira Nova do Maranhao",
+    "slug": "feira-nova-do-maranhao-br2104073"
+  },
+  "code": {
+    "id": "BR2104073",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.973",
+    "lon": "-46.671"
+  },
+  "metadata": {},
+  "source": {}
+}

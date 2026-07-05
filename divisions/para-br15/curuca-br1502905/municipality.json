@@ -1,0 +1,45 @@
+{
+  "id": "BR1502905",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Curuçá",
+    "en": "Curuca",
+    "slug": "curuca-br1502905"
+  },
+  "code": {
+    "id": "BR1502905",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.708",
+    "lon": "-47.87"
+  },
+  "metadata": {},
+  "source": {}
+}

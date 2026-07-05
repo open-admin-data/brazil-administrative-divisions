@@ -1,0 +1,45 @@
+{
+  "id": "BR3205069",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Venda Nova do Imigrante",
+    "en": "Venda Nova do Imigrante",
+    "slug": "venda-nova-do-imigrante-br3205069"
+  },
+  "code": {
+    "id": "BR3205069",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.387",
+    "lon": "-41.131"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2111763",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Senador La Rocque",
+    "en": "Senador La Rocque",
+    "slug": "senador-la-rocque-br2111763"
+  },
+  "code": {
+    "id": "BR2111763",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.395",
+    "lon": "-47.156"
+  },
+  "metadata": {},
+  "source": {}
+}

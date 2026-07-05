@@ -1,0 +1,45 @@
+{
+  "id": "BR1506138",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Redenção",
+    "en": "Redencao",
+    "slug": "redencao-br1506138"
+  },
+  "code": {
+    "id": "BR1506138",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.268",
+    "lon": "-38.764"
+  },
+  "metadata": {},
+  "source": {}
+}

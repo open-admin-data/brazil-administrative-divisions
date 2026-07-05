@@ -1,0 +1,45 @@
+{
+  "id": "BR1200807",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Porto Acre",
+    "en": "Porto Acre",
+    "slug": "porto-acre-br1200807"
+  },
+  "code": {
+    "id": "BR1200807",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR12",
+    "level": 1,
+    "name": {
+      "local": "Acre",
+      "en": "Acre",
+      "slug": "acre-br12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.682",
+    "lon": "-67.753"
+  },
+  "metadata": {},
+  "source": {}
+}

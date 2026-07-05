@@ -1,0 +1,45 @@
+{
+  "id": "BR2307601",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Limoeiro do Norte",
+    "en": "Limoeiro do Norte",
+    "slug": "limoeiro-do-norte-br2307601"
+  },
+  "code": {
+    "id": "BR2307601",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.17",
+    "lon": "-38.049"
+  },
+  "metadata": {},
+  "source": {}
+}

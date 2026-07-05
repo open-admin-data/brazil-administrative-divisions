@@ -1,0 +1,45 @@
+{
+  "id": "BR3505005",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barão de Antonina",
+    "en": "Barao de Antonina",
+    "slug": "barao-de-antonina-br3505005"
+  },
+  "code": {
+    "id": "BR3505005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.566",
+    "lon": "-49.569"
+  },
+  "metadata": {},
+  "source": {}
+}

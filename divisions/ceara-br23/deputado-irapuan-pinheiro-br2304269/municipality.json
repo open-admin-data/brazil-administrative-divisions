@@ -1,0 +1,45 @@
+{
+  "id": "BR2304269",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Deputado Irapuan Pinheiro",
+    "en": "Deputado Irapuan Pinheiro",
+    "slug": "deputado-irapuan-pinheiro-br2304269"
+  },
+  "code": {
+    "id": "BR2304269",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.895",
+    "lon": "-39.281"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2912509",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ibipitanga",
+    "en": "Ibipitanga",
+    "slug": "ibipitanga-br2912509"
+  },
+  "code": {
+    "id": "BR2912509",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.886",
+    "lon": "-42.361"
+  },
+  "metadata": {},
+  "source": {}
+}

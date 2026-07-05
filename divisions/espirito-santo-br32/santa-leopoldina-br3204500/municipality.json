@@ -1,0 +1,45 @@
+{
+  "id": "BR3204500",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Leopoldina",
+    "en": "Santa Leopoldina",
+    "slug": "santa-leopoldina-br3204500"
+  },
+  "code": {
+    "id": "BR3204500",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.116",
+    "lon": "-40.575"
+  },
+  "metadata": {},
+  "source": {}
+}

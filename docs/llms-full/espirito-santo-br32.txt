@@ -1,0 +1,399 @@
+# Espirito Santo — Brazil Administrative Divisions
+
+> 78 municipalitys
+> Code: BR32
+> Coordinates: -19.71, -40.843
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Afonso Cláudio (Afonso Claudio)
+
+Code: BR3200102, Coordinates: -20.098, -41.127
+
+
+### Água Doce do Norte (Agua Doce do Norte)
+
+Code: BR3200169, Coordinates: -18.502, -40.993
+
+
+### Águia Branca (Aguia Branca)
+
+Code: BR3200136, Coordinates: -18.989, -40.718
+
+
+### Alegre
+
+Code: BR3200201, Coordinates: -20.71, -41.526
+
+
+### Alfredo Chaves
+
+Code: BR3200300, Coordinates: -20.543, -40.826
+
+
+### Alto Rio Novo
+
+Code: BR3200359, Coordinates: -19.034, -40.987
+
+
+### Anchieta
+
+Code: BR3200409, Coordinates: -26.522, -53.354
+
+
+### Apiacá (Apiaca)
+
+Code: BR3200508, Coordinates: -21.074, -41.558
+
+
+### Aracruz
+
+Code: BR3200607, Coordinates: -19.8, -40.202
+
+
+### Atílio Vivacqua (Atilio Vivacqua)
+
+Code: BR3200706, Coordinates: -20.958, -41.186
+
+
+### Baixo Guandu
+
+Code: BR3200805, Coordinates: -19.535, -40.967
+
+
+### Barra de São Francisco (Barra de Sao Francisco)
+
+Code: BR3200904, Coordinates: -18.635, -40.82
+
+
+### Boa Esperança (Boa Esperanca)
+
+Code: BR3201001, Coordinates: -24.246, -52.741
+
+
+### Bom Jesus do Norte
+
+Code: BR3201100, Coordinates: -21.083, -41.644
+
+
+### Brejetuba
+
+Code: BR3201159, Coordinates: -20.152, -41.299
+
+
+### Cachoeiro de Itapemirim
+
+Code: BR3201209, Coordinates: -20.77, -41.201
+
+
+### Cariacica
+
+Code: BR3201308, Coordinates: -20.289, -40.463
+
+
+### Castelo
+
+Code: BR3201407, Coordinates: -20.534, -41.207
+
+
+### Colatina
+
+Code: BR3201506, Coordinates: -19.468, -40.672
+
+
+### Conceição da Barra (Conceicao da Barra)
+
+Code: BR3201605, Coordinates: -18.434, -39.859
+
+
+### Conceição do Castelo (Conceicao do Castelo)
+
+Code: BR3201704, Coordinates: -20.366, -41.264
+
+
+### Divino de São Lourenço (Divino de Sao Lourenco)
+
+Code: BR3201803, Coordinates: -20.596, -41.724
+
+
+### Domingos Martins
+
+Code: BR3201902, Coordinates: -20.317, -40.844
+
+
+### Dores do Rio Preto
+
+Code: BR3202009, Coordinates: -20.647, -41.814
+
+
+### Ecoporanga
+
+Code: BR3202108, Coordinates: -18.27, -40.836
+
+
+### Fundão (Fundao)
+
+Code: BR3202207, Coordinates: -19.976, -40.326
+
+
+### Governador Lindenberg
+
+Code: BR3202256, Coordinates: -19.205, -40.493
+
+
+### Guaçuí (Guacui)
+
+Code: BR3202306, Coordinates: -20.772, -41.706
+
+
+### Guarapari
+
+Code: BR3202405, Coordinates: -20.585, -40.554
+
+
+### Ibatiba
+
+Code: BR3202454, Coordinates: -20.281, -41.56
+
+
+### Ibiraçu (Ibiracu)
+
+Code: BR3202504, Coordinates: -19.82, -40.43
+
+
+### Ibitirama
+
+Code: BR3202553, Coordinates: -20.511, -41.672
+
+
+### Iconha
+
+Code: BR3202603, Coordinates: -20.75, -40.853
+
+
+### Irupi
+
+Code: BR3202652, Coordinates: -20.327, -41.665
+
+
+### Itaguaçu (Itaguacu)
+
+Code: BR3202702, Coordinates: -19.721, -40.876
+
+
+### Itapemirim
+
+Code: BR3202801, Coordinates: -20.989, -40.968
+
+
+### Itarana
+
+Code: BR3202900, Coordinates: -19.954, -40.887
+
+
+### Iúna (Iuna)
+
+Code: BR3203007, Coordinates: -20.364, -41.665
+
+
+### Jaguaré (Jaguare)
+
+Code: BR3203056, Coordinates: -18.992, -39.972
+
+
+### Jerônimo Monteiro (Jeronimo Monteiro)
+
+Code: BR3203106, Coordinates: -20.8, -41.391
+
+
+### João Neiva (Joao Neiva)
+
+Code: BR3203130, Coordinates: -19.737, -40.44
+
+
+### Laranja da Terra
+
+Code: BR3203163, Coordinates: -19.863, -41.06
+
+
+### Linhares
+
+Code: BR3203205, Coordinates: -19.345, -40.187
+
+
+### Mantenópolis (Mantenopolis)
+
+Code: BR3203304, Coordinates: -18.876, -41.133
+
+
+### Marataízes (Marataizes)
+
+Code: BR3203320, Coordinates: -21.086, -40.897
+
+
+### Marechal Floriano
+
+Code: BR3203346, Coordinates: -20.432, -40.761
+
+
+### Marilândia (Marilandia)
+
+Code: BR3203353, Coordinates: -19.422, -40.522
+
+
+### Mimoso do Sul
+
+Code: BR3203403, Coordinates: -21.082, -41.391
+
+
+### Montanha
+
+Code: BR3203502, Coordinates: -18.135, -40.272
+
+
+### Mucurici
+
+Code: BR3203601, Coordinates: -18.015, -40.542
+
+
+### Muniz Freire
+
+Code: BR3203700, Coordinates: -20.418, -41.429
+
+
+### Muqui
+
+Code: BR3203809, Coordinates: -20.924, -41.306
+
+
+### Nova Venécia (Nova Venecia)
+
+Code: BR3203908, Coordinates: -18.674, -40.561
+
+
+### Pancas
+
+Code: BR3204005, Coordinates: -19.162, -40.815
+
+
+### Pedro Canário (Pedro Canario)
+
+Code: BR3204054, Coordinates: -18.184, -40.043
+
+
+### Pinheiros
+
+Code: BR3204104, Coordinates: -18.361, -40.22
+
+
+### Piúma (Piuma)
+
+Code: BR3204203, Coordinates: -20.824, -40.745
+
+
+### Ponto Belo
+
+Code: BR3204252, Coordinates: -18.247, -40.517
+
+
+### Presidente Kennedy
+
+Code: BR3204302, Coordinates: -21.14, -41.068
+
+
+### Rio Bananal
+
+Code: BR3204351, Coordinates: -19.219, -40.334
+
+
+### Rio Novo do Sul
+
+Code: BR3204401, Coordinates: -20.777, -40.928
+
+
+### Santa Leopoldina
+
+Code: BR3204500, Coordinates: -20.116, -40.575
+
+
+### Santa Maria de Jetibá (Santa Maria de Jetiba)
+
+Code: BR3204559, Coordinates: -20.086, -40.8
+
+
+### Santa Teresa
+
+Code: BR3204609, Coordinates: -19.898, -40.642
+
+
+### São Domingos do Norte (Sao Domingos do Norte)
+
+Code: BR3204658, Coordinates: -19.137, -40.561
+
+
+### São Gabriel da Palha (Sao Gabriel da Palha)
+
+Code: BR3204708, Coordinates: -18.976, -40.53
+
+
+### São José do Calçado (Sao Jose do Calcado)
+
+Code: BR3204807, Coordinates: -20.977, -41.658
+
+
+### São Mateus (Sao Mateus)
+
+Code: BR3204906, Coordinates: -18.764, -40.085
+
+
+### São Roque do Canaã (Sao Roque do Canaa)
+
+Code: BR3204955, Coordinates: -19.728, -40.666
+
+
+### Serra
+
+Code: BR3205002, Coordinates: -20.127, -40.296
+
+
+### Sooretama
+
+Code: BR3205010, Coordinates: -19.081, -40.146
+
+
+### Vargem Alta
+
+Code: BR3205036, Coordinates: -20.642, -41.011
+
+
+### Venda Nova do Imigrante
+
+Code: BR3205069, Coordinates: -20.387, -41.131
+
+
+### Viana
+
+Code: BR3205101, Coordinates: -20.38, -40.53
+
+
+### Vila Pavão (Vila Pavao)
+
+Code: BR3205150, Coordinates: -18.614, -40.656
+
+
+### Vila Valério (Vila Valerio)
+
+Code: BR3205176, Coordinates: -18.967, -40.36
+
+
+### Vila Velha
+
+Code: BR3205200, Coordinates: -20.402, -40.346
+
+
+### Vitória (Vitoria)
+
+Code: BR3205309, Coordinates: -20.281, -40.289
+
+

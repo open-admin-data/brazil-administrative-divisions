@@ -1,0 +1,45 @@
+{
+  "id": "BR3122405",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Divisa Nova",
+    "en": "Divisa Nova",
+    "slug": "divisa-nova-br3122405"
+  },
+  "code": {
+    "id": "BR3122405",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.526",
+    "lon": "-46.242"
+  },
+  "metadata": {},
+  "source": {}
+}

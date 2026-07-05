@@ -1,0 +1,45 @@
+{
+  "id": "BR2204154",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Francisco Macedo",
+    "en": "Francisco Macedo",
+    "slug": "francisco-macedo-br2204154"
+  },
+  "code": {
+    "id": "BR2204154",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.33",
+    "lon": "-40.779"
+  },
+  "metadata": {},
+  "source": {}
+}

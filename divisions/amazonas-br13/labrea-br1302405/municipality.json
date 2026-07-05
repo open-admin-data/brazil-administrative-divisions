@@ -1,0 +1,45 @@
+{
+  "id": "BR1302405",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lábrea",
+    "en": "Labrea",
+    "slug": "labrea-br1302405"
+  },
+  "code": {
+    "id": "BR1302405",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.051",
+    "lon": "-66.13"
+  },
+  "metadata": {},
+  "source": {}
+}

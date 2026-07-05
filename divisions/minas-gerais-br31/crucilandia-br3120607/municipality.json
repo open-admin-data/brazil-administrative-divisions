@@ -1,0 +1,45 @@
+{
+  "id": "BR3120607",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Crucilândia",
+    "en": "Crucilandia",
+    "slug": "crucilandia-br3120607"
+  },
+  "code": {
+    "id": "BR3120607",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.403",
+    "lon": "-44.364"
+  },
+  "metadata": {},
+  "source": {}
+}

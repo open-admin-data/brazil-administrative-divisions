@@ -1,0 +1,45 @@
+{
+  "id": "BR2904100",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Boquira",
+    "en": "Boquira",
+    "slug": "boquira-br2904100"
+  },
+  "code": {
+    "id": "BR2904100",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.733",
+    "lon": "-42.647"
+  },
+  "metadata": {},
+  "source": {}
+}

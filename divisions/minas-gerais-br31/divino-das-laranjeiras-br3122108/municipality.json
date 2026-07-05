@@ -1,0 +1,45 @@
+{
+  "id": "BR3122108",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Divino das Laranjeiras",
+    "en": "Divino das Laranjeiras",
+    "slug": "divino-das-laranjeiras-br3122108"
+  },
+  "code": {
+    "id": "BR3122108",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.71",
+    "lon": "-41.49"
+  },
+  "metadata": {},
+  "source": {}
+}

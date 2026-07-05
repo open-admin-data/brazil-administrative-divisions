@@ -1,0 +1,45 @@
+{
+  "id": "BR2306009",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Iracema",
+    "en": "Iracema",
+    "slug": "iracema-br2306009"
+  },
+  "code": {
+    "id": "BR2306009",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.788",
+    "lon": "-38.347"
+  },
+  "metadata": {},
+  "source": {}
+}

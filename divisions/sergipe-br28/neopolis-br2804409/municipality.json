@@ -1,0 +1,45 @@
+{
+  "id": "BR2804409",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Neópolis",
+    "en": "Neopolis",
+    "slug": "neopolis-br2804409"
+  },
+  "code": {
+    "id": "BR2804409",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.354",
+    "lon": "-36.667"
+  },
+  "metadata": {},
+  "source": {}
+}

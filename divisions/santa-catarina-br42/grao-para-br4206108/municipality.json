@@ -1,0 +1,45 @@
+{
+  "id": "BR4206108",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Grão Pará",
+    "en": "Grao Para",
+    "slug": "grao-para-br4206108"
+  },
+  "code": {
+    "id": "BR4206108",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.144",
+    "lon": "-49.312"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR4318903",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Luiz Gonzaga",
+    "en": "Sao Luiz Gonzaga",
+    "slug": "sao-luiz-gonzaga-br4318903"
+  },
+  "code": {
+    "id": "BR4318903",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.412",
+    "lon": "-54.89"
+  },
+  "metadata": {},
+  "source": {}
+}

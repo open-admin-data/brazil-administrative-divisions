@@ -1,0 +1,45 @@
+{
+  "id": "BR1505908",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Porto de Moz",
+    "en": "Porto de Moz",
+    "slug": "porto-de-moz-br1505908"
+  },
+  "code": {
+    "id": "BR1505908",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.121",
+    "lon": "-52.596"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2101608",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barra do Corda",
+    "en": "Barra do Corda",
+    "slug": "barra-do-corda-br2101608"
+  },
+  "code": {
+    "id": "BR2101608",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.374",
+    "lon": "-45.089"
+  },
+  "metadata": {},
+  "source": {}
+}

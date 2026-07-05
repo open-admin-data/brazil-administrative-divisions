@@ -1,0 +1,45 @@
+{
+  "id": "BR3204807",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José do Calçado",
+    "en": "Sao Jose do Calcado",
+    "slug": "sao-jose-do-calcado-br3204807"
+  },
+  "code": {
+    "id": "BR3204807",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.977",
+    "lon": "-41.658"
+  },
+  "metadata": {},
+  "source": {}
+}

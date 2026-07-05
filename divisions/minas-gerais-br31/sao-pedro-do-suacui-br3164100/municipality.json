@@ -1,0 +1,45 @@
+{
+  "id": "BR3164100",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Pedro do Suaçuí",
+    "en": "Sao Pedro do Suacui",
+    "slug": "sao-pedro-do-suacui-br3164100"
+  },
+  "code": {
+    "id": "BR3164100",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.358",
+    "lon": "-42.601"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR5106109",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nossa Senhora do Livramento",
+    "en": "Nossa Senhora do Livramento",
+    "slug": "nossa-senhora-do-livramento-br5106109"
+  },
+  "code": {
+    "id": "BR5106109",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.948",
+    "lon": "-56.496"
+  },
+  "metadata": {},
+  "source": {}
+}

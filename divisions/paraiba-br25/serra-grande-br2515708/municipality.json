@@ -1,0 +1,45 @@
+{
+  "id": "BR2515708",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Serra Grande",
+    "en": "Serra Grande",
+    "slug": "serra-grande-br2515708"
+  },
+  "code": {
+    "id": "BR2515708",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.247",
+    "lon": "-38.388"
+  },
+  "metadata": {},
+  "source": {}
+}

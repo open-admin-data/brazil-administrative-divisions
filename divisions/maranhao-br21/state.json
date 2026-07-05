@@ -1,0 +1,33 @@
+{
+  "id": "BR21",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Maranhão",
+    "en": "Maranhao",
+    "slug": "maranhao-br21"
+  },
+  "code": {
+    "id": "BR21",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 217
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.232",
+    "lon": "-45.409"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/br/states/maranhao-br21/",
+    "api": "https://openadmindata.org/api/br/"
+  }
+}

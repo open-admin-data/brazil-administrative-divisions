@@ -1,0 +1,45 @@
+{
+  "id": "BR3164407",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Sebastião da Bela Vista",
+    "en": "Sao Sebastiao da Bela Vista",
+    "slug": "sao-sebastiao-da-bela-vista-br3164407"
+  },
+  "code": {
+    "id": "BR3164407",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.163",
+    "lon": "-45.791"
+  },
+  "metadata": {},
+  "source": {}
+}

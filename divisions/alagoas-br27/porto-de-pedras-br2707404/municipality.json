@@ -1,0 +1,45 @@
+{
+  "id": "BR2707404",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Porto de Pedras",
+    "en": "Porto de Pedras",
+    "slug": "porto-de-pedras-br2707404"
+  },
+  "code": {
+    "id": "BR2707404",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.138",
+    "lon": "-35.412"
+  },
+  "metadata": {},
+  "source": {}
+}

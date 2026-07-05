@@ -1,0 +1,45 @@
+{
+  "id": "BR2905404",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cairu",
+    "en": "Cairu",
+    "slug": "cairu-br2905404"
+  },
+  "code": {
+    "id": "BR2905404",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.548",
+    "lon": "-38.972"
+  },
+  "metadata": {},
+  "source": {}
+}

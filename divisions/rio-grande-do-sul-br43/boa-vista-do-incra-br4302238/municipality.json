@@ -1,0 +1,45 @@
+{
+  "id": "BR4302238",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Boa Vista do Incra",
+    "en": "Boa Vista do Incra",
+    "slug": "boa-vista-do-incra-br4302238"
+  },
+  "code": {
+    "id": "BR4302238",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.865",
+    "lon": "-53.441"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1504208",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Marabá",
+    "en": "Maraba",
+    "slug": "maraba-br1504208"
+  },
+  "code": {
+    "id": "BR1504208",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.631",
+    "lon": "-50.067"
+  },
+  "metadata": {},
+  "source": {}
+}

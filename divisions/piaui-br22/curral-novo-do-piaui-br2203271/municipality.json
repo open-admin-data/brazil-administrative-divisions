@@ -1,0 +1,45 @@
+{
+  "id": "BR2203271",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Curral Novo do Piauí",
+    "en": "Curral Novo do Piaui",
+    "slug": "curral-novo-do-piaui-br2203271"
+  },
+  "code": {
+    "id": "BR2203271",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.893",
+    "lon": "-40.714"
+  },
+  "metadata": {},
+  "source": {}
+}

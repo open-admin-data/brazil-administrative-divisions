@@ -1,0 +1,45 @@
+{
+  "id": "BR2701803",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Carneiros",
+    "en": "Carneiros",
+    "slug": "carneiros-br2701803"
+  },
+  "code": {
+    "id": "BR2701803",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.464",
+    "lon": "-37.343"
+  },
+  "metadata": {},
+  "source": {}
+}

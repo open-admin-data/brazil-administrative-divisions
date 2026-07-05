@@ -1,0 +1,45 @@
+{
+  "id": "BR4112702",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jataizinho",
+    "en": "Jataizinho",
+    "slug": "jataizinho-br4112702"
+  },
+  "code": {
+    "id": "BR4112702",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.272",
+    "lon": "-50.924"
+  },
+  "metadata": {},
+  "source": {}
+}

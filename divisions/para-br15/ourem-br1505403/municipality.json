@@ -1,0 +1,45 @@
+{
+  "id": "BR1505403",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ourém",
+    "en": "Ourem",
+    "slug": "ourem-br1505403"
+  },
+  "code": {
+    "id": "BR1505403",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.541",
+    "lon": "-47.141"
+  },
+  "metadata": {},
+  "source": {}
+}

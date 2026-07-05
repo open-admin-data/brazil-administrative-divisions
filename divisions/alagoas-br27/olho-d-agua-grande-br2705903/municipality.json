@@ -1,0 +1,45 @@
+{
+  "id": "BR2705903",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Olho d'Água Grande",
+    "en": "Olho d'Agua Grande",
+    "slug": "olho-d-agua-grande-br2705903"
+  },
+  "code": {
+    "id": "BR2705903",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.057",
+    "lon": "-36.794"
+  },
+  "metadata": {},
+  "source": {}
+}

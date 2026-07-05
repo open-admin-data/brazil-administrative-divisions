@@ -1,0 +1,45 @@
+{
+  "id": "BR5005681",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mundo Novo",
+    "en": "Mundo Novo",
+    "slug": "mundo-novo-br5005681"
+  },
+  "code": {
+    "id": "BR5005681",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR50",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso do Sul",
+      "en": "Mato Grosso do Sul",
+      "slug": "mato-grosso-do-sul-br50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.72",
+    "lon": "-50.213"
+  },
+  "metadata": {},
+  "source": {}
+}

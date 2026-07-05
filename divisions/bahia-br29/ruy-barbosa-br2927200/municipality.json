@@ -1,0 +1,45 @@
+{
+  "id": "BR2927200",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ruy Barbosa",
+    "en": "Ruy Barbosa",
+    "slug": "ruy-barbosa-br2927200"
+  },
+  "code": {
+    "id": "BR2927200",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.242",
+    "lon": "-40.415"
+  },
+  "metadata": {},
+  "source": {}
+}

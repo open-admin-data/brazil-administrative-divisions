@@ -1,0 +1,45 @@
+{
+  "id": "BR3168606",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Teófilo Otoni",
+    "en": "Teofilo Otoni",
+    "slug": "teofilo-otoni-br3168606"
+  },
+  "code": {
+    "id": "BR3168606",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.684",
+    "lon": "-41.346"
+  },
+  "metadata": {},
+  "source": {}
+}

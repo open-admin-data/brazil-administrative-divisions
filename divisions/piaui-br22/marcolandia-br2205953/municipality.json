@@ -1,0 +1,45 @@
+{
+  "id": "BR2205953",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Marcolândia",
+    "en": "Marcolandia",
+    "slug": "marcolandia-br2205953"
+  },
+  "code": {
+    "id": "BR2205953",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.423",
+    "lon": "-40.739"
+  },
+  "metadata": {},
+  "source": {}
+}

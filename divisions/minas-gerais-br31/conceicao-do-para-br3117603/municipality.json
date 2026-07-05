@@ -1,0 +1,45 @@
+{
+  "id": "BR3117603",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Conceição do Pará",
+    "en": "Conceicao do Para",
+    "slug": "conceicao-do-para-br3117603"
+  },
+  "code": {
+    "id": "BR3117603",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.78",
+    "lon": "-44.88"
+  },
+  "metadata": {},
+  "source": {}
+}

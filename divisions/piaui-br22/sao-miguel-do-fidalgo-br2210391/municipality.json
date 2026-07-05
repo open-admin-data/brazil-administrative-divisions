@@ -1,0 +1,45 @@
+{
+  "id": "BR2210391",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Miguel do Fidalgo",
+    "en": "Sao Miguel do Fidalgo",
+    "slug": "sao-miguel-do-fidalgo-br2210391"
+  },
+  "code": {
+    "id": "BR2210391",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.589",
+    "lon": "-42.374"
+  },
+  "metadata": {},
+  "source": {}
+}

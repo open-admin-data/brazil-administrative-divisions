@@ -1,0 +1,45 @@
+{
+  "id": "BR1100072",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Corumbiara",
+    "en": "Corumbiara",
+    "slug": "corumbiara-br1100072"
+  },
+  "code": {
+    "id": "BR1100072",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.895",
+    "lon": "-61.095"
+  },
+  "metadata": {},
+  "source": {}
+}

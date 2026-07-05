@@ -1,0 +1,45 @@
+{
+  "id": "BR2706208",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Palestina",
+    "en": "Palestina",
+    "slug": "palestina-br2706208"
+  },
+  "code": {
+    "id": "BR2706208",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.31",
+    "lon": "-49.525"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2305308",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ibiapina",
+    "en": "Ibiapina",
+    "slug": "ibiapina-br2305308"
+  },
+  "code": {
+    "id": "BR2305308",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.957",
+    "lon": "-41.022"
+  },
+  "metadata": {},
+  "source": {}
+}

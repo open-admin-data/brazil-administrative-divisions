@@ -1,0 +1,45 @@
+{
+  "id": "BR3111606",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campos Gerais",
+    "en": "Campos Gerais",
+    "slug": "campos-gerais-br3111606"
+  },
+  "code": {
+    "id": "BR3111606",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.255",
+    "lon": "-45.73"
+  },
+  "metadata": {},
+  "source": {}
+}

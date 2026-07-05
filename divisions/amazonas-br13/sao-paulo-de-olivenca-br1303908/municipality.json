@@ -1,0 +1,45 @@
+{
+  "id": "BR1303908",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Paulo de Olivença",
+    "en": "Sao Paulo de Olivenca",
+    "slug": "sao-paulo-de-olivenca-br1303908"
+  },
+  "code": {
+    "id": "BR1303908",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.499",
+    "lon": "-69.533"
+  },
+  "metadata": {},
+  "source": {}
+}

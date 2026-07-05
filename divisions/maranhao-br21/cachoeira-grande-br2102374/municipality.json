@@ -1,0 +1,45 @@
+{
+  "id": "BR2102374",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cachoeira Grande",
+    "en": "Cachoeira Grande",
+    "slug": "cachoeira-grande-br2102374"
+  },
+  "code": {
+    "id": "BR2102374",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.089",
+    "lon": "-43.984"
+  },
+  "metadata": {},
+  "source": {}
+}

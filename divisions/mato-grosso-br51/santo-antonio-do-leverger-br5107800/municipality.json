@@ -1,0 +1,45 @@
+{
+  "id": "BR5107800",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Antônio do Leverger",
+    "en": "Santo Antonio do Leverger",
+    "slug": "santo-antonio-do-leverger-br5107800"
+  },
+  "code": {
+    "id": "BR5107800",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.444",
+    "lon": "-55.38"
+  },
+  "metadata": {},
+  "source": {}
+}

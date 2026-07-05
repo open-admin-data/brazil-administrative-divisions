@@ -1,0 +1,45 @@
+{
+  "id": "BR1501956",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cachoeira do Piriá",
+    "en": "Cachoeira do Piria",
+    "slug": "cachoeira-do-piria-br1501956"
+  },
+  "code": {
+    "id": "BR1501956",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.955",
+    "lon": "-46.436"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3115201",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Conceição da Barra de Minas",
+    "en": "Conceicao da Barra de Minas",
+    "slug": "conceicao-da-barra-de-minas-br3115201"
+  },
+  "code": {
+    "id": "BR3115201",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.131",
+    "lon": "-44.489"
+  },
+  "metadata": {},
+  "source": {}
+}

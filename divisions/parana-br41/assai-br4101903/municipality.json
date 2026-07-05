@@ -1,0 +1,45 @@
+{
+  "id": "BR4101903",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Assaí",
+    "en": "Assai",
+    "slug": "assai-br4101903"
+  },
+  "code": {
+    "id": "BR4101903",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.414",
+    "lon": "-50.882"
+  },
+  "metadata": {},
+  "source": {}
+}

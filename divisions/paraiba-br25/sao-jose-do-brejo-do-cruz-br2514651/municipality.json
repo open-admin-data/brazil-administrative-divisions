@@ -1,0 +1,45 @@
+{
+  "id": "BR2514651",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José do Brejo do Cruz",
+    "en": "Sao Jose do Brejo do Cruz",
+    "slug": "sao-jose-do-brejo-do-cruz-br2514651"
+  },
+  "code": {
+    "id": "BR2514651",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.244",
+    "lon": "-37.365"
+  },
+  "metadata": {},
+  "source": {}
+}

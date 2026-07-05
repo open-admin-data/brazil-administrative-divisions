@@ -1,0 +1,45 @@
+{
+  "id": "BR3114550",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Carneirinho",
+    "en": "Carneirinho",
+    "slug": "carneirinho-br3114550"
+  },
+  "code": {
+    "id": "BR3114550",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.726",
+    "lon": "-50.832"
+  },
+  "metadata": {},
+  "source": {}
+}

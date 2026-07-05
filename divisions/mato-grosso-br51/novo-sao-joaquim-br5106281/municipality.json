@@ -1,0 +1,45 @@
+{
+  "id": "BR5106281",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Novo São Joaquim",
+    "en": "Novo Sao Joaquim",
+    "slug": "novo-sao-joaquim-br5106281"
+  },
+  "code": {
+    "id": "BR5106281",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.103",
+    "lon": "-53.28"
+  },
+  "metadata": {},
+  "source": {}
+}

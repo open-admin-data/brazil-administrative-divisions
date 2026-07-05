@@ -1,0 +1,45 @@
+{
+  "id": "BR2932408",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Uibaí",
+    "en": "Uibai",
+    "slug": "uibai-br2932408"
+  },
+  "code": {
+    "id": "BR2932408",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.379",
+    "lon": "-42.126"
+  },
+  "metadata": {},
+  "source": {}
+}

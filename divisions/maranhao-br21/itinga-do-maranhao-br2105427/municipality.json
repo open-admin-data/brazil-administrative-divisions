@@ -1,0 +1,45 @@
+{
+  "id": "BR2105427",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itinga do Maranhão",
+    "en": "Itinga do Maranhao",
+    "slug": "itinga-do-maranhao-br2105427"
+  },
+  "code": {
+    "id": "BR2105427",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.114",
+    "lon": "-47.227"
+  },
+  "metadata": {},
+  "source": {}
+}

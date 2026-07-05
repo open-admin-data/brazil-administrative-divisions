@@ -1,0 +1,45 @@
+{
+  "id": "BR2903706",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Boa Nova",
+    "en": "Boa Nova",
+    "slug": "boa-nova-br2903706"
+  },
+  "code": {
+    "id": "BR2903706",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.357",
+    "lon": "-40.225"
+  },
+  "metadata": {},
+  "source": {}
+}

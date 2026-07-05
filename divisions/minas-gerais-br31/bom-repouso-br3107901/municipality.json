@@ -1,0 +1,45 @@
+{
+  "id": "BR3107901",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bom Repouso",
+    "en": "Bom Repouso",
+    "slug": "bom-repouso-br3107901"
+  },
+  "code": {
+    "id": "BR3107901",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.449",
+    "lon": "-46.183"
+  },
+  "metadata": {},
+  "source": {}
+}

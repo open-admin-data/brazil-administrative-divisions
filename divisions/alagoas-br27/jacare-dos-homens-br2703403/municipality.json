@@ -1,0 +1,45 @@
+{
+  "id": "BR2703403",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jacaré dos Homens",
+    "en": "Jacare dos Homens",
+    "slug": "jacare-dos-homens-br2703403"
+  },
+  "code": {
+    "id": "BR2703403",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.657",
+    "lon": "-37.222"
+  },
+  "metadata": {},
+  "source": {}
+}

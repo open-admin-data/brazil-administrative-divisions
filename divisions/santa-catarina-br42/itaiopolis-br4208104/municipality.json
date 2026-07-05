@@ -1,0 +1,45 @@
+{
+  "id": "BR4208104",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itaiópolis",
+    "en": "Itaiopolis",
+    "slug": "itaiopolis-br4208104"
+  },
+  "code": {
+    "id": "BR4208104",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.492",
+    "lon": "-49.89"
+  },
+  "metadata": {},
+  "source": {}
+}

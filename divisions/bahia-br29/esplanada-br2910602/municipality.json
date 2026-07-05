@@ -1,0 +1,45 @@
+{
+  "id": "BR2910602",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Esplanada",
+    "en": "Esplanada",
+    "slug": "esplanada-br2910602"
+  },
+  "code": {
+    "id": "BR2910602",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.95",
+    "lon": "-37.89"
+  },
+  "metadata": {},
+  "source": {}
+}

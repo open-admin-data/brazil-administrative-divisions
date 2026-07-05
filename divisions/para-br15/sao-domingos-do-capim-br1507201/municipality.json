@@ -1,0 +1,45 @@
+{
+  "id": "BR1507201",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Domingos do Capim",
+    "en": "Sao Domingos do Capim",
+    "slug": "sao-domingos-do-capim-br1507201"
+  },
+  "code": {
+    "id": "BR1507201",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.89",
+    "lon": "-47.792"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1508126",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ulianópolis",
+    "en": "Ulianopolis",
+    "slug": "ulianopolis-br1508126"
+  },
+  "code": {
+    "id": "BR1508126",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.836",
+    "lon": "-47.454"
+  },
+  "metadata": {},
+  "source": {}
+}

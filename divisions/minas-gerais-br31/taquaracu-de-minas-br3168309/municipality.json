@@ -1,0 +1,45 @@
+{
+  "id": "BR3168309",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Taquaraçu de Minas",
+    "en": "Taquaracu de Minas",
+    "slug": "taquaracu-de-minas-br3168309"
+  },
+  "code": {
+    "id": "BR3168309",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.632",
+    "lon": "-43.69"
+  },
+  "metadata": {},
+  "source": {}
+}

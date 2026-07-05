@@ -1,0 +1,45 @@
+{
+  "id": "BR2104057",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Estreito",
+    "en": "Estreito",
+    "slug": "estreito-br2104057"
+  },
+  "code": {
+    "id": "BR2104057",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.788",
+    "lon": "-47.168"
+  },
+  "metadata": {},
+  "source": {}
+}

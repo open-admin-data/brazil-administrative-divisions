@@ -1,0 +1,45 @@
+{
+  "id": "BR2602100",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bom Conselho",
+    "en": "Bom Conselho",
+    "slug": "bom-conselho-br2602100"
+  },
+  "code": {
+    "id": "BR2602100",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR26",
+    "level": 1,
+    "name": {
+      "local": "Pernambuco",
+      "en": "Pernambuco",
+      "slug": "pernambuco-br26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.2",
+    "lon": "-36.631"
+  },
+  "metadata": {},
+  "source": {}
+}

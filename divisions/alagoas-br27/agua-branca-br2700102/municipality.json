@@ -1,0 +1,45 @@
+{
+  "id": "BR2700102",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Água Branca",
+    "en": "Agua Branca",
+    "slug": "agua-branca-br2700102"
+  },
+  "code": {
+    "id": "BR2700102",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.256",
+    "lon": "-37.927"
+  },
+  "metadata": {},
+  "source": {}
+}

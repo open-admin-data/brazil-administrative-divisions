@@ -1,0 +1,45 @@
+{
+  "id": "BR1101609",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Theobroma",
+    "en": "Theobroma",
+    "slug": "theobroma-br1101609"
+  },
+  "code": {
+    "id": "BR1101609",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.089",
+    "lon": "-62.286"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2705705",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Olho d'Água das Flores",
+    "en": "Olho d'Agua das Flores",
+    "slug": "olho-d-agua-das-flores-br2705705"
+  },
+  "code": {
+    "id": "BR2705705",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.561",
+    "lon": "-37.233"
+  },
+  "metadata": {},
+  "source": {}
+}

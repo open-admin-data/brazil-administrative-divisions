@@ -1,0 +1,45 @@
+{
+  "id": "BR1713205",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Miracema do Tocantins",
+    "en": "Miracema do Tocantins",
+    "slug": "miracema-do-tocantins-br1713205"
+  },
+  "code": {
+    "id": "BR1713205",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.758",
+    "lon": "-48.599"
+  },
+  "metadata": {},
+  "source": {}
+}

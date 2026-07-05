@@ -1,0 +1,45 @@
+{
+  "id": "BR5107792",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Antônio do Leste",
+    "en": "Santo Antonio do Leste",
+    "slug": "santo-antonio-do-leste-br5107792"
+  },
+  "code": {
+    "id": "BR5107792",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.732",
+    "lon": "-53.699"
+  },
+  "metadata": {},
+  "source": {}
+}

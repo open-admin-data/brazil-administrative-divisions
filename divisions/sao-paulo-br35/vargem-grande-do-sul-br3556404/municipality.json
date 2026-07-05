@@ -1,0 +1,45 @@
+{
+  "id": "BR3556404",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vargem Grande do Sul",
+    "en": "Vargem Grande do Sul",
+    "slug": "vargem-grande-do-sul-br3556404"
+  },
+  "code": {
+    "id": "BR3556404",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.863",
+    "lon": "-46.884"
+  },
+  "metadata": {},
+  "source": {}
+}

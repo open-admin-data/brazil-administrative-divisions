@@ -1,0 +1,45 @@
+{
+  "id": "BR4303004",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cachoeira do Sul",
+    "en": "Cachoeira do Sul",
+    "slug": "cachoeira-do-sul-br4303004"
+  },
+  "code": {
+    "id": "BR4303004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-30.247",
+    "lon": "-52.97"
+  },
+  "metadata": {},
+  "source": {}
+}

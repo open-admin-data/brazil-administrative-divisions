@@ -1,0 +1,45 @@
+{
+  "id": "BR2909307",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Correntina",
+    "en": "Correntina",
+    "slug": "correntina-br2909307"
+  },
+  "code": {
+    "id": "BR2909307",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.483",
+    "lon": "-45.313"
+  },
+  "metadata": {},
+  "source": {}
+}

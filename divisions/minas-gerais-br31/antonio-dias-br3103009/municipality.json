@@ -1,0 +1,45 @@
+{
+  "id": "BR3103009",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Antônio Dias",
+    "en": "Antonio Dias",
+    "slug": "antonio-dias-br3103009"
+  },
+  "code": {
+    "id": "BR3103009",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.562",
+    "lon": "-42.892"
+  },
+  "metadata": {},
+  "source": {}
+}

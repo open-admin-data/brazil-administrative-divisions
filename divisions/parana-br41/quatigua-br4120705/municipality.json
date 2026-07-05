@@ -1,0 +1,45 @@
+{
+  "id": "BR4120705",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Quatiguá",
+    "en": "Quatigua",
+    "slug": "quatigua-br4120705"
+  },
+  "code": {
+    "id": "BR4120705",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.558",
+    "lon": "-49.921"
+  },
+  "metadata": {},
+  "source": {}
+}

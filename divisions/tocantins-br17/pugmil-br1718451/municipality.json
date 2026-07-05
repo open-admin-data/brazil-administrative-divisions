@@ -1,0 +1,45 @@
+{
+  "id": "BR1718451",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pugmil",
+    "en": "Pugmil",
+    "slug": "pugmil-br1718451"
+  },
+  "code": {
+    "id": "BR1718451",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.417",
+    "lon": "-48.86"
+  },
+  "metadata": {},
+  "source": {}
+}

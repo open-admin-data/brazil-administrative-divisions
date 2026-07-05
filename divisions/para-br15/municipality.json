@@ -1,0 +1,6482 @@
+[
+  {
+    "id": "BR1500107",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Abaetetuba",
+      "en": "Abaetetuba",
+      "slug": "abaetetuba-br1500107"
+    },
+    "code": {
+      "id": "BR1500107",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.729",
+      "lon": "-48.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1500131",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Abel Figueiredo",
+      "en": "Abel Figueiredo",
+      "slug": "abel-figueiredo-br1500131"
+    },
+    "code": {
+      "id": "BR1500131",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.941",
+      "lon": "-48.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1500206",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acará",
+      "en": "Acara",
+      "slug": "acara-br1500206"
+    },
+    "code": {
+      "id": "BR1500206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.101",
+      "lon": "-48.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1500305",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Afuá",
+      "en": "Afua",
+      "slug": "afua-br1500305"
+    },
+    "code": {
+      "id": "BR1500305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.4",
+      "lon": "-50.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1500347",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Água Azul do Norte",
+      "en": "Agua Azul do Norte",
+      "slug": "agua-azul-do-norte-br1500347"
+    },
+    "code": {
+      "id": "BR1500347",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.647",
+      "lon": "-50.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1500404",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alenquer",
+      "en": "Alenquer",
+      "slug": "alenquer-br1500404"
+    },
+    "code": {
+      "id": "BR1500404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.995",
+      "lon": "-54.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1500503",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Almeirim",
+      "en": "Almeirim",
+      "slug": "almeirim-br1500503"
+    },
+    "code": {
+      "id": "BR1500503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.538",
+      "lon": "-53.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1500602",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Altamira",
+      "en": "Altamira",
+      "slug": "altamira-br1500602"
+    },
+    "code": {
+      "id": "BR1500602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.941",
+      "lon": "-53.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1500701",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Anajás",
+      "en": "Anajas",
+      "slug": "anajas-br1500701"
+    },
+    "code": {
+      "id": "BR1500701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.82",
+      "lon": "-50.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1500800",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ananindeua",
+      "en": "Ananindeua",
+      "slug": "ananindeua-br1500800"
+    },
+    "code": {
+      "id": "BR1500800",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.344",
+      "lon": "-48.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1500859",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Anapu",
+      "en": "Anapu",
+      "slug": "anapu-br1500859"
+    },
+    "code": {
+      "id": "BR1500859",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.904",
+      "lon": "-51.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1500909",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Augusto Corrêa",
+      "en": "Augusto Correa",
+      "slug": "augusto-correa-br1500909"
+    },
+    "code": {
+      "id": "BR1500909",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.993",
+      "lon": "-46.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1500958",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aurora do Pará",
+      "en": "Aurora do Para",
+      "slug": "aurora-do-para-br1500958"
+    },
+    "code": {
+      "id": "BR1500958",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.293",
+      "lon": "-47.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1501006",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aveiro",
+      "en": "Aveiro",
+      "slug": "aveiro-br1501006"
+    },
+    "code": {
+      "id": "BR1501006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.929",
+      "lon": "-55.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1501105",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bagre",
+      "en": "Bagre",
+      "slug": "bagre-br1501105"
+    },
+    "code": {
+      "id": "BR1501105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.415",
+      "lon": "-50.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1501204",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Baião",
+      "en": "Baiao",
+      "slug": "baiao-br1501204"
+    },
+    "code": {
+      "id": "BR1501204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.242",
+      "lon": "-49.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1501253",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bannach",
+      "en": "Bannach",
+      "slug": "bannach-br1501253"
+    },
+    "code": {
+      "id": "BR1501253",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.486",
+      "lon": "-50.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1501303",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barcarena",
+      "en": "Barcarena",
+      "slug": "barcarena-br1501303"
+    },
+    "code": {
+      "id": "BR1501303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.552",
+      "lon": "-48.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1501402",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Belém",
+      "en": "Belem",
+      "slug": "belem-br1501402"
+    },
+    "code": {
+      "id": "BR1501402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.557",
+      "lon": "-36.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1501451",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Belterra",
+      "en": "Belterra",
+      "slug": "belterra-br1501451"
+    },
+    "code": {
+      "id": "BR1501451",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.529",
+      "lon": "-55.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1501501",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Benevides",
+      "en": "Benevides",
+      "slug": "benevides-br1501501"
+    },
+    "code": {
+      "id": "BR1501501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.328",
+      "lon": "-48.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1501576",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bom Jesus do Tocantins",
+      "en": "Bom Jesus do Tocantins",
+      "slug": "bom-jesus-do-tocantins-br1501576"
+    },
+    "code": {
+      "id": "BR1501576",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.998",
+      "lon": "-47.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1501600",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bonito",
+      "en": "Bonito",
+      "slug": "bonito-br1501600"
+    },
+    "code": {
+      "id": "BR1501600",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.927",
+      "lon": "-56.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1501709",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bragança",
+      "en": "Braganca",
+      "slug": "braganca-br1501709"
+    },
+    "code": {
+      "id": "BR1501709",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.05",
+      "lon": "-46.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1501725",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Brasil Novo",
+      "en": "Brasil Novo",
+      "slug": "brasil-novo-br1501725"
+    },
+    "code": {
+      "id": "BR1501725",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.402",
+      "lon": "-52.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1501758",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Brejo Grande do Araguaia",
+      "en": "Brejo Grande do Araguaia",
+      "slug": "brejo-grande-do-araguaia-br1501758"
+    },
+    "code": {
+      "id": "BR1501758",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.766",
+      "lon": "-48.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1501782",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Breu Branco",
+      "en": "Breu Branco",
+      "slug": "breu-branco-br1501782"
+    },
+    "code": {
+      "id": "BR1501782",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.785",
+      "lon": "-49.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1501808",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Breves",
+      "en": "Breves",
+      "slug": "breves-br1501808"
+    },
+    "code": {
+      "id": "BR1501808",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.152",
+      "lon": "-50.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1501907",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bujaru",
+      "en": "Bujaru",
+      "slug": "bujaru-br1501907"
+    },
+    "code": {
+      "id": "BR1501907",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.651",
+      "lon": "-48.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1502004",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cachoeira do Arari",
+      "en": "Cachoeira do Arari",
+      "slug": "cachoeira-do-arari-br1502004"
+    },
+    "code": {
+      "id": "BR1502004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.848",
+      "lon": "-48.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1501956",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cachoeira do Piriá",
+      "en": "Cachoeira do Piria",
+      "slug": "cachoeira-do-piria-br1501956"
+    },
+    "code": {
+      "id": "BR1501956",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.955",
+      "lon": "-46.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1502103",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cametá",
+      "en": "Cameta",
+      "slug": "cameta-br1502103"
+    },
+    "code": {
+      "id": "BR1502103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.301",
+      "lon": "-49.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1502152",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Canaã dos Carajás",
+      "en": "Canaa dos Carajas",
+      "slug": "canaa-dos-carajas-br1502152"
+    },
+    "code": {
+      "id": "BR1502152",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.503",
+      "lon": "-50.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1502202",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Capanema",
+      "en": "Capanema",
+      "slug": "capanema-br1502202"
+    },
+    "code": {
+      "id": "BR1502202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.619",
+      "lon": "-53.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1502301",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Capitão Poço",
+      "en": "Capitao Poco",
+      "slug": "capitao-poco-br1502301"
+    },
+    "code": {
+      "id": "BR1502301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.993",
+      "lon": "-47.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1502400",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Castanhal",
+      "en": "Castanhal",
+      "slug": "castanhal-br1502400"
+    },
+    "code": {
+      "id": "BR1502400",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.282",
+      "lon": "-47.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1502509",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chaves",
+      "en": "Chaves",
+      "slug": "chaves-br1502509"
+    },
+    "code": {
+      "id": "BR1502509",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.047",
+      "lon": "-49.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1502608",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colares",
+      "en": "Colares",
+      "slug": "colares-br1502608"
+    },
+    "code": {
+      "id": "BR1502608",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.933",
+      "lon": "-48.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1502707",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Conceição do Araguaia",
+      "en": "Conceicao do Araguaia",
+      "slug": "conceicao-do-araguaia-br1502707"
+    },
+    "code": {
+      "id": "BR1502707",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.203",
+      "lon": "-49.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1502756",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Concórdia do Pará",
+      "en": "Concordia do Para",
+      "slug": "concordia-do-para-br1502756"
+    },
+    "code": {
+      "id": "BR1502756",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.862",
+      "lon": "-47.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1502764",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cumaru do Norte",
+      "en": "Cumaru do Norte",
+      "slug": "cumaru-do-norte-br1502764"
+    },
+    "code": {
+      "id": "BR1502764",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.47",
+      "lon": "-51.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1502772",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Curionópolis",
+      "en": "Curionopolis",
+      "slug": "curionopolis-br1502772"
+    },
+    "code": {
+      "id": "BR1502772",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.17",
+      "lon": "-49.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1502806",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Curralinho",
+      "en": "Curralinho",
+      "slug": "curralinho-br1502806"
+    },
+    "code": {
+      "id": "BR1502806",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.583",
+      "lon": "-49.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1502855",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Curuá",
+      "en": "Curua",
+      "slug": "curua-br1502855"
+    },
+    "code": {
+      "id": "BR1502855",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.756",
+      "lon": "-55.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1502905",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Curuçá",
+      "en": "Curuca",
+      "slug": "curuca-br1502905"
+    },
+    "code": {
+      "id": "BR1502905",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.708",
+      "lon": "-47.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1502939",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dom Eliseu",
+      "en": "Dom Eliseu",
+      "slug": "dom-eliseu-br1502939"
+    },
+    "code": {
+      "id": "BR1502939",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.069",
+      "lon": "-47.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1502954",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Eldorado do Carajás",
+      "en": "Eldorado do Carajas",
+      "slug": "eldorado-do-carajas-br1502954"
+    },
+    "code": {
+      "id": "BR1502954",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.085",
+      "lon": "-49.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1503002",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Faro",
+      "en": "Faro",
+      "slug": "faro-br1503002"
+    },
+    "code": {
+      "id": "BR1503002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.129",
+      "lon": "-57.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1503044",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Floresta do Araguaia",
+      "en": "Floresta do Araguaia",
+      "slug": "floresta-do-araguaia-br1503044"
+    },
+    "code": {
+      "id": "BR1503044",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.519",
+      "lon": "-49.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1503077",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Garrafão do Norte",
+      "en": "Garrafao do Norte",
+      "slug": "garrafao-do-norte-br1503077"
+    },
+    "code": {
+      "id": "BR1503077",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.202",
+      "lon": "-47.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1503093",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Goianésia do Pará",
+      "en": "Goianesia do Para",
+      "slug": "goianesia-do-para-br1503093"
+    },
+    "code": {
+      "id": "BR1503093",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.941",
+      "lon": "-48.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1503101",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gurupá",
+      "en": "Gurupa",
+      "slug": "gurupa-br1503101"
+    },
+    "code": {
+      "id": "BR1503101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.164",
+      "lon": "-51.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1503200",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Igarapé-Açu",
+      "en": "Igarape-Acu",
+      "slug": "igarape-acu-br1503200"
+    },
+    "code": {
+      "id": "BR1503200",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.136",
+      "lon": "-47.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1503309",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Igarapé-Miri",
+      "en": "Igarape-Miri",
+      "slug": "igarape-miri-br1503309"
+    },
+    "code": {
+      "id": "BR1503309",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.078",
+      "lon": "-49.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1503408",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Inhangapi",
+      "en": "Inhangapi",
+      "slug": "inhangapi-br1503408"
+    },
+    "code": {
+      "id": "BR1503408",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.471",
+      "lon": "-47.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1503457",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ipixuna do Pará",
+      "en": "Ipixuna do Para",
+      "slug": "ipixuna-do-para-br1503457"
+    },
+    "code": {
+      "id": "BR1503457",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.965",
+      "lon": "-48.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1503507",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Irituia",
+      "en": "Irituia",
+      "slug": "irituia-br1503507"
+    },
+    "code": {
+      "id": "BR1503507",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.766",
+      "lon": "-47.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1503606",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itaituba",
+      "en": "Itaituba",
+      "slug": "itaituba-br1503606"
+    },
+    "code": {
+      "id": "BR1503606",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.792",
+      "lon": "-56.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1503705",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itupiranga",
+      "en": "Itupiranga",
+      "slug": "itupiranga-br1503705"
+    },
+    "code": {
+      "id": "BR1503705",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.237",
+      "lon": "-49.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1503754",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jacareacanga",
+      "en": "Jacareacanga",
+      "slug": "jacareacanga-br1503754"
+    },
+    "code": {
+      "id": "BR1503754",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.309",
+      "lon": "-57.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1503804",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jacundá",
+      "en": "Jacunda",
+      "slug": "jacunda-br1503804"
+    },
+    "code": {
+      "id": "BR1503804",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.594",
+      "lon": "-49.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1503903",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juruti",
+      "en": "Juruti",
+      "slug": "juruti-br1503903"
+    },
+    "code": {
+      "id": "BR1503903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.303",
+      "lon": "-56.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1504000",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Limoeiro do Ajuru",
+      "en": "Limoeiro do Ajuru",
+      "slug": "limoeiro-do-ajuru-br1504000"
+    },
+    "code": {
+      "id": "BR1504000",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.892",
+      "lon": "-49.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1504059",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mãe do Rio",
+      "en": "Mae do Rio",
+      "slug": "mae-do-rio-br1504059"
+    },
+    "code": {
+      "id": "BR1504059",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.989",
+      "lon": "-47.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1504109",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Magalhães Barata",
+      "en": "Magalhaes Barata",
+      "slug": "magalhaes-barata-br1504109"
+    },
+    "code": {
+      "id": "BR1504109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.819",
+      "lon": "-47.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1504208",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Marabá",
+      "en": "Maraba",
+      "slug": "maraba-br1504208"
+    },
+    "code": {
+      "id": "BR1504208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.631",
+      "lon": "-50.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1504307",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maracanã",
+      "en": "Maracana",
+      "slug": "maracana-br1504307"
+    },
+    "code": {
+      "id": "BR1504307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.763",
+      "lon": "-47.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1504406",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Marapanim",
+      "en": "Marapanim",
+      "slug": "marapanim-br1504406"
+    },
+    "code": {
+      "id": "BR1504406",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.767",
+      "lon": "-47.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1504422",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Marituba",
+      "en": "Marituba",
+      "slug": "marituba-br1504422"
+    },
+    "code": {
+      "id": "BR1504422",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.4",
+      "lon": "-48.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1504455",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Medicilândia",
+      "en": "Medicilandia",
+      "slug": "medicilandia-br1504455"
+    },
+    "code": {
+      "id": "BR1504455",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.167",
+      "lon": "-53.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1504505",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Melgaço",
+      "en": "Melgaco",
+      "slug": "melgaco-br1504505"
+    },
+    "code": {
+      "id": "BR1504505",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.662",
+      "lon": "-51.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1504604",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mocajuba",
+      "en": "Mocajuba",
+      "slug": "mocajuba-br1504604"
+    },
+    "code": {
+      "id": "BR1504604",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.56",
+      "lon": "-49.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1504703",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Moju",
+      "en": "Moju",
+      "slug": "moju-br1504703"
+    },
+    "code": {
+      "id": "BR1504703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.592",
+      "lon": "-49.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1504752",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mojuí dos Campos",
+      "en": "Mojui dos Campos",
+      "slug": "mojui-dos-campos-br1504752"
+    },
+    "code": {
+      "id": "BR1504752",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "-54.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1504802",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Monte Alegre",
+      "en": "Monte Alegre",
+      "slug": "monte-alegre-br1504802"
+    },
+    "code": {
+      "id": "BR1504802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.086",
+      "lon": "-35.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1504901",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Muaná",
+      "en": "Muana",
+      "slug": "muana-br1504901"
+    },
+    "code": {
+      "id": "BR1504901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.246",
+      "lon": "-49.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1504950",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Esperança do Piriá",
+      "en": "Nova Esperanca do Piria",
+      "slug": "nova-esperanca-do-piria-br1504950"
+    },
+    "code": {
+      "id": "BR1504950",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.436",
+      "lon": "-46.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1504976",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Ipixuna",
+      "en": "Nova Ipixuna",
+      "slug": "nova-ipixuna-br1504976"
+    },
+    "code": {
+      "id": "BR1504976",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.976",
+      "lon": "-49.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1505007",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Timboteua",
+      "en": "Nova Timboteua",
+      "slug": "nova-timboteua-br1505007"
+    },
+    "code": {
+      "id": "BR1505007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.118",
+      "lon": "-47.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1505031",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Novo Progresso",
+      "en": "Novo Progresso",
+      "slug": "novo-progresso-br1505031"
+    },
+    "code": {
+      "id": "BR1505031",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.809",
+      "lon": "-55.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1505064",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Novo Repartimento",
+      "en": "Novo Repartimento",
+      "slug": "novo-repartimento-br1505064"
+    },
+    "code": {
+      "id": "BR1505064",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.692",
+      "lon": "-50.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1505106",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Óbidos",
+      "en": "Obidos",
+      "slug": "obidos-br1505106"
+    },
+    "code": {
+      "id": "BR1505106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.155",
+      "lon": "-55.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1505205",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Oeiras do Pará",
+      "en": "Oeiras do Para",
+      "slug": "oeiras-do-para-br1505205"
+    },
+    "code": {
+      "id": "BR1505205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.267",
+      "lon": "-49.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1505304",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Oriximiná",
+      "en": "Oriximina",
+      "slug": "oriximina-br1505304"
+    },
+    "code": {
+      "id": "BR1505304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.601",
+      "lon": "-56.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1505403",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ourém",
+      "en": "Ourem",
+      "slug": "ourem-br1505403"
+    },
+    "code": {
+      "id": "BR1505403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.541",
+      "lon": "-47.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1505437",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ourilândia do Norte",
+      "en": "Ourilandia do Norte",
+      "slug": "ourilandia-do-norte-br1505437"
+    },
+    "code": {
+      "id": "BR1505437",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.5",
+      "lon": "-51.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1505486",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pacajá",
+      "en": "Pacaja",
+      "slug": "pacaja-br1505486"
+    },
+    "code": {
+      "id": "BR1505486",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.649",
+      "lon": "-50.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1505494",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palestina do Pará",
+      "en": "Palestina do Para",
+      "slug": "palestina-do-para-br1505494"
+    },
+    "code": {
+      "id": "BR1505494",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.977",
+      "lon": "-48.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1505502",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paragominas",
+      "en": "Paragominas",
+      "slug": "paragominas-br1505502"
+    },
+    "code": {
+      "id": "BR1505502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.209",
+      "lon": "-47.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1505536",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Parauapebas",
+      "en": "Parauapebas",
+      "slug": "parauapebas-br1505536"
+    },
+    "code": {
+      "id": "BR1505536",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.161",
+      "lon": "-50.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1505551",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pau D'Arco",
+      "en": "Pau D'Arco",
+      "slug": "pau-d-arco-br1505551"
+    },
+    "code": {
+      "id": "BR1505551",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.561",
+      "lon": "-48.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1505601",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Peixe-Boi",
+      "en": "Peixe-Boi",
+      "slug": "peixe-boi-br1505601"
+    },
+    "code": {
+      "id": "BR1505601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.105",
+      "lon": "-47.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1505635",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Piçarra",
+      "en": "Picarra",
+      "slug": "picarra-br1505635"
+    },
+    "code": {
+      "id": "BR1505635",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.486",
+      "lon": "-48.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1505650",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Placas",
+      "en": "Placas",
+      "slug": "placas-br1505650"
+    },
+    "code": {
+      "id": "BR1505650",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.983",
+      "lon": "-54.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1505700",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ponta de Pedras",
+      "en": "Ponta de Pedras",
+      "slug": "ponta-de-pedras-br1505700"
+    },
+    "code": {
+      "id": "BR1505700",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.054",
+      "lon": "-49.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1505809",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Portel",
+      "en": "Portel",
+      "slug": "portel-br1505809"
+    },
+    "code": {
+      "id": "BR1505809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.684",
+      "lon": "-50.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1505908",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto de Moz",
+      "en": "Porto de Moz",
+      "slug": "porto-de-moz-br1505908"
+    },
+    "code": {
+      "id": "BR1505908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.121",
+      "lon": "-52.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1506005",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Prainha",
+      "en": "Prainha",
+      "slug": "prainha-br1506005"
+    },
+    "code": {
+      "id": "BR1506005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.084",
+      "lon": "-53.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1506104",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Primavera",
+      "en": "Primavera",
+      "slug": "primavera-br1506104"
+    },
+    "code": {
+      "id": "BR1506104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.33",
+      "lon": "-35.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1506112",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quatipuru",
+      "en": "Quatipuru",
+      "slug": "quatipuru-br1506112"
+    },
+    "code": {
+      "id": "BR1506112",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.863",
+      "lon": "-47.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1506138",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Redenção",
+      "en": "Redencao",
+      "slug": "redencao-br1506138"
+    },
+    "code": {
+      "id": "BR1506138",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.268",
+      "lon": "-38.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1506161",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rio Maria",
+      "en": "Rio Maria",
+      "slug": "rio-maria-br1506161"
+    },
+    "code": {
+      "id": "BR1506161",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.413",
+      "lon": "-49.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1506187",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rondon do Pará",
+      "en": "Rondon do Para",
+      "slug": "rondon-do-para-br1506187"
+    },
+    "code": {
+      "id": "BR1506187",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.475",
+      "lon": "-48.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1506195",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rurópolis",
+      "en": "Ruropolis",
+      "slug": "ruropolis-br1506195"
+    },
+    "code": {
+      "id": "BR1506195",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.181",
+      "lon": "-55.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1506203",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Salinópolis",
+      "en": "Salinopolis",
+      "slug": "salinopolis-br1506203"
+    },
+    "code": {
+      "id": "BR1506203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.67",
+      "lon": "-47.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1506302",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Salvaterra",
+      "en": "Salvaterra",
+      "slug": "salvaterra-br1506302"
+    },
+    "code": {
+      "id": "BR1506302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.783",
+      "lon": "-48.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1506351",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Bárbara do Pará",
+      "en": "Santa Barbara do Para",
+      "slug": "santa-barbara-do-para-br1506351"
+    },
+    "code": {
+      "id": "BR1506351",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.194",
+      "lon": "-48.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1506401",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz do Arari",
+      "en": "Santa Cruz do Arari",
+      "slug": "santa-cruz-do-arari-br1506401"
+    },
+    "code": {
+      "id": "BR1506401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.609",
+      "lon": "-49.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1506500",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Izabel do Pará",
+      "en": "Santa Izabel do Para",
+      "slug": "santa-izabel-do-para-br1506500"
+    },
+    "code": {
+      "id": "BR1506500",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.388",
+      "lon": "-48.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1506559",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Luzia do Pará",
+      "en": "Santa Luzia do Para",
+      "slug": "santa-luzia-do-para-br1506559"
+    },
+    "code": {
+      "id": "BR1506559",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.685",
+      "lon": "-46.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1506583",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Maria das Barreiras",
+      "en": "Santa Maria das Barreiras",
+      "slug": "santa-maria-das-barreiras-br1506583"
+    },
+    "code": {
+      "id": "BR1506583",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.622",
+      "lon": "-50.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1506609",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Maria do Pará",
+      "en": "Santa Maria do Para",
+      "slug": "santa-maria-do-para-br1506609"
+    },
+    "code": {
+      "id": "BR1506609",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.337",
+      "lon": "-47.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1506708",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santana do Araguaia",
+      "en": "Santana do Araguaia",
+      "slug": "santana-do-araguaia-br1506708"
+    },
+    "code": {
+      "id": "BR1506708",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.146",
+      "lon": "-50.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1506807",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santarém",
+      "en": "Santarem",
+      "slug": "santarem-br1506807"
+    },
+    "code": {
+      "id": "BR1506807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.617",
+      "lon": "-54.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1506906",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santarém Novo",
+      "en": "Santarem Novo",
+      "slug": "santarem-novo-br1506906"
+    },
+    "code": {
+      "id": "BR1506906",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.89",
+      "lon": "-47.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1507003",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo Antônio do Tauá",
+      "en": "Santo Antonio do Taua",
+      "slug": "santo-antonio-do-taua-br1507003"
+    },
+    "code": {
+      "id": "BR1507003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.102",
+      "lon": "-48.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1507102",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Caetano de Odivelas",
+      "en": "Sao Caetano de Odivelas",
+      "slug": "sao-caetano-de-odivelas-br1507102"
+    },
+    "code": {
+      "id": "BR1507102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.816",
+      "lon": "-48.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1507151",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Domingos do Araguaia",
+      "en": "Sao Domingos do Araguaia",
+      "slug": "sao-domingos-do-araguaia-br1507151"
+    },
+    "code": {
+      "id": "BR1507151",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.718",
+      "lon": "-48.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1507201",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Domingos do Capim",
+      "en": "Sao Domingos do Capim",
+      "slug": "sao-domingos-do-capim-br1507201"
+    },
+    "code": {
+      "id": "BR1507201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.89",
+      "lon": "-47.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1507300",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Félix do Xingu",
+      "en": "Sao Felix do Xingu",
+      "slug": "sao-felix-do-xingu-br1507300"
+    },
+    "code": {
+      "id": "BR1507300",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.214",
+      "lon": "-52.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1507409",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Francisco do Pará",
+      "en": "Sao Francisco do Para",
+      "slug": "sao-francisco-do-para-br1507409"
+    },
+    "code": {
+      "id": "BR1507409",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.149",
+      "lon": "-47.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1507458",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Geraldo do Araguaia",
+      "en": "Sao Geraldo do Araguaia",
+      "slug": "sao-geraldo-do-araguaia-br1507458"
+    },
+    "code": {
+      "id": "BR1507458",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.187",
+      "lon": "-48.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1507466",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São João da Ponta",
+      "en": "Sao Joao da Ponta",
+      "slug": "sao-joao-da-ponta-br1507466"
+    },
+    "code": {
+      "id": "BR1507466",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.854",
+      "lon": "-47.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1507474",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São João de Pirabas",
+      "en": "Sao Joao de Pirabas",
+      "slug": "sao-joao-de-pirabas-br1507474"
+    },
+    "code": {
+      "id": "BR1507474",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.774",
+      "lon": "-47.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1507508",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São João do Araguaia",
+      "en": "Sao Joao do Araguaia",
+      "slug": "sao-joao-do-araguaia-br1507508"
+    },
+    "code": {
+      "id": "BR1507508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.447",
+      "lon": "-48.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1507607",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Miguel do Guamá",
+      "en": "Sao Miguel do Guama",
+      "slug": "sao-miguel-do-guama-br1507607"
+    },
+    "code": {
+      "id": "BR1507607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.593",
+      "lon": "-47.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1507706",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Sebastião da Boa Vista",
+      "en": "Sao Sebastiao da Boa Vista",
+      "slug": "sao-sebastiao-da-boa-vista-br1507706"
+    },
+    "code": {
+      "id": "BR1507706",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.449",
+      "lon": "-49.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1507755",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sapucaia",
+      "en": "Sapucaia",
+      "slug": "sapucaia-br1507755"
+    },
+    "code": {
+      "id": "BR1507755",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.038",
+      "lon": "-42.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1507805",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Senador José Porfírio",
+      "en": "Senador Jose Porfirio",
+      "slug": "senador-jose-porfirio-br1507805"
+    },
+    "code": {
+      "id": "BR1507805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.236",
+      "lon": "-51.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1507904",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Soure",
+      "en": "Soure",
+      "slug": "soure-br1507904"
+    },
+    "code": {
+      "id": "BR1507904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.494",
+      "lon": "-48.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1507953",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tailândia",
+      "en": "Tailandia",
+      "slug": "tailandia-br1507953"
+    },
+    "code": {
+      "id": "BR1507953",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.866",
+      "lon": "-48.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1507961",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Terra Alta",
+      "en": "Terra Alta",
+      "slug": "terra-alta-br1507961"
+    },
+    "code": {
+      "id": "BR1507961",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.997",
+      "lon": "-47.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1507979",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Terra Santa",
+      "en": "Terra Santa",
+      "slug": "terra-santa-br1507979"
+    },
+    "code": {
+      "id": "BR1507979",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.907",
+      "lon": "-56.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1508001",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tomé-Açu",
+      "en": "Tome-Acu",
+      "slug": "tome-acu-br1508001"
+    },
+    "code": {
+      "id": "BR1508001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.598",
+      "lon": "-48.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1508035",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tracuateua",
+      "en": "Tracuateua",
+      "slug": "tracuateua-br1508035"
+    },
+    "code": {
+      "id": "BR1508035",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.003",
+      "lon": "-46.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1508050",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Trairão",
+      "en": "Trairao",
+      "slug": "trairao-br1508050"
+    },
+    "code": {
+      "id": "BR1508050",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.147",
+      "lon": "-55.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1508084",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tucumã",
+      "en": "Tucuma",
+      "slug": "tucuma-br1508084"
+    },
+    "code": {
+      "id": "BR1508084",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.839",
+      "lon": "-51.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1508100",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tucuruí",
+      "en": "Tucurui",
+      "slug": "tucurui-br1508100"
+    },
+    "code": {
+      "id": "BR1508100",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.827",
+      "lon": "-49.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1508126",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ulianópolis",
+      "en": "Ulianopolis",
+      "slug": "ulianopolis-br1508126"
+    },
+    "code": {
+      "id": "BR1508126",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.836",
+      "lon": "-47.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1508159",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Uruará",
+      "en": "Uruara",
+      "slug": "uruara-br1508159"
+    },
+    "code": {
+      "id": "BR1508159",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.63",
+      "lon": "-53.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1508209",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vigia",
+      "en": "Vigia",
+      "slug": "vigia-br1508209"
+    },
+    "code": {
+      "id": "BR1508209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.911",
+      "lon": "-48.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1508308",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Viseu",
+      "en": "Viseu",
+      "slug": "viseu-br1508308"
+    },
+    "code": {
+      "id": "BR1508308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.451",
+      "lon": "-46.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1508357",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vitória do Xingu",
+      "en": "Vitoria do Xingu",
+      "slug": "vitoria-do-xingu-br1508357"
+    },
+    "code": {
+      "id": "BR1508357",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "-51.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1508407",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Xinguara",
+      "en": "Xinguara",
+      "slug": "xinguara-br1508407"
+    },
+    "code": {
+      "id": "BR1508407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR15",
+        "level": 1,
+        "name": {
+          "local": "Pará",
+          "en": "Para",
+          "slug": "para-br15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.857",
+      "lon": "-49.461"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

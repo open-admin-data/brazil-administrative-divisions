@@ -1,0 +1,45 @@
+{
+  "id": "BR4306353",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dezesseis de Novembro",
+    "en": "Dezesseis de Novembro",
+    "slug": "dezesseis-de-novembro-br4306353"
+  },
+  "code": {
+    "id": "BR4306353",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.186",
+    "lon": "-55.074"
+  },
+  "metadata": {},
+  "source": {}
+}

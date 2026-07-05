@@ -1,0 +1,45 @@
+{
+  "id": "BR1501725",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Brasil Novo",
+    "en": "Brasil Novo",
+    "slug": "brasil-novo-br1501725"
+  },
+  "code": {
+    "id": "BR1501725",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.402",
+    "lon": "-52.744"
+  },
+  "metadata": {},
+  "source": {}
+}

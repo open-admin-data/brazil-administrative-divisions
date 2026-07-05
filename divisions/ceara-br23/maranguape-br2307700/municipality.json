@@ -1,0 +1,45 @@
+{
+  "id": "BR2307700",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Maranguape",
+    "en": "Maranguape",
+    "slug": "maranguape-br2307700"
+  },
+  "code": {
+    "id": "BR2307700",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.02",
+    "lon": "-38.788"
+  },
+  "metadata": {},
+  "source": {}
+}

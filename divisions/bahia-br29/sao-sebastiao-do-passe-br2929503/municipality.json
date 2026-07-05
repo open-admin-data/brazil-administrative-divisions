@@ -1,0 +1,45 @@
+{
+  "id": "BR2929503",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Sebastião do Passé",
+    "en": "Sao Sebastiao do Passe",
+    "slug": "sao-sebastiao-do-passe-br2929503"
+  },
+  "code": {
+    "id": "BR2929503",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.511",
+    "lon": "-38.47"
+  },
+  "metadata": {},
+  "source": {}
+}

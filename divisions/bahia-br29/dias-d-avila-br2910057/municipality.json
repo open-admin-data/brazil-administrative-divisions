@@ -1,0 +1,45 @@
+{
+  "id": "BR2910057",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dias d'Ávila",
+    "en": "Dias d'Avila",
+    "slug": "dias-d-avila-br2910057"
+  },
+  "code": {
+    "id": "BR2910057",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.591",
+    "lon": "-38.275"
+  },
+  "metadata": {},
+  "source": {}
+}

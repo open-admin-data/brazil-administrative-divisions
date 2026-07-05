@@ -1,0 +1,45 @@
+{
+  "id": "BR3111903",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cana Verde",
+    "en": "Cana Verde",
+    "slug": "cana-verde-br3111903"
+  },
+  "code": {
+    "id": "BR3111903",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.034",
+    "lon": "-45.19"
+  },
+  "metadata": {},
+  "source": {}
+}

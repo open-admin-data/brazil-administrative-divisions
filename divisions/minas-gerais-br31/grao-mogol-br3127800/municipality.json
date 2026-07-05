@@ -1,0 +1,45 @@
+{
+  "id": "BR3127800",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Grão Mogol",
+    "en": "Grao Mogol",
+    "slug": "grao-mogol-br3127800"
+  },
+  "code": {
+    "id": "BR3127800",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.506",
+    "lon": "-42.958"
+  },
+  "metadata": {},
+  "source": {}
+}

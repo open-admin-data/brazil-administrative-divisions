@@ -1,0 +1,45 @@
+{
+  "id": "BR2210300",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Julião",
+    "en": "Sao Juliao",
+    "slug": "sao-juliao-br2210300"
+  },
+  "code": {
+    "id": "BR2210300",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.054",
+    "lon": "-40.826"
+  },
+  "metadata": {},
+  "source": {}
+}

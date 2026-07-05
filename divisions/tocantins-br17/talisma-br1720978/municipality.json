@@ -1,0 +1,45 @@
+{
+  "id": "BR1720978",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Talismã",
+    "en": "Talisma",
+    "slug": "talisma-br1720978"
+  },
+  "code": {
+    "id": "BR1720978",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.668",
+    "lon": "-49.047"
+  },
+  "metadata": {},
+  "source": {}
+}

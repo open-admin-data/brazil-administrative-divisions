@@ -1,0 +1,104 @@
+# Brazil Administrative Divisions
+
+> Open dataset of Brazil's administrative hierarchy:
+> 27 states, 5,572 municipalitys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total states: 27
+- Total municipalitys: 5,572
+- Coordinates: included (all levels)
+- Last updated: 2026-07-05
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All states (JSON)](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/data/all-state.json)
+- [All municipalitys (JSON)](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/data/all-municipality.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/data/schema.json)
+
+## Browse by State
+
+- [Rondonia](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/rondonia-br11/) — 52 municipalitys
+- [Acre](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/acre-br12/) — 22 municipalitys
+- [Amazonas](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/amazonas-br13/) — 62 municipalitys
+- [Roraima](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/roraima-br14/) — 15 municipalitys
+- [Para](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/para-br15/) — 144 municipalitys
+- [Amapa](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/amapa-br16/) — 16 municipalitys
+- [Tocantins](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/tocantins-br17/) — 139 municipalitys
+- [Maranhao](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/maranhao-br21/) — 217 municipalitys
+- [Piaui](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/piaui-br22/) — 224 municipalitys
+- [Ceara](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/ceara-br23/) — 184 municipalitys
+- [Rio Grande do Norte](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/rio-grande-do-norte-br24/) — 167 municipalitys
+- [Paraiba](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/paraiba-br25/) — 223 municipalitys
+- [Pernambuco](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/pernambuco-br26/) — 185 municipalitys
+- [Alagoas](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/alagoas-br27/) — 102 municipalitys
+- [Sergipe](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/sergipe-br28/) — 75 municipalitys
+- [Bahia](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/bahia-br29/) — 417 municipalitys
+- [Minas Gerais](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/minas-gerais-br31/) — 853 municipalitys
+- [Espirito Santo](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/espirito-santo-br32/) — 78 municipalitys
+- [Rio de Janeiro](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/rio-de-janeiro-br33/) — 92 municipalitys
+- [Sao Paulo](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/sao-paulo-br35/) — 645 municipalitys
+- [Parana](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/parana-br41/) — 399 municipalitys
+- [Santa Catarina](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/santa-catarina-br42/) — 295 municipalitys
+- [Rio Grande do Sul](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/rio-grande-do-sul-br43/) — 499 municipalitys
+- [Mato Grosso do Sul](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/mato-grosso-do-sul-br50/) — 79 municipalitys
+- [Mato Grosso](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/mato-grosso-br51/) — 141 municipalitys
+- [Goias](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/goias-br52/) — 246 municipalitys
+- [Distrito Federal](https://github.com/open-admin-data/brazil-administrative-divisions/tree/main/divisions/distrito-federal-br53/) — 1 municipalitys
+
+## Per-State Full Data
+
+- [Rondonia](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/rondonia-br11.txt)
+- [Acre](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/acre-br12.txt)
+- [Amazonas](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/amazonas-br13.txt)
+- [Roraima](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/roraima-br14.txt)
+- [Para](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/para-br15.txt)
+- [Amapa](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/amapa-br16.txt)
+- [Tocantins](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/tocantins-br17.txt)
+- [Maranhao](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/maranhao-br21.txt)
+- [Piaui](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/piaui-br22.txt)
+- [Ceara](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/ceara-br23.txt)
+- [Rio Grande do Norte](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/rio-grande-do-norte-br24.txt)
+- [Paraiba](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/paraiba-br25.txt)
+- [Pernambuco](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/pernambuco-br26.txt)
+- [Alagoas](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/alagoas-br27.txt)
+- [Sergipe](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/sergipe-br28.txt)
+- [Bahia](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/bahia-br29.txt)
+- [Minas Gerais](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/minas-gerais-br31.txt)
+- [Espirito Santo](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/espirito-santo-br32.txt)
+- [Rio de Janeiro](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/rio-de-janeiro-br33.txt)
+- [Sao Paulo](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/sao-paulo-br35.txt)
+- [Parana](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/parana-br41.txt)
+- [Santa Catarina](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/santa-catarina-br42.txt)
+- [Rio Grande do Sul](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/rio-grande-do-sul-br43.txt)
+- [Mato Grosso do Sul](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/mato-grosso-do-sul-br50.txt)
+- [Mato Grosso](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/mato-grosso-br51.txt)
+- [Goias](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/goias-br52.txt)
+- [Distrito Federal](https://raw.githubusercontent.com/open-admin-data/brazil-administrative-divisions/main/docs/llms-full/distrito-federal-br53.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (state), 2 (municipality)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Brazil Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/brazil-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

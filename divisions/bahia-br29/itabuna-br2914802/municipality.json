@@ -1,0 +1,45 @@
+{
+  "id": "BR2914802",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itabuna",
+    "en": "Itabuna",
+    "slug": "itabuna-br2914802"
+  },
+  "code": {
+    "id": "BR2914802",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.893",
+    "lon": "-39.309"
+  },
+  "metadata": {},
+  "source": {}
+}

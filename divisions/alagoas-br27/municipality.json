@@ -1,0 +1,4592 @@
+[
+  {
+    "id": "BR2700102",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Água Branca",
+      "en": "Agua Branca",
+      "slug": "agua-branca-br2700102"
+    },
+    "code": {
+      "id": "BR2700102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.256",
+      "lon": "-37.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2700201",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Anadia",
+      "en": "Anadia",
+      "slug": "anadia-br2700201"
+    },
+    "code": {
+      "id": "BR2700201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.664",
+      "lon": "-36.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2700300",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arapiraca",
+      "en": "Arapiraca",
+      "slug": "arapiraca-br2700300"
+    },
+    "code": {
+      "id": "BR2700300",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.766",
+      "lon": "-36.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2700409",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atalaia",
+      "en": "Atalaia",
+      "slug": "atalaia-br2700409"
+    },
+    "code": {
+      "id": "BR2700409",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.125",
+      "lon": "-52.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2700508",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barra de Santo Antônio",
+      "en": "Barra de Santo Antonio",
+      "slug": "barra-de-santo-antonio-br2700508"
+    },
+    "code": {
+      "id": "BR2700508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.391",
+      "lon": "-35.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2700607",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barra de São Miguel",
+      "en": "Barra de Sao Miguel",
+      "slug": "barra-de-sao-miguel-br2700607"
+    },
+    "code": {
+      "id": "BR2700607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.81",
+      "lon": "-35.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2700706",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Batalha",
+      "en": "Batalha",
+      "slug": "batalha-br2700706"
+    },
+    "code": {
+      "id": "BR2700706",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.742",
+      "lon": "-37.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2700805",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Belém",
+      "en": "Belem",
+      "slug": "belem-br2700805"
+    },
+    "code": {
+      "id": "BR2700805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.557",
+      "lon": "-36.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2700904",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Belo Monte",
+      "en": "Belo Monte",
+      "slug": "belo-monte-br2700904"
+    },
+    "code": {
+      "id": "BR2700904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.803",
+      "lon": "-37.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2701001",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Boca da Mata",
+      "en": "Boca da Mata",
+      "slug": "boca-da-mata-br2701001"
+    },
+    "code": {
+      "id": "BR2701001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.66",
+      "lon": "-36.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2701100",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Branquinha",
+      "en": "Branquinha",
+      "slug": "branquinha-br2701100"
+    },
+    "code": {
+      "id": "BR2701100",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.229",
+      "lon": "-36.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2701209",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cacimbinhas",
+      "en": "Cacimbinhas",
+      "slug": "cacimbinhas-br2701209"
+    },
+    "code": {
+      "id": "BR2701209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.458",
+      "lon": "-36.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2701308",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cajueiro",
+      "en": "Cajueiro",
+      "slug": "cajueiro-br2701308"
+    },
+    "code": {
+      "id": "BR2701308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.42",
+      "lon": "-36.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2701357",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Campestre",
+      "en": "Campestre",
+      "slug": "campestre-br2701357"
+    },
+    "code": {
+      "id": "BR2701357",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.731",
+      "lon": "-46.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2701407",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Campo Alegre",
+      "en": "Campo Alegre",
+      "slug": "campo-alegre-br2701407"
+    },
+    "code": {
+      "id": "BR2701407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.112",
+      "lon": "-49.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2701506",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Campo Grande",
+      "en": "Campo Grande",
+      "slug": "campo-grande-br2701506"
+    },
+    "code": {
+      "id": "BR2701506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.985",
+      "lon": "-54.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2701605",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Canapi",
+      "en": "Canapi",
+      "slug": "canapi-br2701605"
+    },
+    "code": {
+      "id": "BR2701605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.15",
+      "lon": "-37.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2701704",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Capela",
+      "en": "Capela",
+      "slug": "capela-br2701704"
+    },
+    "code": {
+      "id": "BR2701704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.438",
+      "lon": "-37.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2701803",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carneiros",
+      "en": "Carneiros",
+      "slug": "carneiros-br2701803"
+    },
+    "code": {
+      "id": "BR2701803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.464",
+      "lon": "-37.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2701902",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chã Preta",
+      "en": "Cha Preta",
+      "slug": "cha-preta-br2701902"
+    },
+    "code": {
+      "id": "BR2701902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.232",
+      "lon": "-36.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2702009",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coité do Nóia",
+      "en": "Coite do Noia",
+      "slug": "coite-do-noia-br2702009"
+    },
+    "code": {
+      "id": "BR2702009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.629",
+      "lon": "-36.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2702108",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colônia Leopoldina",
+      "en": "Colonia Leopoldina",
+      "slug": "colonia-leopoldina-br2702108"
+    },
+    "code": {
+      "id": "BR2702108",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.908",
+      "lon": "-35.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2702207",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coqueiro Seco",
+      "en": "Coqueiro Seco",
+      "slug": "coqueiro-seco-br2702207"
+    },
+    "code": {
+      "id": "BR2702207",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.642",
+      "lon": "-35.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2702306",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coruripe",
+      "en": "Coruripe",
+      "slug": "coruripe-br2702306"
+    },
+    "code": {
+      "id": "BR2702306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.093",
+      "lon": "-36.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2702355",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Craíbas",
+      "en": "Craibas",
+      "slug": "craibas-br2702355"
+    },
+    "code": {
+      "id": "BR2702355",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.613",
+      "lon": "-36.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2702405",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Delmiro Gouveia",
+      "en": "Delmiro Gouveia",
+      "slug": "delmiro-gouveia-br2702405"
+    },
+    "code": {
+      "id": "BR2702405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.434",
+      "lon": "-38.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2702504",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dois Riachos",
+      "en": "Dois Riachos",
+      "slug": "dois-riachos-br2702504"
+    },
+    "code": {
+      "id": "BR2702504",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.361",
+      "lon": "-37.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2702553",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Estrela de Alagoas",
+      "en": "Estrela de Alagoas",
+      "slug": "estrela-de-alagoas-br2702553"
+    },
+    "code": {
+      "id": "BR2702553",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.403",
+      "lon": "-36.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2702603",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Feira Grande",
+      "en": "Feira Grande",
+      "slug": "feira-grande-br2702603"
+    },
+    "code": {
+      "id": "BR2702603",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.9",
+      "lon": "-36.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2702702",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Feliz Deserto",
+      "en": "Feliz Deserto",
+      "slug": "feliz-deserto-br2702702"
+    },
+    "code": {
+      "id": "BR2702702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.283",
+      "lon": "-36.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2702801",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Flexeiras",
+      "en": "Flexeiras",
+      "slug": "flexeiras-br2702801"
+    },
+    "code": {
+      "id": "BR2702801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.211",
+      "lon": "-35.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2702900",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Girau do Ponciano",
+      "en": "Girau do Ponciano",
+      "slug": "girau-do-ponciano-br2702900"
+    },
+    "code": {
+      "id": "BR2702900",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.78",
+      "lon": "-36.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2703007",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ibateguara",
+      "en": "Ibateguara",
+      "slug": "ibateguara-br2703007"
+    },
+    "code": {
+      "id": "BR2703007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.946",
+      "lon": "-35.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2703106",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Igaci",
+      "en": "Igaci",
+      "slug": "igaci-br2703106"
+    },
+    "code": {
+      "id": "BR2703106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.575",
+      "lon": "-36.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2703205",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Igreja Nova",
+      "en": "Igreja Nova",
+      "slug": "igreja-nova-br2703205"
+    },
+    "code": {
+      "id": "BR2703205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.169",
+      "lon": "-36.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2703304",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Inhapi",
+      "en": "Inhapi",
+      "slug": "inhapi-br2703304"
+    },
+    "code": {
+      "id": "BR2703304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.279",
+      "lon": "-37.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2703403",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jacaré dos Homens",
+      "en": "Jacare dos Homens",
+      "slug": "jacare-dos-homens-br2703403"
+    },
+    "code": {
+      "id": "BR2703403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.657",
+      "lon": "-37.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2703502",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jacuípe",
+      "en": "Jacuipe",
+      "slug": "jacuipe-br2703502"
+    },
+    "code": {
+      "id": "BR2703502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.872",
+      "lon": "-35.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2703601",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Japaratinga",
+      "en": "Japaratinga",
+      "slug": "japaratinga-br2703601"
+    },
+    "code": {
+      "id": "BR2703601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.095",
+      "lon": "-35.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2703700",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jaramataia",
+      "en": "Jaramataia",
+      "slug": "jaramataia-br2703700"
+    },
+    "code": {
+      "id": "BR2703700",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.65",
+      "lon": "-36.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2703759",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jequiá da Praia",
+      "en": "Jequia da Praia",
+      "slug": "jequia-da-praia-br2703759"
+    },
+    "code": {
+      "id": "BR2703759",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.905",
+      "lon": "-36.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2703809",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Joaquim Gomes",
+      "en": "Joaquim Gomes",
+      "slug": "joaquim-gomes-br2703809"
+    },
+    "code": {
+      "id": "BR2703809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.101",
+      "lon": "-35.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2703908",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jundiá",
+      "en": "Jundia",
+      "slug": "jundia-br2703908"
+    },
+    "code": {
+      "id": "BR2703908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.952",
+      "lon": "-35.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2704005",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Junqueiro",
+      "en": "Junqueiro",
+      "slug": "junqueiro-br2704005"
+    },
+    "code": {
+      "id": "BR2704005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.87",
+      "lon": "-36.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2704104",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagoa da Canoa",
+      "en": "Lagoa da Canoa",
+      "slug": "lagoa-da-canoa-br2704104"
+    },
+    "code": {
+      "id": "BR2704104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.806",
+      "lon": "-36.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2704203",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Limoeiro de Anadia",
+      "en": "Limoeiro de Anadia",
+      "slug": "limoeiro-de-anadia-br2704203"
+    },
+    "code": {
+      "id": "BR2704203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.741",
+      "lon": "-36.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2704302",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maceió",
+      "en": "Maceio",
+      "slug": "maceio-br2704302"
+    },
+    "code": {
+      "id": "BR2704302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.57",
+      "lon": "-35.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2704401",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Major Isidoro",
+      "en": "Major Isidoro",
+      "slug": "major-isidoro-br2704401"
+    },
+    "code": {
+      "id": "BR2704401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.529",
+      "lon": "-36.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2704906",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mar Vermelho",
+      "en": "Mar Vermelho",
+      "slug": "mar-vermelho-br2704906"
+    },
+    "code": {
+      "id": "BR2704906",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.48",
+      "lon": "-36.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2704500",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maragogi",
+      "en": "Maragogi",
+      "slug": "maragogi-br2704500"
+    },
+    "code": {
+      "id": "BR2704500",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.957",
+      "lon": "-35.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2704609",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maravilha",
+      "en": "Maravilha",
+      "slug": "maravilha-br2704609"
+    },
+    "code": {
+      "id": "BR2704609",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.758",
+      "lon": "-53.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2704708",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Marechal Deodoro",
+      "en": "Marechal Deodoro",
+      "slug": "marechal-deodoro-br2704708"
+    },
+    "code": {
+      "id": "BR2704708",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.716",
+      "lon": "-35.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2704807",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maribondo",
+      "en": "Maribondo",
+      "slug": "maribondo-br2704807"
+    },
+    "code": {
+      "id": "BR2704807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.559",
+      "lon": "-36.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2705002",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mata Grande",
+      "en": "Mata Grande",
+      "slug": "mata-grande-br2705002"
+    },
+    "code": {
+      "id": "BR2705002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.99",
+      "lon": "-37.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2705101",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Matriz de Camaragibe",
+      "en": "Matriz de Camaragibe",
+      "slug": "matriz-de-camaragibe-br2705101"
+    },
+    "code": {
+      "id": "BR2705101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.122",
+      "lon": "-35.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2705200",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Messias",
+      "en": "Messias",
+      "slug": "messias-br2705200"
+    },
+    "code": {
+      "id": "BR2705200",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.316",
+      "lon": "-35.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2705309",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Minador do Negrão",
+      "en": "Minador do Negrao",
+      "slug": "minador-do-negrao-br2705309"
+    },
+    "code": {
+      "id": "BR2705309",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.327",
+      "lon": "-36.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2705408",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Monteirópolis",
+      "en": "Monteiropolis",
+      "slug": "monteiropolis-br2705408"
+    },
+    "code": {
+      "id": "BR2705408",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.608",
+      "lon": "-37.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2705507",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Murici",
+      "en": "Murici",
+      "slug": "murici-br2705507"
+    },
+    "code": {
+      "id": "BR2705507",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.317",
+      "lon": "-35.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2705606",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Novo Lino",
+      "en": "Novo Lino",
+      "slug": "novo-lino-br2705606"
+    },
+    "code": {
+      "id": "BR2705606",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.935",
+      "lon": "-35.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2705705",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Olho d'Água das Flores",
+      "en": "Olho d'Agua das Flores",
+      "slug": "olho-d-agua-das-flores-br2705705"
+    },
+    "code": {
+      "id": "BR2705705",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.561",
+      "lon": "-37.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2705804",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Olho d'Água do Casado",
+      "en": "Olho d'Agua do Casado",
+      "slug": "olho-d-agua-do-casado-br2705804"
+    },
+    "code": {
+      "id": "BR2705804",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.46",
+      "lon": "-37.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2705903",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Olho d'Água Grande",
+      "en": "Olho d'Agua Grande",
+      "slug": "olho-d-agua-grande-br2705903"
+    },
+    "code": {
+      "id": "BR2705903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.057",
+      "lon": "-36.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2706000",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Olivença",
+      "en": "Olivenca",
+      "slug": "olivenca-br2706000"
+    },
+    "code": {
+      "id": "BR2706000",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.468",
+      "lon": "-37.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2706109",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ouro Branco",
+      "en": "Ouro Branco",
+      "slug": "ouro-branco-br2706109"
+    },
+    "code": {
+      "id": "BR2706109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.53",
+      "lon": "-43.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2706208",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palestina",
+      "en": "Palestina",
+      "slug": "palestina-br2706208"
+    },
+    "code": {
+      "id": "BR2706208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.31",
+      "lon": "-49.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2706307",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palmeira dos Índios",
+      "en": "Palmeira dos Indios",
+      "slug": "palmeira-dos-indios-br2706307"
+    },
+    "code": {
+      "id": "BR2706307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.4",
+      "lon": "-36.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2706406",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pão de Açúcar",
+      "en": "Pao de Acucar",
+      "slug": "pao-de-acucar-br2706406"
+    },
+    "code": {
+      "id": "BR2706406",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.665",
+      "lon": "-37.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2706422",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pariconha",
+      "en": "Pariconha",
+      "slug": "pariconha-br2706422"
+    },
+    "code": {
+      "id": "BR2706422",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.218",
+      "lon": "-38.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2706448",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paripueira",
+      "en": "Paripueira",
+      "slug": "paripueira-br2706448"
+    },
+    "code": {
+      "id": "BR2706448",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.435",
+      "lon": "-35.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2706505",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Passo de Camaragibe",
+      "en": "Passo de Camaragibe",
+      "slug": "passo-de-camaragibe-br2706505"
+    },
+    "code": {
+      "id": "BR2706505",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.248",
+      "lon": "-35.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2706604",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paulo Jacinto",
+      "en": "Paulo Jacinto",
+      "slug": "paulo-jacinto-br2706604"
+    },
+    "code": {
+      "id": "BR2706604",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.364",
+      "lon": "-36.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2706703",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Penedo",
+      "en": "Penedo",
+      "slug": "penedo-br2706703"
+    },
+    "code": {
+      "id": "BR2706703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.258",
+      "lon": "-36.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2706802",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Piaçabuçu",
+      "en": "Piacabucu",
+      "slug": "piacabucu-br2706802"
+    },
+    "code": {
+      "id": "BR2706802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.383",
+      "lon": "-36.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2706901",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pilar",
+      "en": "Pilar",
+      "slug": "pilar-br2706901"
+    },
+    "code": {
+      "id": "BR2706901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.629",
+      "lon": "-36.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2707008",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pindoba",
+      "en": "Pindoba",
+      "slug": "pindoba-br2707008"
+    },
+    "code": {
+      "id": "BR2707008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.468",
+      "lon": "-36.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2707107",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Piranhas",
+      "en": "Piranhas",
+      "slug": "piranhas-br2707107"
+    },
+    "code": {
+      "id": "BR2707107",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.408",
+      "lon": "-51.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2707206",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Poço das Trincheiras",
+      "en": "Poco das Trincheiras",
+      "slug": "poco-das-trincheiras-br2707206"
+    },
+    "code": {
+      "id": "BR2707206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.298",
+      "lon": "-37.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2707305",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto Calvo",
+      "en": "Porto Calvo",
+      "slug": "porto-calvo-br2707305"
+    },
+    "code": {
+      "id": "BR2707305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.062",
+      "lon": "-35.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2707404",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto de Pedras",
+      "en": "Porto de Pedras",
+      "slug": "porto-de-pedras-br2707404"
+    },
+    "code": {
+      "id": "BR2707404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.138",
+      "lon": "-35.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2707503",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto Real do Colégio",
+      "en": "Porto Real do Colegio",
+      "slug": "porto-real-do-colegio-br2707503"
+    },
+    "code": {
+      "id": "BR2707503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.106",
+      "lon": "-36.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2707602",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quebrangulo",
+      "en": "Quebrangulo",
+      "slug": "quebrangulo-br2707602"
+    },
+    "code": {
+      "id": "BR2707602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.284",
+      "lon": "-36.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2707701",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rio Largo",
+      "en": "Rio Largo",
+      "slug": "rio-largo-br2707701"
+    },
+    "code": {
+      "id": "BR2707701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.501",
+      "lon": "-35.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2707800",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Roteiro",
+      "en": "Roteiro",
+      "slug": "roteiro-br2707800"
+    },
+    "code": {
+      "id": "BR2707800",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.862",
+      "lon": "-35.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2707909",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Luzia do Norte",
+      "en": "Santa Luzia do Norte",
+      "slug": "santa-luzia-do-norte-br2707909"
+    },
+    "code": {
+      "id": "BR2707909",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.608",
+      "lon": "-35.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2708006",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santana do Ipanema",
+      "en": "Santana do Ipanema",
+      "slug": "santana-do-ipanema-br2708006"
+    },
+    "code": {
+      "id": "BR2708006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.348",
+      "lon": "-37.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2708105",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santana do Mundaú",
+      "en": "Santana do Mundau",
+      "slug": "santana-do-mundau-br2708105"
+    },
+    "code": {
+      "id": "BR2708105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.107",
+      "lon": "-36.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2708204",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Brás",
+      "en": "Sao Bras",
+      "slug": "sao-bras-br2708204"
+    },
+    "code": {
+      "id": "BR2708204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.119",
+      "lon": "-36.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2708303",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José da Laje",
+      "en": "Sao Jose da Laje",
+      "slug": "sao-jose-da-laje-br2708303"
+    },
+    "code": {
+      "id": "BR2708303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.002",
+      "lon": "-36.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2708402",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José da Tapera",
+      "en": "Sao Jose da Tapera",
+      "slug": "sao-jose-da-tapera-br2708402"
+    },
+    "code": {
+      "id": "BR2708402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.532",
+      "lon": "-37.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2708501",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Luís do Quitunde",
+      "en": "Sao Luis do Quitunde",
+      "slug": "sao-luis-do-quitunde-br2708501"
+    },
+    "code": {
+      "id": "BR2708501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.213",
+      "lon": "-35.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2708600",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Miguel dos Campos",
+      "en": "Sao Miguel dos Campos",
+      "slug": "sao-miguel-dos-campos-br2708600"
+    },
+    "code": {
+      "id": "BR2708600",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.786",
+      "lon": "-36.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2708709",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Miguel dos Milagres",
+      "en": "Sao Miguel dos Milagres",
+      "slug": "sao-miguel-dos-milagres-br2708709"
+    },
+    "code": {
+      "id": "BR2708709",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.242",
+      "lon": "-35.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2708808",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Sebastião",
+      "en": "Sao Sebastiao",
+      "slug": "sao-sebastiao-br2708808"
+    },
+    "code": {
+      "id": "BR2708808",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.753",
+      "lon": "-45.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2708907",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Satuba",
+      "en": "Satuba",
+      "slug": "satuba-br2708907"
+    },
+    "code": {
+      "id": "BR2708907",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.588",
+      "lon": "-35.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2708956",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Senador Rui Palmeira",
+      "en": "Senador Rui Palmeira",
+      "slug": "senador-rui-palmeira-br2708956"
+    },
+    "code": {
+      "id": "BR2708956",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.361",
+      "lon": "-37.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2709004",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tanque d'Arca",
+      "en": "Tanque d'Arca",
+      "slug": "tanque-d-arca-br2709004"
+    },
+    "code": {
+      "id": "BR2709004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.567",
+      "lon": "-36.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2709103",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Taquarana",
+      "en": "Taquarana",
+      "slug": "taquarana-br2709103"
+    },
+    "code": {
+      "id": "BR2709103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.615",
+      "lon": "-36.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2709152",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Teotônio Vilela",
+      "en": "Teotonio Vilela",
+      "slug": "teotonio-vilela-br2709152"
+    },
+    "code": {
+      "id": "BR2709152",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.978",
+      "lon": "-36.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2709202",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Traipu",
+      "en": "Traipu",
+      "slug": "traipu-br2709202"
+    },
+    "code": {
+      "id": "BR2709202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.89",
+      "lon": "-36.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2709301",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "União dos Palmares",
+      "en": "Uniao dos Palmares",
+      "slug": "uniao-dos-palmares-br2709301"
+    },
+    "code": {
+      "id": "BR2709301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.105",
+      "lon": "-36.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2709400",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Viçosa",
+      "en": "Vicosa",
+      "slug": "vicosa-br2709400"
+    },
+    "code": {
+      "id": "BR2709400",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR27",
+        "level": 1,
+        "name": {
+          "local": "Alagoas",
+          "en": "Alagoas",
+          "slug": "alagoas-br27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.734",
+      "lon": "-42.888"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "BR3142809",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Monte Alegre de Minas",
+    "en": "Monte Alegre de Minas",
+    "slug": "monte-alegre-de-minas-br3142809"
+  },
+  "code": {
+    "id": "BR3142809",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.825",
+    "lon": "-48.932"
+  },
+  "metadata": {},
+  "source": {}
+}

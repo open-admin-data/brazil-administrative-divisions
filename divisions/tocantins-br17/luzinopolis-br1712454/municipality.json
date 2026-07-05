@@ -1,0 +1,45 @@
+{
+  "id": "BR1712454",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Luzinópolis",
+    "en": "Luzinopolis",
+    "slug": "luzinopolis-br1712454"
+  },
+  "code": {
+    "id": "BR1712454",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.221",
+    "lon": "-47.887"
+  },
+  "metadata": {},
+  "source": {}
+}

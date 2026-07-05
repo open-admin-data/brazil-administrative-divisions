@@ -1,0 +1,65 @@
+# Brazil Administrative Divisions — Full Reference
+
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Per-State Data Files
+
+- [Rondonia](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/rondonia-br11.txt) — 52 municipalitys
+- [Acre](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/acre-br12.txt) — 22 municipalitys
+- [Amazonas](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/amazonas-br13.txt) — 62 municipalitys
+- [Roraima](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/roraima-br14.txt) — 15 municipalitys
+- [Para](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/para-br15.txt) — 144 municipalitys
+- [Amapa](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/amapa-br16.txt) — 16 municipalitys
+- [Tocantins](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/tocantins-br17.txt) — 139 municipalitys
+- [Maranhao](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/maranhao-br21.txt) — 217 municipalitys
+- [Piaui](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/piaui-br22.txt) — 224 municipalitys
+- [Ceara](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/ceara-br23.txt) — 184 municipalitys
+- [Rio Grande do Norte](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/rio-grande-do-norte-br24.txt) — 167 municipalitys
+- [Paraiba](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/paraiba-br25.txt) — 223 municipalitys
+- [Pernambuco](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/pernambuco-br26.txt) — 185 municipalitys
+- [Alagoas](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/alagoas-br27.txt) — 102 municipalitys
+- [Sergipe](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/sergipe-br28.txt) — 75 municipalitys
+- [Bahia](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/bahia-br29.txt) — 417 municipalitys
+- [Minas Gerais](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/minas-gerais-br31.txt) — 853 municipalitys
+- [Espirito Santo](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/espirito-santo-br32.txt) — 78 municipalitys
+- [Rio de Janeiro](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/rio-de-janeiro-br33.txt) — 92 municipalitys
+- [Sao Paulo](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/sao-paulo-br35.txt) — 645 municipalitys
+- [Parana](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/parana-br41.txt) — 399 municipalitys
+- [Santa Catarina](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/santa-catarina-br42.txt) — 295 municipalitys
+- [Rio Grande do Sul](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/rio-grande-do-sul-br43.txt) — 499 municipalitys
+- [Mato Grosso do Sul](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/mato-grosso-do-sul-br50.txt) — 79 municipalitys
+- [Mato Grosso](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/mato-grosso-br51.txt) — 141 municipalitys
+- [Goias](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/goias-br52.txt) — 246 municipalitys
+- [Distrito Federal](https://github.com/open-admin-data/brazil-administrative-divisions/blob/main/docs/llms-full/distrito-federal-br53.txt) — 1 municipalitys
+
+## Summary
+
+| State | Municipalitys | 
+|---|---|
+| Rondonia | 52 | 
+| Acre | 22 | 
+| Amazonas | 62 | 
+| Roraima | 15 | 
+| Para | 144 | 
+| Amapa | 16 | 
+| Tocantins | 139 | 
+| Maranhao | 217 | 
+| Piaui | 224 | 
+| Ceara | 184 | 
+| Rio Grande do Norte | 167 | 
+| Paraiba | 223 | 
+| Pernambuco | 185 | 
+| Alagoas | 102 | 
+| Sergipe | 75 | 
+| Bahia | 417 | 
+| Minas Gerais | 853 | 
+| Espirito Santo | 78 | 
+| Rio de Janeiro | 92 | 
+| Sao Paulo | 645 | 
+| Parana | 399 | 
+| Santa Catarina | 295 | 
+| Rio Grande do Sul | 499 | 
+| Mato Grosso do Sul | 79 | 
+| Mato Grosso | 141 | 
+| Goias | 246 | 
+| Distrito Federal | 1 | 

@@ -1,0 +1,45 @@
+{
+  "id": "BR3528106",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Macaubal",
+    "en": "Macaubal",
+    "slug": "macaubal-br3528106"
+  },
+  "code": {
+    "id": "BR3528106",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.861",
+    "lon": "-49.988"
+  },
+  "metadata": {},
+  "source": {}
+}

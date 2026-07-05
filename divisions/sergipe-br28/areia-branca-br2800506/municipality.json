@@ -1,0 +1,45 @@
+{
+  "id": "BR2800506",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Areia Branca",
+    "en": "Areia Branca",
+    "slug": "areia-branca-br2800506"
+  },
+  "code": {
+    "id": "BR2800506",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.783",
+    "lon": "-37.327"
+  },
+  "metadata": {},
+  "source": {}
+}

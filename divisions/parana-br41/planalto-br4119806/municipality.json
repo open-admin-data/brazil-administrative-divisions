@@ -1,0 +1,45 @@
+{
+  "id": "BR4119806",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Planalto",
+    "en": "Planalto",
+    "slug": "planalto-br4119806"
+  },
+  "code": {
+    "id": "BR4119806",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.343",
+    "lon": "-53.093"
+  },
+  "metadata": {},
+  "source": {}
+}

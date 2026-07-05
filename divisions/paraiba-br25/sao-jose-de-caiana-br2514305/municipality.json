@@ -1,0 +1,45 @@
+{
+  "id": "BR2514305",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José de Caiana",
+    "en": "Sao Jose de Caiana",
+    "slug": "sao-jose-de-caiana-br2514305"
+  },
+  "code": {
+    "id": "BR2514305",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.248",
+    "lon": "-38.324"
+  },
+  "metadata": {},
+  "source": {}
+}

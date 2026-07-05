@@ -1,0 +1,45 @@
+{
+  "id": "BR2916856",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itatim",
+    "en": "Itatim",
+    "slug": "itatim-br2916856"
+  },
+  "code": {
+    "id": "BR2916856",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.701",
+    "lon": "-39.725"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3166204",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Senhora dos Remédios",
+    "en": "Senhora dos Remedios",
+    "slug": "senhora-dos-remedios-br3166204"
+  },
+  "code": {
+    "id": "BR3166204",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.032",
+    "lon": "-43.599"
+  },
+  "metadata": {},
+  "source": {}
+}

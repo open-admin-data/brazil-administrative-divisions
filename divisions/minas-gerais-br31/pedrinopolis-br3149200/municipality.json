@@ -1,0 +1,45 @@
+{
+  "id": "BR3149200",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pedrinópolis",
+    "en": "Pedrinopolis",
+    "slug": "pedrinopolis-br3149200"
+  },
+  "code": {
+    "id": "BR3149200",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.179",
+    "lon": "-47.516"
+  },
+  "metadata": {},
+  "source": {}
+}

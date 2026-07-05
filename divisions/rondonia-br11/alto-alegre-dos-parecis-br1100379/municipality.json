@@ -1,0 +1,45 @@
+{
+  "id": "BR1100379",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alto Alegre dos Parecis",
+    "en": "Alto Alegre dos Parecis",
+    "slug": "alto-alegre-dos-parecis-br1100379"
+  },
+  "code": {
+    "id": "BR1100379",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.791",
+    "lon": "-62.007"
+  },
+  "metadata": {},
+  "source": {}
+}

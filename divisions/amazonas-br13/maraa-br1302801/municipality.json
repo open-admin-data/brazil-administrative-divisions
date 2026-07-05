@@ -1,0 +1,45 @@
+{
+  "id": "BR1302801",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Maraã",
+    "en": "Maraa",
+    "slug": "maraa-br1302801"
+  },
+  "code": {
+    "id": "BR1302801",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.68",
+    "lon": "-64.77"
+  },
+  "metadata": {},
+  "source": {}
+}

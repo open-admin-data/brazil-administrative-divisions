@@ -1,0 +1,45 @@
+{
+  "id": "BR2612109",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Salgadinho",
+    "en": "Salgadinho",
+    "slug": "salgadinho-br2612109"
+  },
+  "code": {
+    "id": "BR2612109",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR26",
+    "level": 1,
+    "name": {
+      "local": "Pernambuco",
+      "en": "Pernambuco",
+      "slug": "pernambuco-br26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.924",
+    "lon": "-35.595"
+  },
+  "metadata": {},
+  "source": {}
+}

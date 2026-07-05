@@ -1,0 +1,45 @@
+{
+  "id": "BR4120655",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Quarto Centenário",
+    "en": "Quarto Centenario",
+    "slug": "quarto-centenario-br4120655"
+  },
+  "code": {
+    "id": "BR4120655",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.312",
+    "lon": "-53.152"
+  },
+  "metadata": {},
+  "source": {}
+}

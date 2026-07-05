@@ -1,0 +1,45 @@
+{
+  "id": "BR3155108",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rio do Prado",
+    "en": "Rio do Prado",
+    "slug": "rio-do-prado-br3155108"
+  },
+  "code": {
+    "id": "BR3155108",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.683",
+    "lon": "-40.565"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3130705",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Indianópolis",
+    "en": "Indianopolis",
+    "slug": "indianopolis-br3130705"
+  },
+  "code": {
+    "id": "BR3130705",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.477",
+    "lon": "-52.644"
+  },
+  "metadata": {},
+  "source": {}
+}

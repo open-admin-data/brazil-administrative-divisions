@@ -1,0 +1,45 @@
+{
+  "id": "BR4216701",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José do Cedro",
+    "en": "Sao Jose do Cedro",
+    "slug": "sao-jose-do-cedro-br4216701"
+  },
+  "code": {
+    "id": "BR4216701",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.488",
+    "lon": "-53.559"
+  },
+  "metadata": {},
+  "source": {}
+}

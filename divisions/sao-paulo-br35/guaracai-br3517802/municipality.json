@@ -1,0 +1,45 @@
+{
+  "id": "BR3517802",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Guaraçaí",
+    "en": "Guaracai",
+    "slug": "guaracai-br3517802"
+  },
+  "code": {
+    "id": "BR3517802",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.077",
+    "lon": "-51.282"
+  },
+  "metadata": {},
+  "source": {}
+}

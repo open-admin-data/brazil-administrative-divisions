@@ -1,0 +1,45 @@
+{
+  "id": "BR1720200",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Miguel do Tocantins",
+    "en": "Sao Miguel do Tocantins",
+    "slug": "sao-miguel-do-tocantins-br1720200"
+  },
+  "code": {
+    "id": "BR1720200",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.55",
+    "lon": "-47.615"
+  },
+  "metadata": {},
+  "source": {}
+}

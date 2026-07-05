@@ -1,0 +1,45 @@
+{
+  "id": "BR2211704",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Wall Ferraz",
+    "en": "Wall Ferraz",
+    "slug": "wall-ferraz-br2211704"
+  },
+  "code": {
+    "id": "BR2211704",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.297",
+    "lon": "-41.837"
+  },
+  "metadata": {},
+  "source": {}
+}

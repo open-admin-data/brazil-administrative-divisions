@@ -1,0 +1,45 @@
+{
+  "id": "BR3100708",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Água Comprida",
+    "en": "Agua Comprida",
+    "slug": "agua-comprida-br3100708"
+  },
+  "code": {
+    "id": "BR3100708",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.989",
+    "lon": "-48.093"
+  },
+  "metadata": {},
+  "source": {}
+}

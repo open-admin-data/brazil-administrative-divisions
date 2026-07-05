@@ -1,0 +1,45 @@
+{
+  "id": "BR1507474",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São João de Pirabas",
+    "en": "Sao Joao de Pirabas",
+    "slug": "sao-joao-de-pirabas-br1507474"
+  },
+  "code": {
+    "id": "BR1507474",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.774",
+    "lon": "-47.195"
+  },
+  "metadata": {},
+  "source": {}
+}

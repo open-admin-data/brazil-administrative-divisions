@@ -1,0 +1,45 @@
+{
+  "id": "BR3108255",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bonito de Minas",
+    "en": "Bonito de Minas",
+    "slug": "bonito-de-minas-br3108255"
+  },
+  "code": {
+    "id": "BR3108255",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.922",
+    "lon": "-44.873"
+  },
+  "metadata": {},
+  "source": {}
+}

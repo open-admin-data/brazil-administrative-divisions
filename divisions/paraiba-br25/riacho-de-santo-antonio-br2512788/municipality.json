@@ -1,0 +1,45 @@
+{
+  "id": "BR2512788",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Riacho de Santo Antônio",
+    "en": "Riacho de Santo Antonio",
+    "slug": "riacho-de-santo-antonio-br2512788"
+  },
+  "code": {
+    "id": "BR2512788",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.656",
+    "lon": "-36.129"
+  },
+  "metadata": {},
+  "source": {}
+}

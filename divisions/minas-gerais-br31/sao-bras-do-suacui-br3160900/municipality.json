@@ -1,0 +1,45 @@
+{
+  "id": "BR3160900",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Brás do Suaçuí",
+    "en": "Sao Bras do Suacui",
+    "slug": "sao-bras-do-suacui-br3160900"
+  },
+  "code": {
+    "id": "BR3160900",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.619",
+    "lon": "-43.974"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR5101852",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bom Jesus do Araguaia",
+    "en": "Bom Jesus do Araguaia",
+    "slug": "bom-jesus-do-araguaia-br5101852"
+  },
+  "code": {
+    "id": "BR5101852",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.25",
+    "lon": "-51.771"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2201919",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bom Princípio do Piauí",
+    "en": "Bom Principio do Piaui",
+    "slug": "bom-principio-do-piaui-br2201919"
+  },
+  "code": {
+    "id": "BR2201919",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.15",
+    "lon": "-41.6"
+  },
+  "metadata": {},
+  "source": {}
+}

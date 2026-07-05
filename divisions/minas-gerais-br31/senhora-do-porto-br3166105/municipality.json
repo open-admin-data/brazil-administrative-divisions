@@ -1,0 +1,45 @@
+{
+  "id": "BR3166105",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Senhora do Porto",
+    "en": "Senhora do Porto",
+    "slug": "senhora-do-porto-br3166105"
+  },
+  "code": {
+    "id": "BR3166105",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.904",
+    "lon": "-43.081"
+  },
+  "metadata": {},
+  "source": {}
+}

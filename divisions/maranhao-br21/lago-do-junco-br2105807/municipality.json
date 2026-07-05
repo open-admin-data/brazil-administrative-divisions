@@ -1,0 +1,45 @@
+{
+  "id": "BR2105807",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lago do Junco",
+    "en": "Lago do Junco",
+    "slug": "lago-do-junco-br2105807"
+  },
+  "code": {
+    "id": "BR2105807",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.497",
+    "lon": "-44.927"
+  },
+  "metadata": {},
+  "source": {}
+}

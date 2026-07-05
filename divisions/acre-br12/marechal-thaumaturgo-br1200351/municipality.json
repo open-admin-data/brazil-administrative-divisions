@@ -1,0 +1,45 @@
+{
+  "id": "BR1200351",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Marechal Thaumaturgo",
+    "en": "Marechal Thaumaturgo",
+    "slug": "marechal-thaumaturgo-br1200351"
+  },
+  "code": {
+    "id": "BR1200351",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR12",
+    "level": 1,
+    "name": {
+      "local": "Acre",
+      "en": "Acre",
+      "slug": "acre-br12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.093",
+    "lon": "-72.681"
+  },
+  "metadata": {},
+  "source": {}
+}

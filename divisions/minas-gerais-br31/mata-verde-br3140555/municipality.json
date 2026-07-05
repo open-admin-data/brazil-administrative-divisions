@@ -1,0 +1,45 @@
+{
+  "id": "BR3140555",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mata Verde",
+    "en": "Mata Verde",
+    "slug": "mata-verde-br3140555"
+  },
+  "code": {
+    "id": "BR3140555",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.761",
+    "lon": "-40.707"
+  },
+  "metadata": {},
+  "source": {}
+}

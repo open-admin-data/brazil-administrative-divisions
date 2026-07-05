@@ -1,0 +1,45 @@
+{
+  "id": "BR5201504",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Aporé",
+    "en": "Apore",
+    "slug": "apore-br5201504"
+  },
+  "code": {
+    "id": "BR5201504",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.779",
+    "lon": "-52.035"
+  },
+  "metadata": {},
+  "source": {}
+}

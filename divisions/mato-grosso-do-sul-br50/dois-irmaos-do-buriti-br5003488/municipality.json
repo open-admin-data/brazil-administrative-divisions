@@ -1,0 +1,45 @@
+{
+  "id": "BR5003488",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dois Irmãos do Buriti",
+    "en": "Dois Irmaos do Buriti",
+    "slug": "dois-irmaos-do-buriti-br5003488"
+  },
+  "code": {
+    "id": "BR5003488",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR50",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso do Sul",
+      "en": "Mato Grosso do Sul",
+      "slug": "mato-grosso-do-sul-br50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.529",
+    "lon": "-55.368"
+  },
+  "metadata": {},
+  "source": {}
+}

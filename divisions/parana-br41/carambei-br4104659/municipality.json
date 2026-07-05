@@ -1,0 +1,45 @@
+{
+  "id": "BR4104659",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Carambeí",
+    "en": "Carambei",
+    "slug": "carambei-br4104659"
+  },
+  "code": {
+    "id": "BR4104659",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.896",
+    "lon": "-50.158"
+  },
+  "metadata": {},
+  "source": {}
+}

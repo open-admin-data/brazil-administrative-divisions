@@ -1,0 +1,45 @@
+{
+  "id": "BR2708105",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santana do Mundaú",
+    "en": "Santana do Mundau",
+    "slug": "santana-do-mundau-br2708105"
+  },
+  "code": {
+    "id": "BR2708105",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.107",
+    "lon": "-36.207"
+  },
+  "metadata": {},
+  "source": {}
+}

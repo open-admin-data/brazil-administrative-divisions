@@ -1,0 +1,45 @@
+{
+  "id": "BR4112603",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jardim Olinda",
+    "en": "Jardim Olinda",
+    "slug": "jardim-olinda-br4112603"
+  },
+  "code": {
+    "id": "BR4112603",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.568",
+    "lon": "-52.065"
+  },
+  "metadata": {},
+  "source": {}
+}

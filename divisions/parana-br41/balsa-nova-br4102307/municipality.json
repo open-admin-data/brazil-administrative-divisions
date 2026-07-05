@@ -1,0 +1,45 @@
+{
+  "id": "BR4102307",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Balsa Nova",
+    "en": "Balsa Nova",
+    "slug": "balsa-nova-br4102307"
+  },
+  "code": {
+    "id": "BR4102307",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.511",
+    "lon": "-49.691"
+  },
+  "metadata": {},
+  "source": {}
+}

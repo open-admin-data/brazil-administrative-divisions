@@ -1,0 +1,45 @@
+{
+  "id": "BR4106209",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Contenda",
+    "en": "Contenda",
+    "slug": "contenda-br4106209"
+  },
+  "code": {
+    "id": "BR4106209",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.71",
+    "lon": "-49.5"
+  },
+  "metadata": {},
+  "source": {}
+}

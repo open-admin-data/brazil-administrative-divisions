@@ -1,0 +1,45 @@
+{
+  "id": "BR2111003",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São João Batista",
+    "en": "Sao Joao Batista",
+    "slug": "sao-joao-batista-br2111003"
+  },
+  "code": {
+    "id": "BR2111003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.327",
+    "lon": "-48.858"
+  },
+  "metadata": {},
+  "source": {}
+}

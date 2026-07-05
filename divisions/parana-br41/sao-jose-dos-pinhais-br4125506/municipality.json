@@ -1,0 +1,45 @@
+{
+  "id": "BR4125506",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José dos Pinhais",
+    "en": "Sao Jose dos Pinhais",
+    "slug": "sao-jose-dos-pinhais-br4125506"
+  },
+  "code": {
+    "id": "BR4125506",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.691",
+    "lon": "-49.055"
+  },
+  "metadata": {},
+  "source": {}
+}

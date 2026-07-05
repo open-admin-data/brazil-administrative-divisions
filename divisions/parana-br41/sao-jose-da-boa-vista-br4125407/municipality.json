@@ -1,0 +1,45 @@
+{
+  "id": "BR4125407",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José da Boa Vista",
+    "en": "Sao Jose da Boa Vista",
+    "slug": "sao-jose-da-boa-vista-br4125407"
+  },
+  "code": {
+    "id": "BR4125407",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.961",
+    "lon": "-49.654"
+  },
+  "metadata": {},
+  "source": {}
+}

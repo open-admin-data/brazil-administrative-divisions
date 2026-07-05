@@ -1,0 +1,45 @@
+{
+  "id": "BR1706258",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Crixás do Tocantins",
+    "en": "Crixas do Tocantins",
+    "slug": "crixas-do-tocantins-br1706258"
+  },
+  "code": {
+    "id": "BR1706258",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.164",
+    "lon": "-49.07"
+  },
+  "metadata": {},
+  "source": {}
+}

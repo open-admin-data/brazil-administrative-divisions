@@ -1,0 +1,45 @@
+{
+  "id": "BR3557154",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Zacarias",
+    "en": "Zacarias",
+    "slug": "zacarias-br3557154"
+  },
+  "code": {
+    "id": "BR3557154",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.123",
+    "lon": "-50.057"
+  },
+  "metadata": {},
+  "source": {}
+}

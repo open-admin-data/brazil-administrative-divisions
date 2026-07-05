@@ -1,0 +1,45 @@
+{
+  "id": "BR1400282",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Iracema",
+    "en": "Iracema",
+    "slug": "iracema-br1400282"
+  },
+  "code": {
+    "id": "BR1400282",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR14",
+    "level": 1,
+    "name": {
+      "local": "Roraima",
+      "en": "Roraima",
+      "slug": "roraima-br14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.788",
+    "lon": "-38.347"
+  },
+  "metadata": {},
+  "source": {}
+}

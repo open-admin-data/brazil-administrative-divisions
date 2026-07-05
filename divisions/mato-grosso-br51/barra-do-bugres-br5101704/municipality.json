@@ -1,0 +1,45 @@
+{
+  "id": "BR5101704",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barra do Bugres",
+    "en": "Barra do Bugres",
+    "slug": "barra-do-bugres-br5101704"
+  },
+  "code": {
+    "id": "BR5101704",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.126",
+    "lon": "-57.414"
+  },
+  "metadata": {},
+  "source": {}
+}

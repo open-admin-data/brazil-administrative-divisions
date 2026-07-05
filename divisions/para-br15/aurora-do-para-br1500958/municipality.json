@@ -1,0 +1,45 @@
+{
+  "id": "BR1500958",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Aurora do Pará",
+    "en": "Aurora do Para",
+    "slug": "aurora-do-para-br1500958"
+  },
+  "code": {
+    "id": "BR1500958",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.293",
+    "lon": "-47.76"
+  },
+  "metadata": {},
+  "source": {}
+}

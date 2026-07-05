@@ -1,0 +1,45 @@
+{
+  "id": "BR3549300",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São João do Pau d'Alho",
+    "en": "Sao Joao do Pau d'Alho",
+    "slug": "sao-joao-do-pau-d-alho-br3549300"
+  },
+  "code": {
+    "id": "BR3549300",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.221",
+    "lon": "-51.674"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1720259",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Salvador do Tocantins",
+    "en": "Sao Salvador do Tocantins",
+    "slug": "sao-salvador-do-tocantins-br1720259"
+  },
+  "code": {
+    "id": "BR1720259",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.568",
+    "lon": "-48.374"
+  },
+  "metadata": {},
+  "source": {}
+}

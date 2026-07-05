@@ -1,0 +1,45 @@
+{
+  "id": "BR2918456",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jucuruçu",
+    "en": "Jucurucu",
+    "slug": "jucurucu-br2918456"
+  },
+  "code": {
+    "id": "BR2918456",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.839",
+    "lon": "-40.092"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1501782",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Breu Branco",
+    "en": "Breu Branco",
+    "slug": "breu-branco-br1501782"
+  },
+  "code": {
+    "id": "BR1501782",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.785",
+    "lon": "-49.234"
+  },
+  "metadata": {},
+  "source": {}
+}

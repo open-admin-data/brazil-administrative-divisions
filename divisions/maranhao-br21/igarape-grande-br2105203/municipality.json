@@ -1,0 +1,45 @@
+{
+  "id": "BR2105203",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Igarapé Grande",
+    "en": "Igarape Grande",
+    "slug": "igarape-grande-br2105203"
+  },
+  "code": {
+    "id": "BR2105203",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.571",
+    "lon": "-44.859"
+  },
+  "metadata": {},
+  "source": {}
+}

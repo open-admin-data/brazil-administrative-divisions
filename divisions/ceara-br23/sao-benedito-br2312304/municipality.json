@@ -1,0 +1,45 @@
+{
+  "id": "BR2312304",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Benedito",
+    "en": "Sao Benedito",
+    "slug": "sao-benedito-br2312304"
+  },
+  "code": {
+    "id": "BR2312304",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.052",
+    "lon": "-40.994"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2925758",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Presidente Tancredo Neves",
+    "en": "Presidente Tancredo Neves",
+    "slug": "presidente-tancredo-neves-br2925758"
+  },
+  "code": {
+    "id": "BR2925758",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.456",
+    "lon": "-39.427"
+  },
+  "metadata": {},
+  "source": {}
+}

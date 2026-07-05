@@ -1,0 +1,45 @@
+{
+  "id": "BR2901502",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Anguera",
+    "en": "Anguera",
+    "slug": "anguera-br2901502"
+  },
+  "code": {
+    "id": "BR2901502",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.184",
+    "lon": "-39.207"
+  },
+  "metadata": {},
+  "source": {}
+}

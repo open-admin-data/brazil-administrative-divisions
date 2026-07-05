@@ -1,0 +1,45 @@
+{
+  "id": "BR5200209",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Água Limpa",
+    "en": "Agua Limpa",
+    "slug": "agua-limpa-br5200209"
+  },
+  "code": {
+    "id": "BR5200209",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.088",
+    "lon": "-48.798"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2806503",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Rosa de Lima",
+    "en": "Santa Rosa de Lima",
+    "slug": "santa-rosa-de-lima-br2806503"
+  },
+  "code": {
+    "id": "BR2806503",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.006",
+    "lon": "-49.192"
+  },
+  "metadata": {},
+  "source": {}
+}

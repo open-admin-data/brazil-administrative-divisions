@@ -1,0 +1,45 @@
+{
+  "id": "BR3541307",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Presidente Epitácio",
+    "en": "Presidente Epitacio",
+    "slug": "presidente-epitacio-br3541307"
+  },
+  "code": {
+    "id": "BR3541307",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.92",
+    "lon": "-52.174"
+  },
+  "metadata": {},
+  "source": {}
+}

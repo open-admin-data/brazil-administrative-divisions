@@ -1,0 +1,45 @@
+{
+  "id": "BR2505808",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Duas Estradas",
+    "en": "Duas Estradas",
+    "slug": "duas-estradas-br2505808"
+  },
+  "code": {
+    "id": "BR2505808",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.722",
+    "lon": "-35.394"
+  },
+  "metadata": {},
+  "source": {}
+}

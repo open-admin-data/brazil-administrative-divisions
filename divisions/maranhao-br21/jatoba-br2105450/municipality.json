@@ -1,0 +1,45 @@
+{
+  "id": "BR2105450",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jatobá",
+    "en": "Jatoba",
+    "slug": "jatoba-br2105450"
+  },
+  "code": {
+    "id": "BR2105450",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.225",
+    "lon": "-38.194"
+  },
+  "metadata": {},
+  "source": {}
+}

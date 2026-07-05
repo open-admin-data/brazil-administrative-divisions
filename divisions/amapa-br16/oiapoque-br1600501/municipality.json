@@ -1,0 +1,45 @@
+{
+  "id": "BR1600501",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Oiapoque",
+    "en": "Oiapoque",
+    "slug": "oiapoque-br1600501"
+  },
+  "code": {
+    "id": "BR1600501",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR16",
+    "level": 1,
+    "name": {
+      "local": "Amapá",
+      "en": "Amapa",
+      "slug": "amapa-br16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.74",
+    "lon": "-52.164"
+  },
+  "metadata": {},
+  "source": {}
+}

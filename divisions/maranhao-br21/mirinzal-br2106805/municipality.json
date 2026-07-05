@@ -1,0 +1,45 @@
+{
+  "id": "BR2106805",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mirinzal",
+    "en": "Mirinzal",
+    "slug": "mirinzal-br2106805"
+  },
+  "code": {
+    "id": "BR2106805",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.053",
+    "lon": "-44.777"
+  },
+  "metadata": {},
+  "source": {}
+}

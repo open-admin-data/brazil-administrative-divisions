@@ -1,0 +1,45 @@
+{
+  "id": "BR2101509",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barão de Grajaú",
+    "en": "Barao de Grajau",
+    "slug": "barao-de-grajau-br2101509"
+  },
+  "code": {
+    "id": "BR2101509",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.624",
+    "lon": "-43.2"
+  },
+  "metadata": {},
+  "source": {}
+}

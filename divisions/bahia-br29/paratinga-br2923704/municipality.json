@@ -1,0 +1,45 @@
+{
+  "id": "BR2923704",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Paratinga",
+    "en": "Paratinga",
+    "slug": "paratinga-br2923704"
+  },
+  "code": {
+    "id": "BR2923704",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.777",
+    "lon": "-43.079"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3160306",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Antônio do Jacinto",
+    "en": "Santo Antonio do Jacinto",
+    "slug": "santo-antonio-do-jacinto-br3160306"
+  },
+  "code": {
+    "id": "BR3160306",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.505",
+    "lon": "-40.274"
+  },
+  "metadata": {},
+  "source": {}
+}

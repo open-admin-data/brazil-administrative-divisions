@@ -1,0 +1,45 @@
+{
+  "id": "BR2922250",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Muquém do São Francisco",
+    "en": "Muquem do Sao Francisco",
+    "slug": "muquem-do-sao-francisco-br2922250"
+  },
+  "code": {
+    "id": "BR2922250",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.125",
+    "lon": "-43.546"
+  },
+  "metadata": {},
+  "source": {}
+}

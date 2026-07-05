@@ -1,0 +1,45 @@
+{
+  "id": "BR1100122",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ji-Paraná",
+    "en": "Ji-Parana",
+    "slug": "ji-parana-br1100122"
+  },
+  "code": {
+    "id": "BR1100122",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.414",
+    "lon": "-61.74"
+  },
+  "metadata": {},
+  "source": {}
+}

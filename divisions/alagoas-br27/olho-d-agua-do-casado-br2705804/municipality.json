@@ -1,0 +1,45 @@
+{
+  "id": "BR2705804",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Olho d'Água do Casado",
+    "en": "Olho d'Agua do Casado",
+    "slug": "olho-d-agua-do-casado-br2705804"
+  },
+  "code": {
+    "id": "BR2705804",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.46",
+    "lon": "-37.833"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2313757",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Umirim",
+    "en": "Umirim",
+    "slug": "umirim-br2313757"
+  },
+  "code": {
+    "id": "BR2313757",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.703",
+    "lon": "-39.391"
+  },
+  "metadata": {},
+  "source": {}
+}

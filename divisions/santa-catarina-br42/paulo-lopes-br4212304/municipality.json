@@ -1,0 +1,45 @@
+{
+  "id": "BR4212304",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Paulo Lopes",
+    "en": "Paulo Lopes",
+    "slug": "paulo-lopes-br4212304"
+  },
+  "code": {
+    "id": "BR4212304",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.953",
+    "lon": "-48.758"
+  },
+  "metadata": {},
+  "source": {}
+}

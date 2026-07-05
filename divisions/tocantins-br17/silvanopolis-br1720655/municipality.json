@@ -1,0 +1,45 @@
+{
+  "id": "BR1720655",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Silvanópolis",
+    "en": "Silvanopolis",
+    "slug": "silvanopolis-br1720655"
+  },
+  "code": {
+    "id": "BR1720655",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.131",
+    "lon": "-47.999"
+  },
+  "metadata": {},
+  "source": {}
+}

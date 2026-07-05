@@ -1,0 +1,45 @@
+{
+  "id": "BR3130507",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ilicínea",
+    "en": "Ilicinea",
+    "slug": "ilicinea-br3130507"
+  },
+  "code": {
+    "id": "BR3130507",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.931",
+    "lon": "-45.815"
+  },
+  "metadata": {},
+  "source": {}
+}

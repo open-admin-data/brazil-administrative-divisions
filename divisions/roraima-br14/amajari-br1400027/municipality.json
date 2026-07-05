@@ -1,0 +1,45 @@
+{
+  "id": "BR1400027",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Amajari",
+    "en": "Amajari",
+    "slug": "amajari-br1400027"
+  },
+  "code": {
+    "id": "BR1400027",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR14",
+    "level": 1,
+    "name": {
+      "local": "Roraima",
+      "en": "Roraima",
+      "slug": "roraima-br14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.774",
+    "lon": "-62.585"
+  },
+  "metadata": {},
+  "source": {}
+}

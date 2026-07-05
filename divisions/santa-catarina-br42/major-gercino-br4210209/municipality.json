@@ -1,0 +1,45 @@
+{
+  "id": "BR4210209",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Major Gercino",
+    "en": "Major Gercino",
+    "slug": "major-gercino-br4210209"
+  },
+  "code": {
+    "id": "BR4210209",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.434",
+    "lon": "-49.063"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3529906",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Miracatu",
+    "en": "Miracatu",
+    "slug": "miracatu-br3529906"
+  },
+  "code": {
+    "id": "BR3529906",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.169",
+    "lon": "-47.368"
+  },
+  "metadata": {},
+  "source": {}
+}

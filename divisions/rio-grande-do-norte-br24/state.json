@@ -1,0 +1,33 @@
+{
+  "id": "BR24",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Rio Grande do Norte",
+    "en": "Rio Grande do Norte",
+    "slug": "rio-grande-do-norte-br24"
+  },
+  "code": {
+    "id": "BR24",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 167
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.401",
+    "lon": "-36.954"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/br/states/rio-grande-do-norte-br24/",
+    "api": "https://openadmindata.org/api/br/"
+  }
+}

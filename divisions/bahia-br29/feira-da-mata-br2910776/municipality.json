@@ -1,0 +1,45 @@
+{
+  "id": "BR2910776",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Feira da Mata",
+    "en": "Feira da Mata",
+    "slug": "feira-da-mata-br2910776"
+  },
+  "code": {
+    "id": "BR2910776",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.17",
+    "lon": "-44.273"
+  },
+  "metadata": {},
+  "source": {}
+}

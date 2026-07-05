@@ -1,0 +1,45 @@
+{
+  "id": "BR2916906",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itiruçu",
+    "en": "Itirucu",
+    "slug": "itirucu-br2916906"
+  },
+  "code": {
+    "id": "BR2916906",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.503",
+    "lon": "-40.173"
+  },
+  "metadata": {},
+  "source": {}
+}

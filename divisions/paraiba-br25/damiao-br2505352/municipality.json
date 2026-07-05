@@ -1,0 +1,45 @@
+{
+  "id": "BR2505352",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Damião",
+    "en": "Damiao",
+    "slug": "damiao-br2505352"
+  },
+  "code": {
+    "id": "BR2505352",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.674",
+    "lon": "-35.947"
+  },
+  "metadata": {},
+  "source": {}
+}

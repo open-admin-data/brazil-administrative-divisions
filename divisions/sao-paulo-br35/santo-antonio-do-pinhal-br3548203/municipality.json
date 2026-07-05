@@ -1,0 +1,45 @@
+{
+  "id": "BR3548203",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Antônio do Pinhal",
+    "en": "Santo Antonio do Pinhal",
+    "slug": "santo-antonio-do-pinhal-br3548203"
+  },
+  "code": {
+    "id": "BR3548203",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.82",
+    "lon": "-45.702"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1301951",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itamarati",
+    "en": "Itamarati",
+    "slug": "itamarati-br1301951"
+  },
+  "code": {
+    "id": "BR1301951",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.739",
+    "lon": "-67.757"
+  },
+  "metadata": {},
+  "source": {}
+}

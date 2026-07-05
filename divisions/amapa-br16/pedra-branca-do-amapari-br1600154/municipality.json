@@ -1,0 +1,45 @@
+{
+  "id": "BR1600154",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pedra Branca do Amapari",
+    "en": "Pedra Branca do Amapari",
+    "slug": "pedra-branca-do-amapari-br1600154"
+  },
+  "code": {
+    "id": "BR1600154",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR16",
+    "level": 1,
+    "name": {
+      "local": "Amapá",
+      "en": "Amapa",
+      "slug": "amapa-br16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.15",
+    "lon": "-52.407"
+  },
+  "metadata": {},
+  "source": {}
+}

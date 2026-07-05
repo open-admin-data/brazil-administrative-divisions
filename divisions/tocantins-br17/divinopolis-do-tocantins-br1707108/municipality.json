@@ -1,0 +1,45 @@
+{
+  "id": "BR1707108",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Divinópolis do Tocantins",
+    "en": "Divinopolis do Tocantins",
+    "slug": "divinopolis-do-tocantins-br1707108"
+  },
+  "code": {
+    "id": "BR1707108",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.656",
+    "lon": "-49.377"
+  },
+  "metadata": {},
+  "source": {}
+}

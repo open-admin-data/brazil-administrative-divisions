@@ -1,0 +1,45 @@
+{
+  "id": "BR2209658",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Francisco de Assis do Piauí",
+    "en": "Sao Francisco de Assis do Piaui",
+    "slug": "sao-francisco-de-assis-do-piaui-br2209658"
+  },
+  "code": {
+    "id": "BR2209658",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.231",
+    "lon": "-41.529"
+  },
+  "metadata": {},
+  "source": {}
+}

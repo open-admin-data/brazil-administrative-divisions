@@ -1,0 +1,45 @@
+{
+  "id": "BR2200103",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Agricolândia",
+    "en": "Agricolandia",
+    "slug": "agricolandia-br2200103"
+  },
+  "code": {
+    "id": "BR2200103",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.733",
+    "lon": "-42.681"
+  },
+  "metadata": {},
+  "source": {}
+}

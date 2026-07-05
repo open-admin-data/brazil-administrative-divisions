@@ -1,0 +1,45 @@
+{
+  "id": "BR2802304",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Frei Paulo",
+    "en": "Frei Paulo",
+    "slug": "frei-paulo-br2802304"
+  },
+  "code": {
+    "id": "BR2802304",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.521",
+    "lon": "-37.59"
+  },
+  "metadata": {},
+  "source": {}
+}

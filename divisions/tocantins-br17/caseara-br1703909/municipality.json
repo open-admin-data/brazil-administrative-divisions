@@ -1,0 +1,45 @@
+{
+  "id": "BR1703909",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Caseara",
+    "en": "Caseara",
+    "slug": "caseara-br1703909"
+  },
+  "code": {
+    "id": "BR1703909",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.444",
+    "lon": "-49.833"
+  },
+  "metadata": {},
+  "source": {}
+}

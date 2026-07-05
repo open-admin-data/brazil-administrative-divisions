@@ -1,0 +1,45 @@
+{
+  "id": "BR2702009",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Coité do Nóia",
+    "en": "Coite do Noia",
+    "slug": "coite-do-noia-br2702009"
+  },
+  "code": {
+    "id": "BR2702009",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.629",
+    "lon": "-36.596"
+  },
+  "metadata": {},
+  "source": {}
+}

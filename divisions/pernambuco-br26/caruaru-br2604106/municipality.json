@@ -1,0 +1,45 @@
+{
+  "id": "BR2604106",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Caruaru",
+    "en": "Caruaru",
+    "slug": "caruaru-br2604106"
+  },
+  "code": {
+    "id": "BR2604106",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR26",
+    "level": 1,
+    "name": {
+      "local": "Pernambuco",
+      "en": "Pernambuco",
+      "slug": "pernambuco-br26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.154",
+    "lon": "-36.048"
+  },
+  "metadata": {},
+  "source": {}
+}

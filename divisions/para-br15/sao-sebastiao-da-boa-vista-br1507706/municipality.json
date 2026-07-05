@@ -1,0 +1,45 @@
+{
+  "id": "BR1507706",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Sebastião da Boa Vista",
+    "en": "Sao Sebastiao da Boa Vista",
+    "slug": "sao-sebastiao-da-boa-vista-br1507706"
+  },
+  "code": {
+    "id": "BR1507706",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.449",
+    "lon": "-49.658"
+  },
+  "metadata": {},
+  "source": {}
+}

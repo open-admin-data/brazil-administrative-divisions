@@ -1,0 +1,45 @@
+{
+  "id": "BR5108857",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Marilândia",
+    "en": "Nova Marilandia",
+    "slug": "nova-marilandia-br5108857"
+  },
+  "code": {
+    "id": "BR5108857",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.306",
+    "lon": "-57.284"
+  },
+  "metadata": {},
+  "source": {}
+}

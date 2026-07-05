@@ -1,0 +1,45 @@
+{
+  "id": "BR3302304",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Laje do Muriaé",
+    "en": "Laje do Muriae",
+    "slug": "laje-do-muriae-br3302304"
+  },
+  "code": {
+    "id": "BR3302304",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR33",
+    "level": 1,
+    "name": {
+      "local": "Rio de Janeiro",
+      "en": "Rio de Janeiro",
+      "slug": "rio-de-janeiro-br33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.241",
+    "lon": "-42.13"
+  },
+  "metadata": {},
+  "source": {}
+}

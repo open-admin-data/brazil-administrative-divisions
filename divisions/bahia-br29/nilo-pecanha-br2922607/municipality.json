@@ -1,0 +1,45 @@
+{
+  "id": "BR2922607",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nilo Peçanha",
+    "en": "Nilo Pecanha",
+    "slug": "nilo-pecanha-br2922607"
+  },
+  "code": {
+    "id": "BR2922607",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.656",
+    "lon": "-39.182"
+  },
+  "metadata": {},
+  "source": {}
+}

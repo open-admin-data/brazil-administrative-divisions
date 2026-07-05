@@ -1,0 +1,45 @@
+{
+  "id": "BR3514924",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Elisiário",
+    "en": "Elisiario",
+    "slug": "elisiario-br3514924"
+  },
+  "code": {
+    "id": "BR3514924",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.156",
+    "lon": "-49.091"
+  },
+  "metadata": {},
+  "source": {}
+}

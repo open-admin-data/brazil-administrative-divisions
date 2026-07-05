@@ -1,0 +1,45 @@
+{
+  "id": "BR3100906",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Águas Formosas",
+    "en": "Aguas Formosas",
+    "slug": "aguas-formosas-br3100906"
+  },
+  "code": {
+    "id": "BR3100906",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.053",
+    "lon": "-40.981"
+  },
+  "metadata": {},
+  "source": {}
+}

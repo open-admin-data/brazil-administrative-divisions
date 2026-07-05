@@ -1,0 +1,45 @@
+{
+  "id": "BR4121307",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rancho Alegre",
+    "en": "Rancho Alegre",
+    "slug": "rancho-alegre-br4121307"
+  },
+  "code": {
+    "id": "BR4121307",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.069",
+    "lon": "-50.921"
+  },
+  "metadata": {},
+  "source": {}
+}

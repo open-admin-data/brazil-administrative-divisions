@@ -1,0 +1,45 @@
+{
+  "id": "BR3161700",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Gonçalo do Abaeté",
+    "en": "Sao Goncalo do Abaete",
+    "slug": "sao-goncalo-do-abaete-br3161700"
+  },
+  "code": {
+    "id": "BR3161700",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.215",
+    "lon": "-45.591"
+  },
+  "metadata": {},
+  "source": {}
+}

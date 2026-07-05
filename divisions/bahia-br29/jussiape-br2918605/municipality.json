@@ -1,0 +1,45 @@
+{
+  "id": "BR2918605",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jussiape",
+    "en": "Jussiape",
+    "slug": "jussiape-br2918605"
+  },
+  "code": {
+    "id": "BR2918605",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.482",
+    "lon": "-41.628"
+  },
+  "metadata": {},
+  "source": {}
+}

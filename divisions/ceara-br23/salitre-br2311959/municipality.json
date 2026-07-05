@@ -1,0 +1,45 @@
+{
+  "id": "BR2311959",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Salitre",
+    "en": "Salitre",
+    "slug": "salitre-br2311959"
+  },
+  "code": {
+    "id": "BR2311959",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.151",
+    "lon": "-40.312"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2928059",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Luzia",
+    "en": "Santa Luzia",
+    "slug": "santa-luzia-br2928059"
+  },
+  "code": {
+    "id": "BR2928059",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.728",
+    "lon": "-43.827"
+  },
+  "metadata": {},
+  "source": {}
+}

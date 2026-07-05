@@ -1,0 +1,45 @@
+{
+  "id": "BR1200054",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Assis Brasil",
+    "en": "Assis Brasil",
+    "slug": "assis-brasil-br1200054"
+  },
+  "code": {
+    "id": "BR1200054",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR12",
+    "level": 1,
+    "name": {
+      "local": "Acre",
+      "en": "Acre",
+      "slug": "acre-br12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.757",
+    "lon": "-69.968"
+  },
+  "metadata": {},
+  "source": {}
+}

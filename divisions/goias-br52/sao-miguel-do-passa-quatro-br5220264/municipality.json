@@ -1,0 +1,45 @@
+{
+  "id": "BR5220264",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Miguel do Passa Quatro",
+    "en": "Sao Miguel do Passa Quatro",
+    "slug": "sao-miguel-do-passa-quatro-br5220264"
+  },
+  "code": {
+    "id": "BR5220264",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.998",
+    "lon": "-48.672"
+  },
+  "metadata": {},
+  "source": {}
+}

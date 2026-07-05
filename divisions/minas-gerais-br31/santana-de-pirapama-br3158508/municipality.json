@@ -1,0 +1,45 @@
+{
+  "id": "BR3158508",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santana de Pirapama",
+    "en": "Santana de Pirapama",
+    "slug": "santana-de-pirapama-br3158508"
+  },
+  "code": {
+    "id": "BR3158508",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.903",
+    "lon": "-43.935"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2922730",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Fátima",
+    "en": "Nova Fatima",
+    "slug": "nova-fatima-br2922730"
+  },
+  "code": {
+    "id": "BR2922730",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.403",
+    "lon": "-50.538"
+  },
+  "metadata": {},
+  "source": {}
+}

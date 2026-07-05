@@ -1,0 +1,45 @@
+{
+  "id": "BR3557303",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Estiva Gerbi",
+    "en": "Estiva Gerbi",
+    "slug": "estiva-gerbi-br3557303"
+  },
+  "code": {
+    "id": "BR3557303",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.223",
+    "lon": "-46.938"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2701506",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campo Grande",
+    "en": "Campo Grande",
+    "slug": "campo-grande-br2701506"
+  },
+  "code": {
+    "id": "BR2701506",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.985",
+    "lon": "-54.228"
+  },
+  "metadata": {},
+  "source": {}
+}

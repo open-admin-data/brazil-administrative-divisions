@@ -1,0 +1,45 @@
+{
+  "id": "BR1708205",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Formoso do Araguaia",
+    "en": "Formoso do Araguaia",
+    "slug": "formoso-do-araguaia-br1708205"
+  },
+  "code": {
+    "id": "BR1708205",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.185",
+    "lon": "-50.099"
+  },
+  "metadata": {},
+  "source": {}
+}

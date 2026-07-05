@@ -1,0 +1,45 @@
+{
+  "id": "BR2309508",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Orós",
+    "en": "Oros",
+    "slug": "oros-br2309508"
+  },
+  "code": {
+    "id": "BR2309508",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.235",
+    "lon": "-38.952"
+  },
+  "metadata": {},
+  "source": {}
+}

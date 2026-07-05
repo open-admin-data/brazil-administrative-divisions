@@ -1,0 +1,45 @@
+{
+  "id": "BR3119708",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Coronel Xavier Chaves",
+    "en": "Coronel Xavier Chaves",
+    "slug": "coronel-xavier-chaves-br3119708"
+  },
+  "code": {
+    "id": "BR3119708",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.031",
+    "lon": "-44.202"
+  },
+  "metadata": {},
+  "source": {}
+}

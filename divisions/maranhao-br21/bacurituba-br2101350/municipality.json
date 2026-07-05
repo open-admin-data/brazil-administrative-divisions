@@ -1,0 +1,45 @@
+{
+  "id": "BR2101350",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bacurituba",
+    "en": "Bacurituba",
+    "slug": "bacurituba-br2101350"
+  },
+  "code": {
+    "id": "BR2101350",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.683",
+    "lon": "-44.693"
+  },
+  "metadata": {},
+  "source": {}
+}

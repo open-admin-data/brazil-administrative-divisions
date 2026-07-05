@@ -1,0 +1,45 @@
+{
+  "id": "BR4103008",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Boa Esperança",
+    "en": "Boa Esperanca",
+    "slug": "boa-esperanca-br4103008"
+  },
+  "code": {
+    "id": "BR4103008",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.246",
+    "lon": "-52.741"
+  },
+  "metadata": {},
+  "source": {}
+}

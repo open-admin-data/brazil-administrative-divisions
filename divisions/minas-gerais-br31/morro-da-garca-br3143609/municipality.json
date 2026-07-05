@@ -1,0 +1,45 @@
+{
+  "id": "BR3143609",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Morro da Garça",
+    "en": "Morro da Garca",
+    "slug": "morro-da-garca-br3143609"
+  },
+  "code": {
+    "id": "BR3143609",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.622",
+    "lon": "-44.629"
+  },
+  "metadata": {},
+  "source": {}
+}

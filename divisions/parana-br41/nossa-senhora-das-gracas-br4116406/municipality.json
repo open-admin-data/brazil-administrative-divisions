@@ -1,0 +1,45 @@
+{
+  "id": "BR4116406",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nossa Senhora das Graças",
+    "en": "Nossa Senhora das Gracas",
+    "slug": "nossa-senhora-das-gracas-br4116406"
+  },
+  "code": {
+    "id": "BR4116406",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.924",
+    "lon": "-51.799"
+  },
+  "metadata": {},
+  "source": {}
+}

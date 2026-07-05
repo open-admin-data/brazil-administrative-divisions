@@ -1,0 +1,93 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+BR3300100,Angra dos Reis,Angra dos Reis,angra-dos-reis-br3300100,BR3300100,-22.957,-44.371
+BR3300159,Aperibé,Aperibe,aperibe-br3300159,BR3300159,-21.646,-42.139
+BR3300209,Araruama,Araruama,araruama-br3300209,BR3300209,-22.707,-42.289
+BR3300225,Areal,Areal,areal-br3300225,BR3300225,-22.233,-43.111
+BR3300233,Armação dos Búzios,Armacao dos Buzios,armacao-dos-buzios-br3300233,BR3300233,-22.772,-41.911
+BR3300258,Arraial do Cabo,Arraial do Cabo,arraial-do-cabo-br3300258,BR3300258,-22.941,-42.092
+BR3300308,Barra do Piraí,Barra do Pirai,barra-do-pirai-br3300308,BR3300308,-22.413,-43.897
+BR3300407,Barra Mansa,Barra Mansa,barra-mansa-br3300407,BR3300407,-22.497,-44.193
+BR3300456,Belford Roxo,Belford Roxo,belford-roxo-br3300456,BR3300456,-22.719,-43.381
+BR3300506,Bom Jardim,Bom Jardim,bom-jardim-br3300506,BR3300506,-22.184,-42.339
+BR3300605,Bom Jesus do Itabapoana,Bom Jesus do Itabapoana,bom-jesus-do-itabapoana-br3300605,BR3300605,-21.111,-41.689
+BR3300704,Cabo Frio,Cabo Frio,cabo-frio-br3300704,BR3300704,-22.696,-42.06
+BR3300803,Cachoeiras de Macacu,Cachoeiras de Macacu,cachoeiras-de-macacu-br3300803,BR3300803,-22.496,-42.722
+BR3300902,Cambuci,Cambuci,cambuci-br3300902,BR3300902,-21.506,-41.94
+BR3301009,Campos dos Goytacazes,Campos dos Goytacazes,campos-dos-goytacazes-br3301009,BR3301009,-21.665,-41.456
+BR3301108,Cantagalo,Cantagalo,cantagalo-br3301108,BR3301108,-25.29,-52.138
+BR3300936,Carapebus,Carapebus,carapebus-br3300936,BR3300936,-22.216,-41.619
+BR3301157,Cardoso Moreira,Cardoso Moreira,cardoso-moreira-br3301157,BR3301157,-21.532,-41.483
+BR3301207,Carmo,Carmo,carmo-br3301207,BR3301207,-21.893,-42.55
+BR3301306,Casimiro de Abreu,Casimiro de Abreu,casimiro-de-abreu-br3301306,BR3301306,-22.483,-42.142
+BR3300951,Comendador Levy Gasparian,Comendador Levy Gasparian,comendador-levy-gasparian-br3300951,BR3300951,-22.035,-43.249
+BR3301405,Conceição de Macabu,Conceicao de Macabu,conceicao-de-macabu-br3301405,BR3301405,-22.141,-41.862
+BR3301504,Cordeiro,Cordeiro,cordeiro-br3301504,BR3301504,-22.074,-42.325
+BR3301603,Duas Barras,Duas Barras,duas-barras-br3301603,BR3301603,-22.065,-42.52
+BR3301702,Duque de Caxias,Duque de Caxias,duque-de-caxias-br3301702,BR3301702,-22.639,-43.306
+BR3301801,Engenheiro Paulo de Frontin,Engenheiro Paulo de Frontin,engenheiro-paulo-de-frontin-br3301801,BR3301801,-22.54,-43.663
+BR3301850,Guapimirim,Guapimirim,guapimirim-br3301850,BR3301850,-22.581,-42.97
+BR3301876,Iguaba Grande,Iguaba Grande,iguaba-grande-br3301876,BR3301876,-22.821,-42.214
+BR3301900,Itaboraí,Itaborai,itaborai-br3301900,BR3301900,-22.761,-42.869
+BR3302007,Itaguaí,Itaguai,itaguai-br3302007,BR3302007,-22.83,-43.812
+BR3302056,Italva,Italva,italva-br3302056,BR3302056,-21.396,-41.659
+BR3302106,Itaocara,Itaocara,itaocara-br3302106,BR3302106,-21.745,-42.073
+BR3302205,Itaperuna,Itaperuna,itaperuna-br3302205,BR3302205,-21.215,-41.934
+BR3302254,Itatiaia,Itatiaia,itatiaia-br3302254,BR3302254,-22.424,-44.588
+BR3302270,Japeri,Japeri,japeri-br3302270,BR3302270,-22.665,-43.601
+BR3302304,Laje do Muriaé,Laje do Muriae,laje-do-muriae-br3302304,BR3302304,-21.241,-42.13
+BR3302403,Macaé,Macae,macae-br3302403,BR3302403,-22.307,-42.009
+BR3302452,Macuco,Macuco,macuco-br3302452,BR3302452,-22.03,-42.271
+BR3302502,Magé,Mage,mage-br3302502,BR3302502,-22.619,-43.119
+BR3302601,Mangaratiba,Mangaratiba,mangaratiba-br3302601,BR3302601,-22.929,-44.048
+BR3302700,Maricá,Marica,marica-br3302700,BR3302700,-22.901,-42.815
+BR3302809,Mendes,Mendes,mendes-br3302809,BR3302809,-22.53,-43.75
+BR3302858,Mesquita,Mesquita,mesquita-br3302858,BR3302858,-22.794,-43.451
+BR3302908,Miguel Pereira,Miguel Pereira,miguel-pereira-br3302908,BR3302908,-22.511,-43.45
+BR3303005,Miracema,Miracema,miracema-br3303005,BR3303005,-21.377,-42.152
+BR3303104,Natividade,Natividade,natividade-br3303104,BR3303104,-21.042,-41.939
+BR3303203,Nilópolis,Nilopolis,nilopolis-br3303203,BR3303203,-22.823,-43.43
+BR3303302,Niterói,Niteroi,niteroi-br3303302,BR3303302,-22.922,-43.063
+BR3303401,Nova Friburgo,Nova Friburgo,nova-friburgo-br3303401,BR3303401,-22.325,-42.512
+BR3303500,Nova Iguaçu,Nova Iguacu,nova-iguacu-br3303500,BR3303500,-22.681,-43.514
+BR3303609,Paracambi,Paracambi,paracambi-br3303609,BR3303609,-22.614,-43.722
+BR3303708,Paraíba do Sul,Paraiba do Sul,paraiba-do-sul-br3303708,BR3303708,-22.171,-43.284
+BR3303807,Paraty,Paraty,paraty-br3303807,BR3303807,-23.178,-44.681
+BR3303856,Paty do Alferes,Paty do Alferes,paty-do-alferes-br3303856,BR3303856,-22.409,-43.401
+BR3303906,Petrópolis,Petropolis,petropolis-br3303906,BR3303906,-22.383,-43.154
+BR3303955,Pinheiral,Pinheiral,pinheiral-br3303955,BR3303955,-22.538,-44.01
+BR3304003,Piraí,Pirai,pirai-br3304003,BR3304003,-22.662,-43.9
+BR3304102,Porciúncula,Porciuncula,porciuncula-br3304102,BR3304102,-20.895,-41.958
+BR3304110,Porto Real,Porto Real,porto-real-br3304110,BR3304110,-22.448,-44.326
+BR3304128,Quatis,Quatis,quatis-br3304128,BR3304128,-22.354,-44.237
+BR3304144,Queimados,Queimados,queimados-br3304144,BR3304144,-22.728,-43.582
+BR3304151,Quissamã,Quissama,quissama-br3304151,BR3304151,-22.108,-41.428
+BR3304201,Resende,Resende,resende-br3304201,BR3304201,-22.457,-44.503
+BR3304300,Rio Bonito,Rio Bonito,rio-bonito-br3304300,BR3304300,-22.749,-42.607
+BR3304409,Rio Claro,Rio Claro,rio-claro-br3304409,BR3304409,-22.402,-47.609
+BR3304508,Rio das Flores,Rio das Flores,rio-das-flores-br3304508,BR3304508,-22.157,-43.564
+BR3304524,Rio das Ostras,Rio das Ostras,rio-das-ostras-br3304524,BR3304524,-22.445,-41.948
+BR3304557,Rio de Janeiro,Rio de Janeiro,rio-de-janeiro-br3304557,BR3304557,-22.929,-43.447
+BR3304607,Santa Maria Madalena,Santa Maria Madalena,santa-maria-madalena-br3304607,BR3304607,-21.961,-41.936
+BR3304706,Santo Antônio de Pádua,Santo Antonio de Padua,santo-antonio-de-padua-br3304706,BR3304706,-21.564,-42.197
+BR3304805,São Fidélis,Sao Fidelis,sao-fidelis-br3304805,BR3304805,-21.702,-41.778
+BR3304755,São Francisco de Itabapoana,Sao Francisco de Itabapoana,sao-francisco-de-itabapoana-br3304755,BR3304755,-21.401,-41.142
+BR3304904,São Gonçalo,Sao Goncalo,sao-goncalo-br3304904,BR3304904,-22.819,-43.008
+BR3305000,São João da Barra,Sao Joao da Barra,sao-joao-da-barra-br3305000,BR3305000,-21.751,-41.096
+BR3305109,São João de Meriti,Sao Joao de Meriti,sao-joao-de-meriti-br3305109,BR3305109,-22.791,-43.37
+BR3305133,São José de Ubá,Sao Jose de Uba,sao-jose-de-uba-br3305133,BR3305133,-21.372,-41.95
+BR3305158,São José do Vale do Rio Preto,Sao Jose do Vale do Rio Preto,sao-jose-do-vale-do-rio-preto-br3305158,BR3305158,-22.162,-42.905
+BR3305208,São Pedro da Aldeia,Sao Pedro da Aldeia,sao-pedro-da-aldeia-br3305208,BR3305208,-22.824,-42.144
+BR3305307,São Sebastião do Alto,Sao Sebastiao do Alto,sao-sebastiao-do-alto-br3305307,BR3305307,-21.878,-42.097
+BR3305406,Sapucaia,Sapucaia,sapucaia-br3305406,BR3305406,-22.038,-42.818
+BR3305505,Saquarema,Saquarema,saquarema-br3305505,BR3305505,-22.867,-42.56
+BR3305554,Seropédica,Seropedica,seropedica-br3305554,BR3305554,-22.741,-43.699
+BR3305604,Silva Jardim,Silva Jardim,silva-jardim-br3305604,BR3305604,-22.554,-42.371
+BR3305703,Sumidouro,Sumidouro,sumidouro-br3305703,BR3305703,-22.133,-42.66
+BR3305752,Tanguá,Tangua,tangua-br3305752,BR3305752,-22.792,-42.724
+BR3305802,Teresópolis,Teresopolis,teresopolis-br3305802,BR3305802,-22.32,-42.882
+BR3305901,Trajano de Moraes,Trajano de Moraes,trajano-de-moraes-br3305901,BR3305901,-22.15,-42.187
+BR3306008,Três Rios,Tres Rios,tres-rios-br3306008,BR3306008,-22.114,-43.078
+BR3306107,Valença,Valenca,valenca-br3306107,BR3306107,-22.24,-43.872
+BR3306156,Varre-Sai,Varre-Sai,varre-sai-br3306156,BR3306156,-20.897,-41.821
+BR3306206,Vassouras,Vassouras,vassouras-br3306206,BR3306206,-22.357,-43.603
+BR3306305,Volta Redonda,Volta Redonda,volta-redonda-br3306305,BR3306305,-22.512,-44.079

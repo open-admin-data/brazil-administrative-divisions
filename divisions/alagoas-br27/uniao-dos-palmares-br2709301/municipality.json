@@ -1,0 +1,45 @@
+{
+  "id": "BR2709301",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "União dos Palmares",
+    "en": "Uniao dos Palmares",
+    "slug": "uniao-dos-palmares-br2709301"
+  },
+  "code": {
+    "id": "BR2709301",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.105",
+    "lon": "-36.034"
+  },
+  "metadata": {},
+  "source": {}
+}

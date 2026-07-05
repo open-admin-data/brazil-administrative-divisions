@@ -1,0 +1,45 @@
+{
+  "id": "BR4205357",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Flor do Sertão",
+    "en": "Flor do Sertao",
+    "slug": "flor-do-sertao-br4205357"
+  },
+  "code": {
+    "id": "BR4205357",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.759",
+    "lon": "-53.344"
+  },
+  "metadata": {},
+  "source": {}
+}

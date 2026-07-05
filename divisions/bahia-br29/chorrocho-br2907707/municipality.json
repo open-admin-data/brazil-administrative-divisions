@@ -1,0 +1,45 @@
+{
+  "id": "BR2907707",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chorrochó",
+    "en": "Chorrocho",
+    "slug": "chorrocho-br2907707"
+  },
+  "code": {
+    "id": "BR2907707",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.307",
+    "lon": "-39.184"
+  },
+  "metadata": {},
+  "source": {}
+}

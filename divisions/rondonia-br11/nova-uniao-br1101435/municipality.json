@@ -1,0 +1,45 @@
+{
+  "id": "BR1101435",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova União",
+    "en": "Nova Uniao",
+    "slug": "nova-uniao-br1101435"
+  },
+  "code": {
+    "id": "BR1101435",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.64",
+    "lon": "-43.573"
+  },
+  "metadata": {},
+  "source": {}
+}

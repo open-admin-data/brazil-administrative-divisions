@@ -1,0 +1,45 @@
+{
+  "id": "BR2513927",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Bentinho",
+    "en": "Sao Bentinho",
+    "slug": "sao-bentinho-br2513927"
+  },
+  "code": {
+    "id": "BR2513927",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.9",
+    "lon": "-37.71"
+  },
+  "metadata": {},
+  "source": {}
+}

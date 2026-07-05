@@ -1,0 +1,45 @@
+{
+  "id": "BR5221700",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Uruana",
+    "en": "Uruana",
+    "slug": "uruana-br5221700"
+  },
+  "code": {
+    "id": "BR5221700",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.574",
+    "lon": "-49.647"
+  },
+  "metadata": {},
+  "source": {}
+}

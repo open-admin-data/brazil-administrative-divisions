@@ -1,0 +1,45 @@
+{
+  "id": "BR2207108",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Olho D'Água do Piauí",
+    "en": "Olho D'Agua do Piaui",
+    "slug": "olho-d-agua-do-piaui-br2207108"
+  },
+  "code": {
+    "id": "BR2207108",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.854",
+    "lon": "-42.544"
+  },
+  "metadata": {},
+  "source": {}
+}

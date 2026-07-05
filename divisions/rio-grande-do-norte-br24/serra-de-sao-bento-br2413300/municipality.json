@@ -1,0 +1,45 @@
+{
+  "id": "BR2413300",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Serra de São Bento",
+    "en": "Serra de Sao Bento",
+    "slug": "serra-de-sao-bento-br2413300"
+  },
+  "code": {
+    "id": "BR2413300",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR24",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Norte",
+      "en": "Rio Grande do Norte",
+      "slug": "rio-grande-do-norte-br24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.434",
+    "lon": "-35.713"
+  },
+  "metadata": {},
+  "source": {}
+}

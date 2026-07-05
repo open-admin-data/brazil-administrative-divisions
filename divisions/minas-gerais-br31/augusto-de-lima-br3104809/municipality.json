@@ -1,0 +1,45 @@
+{
+  "id": "BR3104809",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Augusto de Lima",
+    "en": "Augusto de Lima",
+    "slug": "augusto-de-lima-br3104809"
+  },
+  "code": {
+    "id": "BR3104809",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.101",
+    "lon": "-44.18"
+  },
+  "metadata": {},
+  "source": {}
+}

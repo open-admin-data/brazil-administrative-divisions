@@ -1,0 +1,45 @@
+{
+  "id": "BR2916609",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itapitanga",
+    "en": "Itapitanga",
+    "slug": "itapitanga-br2916609"
+  },
+  "code": {
+    "id": "BR2916609",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.453",
+    "lon": "-39.595"
+  },
+  "metadata": {},
+  "source": {}
+}

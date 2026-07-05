@@ -1,0 +1,45 @@
+{
+  "id": "BR4108452",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Foz do Jordão",
+    "en": "Foz do Jordao",
+    "slug": "foz-do-jordao-br4108452"
+  },
+  "code": {
+    "id": "BR4108452",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.7",
+    "lon": "-52.074"
+  },
+  "metadata": {},
+  "source": {}
+}

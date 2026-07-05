@@ -1,0 +1,45 @@
+{
+  "id": "BR1504059",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mãe do Rio",
+    "en": "Mae do Rio",
+    "slug": "mae-do-rio-br1504059"
+  },
+  "code": {
+    "id": "BR1504059",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.989",
+    "lon": "-47.513"
+  },
+  "metadata": {},
+  "source": {}
+}

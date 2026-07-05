@@ -1,0 +1,45 @@
+{
+  "id": "BR2924652",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pintadas",
+    "en": "Pintadas",
+    "slug": "pintadas-br2924652"
+  },
+  "code": {
+    "id": "BR2924652",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.874",
+    "lon": "-39.89"
+  },
+  "metadata": {},
+  "source": {}
+}

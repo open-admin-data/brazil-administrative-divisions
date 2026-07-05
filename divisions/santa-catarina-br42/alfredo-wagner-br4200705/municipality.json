@@ -1,0 +1,45 @@
+{
+  "id": "BR4200705",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alfredo Wagner",
+    "en": "Alfredo Wagner",
+    "slug": "alfredo-wagner-br4200705"
+  },
+  "code": {
+    "id": "BR4200705",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.711",
+    "lon": "-49.339"
+  },
+  "metadata": {},
+  "source": {}
+}

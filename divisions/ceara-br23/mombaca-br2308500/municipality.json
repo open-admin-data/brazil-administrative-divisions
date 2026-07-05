@@ -1,0 +1,45 @@
+{
+  "id": "BR2308500",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mombaça",
+    "en": "Mombaca",
+    "slug": "mombaca-br2308500"
+  },
+  "code": {
+    "id": "BR2308500",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.807",
+    "lon": "-39.786"
+  },
+  "metadata": {},
+  "source": {}
+}

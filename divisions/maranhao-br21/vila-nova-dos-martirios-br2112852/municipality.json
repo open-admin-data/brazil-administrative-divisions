@@ -1,0 +1,45 @@
+{
+  "id": "BR2112852",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vila Nova dos Martírios",
+    "en": "Vila Nova dos Martirios",
+    "slug": "vila-nova-dos-martirios-br2112852"
+  },
+  "code": {
+    "id": "BR2112852",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.086",
+    "lon": "-48.066"
+  },
+  "metadata": {},
+  "source": {}
+}

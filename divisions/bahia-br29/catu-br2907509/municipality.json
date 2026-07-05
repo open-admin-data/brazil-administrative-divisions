@@ -1,0 +1,45 @@
+{
+  "id": "BR2907509",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Catu",
+    "en": "Catu",
+    "slug": "catu-br2907509"
+  },
+  "code": {
+    "id": "BR2907509",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.355",
+    "lon": "-38.424"
+  },
+  "metadata": {},
+  "source": {}
+}

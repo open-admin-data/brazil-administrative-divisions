@@ -1,0 +1,45 @@
+{
+  "id": "BR3551603",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Serra Negra",
+    "en": "Serra Negra",
+    "slug": "serra-negra-br3551603"
+  },
+  "code": {
+    "id": "BR3551603",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.58",
+    "lon": "-46.694"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3107604",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bom Jesus da Penha",
+    "en": "Bom Jesus da Penha",
+    "slug": "bom-jesus-da-penha-br3107604"
+  },
+  "code": {
+    "id": "BR3107604",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.003",
+    "lon": "-46.544"
+  },
+  "metadata": {},
+  "source": {}
+}

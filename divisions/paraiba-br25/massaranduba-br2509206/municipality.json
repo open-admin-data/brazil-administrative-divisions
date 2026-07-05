@@ -1,0 +1,45 @@
+{
+  "id": "BR2509206",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Massaranduba",
+    "en": "Massaranduba",
+    "slug": "massaranduba-br2509206"
+  },
+  "code": {
+    "id": "BR2509206",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.627",
+    "lon": "-48.995"
+  },
+  "metadata": {},
+  "source": {}
+}

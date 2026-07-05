@@ -1,0 +1,45 @@
+{
+  "id": "BR4212908",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pinhalzinho",
+    "en": "Pinhalzinho",
+    "slug": "pinhalzinho-br4212908"
+  },
+  "code": {
+    "id": "BR4212908",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.817",
+    "lon": "-52.975"
+  },
+  "metadata": {},
+  "source": {}
+}

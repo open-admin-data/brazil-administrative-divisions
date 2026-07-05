@@ -1,0 +1,45 @@
+{
+  "id": "BR2202091",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Caldeirão Grande do Piauí",
+    "en": "Caldeirao Grande do Piaui",
+    "slug": "caldeirao-grande-do-piaui-br2202091"
+  },
+  "code": {
+    "id": "BR2202091",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.285",
+    "lon": "-40.607"
+  },
+  "metadata": {},
+  "source": {}
+}

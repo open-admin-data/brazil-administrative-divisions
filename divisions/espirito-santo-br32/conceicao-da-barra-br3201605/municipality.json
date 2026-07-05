@@ -1,0 +1,45 @@
+{
+  "id": "BR3201605",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Conceição da Barra",
+    "en": "Conceicao da Barra",
+    "slug": "conceicao-da-barra-br3201605"
+  },
+  "code": {
+    "id": "BR3201605",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.434",
+    "lon": "-39.859"
+  },
+  "metadata": {},
+  "source": {}
+}

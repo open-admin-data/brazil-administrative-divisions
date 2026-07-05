@@ -1,0 +1,45 @@
+{
+  "id": "BR4105805",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Colombo",
+    "en": "Colombo",
+    "slug": "colombo-br4105805"
+  },
+  "code": {
+    "id": "BR4105805",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.3",
+    "lon": "-49.185"
+  },
+  "metadata": {},
+  "source": {}
+}

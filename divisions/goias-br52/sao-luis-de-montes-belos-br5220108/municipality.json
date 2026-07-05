@@ -1,0 +1,45 @@
+{
+  "id": "BR5220108",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Luís de Montes Belos",
+    "en": "Sao Luis de Montes Belos",
+    "slug": "sao-luis-de-montes-belos-br5220108"
+  },
+  "code": {
+    "id": "BR5220108",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.45",
+    "lon": "-50.378"
+  },
+  "metadata": {},
+  "source": {}
+}

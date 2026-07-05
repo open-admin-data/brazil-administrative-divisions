@@ -1,0 +1,45 @@
+{
+  "id": "BR3154705",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ribeirão Vermelho",
+    "en": "Ribeirao Vermelho",
+    "slug": "ribeirao-vermelho-br3154705"
+  },
+  "code": {
+    "id": "BR3154705",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.154",
+    "lon": "-45.079"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR4105300",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Céu Azul",
+    "en": "Ceu Azul",
+    "slug": "ceu-azul-br4105300"
+  },
+  "code": {
+    "id": "BR4105300",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.329",
+    "lon": "-53.749"
+  },
+  "metadata": {},
+  "source": {}
+}

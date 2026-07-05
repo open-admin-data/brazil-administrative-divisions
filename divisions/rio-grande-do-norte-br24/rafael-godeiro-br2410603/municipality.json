@@ -1,0 +1,45 @@
+{
+  "id": "BR2410603",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rafael Godeiro",
+    "en": "Rafael Godeiro",
+    "slug": "rafael-godeiro-br2410603"
+  },
+  "code": {
+    "id": "BR2410603",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR24",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Norte",
+      "en": "Rio Grande do Norte",
+      "slug": "rio-grande-do-norte-br24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.059",
+    "lon": "-37.74"
+  },
+  "metadata": {},
+  "source": {}
+}

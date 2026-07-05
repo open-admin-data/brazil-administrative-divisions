@@ -1,0 +1,45 @@
+{
+  "id": "BR2202026",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Buriti dos Montes",
+    "en": "Buriti dos Montes",
+    "slug": "buriti-dos-montes-br2202026"
+  },
+  "code": {
+    "id": "BR2202026",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.12",
+    "lon": "-41.21"
+  },
+  "metadata": {},
+  "source": {}
+}

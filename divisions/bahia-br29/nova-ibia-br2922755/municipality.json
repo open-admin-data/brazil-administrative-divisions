@@ -1,0 +1,45 @@
+{
+  "id": "BR2922755",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Ibiá",
+    "en": "Nova Ibia",
+    "slug": "nova-ibia-br2922755"
+  },
+  "code": {
+    "id": "BR2922755",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.842",
+    "lon": "-39.579"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1504950",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Esperança do Piriá",
+    "en": "Nova Esperanca do Piria",
+    "slug": "nova-esperanca-do-piria-br1504950"
+  },
+  "code": {
+    "id": "BR1504950",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.436",
+    "lon": "-46.94"
+  },
+  "metadata": {},
+  "source": {}
+}

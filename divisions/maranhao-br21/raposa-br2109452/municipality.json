@@ -1,0 +1,45 @@
+{
+  "id": "BR2109452",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Raposa",
+    "en": "Raposa",
+    "slug": "raposa-br2109452"
+  },
+  "code": {
+    "id": "BR2109452",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.454",
+    "lon": "-44.096"
+  },
+  "metadata": {},
+  "source": {}
+}

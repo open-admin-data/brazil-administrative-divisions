@@ -1,0 +1,45 @@
+{
+  "id": "BR2205409",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Joaquim Pires",
+    "en": "Joaquim Pires",
+    "slug": "joaquim-pires-br2205409"
+  },
+  "code": {
+    "id": "BR2205409",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.526",
+    "lon": "-42.075"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2501153",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Areia de Baraúnas",
+    "en": "Areia de Baraunas",
+    "slug": "areia-de-baraunas-br2501153"
+  },
+  "code": {
+    "id": "BR2501153",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.121",
+    "lon": "-36.97"
+  },
+  "metadata": {},
+  "source": {}
+}

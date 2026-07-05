@@ -1,0 +1,45 @@
+{
+  "id": "BR3117702",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Conceição do Rio Verde",
+    "en": "Conceicao do Rio Verde",
+    "slug": "conceicao-do-rio-verde-br3117702"
+  },
+  "code": {
+    "id": "BR3117702",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.895",
+    "lon": "-45.088"
+  },
+  "metadata": {},
+  "source": {}
+}

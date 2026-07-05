@@ -1,0 +1,45 @@
+{
+  "id": "BR4317004",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santana da Boa Vista",
+    "en": "Santana da Boa Vista",
+    "slug": "santana-da-boa-vista-br4317004"
+  },
+  "code": {
+    "id": "BR4317004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-30.771",
+    "lon": "-53.188"
+  },
+  "metadata": {},
+  "source": {}
+}

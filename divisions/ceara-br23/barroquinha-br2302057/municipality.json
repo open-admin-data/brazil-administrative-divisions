@@ -1,0 +1,45 @@
+{
+  "id": "BR2302057",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barroquinha",
+    "en": "Barroquinha",
+    "slug": "barroquinha-br2302057"
+  },
+  "code": {
+    "id": "BR2302057",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.98",
+    "lon": "-41.15"
+  },
+  "metadata": {},
+  "source": {}
+}

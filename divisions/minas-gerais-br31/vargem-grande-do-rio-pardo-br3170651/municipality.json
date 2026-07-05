@@ -1,0 +1,45 @@
+{
+  "id": "BR3170651",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vargem Grande do Rio Pardo",
+    "en": "Vargem Grande do Rio Pardo",
+    "slug": "vargem-grande-do-rio-pardo-br3170651"
+  },
+  "code": {
+    "id": "BR3170651",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.328",
+    "lon": "-42.294"
+  },
+  "metadata": {},
+  "source": {}
+}

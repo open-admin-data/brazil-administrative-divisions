@@ -1,0 +1,45 @@
+{
+  "id": "BR2709004",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tanque d'Arca",
+    "en": "Tanque d'Arca",
+    "slug": "tanque-d-arca-br2709004"
+  },
+  "code": {
+    "id": "BR2709004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.567",
+    "lon": "-36.403"
+  },
+  "metadata": {},
+  "source": {}
+}

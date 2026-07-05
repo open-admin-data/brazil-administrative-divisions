@@ -1,0 +1,929 @@
+# Ceara — Brazil Administrative Divisions
+
+> 184 municipalitys
+> Code: BR23
+> Coordinates: -5.325, -39.5
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Abaiara
+
+Code: BR2300101, Coordinates: -7.347, -39.051
+
+
+### Acarape
+
+Code: BR2300150, Coordinates: -4.22, -38.668
+
+
+### Acaraú (Acarau)
+
+Code: BR2300200, Coordinates: -2.979, -40.095
+
+
+### Acopiara
+
+Code: BR2300309, Coordinates: -6.095, -39.529
+
+
+### Aiuaba
+
+Code: BR2300408, Coordinates: -6.609, -40.248
+
+
+### Alcântaras (Alcantaras)
+
+Code: BR2300507, Coordinates: -3.59, -40.549
+
+
+### Altaneira
+
+Code: BR2300606, Coordinates: -6.982, -39.69
+
+
+### Alto Santo
+
+Code: BR2300705, Coordinates: -5.525, -38.214
+
+
+### Amontada
+
+Code: BR2300754, Coordinates: -3.257, -39.79
+
+
+### Antonina do Norte
+
+Code: BR2300804, Coordinates: -6.747, -39.99
+
+
+### Apuiarés (Apuiares)
+
+Code: BR2300903, Coordinates: -3.984, -39.298
+
+
+### Aquiraz
+
+Code: BR2301000, Coordinates: -3.968, -38.39
+
+
+### Aracati
+
+Code: BR2301109, Coordinates: -4.622, -37.727
+
+
+### Aracoiaba
+
+Code: BR2301208, Coordinates: -7.791, -35.075
+
+
+### Ararendá (Ararenda)
+
+Code: BR2301257, Coordinates: -4.766, -40.742
+
+
+### Araripe
+
+Code: BR2301307, Coordinates: -7.193, -40.118
+
+
+### Aratuba
+
+Code: BR2301406, Coordinates: -4.417, -39.041
+
+
+### Arneiroz
+
+Code: BR2301505, Coordinates: -6.234, -40.102
+
+
+### Assaré (Assare)
+
+Code: BR2301604, Coordinates: -6.92, -39.818
+
+
+### Aurora
+
+Code: BR2301703, Coordinates: -27.328, -49.599
+
+
+### Baixio
+
+Code: BR2301802, Coordinates: -6.718, -38.748
+
+
+### Banabuiú (Banabuiu)
+
+Code: BR2301851, Coordinates: -5.29, -38.918
+
+
+### Barbalha
+
+Code: BR2301901, Coordinates: -7.377, -39.314
+
+
+### Barreira
+
+Code: BR2301950, Coordinates: -4.34, -38.621
+
+
+### Barro
+
+Code: BR2302008, Coordinates: -7.141, -38.743
+
+
+### Barroquinha
+
+Code: BR2302057, Coordinates: -2.98, -41.15
+
+
+### Baturité (Baturite)
+
+Code: BR2302107, Coordinates: -4.336, -38.856
+
+
+### Beberibe
+
+Code: BR2302206, Coordinates: -4.429, -38.092
+
+
+### Bela Cruz
+
+Code: BR2302305, Coordinates: -3.067, -40.272
+
+
+### Boa Viagem
+
+Code: BR2302404, Coordinates: -5.064, -39.835
+
+
+### Brejo Santo
+
+Code: BR2302503, Coordinates: -7.603, -38.921
+
+
+### Camocim
+
+Code: BR2302602, Coordinates: -2.928, -40.866
+
+
+### Campos Sales
+
+Code: BR2302701, Coordinates: -6.928, -40.254
+
+
+### Canindé (Caninde)
+
+Code: BR2302800, Coordinates: -4.415, -39.486
+
+
+### Capistrano
+
+Code: BR2302909, Coordinates: -4.475, -38.915
+
+
+### Caridade
+
+Code: BR2303006, Coordinates: -4.218, -39.068
+
+
+### Cariré (Carire)
+
+Code: BR2303105, Coordinates: -3.916, -40.543
+
+
+### Caririaçu (Caririacu)
+
+Code: BR2303204, Coordinates: -7.038, -39.273
+
+
+### Cariús (Carius)
+
+Code: BR2303303, Coordinates: -6.639, -39.47
+
+
+### Carnaubal
+
+Code: BR2303402, Coordinates: -4.129, -41.032
+
+
+### Cascavel
+
+Code: BR2303501, Coordinates: -25.042, -53.392
+
+
+### Catarina
+
+Code: BR2303600, Coordinates: -6.264, -39.927
+
+
+### Catunda
+
+Code: BR2303659, Coordinates: -4.617, -40.185
+
+
+### Caucaia
+
+Code: BR2303709, Coordinates: -3.796, -38.802
+
+
+### Cedro
+
+Code: BR2303808, Coordinates: -7.718, -39.23
+
+
+### Chaval
+
+Code: BR2303907, Coordinates: -3.076, -41.24
+
+
+### Choró (Choro)
+
+Code: BR2303931, Coordinates: -4.762, -39.182
+
+
+### Chorozinho
+
+Code: BR2303956, Coordinates: -4.304, -38.464
+
+
+### Coreaú (Coreau)
+
+Code: BR2304004, Coordinates: -3.667, -40.706
+
+
+### Crateús (Crateus)
+
+Code: BR2304103, Coordinates: -5.267, -40.807
+
+
+### Crato
+
+Code: BR2304202, Coordinates: -7.219, -39.459
+
+
+### Croatá (Croata)
+
+Code: BR2304236, Coordinates: -4.393, -40.928
+
+
+### Cruz
+
+Code: BR2304251, Coordinates: -2.895, -40.331
+
+
+### Deputado Irapuan Pinheiro
+
+Code: BR2304269, Coordinates: -5.895, -39.281
+
+
+### Ereré (Erere)
+
+Code: BR2304277, Coordinates: -6.01, -38.315
+
+
+### Eusébio (Eusebio)
+
+Code: BR2304285, Coordinates: -3.871, -38.454
+
+
+### Farias Brito
+
+Code: BR2304301, Coordinates: -6.908, -39.591
+
+
+### Forquilha
+
+Code: BR2304350, Coordinates: -3.832, -40.214
+
+
+### Fortaleza
+
+Code: BR2304400, Coordinates: -3.784, -38.531
+
+
+### Fortim
+
+Code: BR2304459, Coordinates: -4.446, -37.864
+
+
+### Frecheirinha
+
+Code: BR2304509, Coordinates: -3.705, -40.822
+
+
+### General Sampaio
+
+Code: BR2304608, Coordinates: -4.078, -39.465
+
+
+### Graça (Graca)
+
+Code: BR2304657, Coordinates: -4.049, -40.793
+
+
+### Granja
+
+Code: BR2304707, Coordinates: -3.338, -41.016
+
+
+### Granjeiro
+
+Code: BR2304806, Coordinates: -6.927, -39.276
+
+
+### Groaíras (Groairas)
+
+Code: BR2304905, Coordinates: -3.918, -40.374
+
+
+### Guaiúba (Guaiuba)
+
+Code: BR2304954, Coordinates: -4.106, -38.671
+
+
+### Guaraciaba do Norte
+
+Code: BR2305001, Coordinates: -4.228, -40.871
+
+
+### Guaramiranga
+
+Code: BR2305100, Coordinates: -4.232, -38.96
+
+
+### Hidrolândia (Hidrolandia)
+
+Code: BR2305209, Coordinates: -17.012, -49.252
+
+
+### Horizonte
+
+Code: BR2305233, Coordinates: -4.088, -38.496
+
+
+### Ibaretama
+
+Code: BR2305266, Coordinates: -4.748, -38.703
+
+
+### Ibiapina
+
+Code: BR2305308, Coordinates: -3.957, -41.022
+
+
+### Ibicuitinga
+
+Code: BR2305332, Coordinates: -4.97, -38.543
+
+
+### Icapuí (Icapui)
+
+Code: BR2305357, Coordinates: -4.726, -37.424
+
+
+### Icó (Ico)
+
+Code: BR2305407, Coordinates: -6.363, -38.763
+
+
+### Iguatu
+
+Code: BR2305506, Coordinates: -24.681, -53.086
+
+
+### Independência (Independencia)
+
+Code: BR2305605, Coordinates: -27.887, -54.201
+
+
+### Ipaporanga
+
+Code: BR2305654, Coordinates: -4.869, -40.837
+
+
+### Ipaumirim
+
+Code: BR2305704, Coordinates: -6.811, -38.746
+
+
+### Ipu
+
+Code: BR2305803, Coordinates: -4.372, -40.663
+
+
+### Ipueiras
+
+Code: BR2305902, Coordinates: -4.582, -40.905
+
+
+### Iracema
+
+Code: BR2306009, Coordinates: -5.788, -38.347
+
+
+### Irauçuba (Iraucuba)
+
+Code: BR2306108, Coordinates: -3.927, -39.789
+
+
+### Itaiçaba (Itaicaba)
+
+Code: BR2306207, Coordinates: -4.714, -37.793
+
+
+### Itaitinga
+
+Code: BR2306256, Coordinates: -3.99, -38.54
+
+
+### Itapajé (Itapaje)
+
+Code: BR2306306, Coordinates: -3.732, -39.568
+
+
+### Itapipoca
+
+Code: BR2306405, Coordinates: -3.381, -39.58
+
+
+### Itapiúna (Itapiuna)
+
+Code: BR2306504, Coordinates: -4.597, -38.953
+
+
+### Itarema
+
+Code: BR2306553, Coordinates: -3.089, -39.903
+
+
+### Itatira
+
+Code: BR2306603, Coordinates: -4.592, -39.584
+
+
+### Jaguaretama
+
+Code: BR2306702, Coordinates: -5.509, -38.747
+
+
+### Jaguaribara
+
+Code: BR2306801, Coordinates: -5.613, -38.503
+
+
+### Jaguaribe
+
+Code: BR2306900, Coordinates: -5.992, -38.689
+
+
+### Jaguaruana
+
+Code: BR2307007, Coordinates: -4.823, -37.779
+
+
+### Jardim
+
+Code: BR2307106, Coordinates: -21.636, -56.27
+
+
+### Jati
+
+Code: BR2307205, Coordinates: -7.72, -38.967
+
+
+### Jijoca de Jericoacoara
+
+Code: BR2307254, Coordinates: -2.877, -40.498
+
+
+### Juazeiro do Norte
+
+Code: BR2307304, Coordinates: -7.178, -39.265
+
+
+### Jucás (Jucas)
+
+Code: BR2307403, Coordinates: -6.452, -39.627
+
+
+### Lavras da Mangabeira
+
+Code: BR2307502, Coordinates: -6.769, -38.969
+
+
+### Limoeiro do Norte
+
+Code: BR2307601, Coordinates: -5.17, -38.049
+
+
+### Madalena
+
+Code: BR2307635, Coordinates: -4.87, -39.477
+
+
+### Maracanaú (Maracanau)
+
+Code: BR2307650, Coordinates: -3.881, -38.63
+
+
+### Maranguape
+
+Code: BR2307700, Coordinates: -4.02, -38.788
+
+
+### Marco
+
+Code: BR2307809, Coordinates: -3.183, -40.328
+
+
+### Martinópole (Martinopole)
+
+Code: BR2307908, Coordinates: -3.192, -40.604
+
+
+### Massapê (Massape)
+
+Code: BR2308005, Coordinates: -3.506, -40.375
+
+
+### Mauriti
+
+Code: BR2308104, Coordinates: -7.398, -38.636
+
+
+### Meruoca
+
+Code: BR2308203, Coordinates: -3.581, -40.459
+
+
+### Milagres
+
+Code: BR2308302, Coordinates: -12.921, -39.762
+
+
+### Milhã (Milha)
+
+Code: BR2308351, Coordinates: -5.634, -39.202
+
+
+### Miraíma (Miraima)
+
+Code: BR2308377, Coordinates: -3.573, -39.919
+
+
+### Missão Velha (Missao Velha)
+
+Code: BR2308401, Coordinates: -7.269, -39.136
+
+
+### Mombaça (Mombaca)
+
+Code: BR2308500, Coordinates: -5.807, -39.786
+
+
+### Monsenhor Tabosa
+
+Code: BR2308609, Coordinates: -4.953, -40.063
+
+
+### Morada Nova
+
+Code: BR2308708, Coordinates: -4.902, -38.451
+
+
+### Moraújo (Moraujo)
+
+Code: BR2308807, Coordinates: -3.434, -40.676
+
+
+### Morrinhos
+
+Code: BR2308906, Coordinates: -17.79, -49.108
+
+
+### Mucambo
+
+Code: BR2309003, Coordinates: -3.899, -40.763
+
+
+### Mulungu
+
+Code: BR2309102, Coordinates: -6.996, -35.405
+
+
+### Nova Olinda
+
+Code: BR2309201, Coordinates: -7.455, -38.038
+
+
+### Nova Russas
+
+Code: BR2309300, Coordinates: -4.736, -40.595
+
+
+### Novo Oriente
+
+Code: BR2309409, Coordinates: -5.587, -40.744
+
+
+### Ocara
+
+Code: BR2309458, Coordinates: -4.535, -38.515
+
+
+### Orós (Oros)
+
+Code: BR2309508, Coordinates: -6.235, -38.952
+
+
+### Pacajus
+
+Code: BR2309607, Coordinates: -4.19, -38.521
+
+
+### Pacatuba
+
+Code: BR2309706, Coordinates: -10.498, -36.66
+
+
+### Pacoti
+
+Code: BR2309805, Coordinates: -4.201, -38.912
+
+
+### Pacujá (Pacuja)
+
+Code: BR2309904, Coordinates: -3.978, -40.671
+
+
+### Palhano
+
+Code: BR2310001, Coordinates: -4.667, -38.051
+
+
+### Palmácia (Palmacia)
+
+Code: BR2310100, Coordinates: -4.12, -38.863
+
+
+### Paracuru
+
+Code: BR2310209, Coordinates: -3.487, -39.046
+
+
+### Paraipaba
+
+Code: BR2310258, Coordinates: -3.427, -39.172
+
+
+### Parambu
+
+Code: BR2310308, Coordinates: -6.271, -40.595
+
+
+### Paramoti
+
+Code: BR2310407, Coordinates: -4.142, -39.373
+
+
+### Pedra Branca
+
+Code: BR2310506, Coordinates: -7.471, -38.065
+
+
+### Penaforte
+
+Code: BR2310605, Coordinates: -7.8, -39.045
+
+
+### Pentecoste
+
+Code: BR2310704, Coordinates: -3.843, -39.171
+
+
+### Pereiro
+
+Code: BR2310803, Coordinates: -5.995, -38.495
+
+
+### Pindoretama
+
+Code: BR2310852, Coordinates: -4.046, -38.298
+
+
+### Piquet Carneiro
+
+Code: BR2310902, Coordinates: -5.887, -39.451
+
+
+### Pires Ferreira
+
+Code: BR2310951, Coordinates: -4.255, -40.582
+
+
+### Poranga
+
+Code: BR2311009, Coordinates: -4.788, -41.071
+
+
+### Porteiras
+
+Code: BR2311108, Coordinates: -7.568, -39.088
+
+
+### Potengi
+
+Code: BR2311207, Coordinates: -7.054, -40.014
+
+
+### Potiretama
+
+Code: BR2311231, Coordinates: -5.762, -38.166
+
+
+### Quiterianópolis (Quiterianopolis)
+
+Code: BR2311264, Coordinates: -5.88, -40.726
+
+
+### Quixadá (Quixada)
+
+Code: BR2311306, Coordinates: -4.934, -38.972
+
+
+### Quixelô (Quixelo)
+
+Code: BR2311355, Coordinates: -6.156, -39.117
+
+
+### Quixeramobim
+
+Code: BR2311405, Coordinates: -5.165, -39.302
+
+
+### Quixeré (Quixere)
+
+Code: BR2311504, Coordinates: -5.074, -37.899
+
+
+### Redenção (Redencao)
+
+Code: BR2311603, Coordinates: -4.268, -38.764
+
+
+### Reriutaba
+
+Code: BR2311702, Coordinates: -4.139, -40.631
+
+
+### Russas
+
+Code: BR2311801, Coordinates: -4.853, -38.174
+
+
+### Saboeiro
+
+Code: BR2311900, Coordinates: -6.47, -39.88
+
+
+### Salitre
+
+Code: BR2311959, Coordinates: -7.151, -40.312
+
+
+### Santa Quitéria (Santa Quiteria)
+
+Code: BR2312205, Coordinates: -4.399, -39.978
+
+
+### Santana do Acaraú (Santana do Acarau)
+
+Code: BR2312007, Coordinates: -3.513, -40.15
+
+
+### Santana do Cariri
+
+Code: BR2312106, Coordinates: -7.173, -39.775
+
+
+### São Benedito (Sao Benedito)
+
+Code: BR2312304, Coordinates: -4.052, -40.994
+
+
+### São Gonçalo do Amarante (Sao Goncalo do Amarante)
+
+Code: BR2312403, Coordinates: -5.763, -35.323
+
+
+### São João do Jaguaribe (Sao Joao do Jaguaribe)
+
+Code: BR2312502, Coordinates: -5.314, -38.27
+
+
+### São Luís do Curu (Sao Luis do Curu)
+
+Code: BR2312601, Coordinates: -3.651, -39.255
+
+
+### Senador Pompeu
+
+Code: BR2312700, Coordinates: -5.589, -39.476
+
+
+### Senador Sá (Senador Sa)
+
+Code: BR2312809, Coordinates: -3.277, -40.464
+
+
+### Sobral
+
+Code: BR2312908, Coordinates: -3.826, -40.178
+
+
+### Solonópole (Solonopole)
+
+Code: BR2313005, Coordinates: -5.862, -38.996
+
+
+### Tabuleiro do Norte
+
+Code: BR2313104, Coordinates: -5.28, -38.06
+
+
+### Tamboril
+
+Code: BR2313203, Coordinates: -4.918, -40.263
+
+
+### Tarrafas
+
+Code: BR2313252, Coordinates: -6.725, -39.701
+
+
+### Tauá (Taua)
+
+Code: BR2313302, Coordinates: -5.888, -40.266
+
+
+### Tejuçuoca (Tejucuoca)
+
+Code: BR2313351, Coordinates: -3.927, -39.625
+
+
+### Tianguá (Tiangua)
+
+Code: BR2313401, Coordinates: -3.705, -41.064
+
+
+### Trairi
+
+Code: BR2313500, Coordinates: -3.352, -39.37
+
+
+### Tururu
+
+Code: BR2313559, Coordinates: -3.534, -39.416
+
+
+### Ubajara
+
+Code: BR2313609, Coordinates: -3.868, -40.998
+
+
+### Umari
+
+Code: BR2313708, Coordinates: -6.612, -38.713
+
+
+### Umirim
+
+Code: BR2313757, Coordinates: -3.703, -39.391
+
+
+### Uruburetama
+
+Code: BR2313807, Coordinates: -3.631, -39.523
+
+
+### Uruoca
+
+Code: BR2313906, Coordinates: -3.339, -40.707
+
+
+### Varjota
+
+Code: BR2313955, Coordinates: -4.174, -40.493
+
+
+### Várzea Alegre (Varzea Alegre)
+
+Code: BR2314003, Coordinates: -6.734, -39.315
+
+
+### Viçosa do Ceará (Vicosa do Ceara)
+
+Code: BR2314102, Coordinates: -3.57, -41.177
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "BR2306207",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itaiçaba",
+    "en": "Itaicaba",
+    "slug": "itaicaba-br2306207"
+  },
+  "code": {
+    "id": "BR2306207",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.714",
+    "lon": "-37.793"
+  },
+  "metadata": {},
+  "source": {}
+}

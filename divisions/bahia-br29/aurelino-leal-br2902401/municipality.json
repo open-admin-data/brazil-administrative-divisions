@@ -1,0 +1,45 @@
+{
+  "id": "BR2902401",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Aurelino Leal",
+    "en": "Aurelino Leal",
+    "slug": "aurelino-leal-br2902401"
+  },
+  "code": {
+    "id": "BR2902401",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.336",
+    "lon": "-39.509"
+  },
+  "metadata": {},
+  "source": {}
+}

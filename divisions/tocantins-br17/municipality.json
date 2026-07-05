@@ -1,0 +1,6257 @@
+[
+  {
+    "id": "BR1700251",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Abreulândia",
+      "en": "Abreulandia",
+      "slug": "abreulandia-br1700251"
+    },
+    "code": {
+      "id": "BR1700251",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.467",
+      "lon": "-49.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1700301",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aguiarnópolis",
+      "en": "Aguiarnopolis",
+      "slug": "aguiarnopolis-br1700301"
+    },
+    "code": {
+      "id": "BR1700301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.476",
+      "lon": "-47.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1700350",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aliança do Tocantins",
+      "en": "Alianca do Tocantins",
+      "slug": "alianca-do-tocantins-br1700350"
+    },
+    "code": {
+      "id": "BR1700350",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.327",
+      "lon": "-48.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1700400",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Almas",
+      "en": "Almas",
+      "slug": "almas-br1700400"
+    },
+    "code": {
+      "id": "BR1700400",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.448",
+      "lon": "-47.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1700707",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alvorada",
+      "en": "Alvorada",
+      "slug": "alvorada-br1700707"
+    },
+    "code": {
+      "id": "BR1700707",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.989",
+      "lon": "-51.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1701002",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ananás",
+      "en": "Ananas",
+      "slug": "ananas-br1701002"
+    },
+    "code": {
+      "id": "BR1701002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.189",
+      "lon": "-48.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1701051",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Angico",
+      "en": "Angico",
+      "slug": "angico-br1701051"
+    },
+    "code": {
+      "id": "BR1701051",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.44",
+      "lon": "-47.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1701101",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aparecida do Rio Negro",
+      "en": "Aparecida do Rio Negro",
+      "slug": "aparecida-do-rio-negro-br1701101"
+    },
+    "code": {
+      "id": "BR1701101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.028",
+      "lon": "-47.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1701309",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aragominas",
+      "en": "Aragominas",
+      "slug": "aragominas-br1701309"
+    },
+    "code": {
+      "id": "BR1701309",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.966",
+      "lon": "-48.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1701903",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Araguacema",
+      "en": "Araguacema",
+      "slug": "araguacema-br1701903"
+    },
+    "code": {
+      "id": "BR1701903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.911",
+      "lon": "-49.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1702000",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Araguaçu",
+      "en": "Araguacu",
+      "slug": "araguacu-br1702000"
+    },
+    "code": {
+      "id": "BR1702000",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.722",
+      "lon": "-49.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1702109",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Araguaína",
+      "en": "Araguaina",
+      "slug": "araguaina-br1702109"
+    },
+    "code": {
+      "id": "BR1702109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.332",
+      "lon": "-48.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1702158",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Araguanã",
+      "en": "Araguana",
+      "slug": "araguana-br1702158"
+    },
+    "code": {
+      "id": "BR1702158",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.003",
+      "lon": "-45.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1702208",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Araguatins",
+      "en": "Araguatins",
+      "slug": "araguatins-br1702208"
+    },
+    "code": {
+      "id": "BR1702208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.658",
+      "lon": "-48.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1702307",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arapoema",
+      "en": "Arapoema",
+      "slug": "arapoema-br1702307"
+    },
+    "code": {
+      "id": "BR1702307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.699",
+      "lon": "-49.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1702406",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arraias",
+      "en": "Arraias",
+      "slug": "arraias-br1702406"
+    },
+    "code": {
+      "id": "BR1702406",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.85",
+      "lon": "-47.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1702554",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Augustinópolis",
+      "en": "Augustinopolis",
+      "slug": "augustinopolis-br1702554"
+    },
+    "code": {
+      "id": "BR1702554",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.51",
+      "lon": "-47.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1702703",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aurora do Tocantins",
+      "en": "Aurora do Tocantins",
+      "slug": "aurora-do-tocantins-br1702703"
+    },
+    "code": {
+      "id": "BR1702703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.629",
+      "lon": "-46.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1702901",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Axixá do Tocantins",
+      "en": "Axixa do Tocantins",
+      "slug": "axixa-do-tocantins-br1702901"
+    },
+    "code": {
+      "id": "BR1702901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.678",
+      "lon": "-47.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1703008",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Babaçulândia",
+      "en": "Babaculandia",
+      "slug": "babaculandia-br1703008"
+    },
+    "code": {
+      "id": "BR1703008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.196",
+      "lon": "-47.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1703057",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bandeirantes do Tocantins",
+      "en": "Bandeirantes do Tocantins",
+      "slug": "bandeirantes-do-tocantins-br1703057"
+    },
+    "code": {
+      "id": "BR1703057",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.018",
+      "lon": "-48.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1703073",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barra do Ouro",
+      "en": "Barra do Ouro",
+      "slug": "barra-do-ouro-br1703073"
+    },
+    "code": {
+      "id": "BR1703073",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.754",
+      "lon": "-47.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1703107",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barrolândia",
+      "en": "Barrolandia",
+      "slug": "barrolandia-br1703107"
+    },
+    "code": {
+      "id": "BR1703107",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.851",
+      "lon": "-48.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1703206",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bernardo Sayão",
+      "en": "Bernardo Sayao",
+      "slug": "bernardo-sayao-br1703206"
+    },
+    "code": {
+      "id": "BR1703206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.983",
+      "lon": "-48.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1703305",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bom Jesus do Tocantins",
+      "en": "Bom Jesus do Tocantins",
+      "slug": "bom-jesus-do-tocantins-br1703305"
+    },
+    "code": {
+      "id": "BR1703305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.998",
+      "lon": "-47.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1703602",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Brasilândia do Tocantins",
+      "en": "Brasilandia do Tocantins",
+      "slug": "brasilandia-do-tocantins-br1703602"
+    },
+    "code": {
+      "id": "BR1703602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.277",
+      "lon": "-48.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1703701",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Brejinho de Nazaré",
+      "en": "Brejinho de Nazare",
+      "slug": "brejinho-de-nazare-br1703701"
+    },
+    "code": {
+      "id": "BR1703701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.031",
+      "lon": "-48.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1703800",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Buriti do Tocantins",
+      "en": "Buriti do Tocantins",
+      "slug": "buriti-do-tocantins-br1703800"
+    },
+    "code": {
+      "id": "BR1703800",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.357",
+      "lon": "-48.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1703826",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cachoeirinha",
+      "en": "Cachoeirinha",
+      "slug": "cachoeirinha-br1703826"
+    },
+    "code": {
+      "id": "BR1703826",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.925",
+      "lon": "-51.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1703842",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Campos Lindos",
+      "en": "Campos Lindos",
+      "slug": "campos-lindos-br1703842"
+    },
+    "code": {
+      "id": "BR1703842",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.232",
+      "lon": "-46.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1703867",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cariri do Tocantins",
+      "en": "Cariri do Tocantins",
+      "slug": "cariri-do-tocantins-br1703867"
+    },
+    "code": {
+      "id": "BR1703867",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.938",
+      "lon": "-49.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1703883",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carmolândia",
+      "en": "Carmolandia",
+      "slug": "carmolandia-br1703883"
+    },
+    "code": {
+      "id": "BR1703883",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.047",
+      "lon": "-48.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1703891",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carrasco Bonito",
+      "en": "Carrasco Bonito",
+      "slug": "carrasco-bonito-br1703891"
+    },
+    "code": {
+      "id": "BR1703891",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.337",
+      "lon": "-48.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1703909",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caseara",
+      "en": "Caseara",
+      "slug": "caseara-br1703909"
+    },
+    "code": {
+      "id": "BR1703909",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.444",
+      "lon": "-49.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1704105",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Centenário",
+      "en": "Centenario",
+      "slug": "centenario-br1704105"
+    },
+    "code": {
+      "id": "BR1704105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.787",
+      "lon": "-52.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1705102",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chapada da Natividade",
+      "en": "Chapada da Natividade",
+      "slug": "chapada-da-natividade-br1705102"
+    },
+    "code": {
+      "id": "BR1705102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.541",
+      "lon": "-47.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1704600",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chapada de Areia",
+      "en": "Chapada de Areia",
+      "slug": "chapada-de-areia-br1704600"
+    },
+    "code": {
+      "id": "BR1704600",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.179",
+      "lon": "-49.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1705508",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colinas do Tocantins",
+      "en": "Colinas do Tocantins",
+      "slug": "colinas-do-tocantins-br1705508"
+    },
+    "code": {
+      "id": "BR1705508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.096",
+      "lon": "-48.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1716703",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colméia",
+      "en": "Colmeia",
+      "slug": "colmeia-br1716703"
+    },
+    "code": {
+      "id": "BR1716703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.879",
+      "lon": "-48.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1705557",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Combinado",
+      "en": "Combinado",
+      "slug": "combinado-br1705557"
+    },
+    "code": {
+      "id": "BR1705557",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.827",
+      "lon": "-46.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1705607",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Conceição do Tocantins",
+      "en": "Conceicao do Tocantins",
+      "slug": "conceicao-do-tocantins-br1705607"
+    },
+    "code": {
+      "id": "BR1705607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.179",
+      "lon": "-47.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1706001",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Couto Magalhães",
+      "en": "Couto Magalhaes",
+      "slug": "couto-magalhaes-br1706001"
+    },
+    "code": {
+      "id": "BR1706001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.45",
+      "lon": "-49.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1706100",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cristalândia",
+      "en": "Cristalandia",
+      "slug": "cristalandia-br1706100"
+    },
+    "code": {
+      "id": "BR1706100",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.639",
+      "lon": "-49.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1706258",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Crixás do Tocantins",
+      "en": "Crixas do Tocantins",
+      "slug": "crixas-do-tocantins-br1706258"
+    },
+    "code": {
+      "id": "BR1706258",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.164",
+      "lon": "-49.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1706506",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Darcinópolis",
+      "en": "Darcinopolis",
+      "slug": "darcinopolis-br1706506"
+    },
+    "code": {
+      "id": "BR1706506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.745",
+      "lon": "-47.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1707009",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dianópolis",
+      "en": "Dianopolis",
+      "slug": "dianopolis-br1707009"
+    },
+    "code": {
+      "id": "BR1707009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.733",
+      "lon": "-46.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1707108",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Divinópolis do Tocantins",
+      "en": "Divinopolis do Tocantins",
+      "slug": "divinopolis-do-tocantins-br1707108"
+    },
+    "code": {
+      "id": "BR1707108",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.656",
+      "lon": "-49.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1707207",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dois Irmãos do Tocantins",
+      "en": "Dois Irmaos do Tocantins",
+      "slug": "dois-irmaos-do-tocantins-br1707207"
+    },
+    "code": {
+      "id": "BR1707207",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.299",
+      "lon": "-49.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1707306",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dueré",
+      "en": "Duere",
+      "slug": "duere-br1707306"
+    },
+    "code": {
+      "id": "BR1707306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.349",
+      "lon": "-49.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1707405",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Esperantina",
+      "en": "Esperantina",
+      "slug": "esperantina-br1707405"
+    },
+    "code": {
+      "id": "BR1707405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.856",
+      "lon": "-42.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1707553",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fátima",
+      "en": "Fatima",
+      "slug": "fatima-br1707553"
+    },
+    "code": {
+      "id": "BR1707553",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.579",
+      "lon": "-38.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1707652",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Figueirópolis",
+      "en": "Figueiropolis",
+      "slug": "figueiropolis-br1707652"
+    },
+    "code": {
+      "id": "BR1707652",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.265",
+      "lon": "-49.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1707702",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Filadélfia",
+      "en": "Filadelfia",
+      "slug": "filadelfia-br1707702"
+    },
+    "code": {
+      "id": "BR1707702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.747",
+      "lon": "-40.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1708205",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Formoso do Araguaia",
+      "en": "Formoso do Araguaia",
+      "slug": "formoso-do-araguaia-br1708205"
+    },
+    "code": {
+      "id": "BR1708205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.185",
+      "lon": "-50.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1708304",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Goianorte",
+      "en": "Goianorte",
+      "slug": "goianorte-br1708304"
+    },
+    "code": {
+      "id": "BR1708304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.887",
+      "lon": "-48.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1709005",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Goiatins",
+      "en": "Goiatins",
+      "slug": "goiatins-br1709005"
+    },
+    "code": {
+      "id": "BR1709005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.037",
+      "lon": "-47.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1709302",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guaraí",
+      "en": "Guarai",
+      "slug": "guarai-br1709302"
+    },
+    "code": {
+      "id": "BR1709302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.735",
+      "lon": "-48.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1709500",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gurupi",
+      "en": "Gurupi",
+      "slug": "gurupi-br1709500"
+    },
+    "code": {
+      "id": "BR1709500",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.663",
+      "lon": "-48.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1709807",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ipueiras",
+      "en": "Ipueiras",
+      "slug": "ipueiras-br1709807"
+    },
+    "code": {
+      "id": "BR1709807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.582",
+      "lon": "-40.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1710508",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itacajá",
+      "en": "Itacaja",
+      "slug": "itacaja-br1710508"
+    },
+    "code": {
+      "id": "BR1710508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.52",
+      "lon": "-47.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1710706",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itaguatins",
+      "en": "Itaguatins",
+      "slug": "itaguatins-br1710706"
+    },
+    "code": {
+      "id": "BR1710706",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.823",
+      "lon": "-47.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1710904",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itapiratins",
+      "en": "Itapiratins",
+      "slug": "itapiratins-br1710904"
+    },
+    "code": {
+      "id": "BR1710904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.321",
+      "lon": "-47.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1711100",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itaporã do Tocantins",
+      "en": "Itapora do Tocantins",
+      "slug": "itapora-do-tocantins-br1711100"
+    },
+    "code": {
+      "id": "BR1711100",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.503",
+      "lon": "-48.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1711506",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jaú do Tocantins",
+      "en": "Jau do Tocantins",
+      "slug": "jau-do-tocantins-br1711506"
+    },
+    "code": {
+      "id": "BR1711506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.803",
+      "lon": "-48.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1711803",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juarina",
+      "en": "Juarina",
+      "slug": "juarina-br1711803"
+    },
+    "code": {
+      "id": "BR1711803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.137",
+      "lon": "-49.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1711902",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagoa da Confusão",
+      "en": "Lagoa da Confusao",
+      "slug": "lagoa-da-confusao-br1711902"
+    },
+    "code": {
+      "id": "BR1711902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.992",
+      "lon": "-49.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1711951",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagoa do Tocantins",
+      "en": "Lagoa do Tocantins",
+      "slug": "lagoa-do-tocantins-br1711951"
+    },
+    "code": {
+      "id": "BR1711951",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.328",
+      "lon": "-47.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1712009",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lajeado",
+      "en": "Lajeado",
+      "slug": "lajeado-br1712009"
+    },
+    "code": {
+      "id": "BR1712009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.436",
+      "lon": "-52.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1712157",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lavandeira",
+      "en": "Lavandeira",
+      "slug": "lavandeira-br1712157"
+    },
+    "code": {
+      "id": "BR1712157",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.839",
+      "lon": "-46.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1712405",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lizarda",
+      "en": "Lizarda",
+      "slug": "lizarda-br1712405"
+    },
+    "code": {
+      "id": "BR1712405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.518",
+      "lon": "-46.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1712454",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Luzinópolis",
+      "en": "Luzinopolis",
+      "slug": "luzinopolis-br1712454"
+    },
+    "code": {
+      "id": "BR1712454",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.221",
+      "lon": "-47.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1712504",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Marianópolis do Tocantins",
+      "en": "Marianopolis do Tocantins",
+      "slug": "marianopolis-do-tocantins-br1712504"
+    },
+    "code": {
+      "id": "BR1712504",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.81",
+      "lon": "-49.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1712702",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mateiros",
+      "en": "Mateiros",
+      "slug": "mateiros-br1712702"
+    },
+    "code": {
+      "id": "BR1712702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.551",
+      "lon": "-46.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1712801",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maurilândia do Tocantins",
+      "en": "Maurilandia do Tocantins",
+      "slug": "maurilandia-do-tocantins-br1712801"
+    },
+    "code": {
+      "id": "BR1712801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.014",
+      "lon": "-47.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1713205",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Miracema do Tocantins",
+      "en": "Miracema do Tocantins",
+      "slug": "miracema-do-tocantins-br1713205"
+    },
+    "code": {
+      "id": "BR1713205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.758",
+      "lon": "-48.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1713304",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Miranorte",
+      "en": "Miranorte",
+      "slug": "miranorte-br1713304"
+    },
+    "code": {
+      "id": "BR1713304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.382",
+      "lon": "-48.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1713601",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Monte do Carmo",
+      "en": "Monte do Carmo",
+      "slug": "monte-do-carmo-br1713601"
+    },
+    "code": {
+      "id": "BR1713601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.695",
+      "lon": "-47.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1713700",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Monte Santo do Tocantins",
+      "en": "Monte Santo do Tocantins",
+      "slug": "monte-santo-do-tocantins-br1713700"
+    },
+    "code": {
+      "id": "BR1713700",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.003",
+      "lon": "-49.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1713957",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Muricilândia",
+      "en": "Muricilandia",
+      "slug": "muricilandia-br1713957"
+    },
+    "code": {
+      "id": "BR1713957",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.003",
+      "lon": "-48.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1714203",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Natividade",
+      "en": "Natividade",
+      "slug": "natividade-br1714203"
+    },
+    "code": {
+      "id": "BR1714203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.042",
+      "lon": "-41.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1714302",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nazaré",
+      "en": "Nazare",
+      "slug": "nazare-br1714302"
+    },
+    "code": {
+      "id": "BR1714302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.939",
+      "lon": "-38.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1714880",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Olinda",
+      "en": "Nova Olinda",
+      "slug": "nova-olinda-br1714880"
+    },
+    "code": {
+      "id": "BR1714880",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.455",
+      "lon": "-38.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1715002",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Rosalândia",
+      "en": "Nova Rosalandia",
+      "slug": "nova-rosalandia-br1715002"
+    },
+    "code": {
+      "id": "BR1715002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.549",
+      "lon": "-48.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1715101",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Novo Acordo",
+      "en": "Novo Acordo",
+      "slug": "novo-acordo-br1715101"
+    },
+    "code": {
+      "id": "BR1715101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.167",
+      "lon": "-47.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1715150",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Novo Alegre",
+      "en": "Novo Alegre",
+      "slug": "novo-alegre-br1715150"
+    },
+    "code": {
+      "id": "BR1715150",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.886",
+      "lon": "-46.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1715259",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Novo Jardim",
+      "en": "Novo Jardim",
+      "slug": "novo-jardim-br1715259"
+    },
+    "code": {
+      "id": "BR1715259",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.749",
+      "lon": "-46.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1715507",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Oliveira de Fátima",
+      "en": "Oliveira de Fatima",
+      "slug": "oliveira-de-fatima-br1715507"
+    },
+    "code": {
+      "id": "BR1715507",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.668",
+      "lon": "-48.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1721000",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palmas",
+      "en": "Palmas",
+      "slug": "palmas-br1721000"
+    },
+    "code": {
+      "id": "BR1721000",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.394",
+      "lon": "-51.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1715705",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palmeirante",
+      "en": "Palmeirante",
+      "slug": "palmeirante-br1715705"
+    },
+    "code": {
+      "id": "BR1715705",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.862",
+      "lon": "-48.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1713809",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palmeiras do Tocantins",
+      "en": "Palmeiras do Tocantins",
+      "slug": "palmeiras-do-tocantins-br1713809"
+    },
+    "code": {
+      "id": "BR1713809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.614",
+      "lon": "-47.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1715754",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palmeirópolis",
+      "en": "Palmeiropolis",
+      "slug": "palmeiropolis-br1715754"
+    },
+    "code": {
+      "id": "BR1715754",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.06",
+      "lon": "-48.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1716109",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paraíso do Tocantins",
+      "en": "Paraiso do Tocantins",
+      "slug": "paraiso-do-tocantins-br1716109"
+    },
+    "code": {
+      "id": "BR1716109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.218",
+      "lon": "-48.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1716208",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paranã",
+      "en": "Parana",
+      "slug": "parana-br1716208"
+    },
+    "code": {
+      "id": "BR1716208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.456",
+      "lon": "-38.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1716307",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pau D'Arco",
+      "en": "Pau D'Arco",
+      "slug": "pau-d-arco-br1716307"
+    },
+    "code": {
+      "id": "BR1716307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.561",
+      "lon": "-48.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1716505",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedro Afonso",
+      "en": "Pedro Afonso",
+      "slug": "pedro-afonso-br1716505"
+    },
+    "code": {
+      "id": "BR1716505",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.222",
+      "lon": "-48.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1716604",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Peixe",
+      "en": "Peixe",
+      "slug": "peixe-br1716604"
+    },
+    "code": {
+      "id": "BR1716604",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.036",
+      "lon": "-48.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1716653",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pequizeiro",
+      "en": "Pequizeiro",
+      "slug": "pequizeiro-br1716653"
+    },
+    "code": {
+      "id": "BR1716653",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.357",
+      "lon": "-48.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1717008",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pindorama do Tocantins",
+      "en": "Pindorama do Tocantins",
+      "slug": "pindorama-do-tocantins-br1717008"
+    },
+    "code": {
+      "id": "BR1717008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.132",
+      "lon": "-47.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1717206",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Piraquê",
+      "en": "Piraque",
+      "slug": "piraque-br1717206"
+    },
+    "code": {
+      "id": "BR1717206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.692",
+      "lon": "-48.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1717503",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pium",
+      "en": "Pium",
+      "slug": "pium-br1717503"
+    },
+    "code": {
+      "id": "BR1717503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.033",
+      "lon": "-49.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1717800",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ponte Alta do Bom Jesus",
+      "en": "Ponte Alta do Bom Jesus",
+      "slug": "ponte-alta-do-bom-jesus-br1717800"
+    },
+    "code": {
+      "id": "BR1717800",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.073",
+      "lon": "-46.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1717909",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ponte Alta do Tocantins",
+      "en": "Ponte Alta do Tocantins",
+      "slug": "ponte-alta-do-tocantins-br1717909"
+    },
+    "code": {
+      "id": "BR1717909",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.772",
+      "lon": "-47.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1718006",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto Alegre do Tocantins",
+      "en": "Porto Alegre do Tocantins",
+      "slug": "porto-alegre-do-tocantins-br1718006"
+    },
+    "code": {
+      "id": "BR1718006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.525",
+      "lon": "-47.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1718204",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto Nacional",
+      "en": "Porto Nacional",
+      "slug": "porto-nacional-br1718204"
+    },
+    "code": {
+      "id": "BR1718204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.552",
+      "lon": "-48.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1718303",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Praia Norte",
+      "en": "Praia Norte",
+      "slug": "praia-norte-br1718303"
+    },
+    "code": {
+      "id": "BR1718303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.489",
+      "lon": "-47.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1718402",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Presidente Kennedy",
+      "en": "Presidente Kennedy",
+      "slug": "presidente-kennedy-br1718402"
+    },
+    "code": {
+      "id": "BR1718402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.14",
+      "lon": "-41.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1718451",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pugmil",
+      "en": "Pugmil",
+      "slug": "pugmil-br1718451"
+    },
+    "code": {
+      "id": "BR1718451",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.417",
+      "lon": "-48.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1718501",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Recursolândia",
+      "en": "Recursolandia",
+      "slug": "recursolandia-br1718501"
+    },
+    "code": {
+      "id": "BR1718501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.705",
+      "lon": "-47.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1718550",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Riachinho",
+      "en": "Riachinho",
+      "slug": "riachinho-br1718550"
+    },
+    "code": {
+      "id": "BR1718550",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.253",
+      "lon": "-45.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1718659",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rio da Conceição",
+      "en": "Rio da Conceicao",
+      "slug": "rio-da-conceicao-br1718659"
+    },
+    "code": {
+      "id": "BR1718659",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.348",
+      "lon": "-46.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1718709",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rio dos Bois",
+      "en": "Rio dos Bois",
+      "slug": "rio-dos-bois-br1718709"
+    },
+    "code": {
+      "id": "BR1718709",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.234",
+      "lon": "-48.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1718758",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rio Sono",
+      "en": "Rio Sono",
+      "slug": "rio-sono-br1718758"
+    },
+    "code": {
+      "id": "BR1718758",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.65",
+      "lon": "-47.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1718808",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sampaio",
+      "en": "Sampaio",
+      "slug": "sampaio-br1718808"
+    },
+    "code": {
+      "id": "BR1718808",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.358",
+      "lon": "-47.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1718840",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sandolândia",
+      "en": "Sandolandia",
+      "slug": "sandolandia-br1718840"
+    },
+    "code": {
+      "id": "BR1718840",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.405",
+      "lon": "-49.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1718865",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Fé do Araguaia",
+      "en": "Santa Fe do Araguaia",
+      "slug": "santa-fe-do-araguaia-br1718865"
+    },
+    "code": {
+      "id": "BR1718865",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.095",
+      "lon": "-48.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1718881",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Maria do Tocantins",
+      "en": "Santa Maria do Tocantins",
+      "slug": "santa-maria-do-tocantins-br1718881"
+    },
+    "code": {
+      "id": "BR1718881",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.833",
+      "lon": "-47.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1718899",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Rita do Tocantins",
+      "en": "Santa Rita do Tocantins",
+      "slug": "santa-rita-do-tocantins-br1718899"
+    },
+    "code": {
+      "id": "BR1718899",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.979",
+      "lon": "-49.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1718907",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Rosa do Tocantins",
+      "en": "Santa Rosa do Tocantins",
+      "slug": "santa-rosa-do-tocantins-br1718907"
+    },
+    "code": {
+      "id": "BR1718907",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.389",
+      "lon": "-48.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1719004",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Tereza do Tocantins",
+      "en": "Santa Tereza do Tocantins",
+      "slug": "santa-tereza-do-tocantins-br1719004"
+    },
+    "code": {
+      "id": "BR1719004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.301",
+      "lon": "-47.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1720002",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Terezinha do Tocantins",
+      "en": "Santa Terezinha do Tocantins",
+      "slug": "santa-terezinha-do-tocantins-br1720002"
+    },
+    "code": {
+      "id": "BR1720002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.473",
+      "lon": "-47.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1720101",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Bento do Tocantins",
+      "en": "Sao Bento do Tocantins",
+      "slug": "sao-bento-do-tocantins-br1720101"
+    },
+    "code": {
+      "id": "BR1720101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.981",
+      "lon": "-47.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1720150",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Félix do Tocantins",
+      "en": "Sao Felix do Tocantins",
+      "slug": "sao-felix-do-tocantins-br1720150"
+    },
+    "code": {
+      "id": "BR1720150",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.076",
+      "lon": "-46.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1720200",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Miguel do Tocantins",
+      "en": "Sao Miguel do Tocantins",
+      "slug": "sao-miguel-do-tocantins-br1720200"
+    },
+    "code": {
+      "id": "BR1720200",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.55",
+      "lon": "-47.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1720259",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Salvador do Tocantins",
+      "en": "Sao Salvador do Tocantins",
+      "slug": "sao-salvador-do-tocantins-br1720259"
+    },
+    "code": {
+      "id": "BR1720259",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.568",
+      "lon": "-48.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1720309",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Sebastião do Tocantins",
+      "en": "Sao Sebastiao do Tocantins",
+      "slug": "sao-sebastiao-do-tocantins-br1720309"
+    },
+    "code": {
+      "id": "BR1720309",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.248",
+      "lon": "-48.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1720499",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Valério",
+      "en": "Sao Valerio",
+      "slug": "sao-valerio-br1720499"
+    },
+    "code": {
+      "id": "BR1720499",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.849",
+      "lon": "-48.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1720655",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Silvanópolis",
+      "en": "Silvanopolis",
+      "slug": "silvanopolis-br1720655"
+    },
+    "code": {
+      "id": "BR1720655",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.131",
+      "lon": "-47.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1720804",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sítio Novo do Tocantins",
+      "en": "Sitio Novo do Tocantins",
+      "slug": "sitio-novo-do-tocantins-br1720804"
+    },
+    "code": {
+      "id": "BR1720804",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.624",
+      "lon": "-47.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1720853",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sucupira",
+      "en": "Sucupira",
+      "slug": "sucupira-br1720853"
+    },
+    "code": {
+      "id": "BR1720853",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.124",
+      "lon": "-48.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1708254",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tabocão",
+      "en": "Tabocao",
+      "slug": "tabocao-br1708254"
+    },
+    "code": {
+      "id": "BR1708254",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.095",
+      "lon": "-48.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1720903",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Taguatinga",
+      "en": "Taguatinga",
+      "slug": "taguatinga-br1720903"
+    },
+    "code": {
+      "id": "BR1720903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.377",
+      "lon": "-46.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1720937",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Taipas do Tocantins",
+      "en": "Taipas do Tocantins",
+      "slug": "taipas-do-tocantins-br1720937"
+    },
+    "code": {
+      "id": "BR1720937",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.149",
+      "lon": "-47.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1720978",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Talismã",
+      "en": "Talisma",
+      "slug": "talisma-br1720978"
+    },
+    "code": {
+      "id": "BR1720978",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.668",
+      "lon": "-49.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1721109",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tocantínia",
+      "en": "Tocantinia",
+      "slug": "tocantinia-br1721109"
+    },
+    "code": {
+      "id": "BR1721109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.55",
+      "lon": "-48.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1721208",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tocantinópolis",
+      "en": "Tocantinopolis",
+      "slug": "tocantinopolis-br1721208"
+    },
+    "code": {
+      "id": "BR1721208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.245",
+      "lon": "-47.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1721257",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tupirama",
+      "en": "Tupirama",
+      "slug": "tupirama-br1721257"
+    },
+    "code": {
+      "id": "BR1721257",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.906",
+      "lon": "-48.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1721307",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tupiratins",
+      "en": "Tupiratins",
+      "slug": "tupiratins-br1721307"
+    },
+    "code": {
+      "id": "BR1721307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.37",
+      "lon": "-48.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1722081",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Wanderlândia",
+      "en": "Wanderlandia",
+      "slug": "wanderlandia-br1722081"
+    },
+    "code": {
+      "id": "BR1722081",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.853",
+      "lon": "-47.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1722107",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Xambioá",
+      "en": "Xambioa",
+      "slug": "xambioa-br1722107"
+    },
+    "code": {
+      "id": "BR1722107",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR17",
+        "level": 1,
+        "name": {
+          "local": "Tocantins",
+          "en": "Tocantins",
+          "slug": "tocantins-br17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.602",
+      "lon": "-48.457"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

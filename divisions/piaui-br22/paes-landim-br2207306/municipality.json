@@ -1,0 +1,45 @@
+{
+  "id": "BR2207306",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Paes Landim",
+    "en": "Paes Landim",
+    "slug": "paes-landim-br2207306"
+  },
+  "code": {
+    "id": "BR2207306",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.842",
+    "lon": "-42.293"
+  },
+  "metadata": {},
+  "source": {}
+}

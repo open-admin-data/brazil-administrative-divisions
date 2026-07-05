@@ -1,0 +1,45 @@
+{
+  "id": "BR1300680",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Boa Vista do Ramos",
+    "en": "Boa Vista do Ramos",
+    "slug": "boa-vista-do-ramos-br1300680"
+  },
+  "code": {
+    "id": "BR1300680",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.121",
+    "lon": "-57.613"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2102358",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Buritirana",
+    "en": "Buritirana",
+    "slug": "buritirana-br2102358"
+  },
+  "code": {
+    "id": "BR2102358",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.503",
+    "lon": "-47.04"
+  },
+  "metadata": {},
+  "source": {}
+}

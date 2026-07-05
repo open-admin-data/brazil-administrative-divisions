@@ -1,0 +1,45 @@
+{
+  "id": "BR3203130",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "João Neiva",
+    "en": "Joao Neiva",
+    "slug": "joao-neiva-br3203130"
+  },
+  "code": {
+    "id": "BR3203130",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.737",
+    "lon": "-40.44"
+  },
+  "metadata": {},
+  "source": {}
+}

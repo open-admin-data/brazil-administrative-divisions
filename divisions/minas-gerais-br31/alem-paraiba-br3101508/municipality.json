@@ -1,0 +1,45 @@
+{
+  "id": "BR3101508",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Além Paraíba",
+    "en": "Alem Paraiba",
+    "slug": "alem-paraiba-br3101508"
+  },
+  "code": {
+    "id": "BR3101508",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.811",
+    "lon": "-42.756"
+  },
+  "metadata": {},
+  "source": {}
+}

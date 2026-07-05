@@ -1,0 +1,45 @@
+{
+  "id": "BR4211256",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Morro Grande",
+    "en": "Morro Grande",
+    "slug": "morro-grande-br4211256"
+  },
+  "code": {
+    "id": "BR4211256",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.706",
+    "lon": "-49.755"
+  },
+  "metadata": {},
+  "source": {}
+}

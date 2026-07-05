@@ -1,0 +1,45 @@
+{
+  "id": "BR3158706",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santana do Garambéu",
+    "en": "Santana do Garambeu",
+    "slug": "santana-do-garambeu-br3158706"
+  },
+  "code": {
+    "id": "BR3158706",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.645",
+    "lon": "-44.065"
+  },
+  "metadata": {},
+  "source": {}
+}

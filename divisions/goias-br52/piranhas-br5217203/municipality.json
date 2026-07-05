@@ -1,0 +1,45 @@
+{
+  "id": "BR5217203",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Piranhas",
+    "en": "Piranhas",
+    "slug": "piranhas-br5217203"
+  },
+  "code": {
+    "id": "BR5217203",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.408",
+    "lon": "-51.838"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3515509",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Fernandópolis",
+    "en": "Fernandopolis",
+    "slug": "fernandopolis-br3515509"
+  },
+  "code": {
+    "id": "BR3515509",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.302",
+    "lon": "-50.289"
+  },
+  "metadata": {},
+  "source": {}
+}

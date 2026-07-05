@@ -1,0 +1,45 @@
+{
+  "id": "BR3549508",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José da Bela Vista",
+    "en": "Sao Jose da Bela Vista",
+    "slug": "sao-jose-da-bela-vista-br3549508"
+  },
+  "code": {
+    "id": "BR3549508",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.601",
+    "lon": "-47.628"
+  },
+  "metadata": {},
+  "source": {}
+}

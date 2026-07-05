@@ -1,0 +1,45 @@
+{
+  "id": "BR3169356",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Três Marias",
+    "en": "Tres Marias",
+    "slug": "tres-marias-br3169356"
+  },
+  "code": {
+    "id": "BR3169356",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.286",
+    "lon": "-45.049"
+  },
+  "metadata": {},
+  "source": {}
+}

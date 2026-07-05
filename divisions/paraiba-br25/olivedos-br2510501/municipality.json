@@ -1,0 +1,45 @@
+{
+  "id": "BR2510501",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Olivedos",
+    "en": "Olivedos",
+    "slug": "olivedos-br2510501"
+  },
+  "code": {
+    "id": "BR2510501",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.001",
+    "lon": "-36.219"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1100346",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alvorada D'Oeste",
+    "en": "Alvorada D'Oeste",
+    "slug": "alvorada-d-oeste-br1100346"
+  },
+  "code": {
+    "id": "BR1100346",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.286",
+    "lon": "-62.598"
+  },
+  "metadata": {},
+  "source": {}
+}

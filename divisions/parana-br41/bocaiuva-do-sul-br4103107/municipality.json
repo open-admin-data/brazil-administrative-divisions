@@ -1,0 +1,45 @@
+{
+  "id": "BR4103107",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bocaiúva do Sul",
+    "en": "Bocaiuva do Sul",
+    "slug": "bocaiuva-do-sul-br4103107"
+  },
+  "code": {
+    "id": "BR4103107",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.101",
+    "lon": "-48.879"
+  },
+  "metadata": {},
+  "source": {}
+}

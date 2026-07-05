@@ -1,0 +1,45 @@
+{
+  "id": "BR5108055",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Terra Nova do Norte",
+    "en": "Terra Nova do Norte",
+    "slug": "terra-nova-do-norte-br5108055"
+  },
+  "code": {
+    "id": "BR5108055",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.567",
+    "lon": "-54.956"
+  },
+  "metadata": {},
+  "source": {}
+}

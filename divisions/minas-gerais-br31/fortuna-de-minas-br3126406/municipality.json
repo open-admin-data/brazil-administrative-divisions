@@ -1,0 +1,45 @@
+{
+  "id": "BR3126406",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Fortuna de Minas",
+    "en": "Fortuna de Minas",
+    "slug": "fortuna-de-minas-br3126406"
+  },
+  "code": {
+    "id": "BR3126406",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.554",
+    "lon": "-44.51"
+  },
+  "metadata": {},
+  "source": {}
+}

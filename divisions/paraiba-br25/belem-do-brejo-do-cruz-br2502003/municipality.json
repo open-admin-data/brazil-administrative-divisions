@@ -1,0 +1,45 @@
+{
+  "id": "BR2502003",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Belém do Brejo do Cruz",
+    "en": "Belem do Brejo do Cruz",
+    "slug": "belem-do-brejo-do-cruz-br2502003"
+  },
+  "code": {
+    "id": "BR2502003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.157",
+    "lon": "-37.382"
+  },
+  "metadata": {},
+  "source": {}
+}

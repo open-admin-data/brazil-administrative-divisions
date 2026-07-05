@@ -1,0 +1,45 @@
+{
+  "id": "BR1721000",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Palmas",
+    "en": "Palmas",
+    "slug": "palmas-br1721000"
+  },
+  "code": {
+    "id": "BR1721000",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.394",
+    "lon": "-51.842"
+  },
+  "metadata": {},
+  "source": {}
+}

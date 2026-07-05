@@ -1,0 +1,45 @@
+{
+  "id": "BR2701605",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Canapi",
+    "en": "Canapi",
+    "slug": "canapi-br2701605"
+  },
+  "code": {
+    "id": "BR2701605",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.15",
+    "lon": "-37.51"
+  },
+  "metadata": {},
+  "source": {}
+}

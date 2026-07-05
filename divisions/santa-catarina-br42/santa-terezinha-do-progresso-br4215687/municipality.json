@@ -1,0 +1,45 @@
+{
+  "id": "BR4215687",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Terezinha do Progresso",
+    "en": "Santa Terezinha do Progresso",
+    "slug": "santa-terezinha-do-progresso-br4215687"
+  },
+  "code": {
+    "id": "BR4215687",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.597",
+    "lon": "-53.178"
+  },
+  "metadata": {},
+  "source": {}
+}

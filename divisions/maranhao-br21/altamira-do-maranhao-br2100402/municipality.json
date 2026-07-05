@@ -1,0 +1,45 @@
+{
+  "id": "BR2100402",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Altamira do Maranhão",
+    "en": "Altamira do Maranhao",
+    "slug": "altamira-do-maranhao-br2100402"
+  },
+  "code": {
+    "id": "BR2100402",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.16",
+    "lon": "-45.507"
+  },
+  "metadata": {},
+  "source": {}
+}

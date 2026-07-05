@@ -1,0 +1,45 @@
+{
+  "id": "BR4110805",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Iretama",
+    "en": "Iretama",
+    "slug": "iretama-br4110805"
+  },
+  "code": {
+    "id": "BR4110805",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.34",
+    "lon": "-52.097"
+  },
+  "metadata": {},
+  "source": {}
+}

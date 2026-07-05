@@ -1,0 +1,45 @@
+{
+  "id": "BR2105609",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Joselândia",
+    "en": "Joselandia",
+    "slug": "joselandia-br2105609"
+  },
+  "code": {
+    "id": "BR2105609",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.006",
+    "lon": "-44.729"
+  },
+  "metadata": {},
+  "source": {}
+}

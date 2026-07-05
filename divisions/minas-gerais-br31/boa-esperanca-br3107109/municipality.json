@@ -1,0 +1,45 @@
+{
+  "id": "BR3107109",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Boa Esperança",
+    "en": "Boa Esperanca",
+    "slug": "boa-esperanca-br3107109"
+  },
+  "code": {
+    "id": "BR3107109",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.246",
+    "lon": "-52.741"
+  },
+  "metadata": {},
+  "source": {}
+}

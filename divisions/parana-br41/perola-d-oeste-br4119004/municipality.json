@@ -1,0 +1,45 @@
+{
+  "id": "BR4119004",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pérola d'Oeste",
+    "en": "Perola d'Oeste",
+    "slug": "perola-d-oeste-br4119004"
+  },
+  "code": {
+    "id": "BR4119004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.841",
+    "lon": "-53.756"
+  },
+  "metadata": {},
+  "source": {}
+}

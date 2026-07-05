@@ -1,0 +1,45 @@
+{
+  "id": "BR4207759",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Iraceminha",
+    "en": "Iraceminha",
+    "slug": "iraceminha-br4207759"
+  },
+  "code": {
+    "id": "BR4207759",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.853",
+    "lon": "-53.321"
+  },
+  "metadata": {},
+  "source": {}
+}

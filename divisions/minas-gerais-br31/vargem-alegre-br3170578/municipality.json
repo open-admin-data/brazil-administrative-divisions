@@ -1,0 +1,45 @@
+{
+  "id": "BR3170578",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vargem Alegre",
+    "en": "Vargem Alegre",
+    "slug": "vargem-alegre-br3170578"
+  },
+  "code": {
+    "id": "BR3170578",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.607",
+    "lon": "-42.322"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR5107040",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Primavera do Leste",
+    "en": "Primavera do Leste",
+    "slug": "primavera-do-leste-br5107040"
+  },
+  "code": {
+    "id": "BR5107040",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.158",
+    "lon": "-54.21"
+  },
+  "metadata": {},
+  "source": {}
+}

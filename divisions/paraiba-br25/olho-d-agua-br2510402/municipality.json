@@ -1,0 +1,45 @@
+{
+  "id": "BR2510402",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Olho d'Água",
+    "en": "Olho d'Agua",
+    "slug": "olho-d-agua-br2510402"
+  },
+  "code": {
+    "id": "BR2510402",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.308",
+    "lon": "-37.743"
+  },
+  "metadata": {},
+  "source": {}
+}

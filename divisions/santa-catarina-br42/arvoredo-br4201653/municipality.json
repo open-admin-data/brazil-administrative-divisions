@@ -1,0 +1,45 @@
+{
+  "id": "BR4201653",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Arvoredo",
+    "en": "Arvoredo",
+    "slug": "arvoredo-br4201653"
+  },
+  "code": {
+    "id": "BR4201653",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.058",
+    "lon": "-52.449"
+  },
+  "metadata": {},
+  "source": {}
+}

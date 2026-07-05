@@ -1,0 +1,45 @@
+{
+  "id": "BR4100806",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alvorada do Sul",
+    "en": "Alvorada do Sul",
+    "slug": "alvorada-do-sul-br4100806"
+  },
+  "code": {
+    "id": "BR4100806",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.816",
+    "lon": "-51.276"
+  },
+  "metadata": {},
+  "source": {}
+}

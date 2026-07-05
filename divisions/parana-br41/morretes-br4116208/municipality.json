@@ -1,0 +1,45 @@
+{
+  "id": "BR4116208",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Morretes",
+    "en": "Morretes",
+    "slug": "morretes-br4116208"
+  },
+  "code": {
+    "id": "BR4116208",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.531",
+    "lon": "-48.872"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR5105507",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vila Bela da Santíssima Trindade",
+    "en": "Vila Bela da Santissima Trindade",
+    "slug": "vila-bela-da-santissima-trindade-br5105507"
+  },
+  "code": {
+    "id": "BR5105507",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.853",
+    "lon": "-60.071"
+  },
+  "metadata": {},
+  "source": {}
+}

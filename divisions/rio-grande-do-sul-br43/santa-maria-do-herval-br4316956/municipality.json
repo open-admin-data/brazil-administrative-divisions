@@ -1,0 +1,45 @@
+{
+  "id": "BR4316956",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Maria do Herval",
+    "en": "Santa Maria do Herval",
+    "slug": "santa-maria-do-herval-br4316956"
+  },
+  "code": {
+    "id": "BR4316956",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.475",
+    "lon": "-50.981"
+  },
+  "metadata": {},
+  "source": {}
+}

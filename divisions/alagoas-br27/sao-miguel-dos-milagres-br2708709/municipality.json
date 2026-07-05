@@ -1,0 +1,45 @@
+{
+  "id": "BR2708709",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Miguel dos Milagres",
+    "en": "Sao Miguel dos Milagres",
+    "slug": "sao-miguel-dos-milagres-br2708709"
+  },
+  "code": {
+    "id": "BR2708709",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.242",
+    "lon": "-35.408"
+  },
+  "metadata": {},
+  "source": {}
+}

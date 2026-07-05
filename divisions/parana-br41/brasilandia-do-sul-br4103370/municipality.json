@@ -1,0 +1,45 @@
+{
+  "id": "BR4103370",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Brasilândia do Sul",
+    "en": "Brasilandia do Sul",
+    "slug": "brasilandia-do-sul-br4103370"
+  },
+  "code": {
+    "id": "BR4103370",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.208",
+    "lon": "-53.57"
+  },
+  "metadata": {},
+  "source": {}
+}

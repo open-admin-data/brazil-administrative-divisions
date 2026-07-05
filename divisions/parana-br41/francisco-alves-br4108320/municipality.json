@@ -1,0 +1,45 @@
+{
+  "id": "BR4108320",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Francisco Alves",
+    "en": "Francisco Alves",
+    "slug": "francisco-alves-br4108320"
+  },
+  "code": {
+    "id": "BR4108320",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.099",
+    "lon": "-53.883"
+  },
+  "metadata": {},
+  "source": {}
+}

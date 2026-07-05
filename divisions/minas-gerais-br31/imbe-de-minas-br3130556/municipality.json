@@ -1,0 +1,45 @@
+{
+  "id": "BR3130556",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Imbé de Minas",
+    "en": "Imbe de Minas",
+    "slug": "imbe-de-minas-br3130556"
+  },
+  "code": {
+    "id": "BR3130556",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.643",
+    "lon": "-41.975"
+  },
+  "metadata": {},
+  "source": {}
+}

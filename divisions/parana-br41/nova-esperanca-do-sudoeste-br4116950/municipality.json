@@ -1,0 +1,45 @@
+{
+  "id": "BR4116950",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Esperança do Sudoeste",
+    "en": "Nova Esperanca do Sudoeste",
+    "slug": "nova-esperanca-do-sudoeste-br4116950"
+  },
+  "code": {
+    "id": "BR4116950",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.89",
+    "lon": "-53.261"
+  },
+  "metadata": {},
+  "source": {}
+}

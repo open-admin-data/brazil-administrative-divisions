@@ -1,0 +1,45 @@
+{
+  "id": "BR2201988",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Brejo do Piauí",
+    "en": "Brejo do Piaui",
+    "slug": "brejo-do-piaui-br2201988"
+  },
+  "code": {
+    "id": "BR2201988",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.368",
+    "lon": "-42.796"
+  },
+  "metadata": {},
+  "source": {}
+}

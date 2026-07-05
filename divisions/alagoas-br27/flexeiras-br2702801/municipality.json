@@ -1,0 +1,45 @@
+{
+  "id": "BR2702801",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Flexeiras",
+    "en": "Flexeiras",
+    "slug": "flexeiras-br2702801"
+  },
+  "code": {
+    "id": "BR2702801",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.211",
+    "lon": "-35.788"
+  },
+  "metadata": {},
+  "source": {}
+}

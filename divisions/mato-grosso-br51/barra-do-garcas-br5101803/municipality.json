@@ -1,0 +1,45 @@
+{
+  "id": "BR5101803",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barra do Garças",
+    "en": "Barra do Garcas",
+    "slug": "barra-do-garcas-br5101803"
+  },
+  "code": {
+    "id": "BR5101803",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.341",
+    "lon": "-52.528"
+  },
+  "metadata": {},
+  "source": {}
+}

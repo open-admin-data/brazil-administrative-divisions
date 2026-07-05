@@ -1,0 +1,45 @@
+{
+  "id": "BR1713700",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Monte Santo do Tocantins",
+    "en": "Monte Santo do Tocantins",
+    "slug": "monte-santo-do-tocantins-br1713700"
+  },
+  "code": {
+    "id": "BR1713700",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.003",
+    "lon": "-49.07"
+  },
+  "metadata": {},
+  "source": {}
+}

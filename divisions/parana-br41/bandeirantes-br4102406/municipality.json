@@ -1,0 +1,45 @@
+{
+  "id": "BR4102406",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bandeirantes",
+    "en": "Bandeirantes",
+    "slug": "bandeirantes-br4102406"
+  },
+  "code": {
+    "id": "BR4102406",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.807",
+    "lon": "-54.34"
+  },
+  "metadata": {},
+  "source": {}
+}

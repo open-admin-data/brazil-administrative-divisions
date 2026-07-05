@@ -1,0 +1,45 @@
+{
+  "id": "BR5208103",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Formoso",
+    "en": "Formoso",
+    "slug": "formoso-br5208103"
+  },
+  "code": {
+    "id": "BR5208103",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.705",
+    "lon": "-48.869"
+  },
+  "metadata": {},
+  "source": {}
+}

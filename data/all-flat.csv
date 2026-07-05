@@ -1,0 +1,29 @@
+# Data from Open Admin Data (https://openadmindata.org/br/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/brazil-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.state,children_count.municipality,zip_codes,geo.lat,geo.lon,source_url
+BR11,1,Estado,State,Rondônia,Rondonia,rondonia-br11,BR11,,,,,,52,,-10.563,-63.379,https://openadmindata.org/br/states/rondonia-br11/
+BR12,1,Estado,State,Acre,Acre,acre-br12,BR12,,,,,,22,,-9.48,-70.508,https://openadmindata.org/br/states/acre-br12/
+BR13,1,Estado,State,Amazonas,Amazonas,amazonas-br13,BR13,,,,,,62,,-2.992,-65.299,https://openadmindata.org/br/states/amazonas-br13/
+BR14,1,Estado,State,Roraima,Roraima,roraima-br14,BR14,,,,,,15,,2.339,-61.611,https://openadmindata.org/br/states/roraima-br14/
+BR15,1,Estado,State,Pará,Para,para-br15,BR15,,,,,,144,,-2.216,-52.455,https://openadmindata.org/br/states/para-br15/
+BR16,1,Estado,State,Amapá,Amapa,amapa-br16,BR16,,,,,,16,,1.559,-52.21,https://openadmindata.org/br/states/amapa-br16/
+BR17,1,Estado,State,Tocantins,Tocantins,tocantins-br17,BR17,,,,,,139,,-10.144,-48.057,https://openadmindata.org/br/states/tocantins-br17/
+BR21,1,Estado,State,Maranhão,Maranhao,maranhao-br21,BR21,,,,,,217,,-5.232,-45.409,https://openadmindata.org/br/states/maranhao-br21/
+BR22,1,Estado,State,Piauí,Piaui,piaui-br22,BR22,,,,,,224,,-7.28,-42.915,https://openadmindata.org/br/states/piaui-br22/
+BR23,1,Estado,State,Ceará,Ceara,ceara-br23,BR23,,,,,,184,,-5.325,-39.5,https://openadmindata.org/br/states/ceara-br23/
+BR24,1,Estado,State,Rio Grande do Norte,Rio Grande do Norte,rio-grande-do-norte-br24,BR24,,,,,,167,,-5.401,-36.954,https://openadmindata.org/br/states/rio-grande-do-norte-br24/
+BR25,1,Estado,State,Paraíba,Paraiba,paraiba-br25,BR25,,,,,,223,,-7.164,-37.035,https://openadmindata.org/br/states/paraiba-br25/
+BR26,1,Estado,State,Pernambuco,Pernambuco,pernambuco-br26,BR26,,,,,,185,,-8.397,-38.085,https://openadmindata.org/br/states/pernambuco-br26/
+BR27,1,Estado,State,Alagoas,Alagoas,alagoas-br27,BR27,,,,,,102,,-9.421,-36.643,https://openadmindata.org/br/states/alagoas-br27/
+BR28,1,Estado,State,Sergipe,Sergipe,sergipe-br28,BR28,,,,,,75,,-10.467,-37.386,https://openadmindata.org/br/states/sergipe-br28/
+BR29,1,Estado,State,Bahia,Bahia,bahia-br29,BR29,,,,,,417,,-12.58,-41.827,https://openadmindata.org/br/states/bahia-br29/
+BR31,1,Estado,State,Minas Gerais,Minas Gerais,minas-gerais-br31,BR31,,,,,,853,,-18.57,-45.48,https://openadmindata.org/br/states/minas-gerais-br31/
+BR32,1,Estado,State,Espírito Santo,Espirito Santo,espirito-santo-br32,BR32,,,,,,78,,-19.71,-40.843,https://openadmindata.org/br/states/espirito-santo-br32/
+BR33,1,Estado,State,Rio de Janeiro,Rio de Janeiro,rio-de-janeiro-br33,BR33,,,,,,92,,-22.259,-42.652,https://openadmindata.org/br/states/rio-de-janeiro-br33/
+BR35,1,Estado,State,São Paulo,Sao Paulo,sao-paulo-br35,BR35,,,,,,645,,-22.386,-48.382,https://openadmindata.org/br/states/sao-paulo-br35/
+BR41,1,Estado,State,Paraná,Parana,parana-br41,BR41,,,,,,399,,-24.782,-51.661,https://openadmindata.org/br/states/parana-br41/
+BR42,1,Estado,State,Santa Catarina,Santa Catarina,santa-catarina-br42,BR42,,,,,,295,,-27.387,-50.825,https://openadmindata.org/br/states/santa-catarina-br42/
+BR43,1,Estado,State,Rio Grande do Sul,Rio Grande do Sul,rio-grande-do-sul-br43,BR43,,,,,,499,,-29.971,-53.365,https://openadmindata.org/br/states/rio-grande-do-sul-br43/
+BR50,1,Estado,State,Mato Grosso do Sul,Mato Grosso do Sul,mato-grosso-do-sul-br50,BR50,,,,,,79,,-20.241,-54.802,https://openadmindata.org/br/states/mato-grosso-do-sul-br50/
+BR51,1,Estado,State,Mato Grosso,Mato Grosso,mato-grosso-br51,BR51,,,,,,141,,-13.81,-55.812,https://openadmindata.org/br/states/mato-grosso-br51/
+BR52,1,Estado,State,Goiás,Goias,goias-br52,BR52,,,,,,246,,-15.856,-49.42,https://openadmindata.org/br/states/goias-br52/
+BR53,1,Estado,State,Distrito Federal,Distrito Federal,distrito-federal-br53,BR53,,,,,,1,,-15.778,-47.862,https://openadmindata.org/br/states/distrito-federal-br53/

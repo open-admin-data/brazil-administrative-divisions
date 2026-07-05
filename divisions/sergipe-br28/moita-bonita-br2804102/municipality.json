@@ -1,0 +1,45 @@
+{
+  "id": "BR2804102",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Moita Bonita",
+    "en": "Moita Bonita",
+    "slug": "moita-bonita-br2804102"
+  },
+  "code": {
+    "id": "BR2804102",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.597",
+    "lon": "-37.333"
+  },
+  "metadata": {},
+  "source": {}
+}

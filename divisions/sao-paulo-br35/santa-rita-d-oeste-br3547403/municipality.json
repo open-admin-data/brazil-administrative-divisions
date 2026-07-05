@@ -1,0 +1,45 @@
+{
+  "id": "BR3547403",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Rita d'Oeste",
+    "en": "Santa Rita d'Oeste",
+    "slug": "santa-rita-d-oeste-br3547403"
+  },
+  "code": {
+    "id": "BR3547403",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.089",
+    "lon": "-50.815"
+  },
+  "metadata": {},
+  "source": {}
+}

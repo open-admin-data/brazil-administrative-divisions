@@ -1,0 +1,45 @@
+{
+  "id": "BR4104204",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campo Largo",
+    "en": "Campo Largo",
+    "slug": "campo-largo-br4104204"
+  },
+  "code": {
+    "id": "BR4104204",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.263",
+    "lon": "-49.61"
+  },
+  "metadata": {},
+  "source": {}
+}

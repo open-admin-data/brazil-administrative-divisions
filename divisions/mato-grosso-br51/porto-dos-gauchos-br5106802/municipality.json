@@ -1,0 +1,45 @@
+{
+  "id": "BR5106802",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Porto dos Gaúchos",
+    "en": "Porto dos Gauchos",
+    "slug": "porto-dos-gauchos-br5106802"
+  },
+  "code": {
+    "id": "BR5106802",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.723",
+    "lon": "-56.862"
+  },
+  "metadata": {},
+  "source": {}
+}

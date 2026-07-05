@@ -1,0 +1,45 @@
+{
+  "id": "BR5219100",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Bárbara de Goiás",
+    "en": "Santa Barbara de Goias",
+    "slug": "santa-barbara-de-goias-br5219100"
+  },
+  "code": {
+    "id": "BR5219100",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.596",
+    "lon": "-49.683"
+  },
+  "metadata": {},
+  "source": {}
+}

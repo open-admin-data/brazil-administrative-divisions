@@ -1,0 +1,45 @@
+{
+  "id": "BR4212700",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Petrolândia",
+    "en": "Petrolandia",
+    "slug": "petrolandia-br4212700"
+  },
+  "code": {
+    "id": "BR4212700",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.56",
+    "lon": "-49.692"
+  },
+  "metadata": {},
+  "source": {}
+}

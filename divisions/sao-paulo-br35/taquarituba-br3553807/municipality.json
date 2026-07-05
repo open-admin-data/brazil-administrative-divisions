@@ -1,0 +1,45 @@
+{
+  "id": "BR3553807",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Taquarituba",
+    "en": "Taquarituba",
+    "slug": "taquarituba-br3553807"
+  },
+  "code": {
+    "id": "BR3553807",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.527",
+    "lon": "-49.231"
+  },
+  "metadata": {},
+  "source": {}
+}

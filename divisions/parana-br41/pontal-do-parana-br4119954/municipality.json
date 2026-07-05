@@ -1,0 +1,45 @@
+{
+  "id": "BR4119954",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pontal do Paraná",
+    "en": "Pontal do Parana",
+    "slug": "pontal-do-parana-br4119954"
+  },
+  "code": {
+    "id": "BR4119954",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.643",
+    "lon": "-48.498"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2211209",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Uruçuí",
+    "en": "Urucui",
+    "slug": "urucui-br2211209"
+  },
+  "code": {
+    "id": "BR2211209",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.361",
+    "lon": "-44.603"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2513968",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Domingos",
+    "en": "Sao Domingos",
+    "slug": "sao-domingos-br2513968"
+  },
+  "code": {
+    "id": "BR2513968",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.53",
+    "lon": "-46.491"
+  },
+  "metadata": {},
+  "source": {}
+}

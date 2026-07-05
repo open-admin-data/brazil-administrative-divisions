@@ -1,0 +1,45 @@
+{
+  "id": "BR3505401",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barra do Turvo",
+    "en": "Barra do Turvo",
+    "slug": "barra-do-turvo-br3505401"
+  },
+  "code": {
+    "id": "BR3505401",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.891",
+    "lon": "-48.412"
+  },
+  "metadata": {},
+  "source": {}
+}

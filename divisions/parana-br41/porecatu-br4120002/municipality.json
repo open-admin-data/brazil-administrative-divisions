@@ -1,0 +1,45 @@
+{
+  "id": "BR4120002",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Porecatu",
+    "en": "Porecatu",
+    "slug": "porecatu-br4120002"
+  },
+  "code": {
+    "id": "BR4120002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.751",
+    "lon": "-51.396"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR4117057",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Laranjeiras",
+    "en": "Nova Laranjeiras",
+    "slug": "nova-laranjeiras-br4117057"
+  },
+  "code": {
+    "id": "BR4117057",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.21",
+    "lon": "-52.585"
+  },
+  "metadata": {},
+  "source": {}
+}

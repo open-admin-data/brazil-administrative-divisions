@@ -1,0 +1,45 @@
+{
+  "id": "BR2805307",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pirambu",
+    "en": "Pirambu",
+    "slug": "pirambu-br2805307"
+  },
+  "code": {
+    "id": "BR2805307",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.683",
+    "lon": "-36.848"
+  },
+  "metadata": {},
+  "source": {}
+}

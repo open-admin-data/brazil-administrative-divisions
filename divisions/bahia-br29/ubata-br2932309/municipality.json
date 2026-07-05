@@ -1,0 +1,45 @@
+{
+  "id": "BR2932309",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ubatã",
+    "en": "Ubata",
+    "slug": "ubata-br2932309"
+  },
+  "code": {
+    "id": "BR2932309",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.078",
+    "lon": "-39.521"
+  },
+  "metadata": {},
+  "source": {}
+}

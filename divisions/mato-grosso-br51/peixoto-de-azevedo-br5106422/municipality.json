@@ -1,0 +1,45 @@
+{
+  "id": "BR5106422",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Peixoto de Azevedo",
+    "en": "Peixoto de Azevedo",
+    "slug": "peixoto-de-azevedo-br5106422"
+  },
+  "code": {
+    "id": "BR5106422",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.171",
+    "lon": "-54.104"
+  },
+  "metadata": {},
+  "source": {}
+}

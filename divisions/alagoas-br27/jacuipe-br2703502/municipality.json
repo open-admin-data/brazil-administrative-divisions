@@ -1,0 +1,45 @@
+{
+  "id": "BR2703502",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jacuípe",
+    "en": "Jacuipe",
+    "slug": "jacuipe-br2703502"
+  },
+  "code": {
+    "id": "BR2703502",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.872",
+    "lon": "-35.461"
+  },
+  "metadata": {},
+  "source": {}
+}

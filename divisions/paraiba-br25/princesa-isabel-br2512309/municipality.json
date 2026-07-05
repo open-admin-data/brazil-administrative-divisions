@@ -1,0 +1,45 @@
+{
+  "id": "BR2512309",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Princesa Isabel",
+    "en": "Princesa Isabel",
+    "slug": "princesa-isabel-br2512309"
+  },
+  "code": {
+    "id": "BR2512309",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.641",
+    "lon": "-38.005"
+  },
+  "metadata": {},
+  "source": {}
+}

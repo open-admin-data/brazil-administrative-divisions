@@ -1,0 +1,45 @@
+{
+  "id": "BR4200606",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Águas Mornas",
+    "en": "Aguas Mornas",
+    "slug": "aguas-mornas-br4200606"
+  },
+  "code": {
+    "id": "BR4200606",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.741",
+    "lon": "-48.926"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1200344",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Manoel Urbano",
+    "en": "Manoel Urbano",
+    "slug": "manoel-urbano-br1200344"
+  },
+  "code": {
+    "id": "BR1200344",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR12",
+    "level": 1,
+    "name": {
+      "local": "Acre",
+      "en": "Acre",
+      "slug": "acre-br12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.359",
+    "lon": "-69.96"
+  },
+  "metadata": {},
+  "source": {}
+}

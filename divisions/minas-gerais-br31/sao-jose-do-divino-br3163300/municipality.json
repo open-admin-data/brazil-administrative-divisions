@@ -1,0 +1,45 @@
+{
+  "id": "BR3163300",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José do Divino",
+    "en": "Sao Jose do Divino",
+    "slug": "sao-jose-do-divino-br3163300"
+  },
+  "code": {
+    "id": "BR3163300",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.417",
+    "lon": "-41.372"
+  },
+  "metadata": {},
+  "source": {}
+}

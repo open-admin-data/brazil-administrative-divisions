@@ -1,0 +1,45 @@
+{
+  "id": "BR4215752",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Bernardino",
+    "en": "Sao Bernardino",
+    "slug": "sao-bernardino-br4215752"
+  },
+  "code": {
+    "id": "BR4215752",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.496",
+    "lon": "-52.978"
+  },
+  "metadata": {},
+  "source": {}
+}

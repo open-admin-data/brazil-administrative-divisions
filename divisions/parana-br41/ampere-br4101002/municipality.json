@@ -1,0 +1,45 @@
+{
+  "id": "BR4101002",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ampére",
+    "en": "Ampere",
+    "slug": "ampere-br4101002"
+  },
+  "code": {
+    "id": "BR4101002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.919",
+    "lon": "-53.5"
+  },
+  "metadata": {},
+  "source": {}
+}

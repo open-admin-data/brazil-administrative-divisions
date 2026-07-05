@@ -1,0 +1,45 @@
+{
+  "id": "BR2902054",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Araçás",
+    "en": "Aracas",
+    "slug": "aracas-br2902054"
+  },
+  "code": {
+    "id": "BR2902054",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.132",
+    "lon": "-38.199"
+  },
+  "metadata": {},
+  "source": {}
+}

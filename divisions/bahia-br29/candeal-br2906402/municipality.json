@@ -1,0 +1,45 @@
+{
+  "id": "BR2906402",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Candeal",
+    "en": "Candeal",
+    "slug": "candeal-br2906402"
+  },
+  "code": {
+    "id": "BR2906402",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.889",
+    "lon": "-39.204"
+  },
+  "metadata": {},
+  "source": {}
+}

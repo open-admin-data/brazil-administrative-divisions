@@ -1,0 +1,45 @@
+{
+  "id": "BR4106555",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Corumbataí do Sul",
+    "en": "Corumbatai do Sul",
+    "slug": "corumbatai-do-sul-br4106555"
+  },
+  "code": {
+    "id": "BR4106555",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.13",
+    "lon": "-52.152"
+  },
+  "metadata": {},
+  "source": {}
+}

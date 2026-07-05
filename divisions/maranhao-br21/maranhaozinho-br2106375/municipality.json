@@ -1,0 +1,45 @@
+{
+  "id": "BR2106375",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Maranhãozinho",
+    "en": "Maranhaozinho",
+    "slug": "maranhaozinho-br2106375"
+  },
+  "code": {
+    "id": "BR2106375",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.5",
+    "lon": "-45.994"
+  },
+  "metadata": {},
+  "source": {}
+}

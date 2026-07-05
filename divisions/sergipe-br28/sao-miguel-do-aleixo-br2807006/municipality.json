@@ -1,0 +1,45 @@
+{
+  "id": "BR2807006",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Miguel do Aleixo",
+    "en": "Sao Miguel do Aleixo",
+    "slug": "sao-miguel-do-aleixo-br2807006"
+  },
+  "code": {
+    "id": "BR2807006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.371",
+    "lon": "-37.355"
+  },
+  "metadata": {},
+  "source": {}
+}

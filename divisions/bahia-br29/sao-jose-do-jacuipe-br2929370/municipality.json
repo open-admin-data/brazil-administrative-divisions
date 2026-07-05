@@ -1,0 +1,45 @@
+{
+  "id": "BR2929370",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José do Jacuípe",
+    "en": "Sao Jose do Jacuipe",
+    "slug": "sao-jose-do-jacuipe-br2929370"
+  },
+  "code": {
+    "id": "BR2929370",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.449",
+    "lon": "-39.903"
+  },
+  "metadata": {},
+  "source": {}
+}

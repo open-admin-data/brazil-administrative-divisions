@@ -1,0 +1,896 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/br/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/brazil-administrative-divisions",
+  "data": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      },
+      "code": {
+        "id": "BR11",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 52
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-10.563",
+        "lon": "-63.379"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/rondonia-br11/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR12",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      },
+      "code": {
+        "id": "BR12",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 22
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-9.48",
+        "lon": "-70.508"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/acre-br12/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR13",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      },
+      "code": {
+        "id": "BR13",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 62
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-2.992",
+        "lon": "-65.299"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/amazonas-br13/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR14",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      },
+      "code": {
+        "id": "BR14",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 15
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "2.339",
+        "lon": "-61.611"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/roraima-br14/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR15",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      },
+      "code": {
+        "id": "BR15",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 144
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-2.216",
+        "lon": "-52.455"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/para-br15/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR16",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      },
+      "code": {
+        "id": "BR16",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 16
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "1.559",
+        "lon": "-52.21"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/amapa-br16/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR17",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      },
+      "code": {
+        "id": "BR17",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 139
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-10.144",
+        "lon": "-48.057"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/tocantins-br17/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR21",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      },
+      "code": {
+        "id": "BR21",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 217
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-5.232",
+        "lon": "-45.409"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/maranhao-br21/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR22",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      },
+      "code": {
+        "id": "BR22",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 224
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-7.28",
+        "lon": "-42.915"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/piaui-br22/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR23",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      },
+      "code": {
+        "id": "BR23",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 184
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-5.325",
+        "lon": "-39.5"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/ceara-br23/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR24",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      },
+      "code": {
+        "id": "BR24",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 167
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-5.401",
+        "lon": "-36.954"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/rio-grande-do-norte-br24/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR25",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      },
+      "code": {
+        "id": "BR25",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 223
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-7.164",
+        "lon": "-37.035"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/paraiba-br25/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR26",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      },
+      "code": {
+        "id": "BR26",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 185
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-8.397",
+        "lon": "-38.085"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/pernambuco-br26/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR27",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      },
+      "code": {
+        "id": "BR27",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 102
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-9.421",
+        "lon": "-36.643"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/alagoas-br27/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR28",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      },
+      "code": {
+        "id": "BR28",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 75
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-10.467",
+        "lon": "-37.386"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/sergipe-br28/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR29",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      },
+      "code": {
+        "id": "BR29",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 417
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-12.58",
+        "lon": "-41.827"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/bahia-br29/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR31",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      },
+      "code": {
+        "id": "BR31",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 853
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-18.57",
+        "lon": "-45.48"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/minas-gerais-br31/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR32",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      },
+      "code": {
+        "id": "BR32",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 78
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-19.71",
+        "lon": "-40.843"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/espirito-santo-br32/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR33",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      },
+      "code": {
+        "id": "BR33",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 92
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-22.259",
+        "lon": "-42.652"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/rio-de-janeiro-br33/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR35",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      },
+      "code": {
+        "id": "BR35",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 645
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-22.386",
+        "lon": "-48.382"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/sao-paulo-br35/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR41",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      },
+      "code": {
+        "id": "BR41",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 399
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-24.782",
+        "lon": "-51.661"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/parana-br41/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR42",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      },
+      "code": {
+        "id": "BR42",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 295
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-27.387",
+        "lon": "-50.825"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/santa-catarina-br42/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR43",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      },
+      "code": {
+        "id": "BR43",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 499
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-29.971",
+        "lon": "-53.365"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/rio-grande-do-sul-br43/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR50",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      },
+      "code": {
+        "id": "BR50",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 79
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-20.241",
+        "lon": "-54.802"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/mato-grosso-do-sul-br50/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR51",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      },
+      "code": {
+        "id": "BR51",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 141
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-13.81",
+        "lon": "-55.812"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/mato-grosso-br51/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR52",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      },
+      "code": {
+        "id": "BR52",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 246
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-15.856",
+        "lon": "-49.42"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/goias-br52/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    },
+    {
+      "id": "BR53",
+      "level": 1,
+      "level_name": {
+        "local": "Estado",
+        "en": "State"
+      },
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-br53"
+      },
+      "code": {
+        "id": "BR53",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-15.778",
+        "lon": "-47.862"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/br/states/distrito-federal-br53/",
+        "api": "https://openadmindata.org/api/br/"
+      }
+    }
+  ]
+}

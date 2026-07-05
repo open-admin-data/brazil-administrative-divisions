@@ -1,0 +1,45 @@
+{
+  "id": "BR3525102",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jardinópolis",
+    "en": "Jardinopolis",
+    "slug": "jardinopolis-br3525102"
+  },
+  "code": {
+    "id": "BR3525102",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.722",
+    "lon": "-52.88"
+  },
+  "metadata": {},
+  "source": {}
+}

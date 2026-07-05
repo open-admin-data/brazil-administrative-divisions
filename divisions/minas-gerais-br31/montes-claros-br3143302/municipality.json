@@ -1,0 +1,45 @@
+{
+  "id": "BR3143302",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Montes Claros",
+    "en": "Montes Claros",
+    "slug": "montes-claros-br3143302"
+  },
+  "code": {
+    "id": "BR3143302",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.624",
+    "lon": "-43.925"
+  },
+  "metadata": {},
+  "source": {}
+}

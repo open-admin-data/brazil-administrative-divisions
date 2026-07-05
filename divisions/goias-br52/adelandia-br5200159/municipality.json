@@ -1,0 +1,45 @@
+{
+  "id": "BR5200159",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Adelândia",
+    "en": "Adelandia",
+    "slug": "adelandia-br5200159"
+  },
+  "code": {
+    "id": "BR5200159",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.386",
+    "lon": "-50.186"
+  },
+  "metadata": {},
+  "source": {}
+}

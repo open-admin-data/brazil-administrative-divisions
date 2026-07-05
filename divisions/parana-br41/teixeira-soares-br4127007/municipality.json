@@ -1,0 +1,45 @@
+{
+  "id": "BR4127007",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Teixeira Soares",
+    "en": "Teixeira Soares",
+    "slug": "teixeira-soares-br4127007"
+  },
+  "code": {
+    "id": "BR4127007",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.291",
+    "lon": "-50.424"
+  },
+  "metadata": {},
+  "source": {}
+}

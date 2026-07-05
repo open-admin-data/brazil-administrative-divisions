@@ -1,0 +1,45 @@
+{
+  "id": "BR2101939",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bernardo do Mearim",
+    "en": "Bernardo do Mearim",
+    "slug": "bernardo-do-mearim-br2101939"
+  },
+  "code": {
+    "id": "BR2101939",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.681",
+    "lon": "-44.639"
+  },
+  "metadata": {},
+  "source": {}
+}

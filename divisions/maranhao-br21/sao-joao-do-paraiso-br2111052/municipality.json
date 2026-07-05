@@ -1,0 +1,45 @@
+{
+  "id": "BR2111052",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São João do Paraíso",
+    "en": "Sao Joao do Paraiso",
+    "slug": "sao-joao-do-paraiso-br2111052"
+  },
+  "code": {
+    "id": "BR2111052",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.352",
+    "lon": "-41.967"
+  },
+  "metadata": {},
+  "source": {}
+}

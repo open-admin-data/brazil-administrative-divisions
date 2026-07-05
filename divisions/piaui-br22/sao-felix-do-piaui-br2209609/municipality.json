@@ -1,0 +1,45 @@
+{
+  "id": "BR2209609",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Félix do Piauí",
+    "en": "Sao Felix do Piaui",
+    "slug": "sao-felix-do-piaui-br2209609"
+  },
+  "code": {
+    "id": "BR2209609",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.884",
+    "lon": "-42.075"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR4121752",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Reserva do Iguaçu",
+    "en": "Reserva do Iguacu",
+    "slug": "reserva-do-iguacu-br4121752"
+  },
+  "code": {
+    "id": "BR4121752",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.858",
+    "lon": "-51.961"
+  },
+  "metadata": {},
+  "source": {}
+}

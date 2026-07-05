@@ -1,0 +1,45 @@
+{
+  "id": "BR2920106",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mairi",
+    "en": "Mairi",
+    "slug": "mairi-br2920106"
+  },
+  "code": {
+    "id": "BR2920106",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.731",
+    "lon": "-40.192"
+  },
+  "metadata": {},
+  "source": {}
+}

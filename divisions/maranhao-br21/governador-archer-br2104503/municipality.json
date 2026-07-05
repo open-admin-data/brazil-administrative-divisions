@@ -1,0 +1,45 @@
+{
+  "id": "BR2104503",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Governador Archer",
+    "en": "Governador Archer",
+    "slug": "governador-archer-br2104503"
+  },
+  "code": {
+    "id": "BR2104503",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.946",
+    "lon": "-44.188"
+  },
+  "metadata": {},
+  "source": {}
+}

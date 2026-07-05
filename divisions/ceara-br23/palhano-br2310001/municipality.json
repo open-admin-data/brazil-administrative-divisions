@@ -1,0 +1,45 @@
+{
+  "id": "BR2310001",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Palhano",
+    "en": "Palhano",
+    "slug": "palhano-br2310001"
+  },
+  "code": {
+    "id": "BR2310001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.667",
+    "lon": "-38.051"
+  },
+  "metadata": {},
+  "source": {}
+}

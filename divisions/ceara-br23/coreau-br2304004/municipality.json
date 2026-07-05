@@ -1,0 +1,45 @@
+{
+  "id": "BR2304004",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Coreaú",
+    "en": "Coreau",
+    "slug": "coreau-br2304004"
+  },
+  "code": {
+    "id": "BR2304004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.667",
+    "lon": "-40.706"
+  },
+  "metadata": {},
+  "source": {}
+}

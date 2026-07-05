@@ -1,0 +1,45 @@
+{
+  "id": "BR3530102",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mirandópolis",
+    "en": "Mirandopolis",
+    "slug": "mirandopolis-br3530102"
+  },
+  "code": {
+    "id": "BR3530102",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.109",
+    "lon": "-51.14"
+  },
+  "metadata": {},
+  "source": {}
+}

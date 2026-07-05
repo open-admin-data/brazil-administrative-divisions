@@ -1,0 +1,33 @@
+{
+  "id": "BR42",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Santa Catarina",
+    "en": "Santa Catarina",
+    "slug": "santa-catarina-br42"
+  },
+  "code": {
+    "id": "BR42",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 295
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.387",
+    "lon": "-50.825"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/br/states/santa-catarina-br42/",
+    "api": "https://openadmindata.org/api/br/"
+  }
+}

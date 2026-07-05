@@ -1,0 +1,45 @@
+{
+  "id": "BR3146008",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ouro Fino",
+    "en": "Ouro Fino",
+    "slug": "ouro-fino-br3146008"
+  },
+  "code": {
+    "id": "BR3146008",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.26",
+    "lon": "-46.381"
+  },
+  "metadata": {},
+  "source": {}
+}

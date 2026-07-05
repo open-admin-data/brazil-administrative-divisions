@@ -1,0 +1,45 @@
+{
+  "id": "BR3106002",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bela Vista de Minas",
+    "en": "Bela Vista de Minas",
+    "slug": "bela-vista-de-minas-br3106002"
+  },
+  "code": {
+    "id": "BR3106002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.801",
+    "lon": "-43.101"
+  },
+  "metadata": {},
+  "source": {}
+}

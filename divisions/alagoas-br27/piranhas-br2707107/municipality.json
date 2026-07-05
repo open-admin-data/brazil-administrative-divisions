@@ -1,0 +1,45 @@
+{
+  "id": "BR2707107",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Piranhas",
+    "en": "Piranhas",
+    "slug": "piranhas-br2707107"
+  },
+  "code": {
+    "id": "BR2707107",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.408",
+    "lon": "-51.838"
+  },
+  "metadata": {},
+  "source": {}
+}

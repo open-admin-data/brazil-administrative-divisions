@@ -1,0 +1,45 @@
+{
+  "id": "BR4304630",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Capão da Canoa",
+    "en": "Capao da Canoa",
+    "slug": "capao-da-canoa-br4304630"
+  },
+  "code": {
+    "id": "BR4304630",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.654",
+    "lon": "-50.013"
+  },
+  "metadata": {},
+  "source": {}
+}

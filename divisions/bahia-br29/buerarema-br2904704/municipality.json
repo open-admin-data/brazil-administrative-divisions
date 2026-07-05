@@ -1,0 +1,45 @@
+{
+  "id": "BR2904704",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Buerarema",
+    "en": "Buerarema",
+    "slug": "buerarema-br2904704"
+  },
+  "code": {
+    "id": "BR2904704",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.995",
+    "lon": "-39.271"
+  },
+  "metadata": {},
+  "source": {}
+}

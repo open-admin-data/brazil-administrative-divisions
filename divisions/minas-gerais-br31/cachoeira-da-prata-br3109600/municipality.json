@@ -1,0 +1,45 @@
+{
+  "id": "BR3109600",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cachoeira da Prata",
+    "en": "Cachoeira da Prata",
+    "slug": "cachoeira-da-prata-br3109600"
+  },
+  "code": {
+    "id": "BR3109600",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.517",
+    "lon": "-44.465"
+  },
+  "metadata": {},
+  "source": {}
+}

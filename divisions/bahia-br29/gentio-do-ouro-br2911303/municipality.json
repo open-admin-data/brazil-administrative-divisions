@@ -1,0 +1,45 @@
+{
+  "id": "BR2911303",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Gentio do Ouro",
+    "en": "Gentio do Ouro",
+    "slug": "gentio-do-ouro-br2911303"
+  },
+  "code": {
+    "id": "BR2911303",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.373",
+    "lon": "-42.567"
+  },
+  "metadata": {},
+  "source": {}
+}

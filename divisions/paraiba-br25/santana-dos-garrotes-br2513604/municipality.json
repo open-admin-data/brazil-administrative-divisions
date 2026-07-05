@@ -1,0 +1,45 @@
+{
+  "id": "BR2513604",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santana dos Garrotes",
+    "en": "Santana dos Garrotes",
+    "slug": "santana-dos-garrotes-br2513604"
+  },
+  "code": {
+    "id": "BR2513604",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.371",
+    "lon": "-37.94"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2204600",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Hugo Napoleão",
+    "en": "Hugo Napoleao",
+    "slug": "hugo-napoleao-br2204600"
+  },
+  "code": {
+    "id": "BR2204600",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.03",
+    "lon": "-42.473"
+  },
+  "metadata": {},
+  "source": {}
+}

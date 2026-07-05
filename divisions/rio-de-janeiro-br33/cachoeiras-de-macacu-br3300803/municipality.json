@@ -1,0 +1,45 @@
+{
+  "id": "BR3300803",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cachoeiras de Macacu",
+    "en": "Cachoeiras de Macacu",
+    "slug": "cachoeiras-de-macacu-br3300803"
+  },
+  "code": {
+    "id": "BR3300803",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR33",
+    "level": 1,
+    "name": {
+      "local": "Rio de Janeiro",
+      "en": "Rio de Janeiro",
+      "slug": "rio-de-janeiro-br33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.496",
+    "lon": "-42.722"
+  },
+  "metadata": {},
+  "source": {}
+}

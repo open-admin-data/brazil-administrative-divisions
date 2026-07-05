@@ -1,0 +1,45 @@
+{
+  "id": "BR2109809",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Helena",
+    "en": "Santa Helena",
+    "slug": "santa-helena-br2109809"
+  },
+  "code": {
+    "id": "BR2109809",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.925",
+    "lon": "-53.611"
+  },
+  "metadata": {},
+  "source": {}
+}

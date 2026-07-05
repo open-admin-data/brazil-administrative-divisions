@@ -1,0 +1,45 @@
+{
+  "id": "BR1702109",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Araguaína",
+    "en": "Araguaina",
+    "slug": "araguaina-br1702109"
+  },
+  "code": {
+    "id": "BR1702109",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.332",
+    "lon": "-48.578"
+  },
+  "metadata": {},
+  "source": {}
+}

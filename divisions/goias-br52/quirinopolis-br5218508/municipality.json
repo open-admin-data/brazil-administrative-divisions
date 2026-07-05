@@ -1,0 +1,45 @@
+{
+  "id": "BR5218508",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Quirinópolis",
+    "en": "Quirinopolis",
+    "slug": "quirinopolis-br5218508"
+  },
+  "code": {
+    "id": "BR5218508",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.457",
+    "lon": "-50.52"
+  },
+  "metadata": {},
+  "source": {}
+}

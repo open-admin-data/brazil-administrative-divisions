@@ -1,0 +1,45 @@
+{
+  "id": "BR3203346",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Marechal Floriano",
+    "en": "Marechal Floriano",
+    "slug": "marechal-floriano-br3203346"
+  },
+  "code": {
+    "id": "BR3203346",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.432",
+    "lon": "-40.761"
+  },
+  "metadata": {},
+  "source": {}
+}

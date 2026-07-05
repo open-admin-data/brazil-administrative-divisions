@@ -1,0 +1,45 @@
+{
+  "id": "BR4114906",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Marilândia do Sul",
+    "en": "Marilandia do Sul",
+    "slug": "marilandia-do-sul-br4114906"
+  },
+  "code": {
+    "id": "BR4114906",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.749",
+    "lon": "-51.294"
+  },
+  "metadata": {},
+  "source": {}
+}

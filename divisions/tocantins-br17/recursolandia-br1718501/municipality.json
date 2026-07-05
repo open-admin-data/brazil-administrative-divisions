@@ -1,0 +1,45 @@
+{
+  "id": "BR1718501",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Recursolândia",
+    "en": "Recursolandia",
+    "slug": "recursolandia-br1718501"
+  },
+  "code": {
+    "id": "BR1718501",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.705",
+    "lon": "-47.1"
+  },
+  "metadata": {},
+  "source": {}
+}

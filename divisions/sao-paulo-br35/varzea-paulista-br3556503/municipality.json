@@ -1,0 +1,45 @@
+{
+  "id": "BR3556503",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Várzea Paulista",
+    "en": "Varzea Paulista",
+    "slug": "varzea-paulista-br3556503"
+  },
+  "code": {
+    "id": "BR3556503",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.216",
+    "lon": "-46.825"
+  },
+  "metadata": {},
+  "source": {}
+}

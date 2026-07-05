@@ -1,0 +1,45 @@
+{
+  "id": "BR2208551",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Porto Alegre do Piauí",
+    "en": "Porto Alegre do Piaui",
+    "slug": "porto-alegre-do-piaui-br2208551"
+  },
+  "code": {
+    "id": "BR2208551",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.916",
+    "lon": "-44.083"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR4125605",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Mateus do Sul",
+    "en": "Sao Mateus do Sul",
+    "slug": "sao-mateus-do-sul-br4125605"
+  },
+  "code": {
+    "id": "BR4125605",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.926",
+    "lon": "-50.462"
+  },
+  "metadata": {},
+  "source": {}
+}

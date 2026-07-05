@@ -1,0 +1,45 @@
+{
+  "id": "BR4213351",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ponte Alta do Norte",
+    "en": "Ponte Alta do Norte",
+    "slug": "ponte-alta-do-norte-br4213351"
+  },
+  "code": {
+    "id": "BR4213351",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.185",
+    "lon": "-50.429"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1101492",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Francisco do Guaporé",
+    "en": "Sao Francisco do Guapore",
+    "slug": "sao-francisco-do-guapore-br1101492"
+  },
+  "code": {
+    "id": "BR1101492",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.42",
+    "lon": "-63.106"
+  },
+  "metadata": {},
+  "source": {}
+}

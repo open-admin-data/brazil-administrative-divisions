@@ -1,0 +1,45 @@
+{
+  "id": "BR3162906",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São João Nepomuceno",
+    "en": "Sao Joao Nepomuceno",
+    "slug": "sao-joao-nepomuceno-br3162906"
+  },
+  "code": {
+    "id": "BR3162906",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.583",
+    "lon": "-43.017"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2911907",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Iaçu",
+    "en": "Iacu",
+    "slug": "iacu-br2911907"
+  },
+  "code": {
+    "id": "BR2911907",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.826",
+    "lon": "-40.191"
+  },
+  "metadata": {},
+  "source": {}
+}

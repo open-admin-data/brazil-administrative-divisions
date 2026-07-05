@@ -1,0 +1,45 @@
+{
+  "id": "BR4202008",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Balneário Camboriú",
+    "en": "Balneario Camboriu",
+    "slug": "balneario-camboriu-br4202008"
+  },
+  "code": {
+    "id": "BR4202008",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.003",
+    "lon": "-48.618"
+  },
+  "metadata": {},
+  "source": {}
+}

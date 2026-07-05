@@ -1,0 +1,45 @@
+{
+  "id": "BR2109551",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ribamar Fiquene",
+    "en": "Ribamar Fiquene",
+    "slug": "ribamar-fiquene-br2109551"
+  },
+  "code": {
+    "id": "BR2109551",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.942",
+    "lon": "-47.293"
+  },
+  "metadata": {},
+  "source": {}
+}

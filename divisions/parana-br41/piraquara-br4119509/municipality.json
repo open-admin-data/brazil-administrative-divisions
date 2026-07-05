@@ -1,0 +1,45 @@
+{
+  "id": "BR4119509",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Piraquara",
+    "en": "Piraquara",
+    "slug": "piraquara-br4119509"
+  },
+  "code": {
+    "id": "BR4119509",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.475",
+    "lon": "-49.043"
+  },
+  "metadata": {},
+  "source": {}
+}

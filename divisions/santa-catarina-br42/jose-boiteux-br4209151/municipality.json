@@ -1,0 +1,45 @@
+{
+  "id": "BR4209151",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "José Boiteux",
+    "en": "Jose Boiteux",
+    "slug": "jose-boiteux-br4209151"
+  },
+  "code": {
+    "id": "BR4209151",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.842",
+    "lon": "-49.655"
+  },
+  "metadata": {},
+  "source": {}
+}

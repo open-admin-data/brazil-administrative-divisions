@@ -1,0 +1,45 @@
+{
+  "id": "BR3159209",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Rita de Caldas",
+    "en": "Santa Rita de Caldas",
+    "slug": "santa-rita-de-caldas-br3159209"
+  },
+  "code": {
+    "id": "BR3159209",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.022",
+    "lon": "-46.275"
+  },
+  "metadata": {},
+  "source": {}
+}

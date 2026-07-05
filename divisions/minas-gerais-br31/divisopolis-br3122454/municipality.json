@@ -1,0 +1,45 @@
+{
+  "id": "BR3122454",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Divisópolis",
+    "en": "Divisopolis",
+    "slug": "divisopolis-br3122454"
+  },
+  "code": {
+    "id": "BR3122454",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.768",
+    "lon": "-40.909"
+  },
+  "metadata": {},
+  "source": {}
+}

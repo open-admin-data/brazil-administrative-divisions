@@ -1,0 +1,45 @@
+{
+  "id": "BR3134905",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jacutinga",
+    "en": "Jacutinga",
+    "slug": "jacutinga-br3134905"
+  },
+  "code": {
+    "id": "BR3134905",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.786",
+    "lon": "-52.552"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3510302",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Capela do Alto",
+    "en": "Capela do Alto",
+    "slug": "capela-do-alto-br3510302"
+  },
+  "code": {
+    "id": "BR3510302",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.47",
+    "lon": "-47.746"
+  },
+  "metadata": {},
+  "source": {}
+}

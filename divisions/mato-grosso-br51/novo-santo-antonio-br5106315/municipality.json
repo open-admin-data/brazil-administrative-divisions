@@ -1,0 +1,45 @@
+{
+  "id": "BR5106315",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Novo Santo Antônio",
+    "en": "Novo Santo Antonio",
+    "slug": "novo-santo-antonio-br5106315"
+  },
+  "code": {
+    "id": "BR5106315",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.308",
+    "lon": "-50.879"
+  },
+  "metadata": {},
+  "source": {}
+}

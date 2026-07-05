@@ -1,0 +1,45 @@
+{
+  "id": "BR2108900",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Poção de Pedras",
+    "en": "Pocao de Pedras",
+    "slug": "pocao-de-pedras-br2108900"
+  },
+  "code": {
+    "id": "BR2108900",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.808",
+    "lon": "-44.832"
+  },
+  "metadata": {},
+  "source": {}
+}

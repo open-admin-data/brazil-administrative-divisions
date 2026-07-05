@@ -1,0 +1,45 @@
+{
+  "id": "BR3123403",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Doresópolis",
+    "en": "Doresopolis",
+    "slug": "doresopolis-br3123403"
+  },
+  "code": {
+    "id": "BR3123403",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.296",
+    "lon": "-45.893"
+  },
+  "metadata": {},
+  "source": {}
+}

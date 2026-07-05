@@ -1,0 +1,45 @@
+{
+  "id": "BR2305266",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ibaretama",
+    "en": "Ibaretama",
+    "slug": "ibaretama-br2305266"
+  },
+  "code": {
+    "id": "BR2305266",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.748",
+    "lon": "-38.703"
+  },
+  "metadata": {},
+  "source": {}
+}

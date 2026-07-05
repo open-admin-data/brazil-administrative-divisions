@@ -1,0 +1,45 @@
+{
+  "id": "BR2208304",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Piracuruca",
+    "en": "Piracuruca",
+    "slug": "piracuruca-br2208304"
+  },
+  "code": {
+    "id": "BR2208304",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.834",
+    "lon": "-41.625"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2108504",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pindaré-Mirim",
+    "en": "Pindare-Mirim",
+    "slug": "pindare-mirim-br2108504"
+  },
+  "code": {
+    "id": "BR2108504",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.632",
+    "lon": "-45.393"
+  },
+  "metadata": {},
+  "source": {}
+}

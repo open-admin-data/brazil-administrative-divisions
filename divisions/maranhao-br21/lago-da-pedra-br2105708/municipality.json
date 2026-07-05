@@ -1,0 +1,45 @@
+{
+  "id": "BR2105708",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lago da Pedra",
+    "en": "Lago da Pedra",
+    "slug": "lago-da-pedra-br2105708"
+  },
+  "code": {
+    "id": "BR2105708",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.745",
+    "lon": "-45.221"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3517505",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Guapiaçu",
+    "en": "Guapiacu",
+    "slug": "guapiacu-br3517505"
+  },
+  "code": {
+    "id": "BR3517505",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.727",
+    "lon": "-49.174"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1100403",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alto Paraíso",
+    "en": "Alto Paraiso",
+    "slug": "alto-paraiso-br1100403"
+  },
+  "code": {
+    "id": "BR1100403",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.544",
+    "lon": "-53.801"
+  },
+  "metadata": {},
+  "source": {}
+}

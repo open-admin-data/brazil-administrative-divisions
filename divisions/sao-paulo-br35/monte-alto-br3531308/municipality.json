@@ -1,0 +1,45 @@
+{
+  "id": "BR3531308",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Monte Alto",
+    "en": "Monte Alto",
+    "slug": "monte-alto-br3531308"
+  },
+  "code": {
+    "id": "BR3531308",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.251",
+    "lon": "-48.555"
+  },
+  "metadata": {},
+  "source": {}
+}

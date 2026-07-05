@@ -1,0 +1,677 @@
+[
+  {
+    "id": "BR1400050",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alto Alegre",
+      "en": "Alto Alegre",
+      "slug": "alto-alegre-br1400050"
+    },
+    "code": {
+      "id": "BR1400050",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR14",
+        "level": 1,
+        "name": {
+          "local": "Roraima",
+          "en": "Roraima",
+          "slug": "roraima-br14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.802",
+      "lon": "-52.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1400027",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amajari",
+      "en": "Amajari",
+      "slug": "amajari-br1400027"
+    },
+    "code": {
+      "id": "BR1400027",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR14",
+        "level": 1,
+        "name": {
+          "local": "Roraima",
+          "en": "Roraima",
+          "slug": "roraima-br14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.774",
+      "lon": "-62.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1400100",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Boa Vista",
+      "en": "Boa Vista",
+      "slug": "boa-vista-br1400100"
+    },
+    "code": {
+      "id": "BR1400100",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR14",
+        "level": 1,
+        "name": {
+          "local": "Roraima",
+          "en": "Roraima",
+          "slug": "roraima-br14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.298",
+      "lon": "-36.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1400159",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bonfim",
+      "en": "Bonfim",
+      "slug": "bonfim-br1400159"
+    },
+    "code": {
+      "id": "BR1400159",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR14",
+        "level": 1,
+        "name": {
+          "local": "Roraima",
+          "en": "Roraima",
+          "slug": "roraima-br14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.327",
+      "lon": "-44.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1400175",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cantá",
+      "en": "Canta",
+      "slug": "canta-br1400175"
+    },
+    "code": {
+      "id": "BR1400175",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR14",
+        "level": 1,
+        "name": {
+          "local": "Roraima",
+          "en": "Roraima",
+          "slug": "roraima-br14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.215",
+      "lon": "-60.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1400209",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caracaraí",
+      "en": "Caracarai",
+      "slug": "caracarai-br1400209"
+    },
+    "code": {
+      "id": "BR1400209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR14",
+        "level": 1,
+        "name": {
+          "local": "Roraima",
+          "en": "Roraima",
+          "slug": "roraima-br14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.796",
+      "lon": "-61.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1400233",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caroebe",
+      "en": "Caroebe",
+      "slug": "caroebe-br1400233"
+    },
+    "code": {
+      "id": "BR1400233",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR14",
+        "level": 1,
+        "name": {
+          "local": "Roraima",
+          "en": "Roraima",
+          "slug": "roraima-br14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.195",
+      "lon": "-59.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1400282",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Iracema",
+      "en": "Iracema",
+      "slug": "iracema-br1400282"
+    },
+    "code": {
+      "id": "BR1400282",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR14",
+        "level": 1,
+        "name": {
+          "local": "Roraima",
+          "en": "Roraima",
+          "slug": "roraima-br14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.788",
+      "lon": "-38.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1400308",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mucajaí",
+      "en": "Mucajai",
+      "slug": "mucajai-br1400308"
+    },
+    "code": {
+      "id": "BR1400308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR14",
+        "level": 1,
+        "name": {
+          "local": "Roraima",
+          "en": "Roraima",
+          "slug": "roraima-br14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.556",
+      "lon": "-62.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1400407",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Normandia",
+      "en": "Normandia",
+      "slug": "normandia-br1400407"
+    },
+    "code": {
+      "id": "BR1400407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR14",
+        "level": 1,
+        "name": {
+          "local": "Roraima",
+          "en": "Roraima",
+          "slug": "roraima-br14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.865",
+      "lon": "-60.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1400456",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pacaraima",
+      "en": "Pacaraima",
+      "slug": "pacaraima-br1400456"
+    },
+    "code": {
+      "id": "BR1400456",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR14",
+        "level": 1,
+        "name": {
+          "local": "Roraima",
+          "en": "Roraima",
+          "slug": "roraima-br14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.18",
+      "lon": "-60.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1400472",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rorainópolis",
+      "en": "Rorainopolis",
+      "slug": "rorainopolis-br1400472"
+    },
+    "code": {
+      "id": "BR1400472",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR14",
+        "level": 1,
+        "name": {
+          "local": "Roraima",
+          "en": "Roraima",
+          "slug": "roraima-br14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.055",
+      "lon": "-60.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1400506",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São João da Baliza",
+      "en": "Sao Joao da Baliza",
+      "slug": "sao-joao-da-baliza-br1400506"
+    },
+    "code": {
+      "id": "BR1400506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR14",
+        "level": 1,
+        "name": {
+          "local": "Roraima",
+          "en": "Roraima",
+          "slug": "roraima-br14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.697",
+      "lon": "-59.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1400605",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Luiz",
+      "en": "Sao Luiz",
+      "slug": "sao-luiz-br1400605"
+    },
+    "code": {
+      "id": "BR1400605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR14",
+        "level": 1,
+        "name": {
+          "local": "Roraima",
+          "en": "Roraima",
+          "slug": "roraima-br14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.834",
+      "lon": "-60.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1400704",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Uiramutã",
+      "en": "Uiramuta",
+      "slug": "uiramuta-br1400704"
+    },
+    "code": {
+      "id": "BR1400704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR14",
+        "level": 1,
+        "name": {
+          "local": "Roraima",
+          "en": "Roraima",
+          "slug": "roraima-br14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.653",
+      "lon": "-60.217"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

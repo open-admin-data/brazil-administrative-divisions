@@ -1,0 +1,45 @@
+{
+  "id": "BR2207751",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Passagem Franca do Piauí",
+    "en": "Passagem Franca do Piaui",
+    "slug": "passagem-franca-do-piaui-br2207751"
+  },
+  "code": {
+    "id": "BR2207751",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.854",
+    "lon": "-42.422"
+  },
+  "metadata": {},
+  "source": {}
+}

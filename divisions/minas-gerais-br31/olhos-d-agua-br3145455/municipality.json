@@ -1,0 +1,45 @@
+{
+  "id": "BR3145455",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Olhos-d'Água",
+    "en": "Olhos-d'Agua",
+    "slug": "olhos-d-agua-br3145455"
+  },
+  "code": {
+    "id": "BR3145455",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.516",
+    "lon": "-43.568"
+  },
+  "metadata": {},
+  "source": {}
+}

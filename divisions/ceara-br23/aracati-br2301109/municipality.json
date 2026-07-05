@@ -1,0 +1,45 @@
+{
+  "id": "BR2301109",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Aracati",
+    "en": "Aracati",
+    "slug": "aracati-br2301109"
+  },
+  "code": {
+    "id": "BR2301109",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.622",
+    "lon": "-37.727"
+  },
+  "metadata": {},
+  "source": {}
+}

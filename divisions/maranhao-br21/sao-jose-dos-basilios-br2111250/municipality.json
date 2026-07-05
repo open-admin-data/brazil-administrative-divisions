@@ -1,0 +1,45 @@
+{
+  "id": "BR2111250",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José dos Basílios",
+    "en": "Sao Jose dos Basilios",
+    "slug": "sao-jose-dos-basilios-br2111250"
+  },
+  "code": {
+    "id": "BR2111250",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.045",
+    "lon": "-44.591"
+  },
+  "metadata": {},
+  "source": {}
+}

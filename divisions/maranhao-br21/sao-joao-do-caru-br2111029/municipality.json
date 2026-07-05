@@ -1,0 +1,45 @@
+{
+  "id": "BR2111029",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São João do Carú",
+    "en": "Sao Joao do Caru",
+    "slug": "sao-joao-do-caru-br2111029"
+  },
+  "code": {
+    "id": "BR2111029",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.577",
+    "lon": "-46.367"
+  },
+  "metadata": {},
+  "source": {}
+}

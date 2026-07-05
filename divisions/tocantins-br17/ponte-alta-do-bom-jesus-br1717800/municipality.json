@@ -1,0 +1,45 @@
+{
+  "id": "BR1717800",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ponte Alta do Bom Jesus",
+    "en": "Ponte Alta do Bom Jesus",
+    "slug": "ponte-alta-do-bom-jesus-br1717800"
+  },
+  "code": {
+    "id": "BR1717800",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.073",
+    "lon": "-46.563"
+  },
+  "metadata": {},
+  "source": {}
+}

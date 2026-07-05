@@ -1,0 +1,45 @@
+{
+  "id": "BR3170800",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Várzea da Palma",
+    "en": "Varzea da Palma",
+    "slug": "varzea-da-palma-br3170800"
+  },
+  "code": {
+    "id": "BR3170800",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.435",
+    "lon": "-44.731"
+  },
+  "metadata": {},
+  "source": {}
+}

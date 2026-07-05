@@ -1,0 +1,45 @@
+{
+  "id": "BR2802908",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itabaiana",
+    "en": "Itabaiana",
+    "slug": "itabaiana-br2802908"
+  },
+  "code": {
+    "id": "BR2802908",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.691",
+    "lon": "-37.426"
+  },
+  "metadata": {},
+  "source": {}
+}

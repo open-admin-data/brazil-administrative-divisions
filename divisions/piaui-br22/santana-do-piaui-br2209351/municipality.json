@@ -1,0 +1,45 @@
+{
+  "id": "BR2209351",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santana do Piauí",
+    "en": "Santana do Piaui",
+    "slug": "santana-do-piaui-br2209351"
+  },
+  "code": {
+    "id": "BR2209351",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.936",
+    "lon": "-41.5"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1718550",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Riachinho",
+    "en": "Riachinho",
+    "slug": "riachinho-br1718550"
+  },
+  "code": {
+    "id": "BR1718550",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.253",
+    "lon": "-45.901"
+  },
+  "metadata": {},
+  "source": {}
+}

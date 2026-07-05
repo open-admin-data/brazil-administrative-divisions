@@ -1,0 +1,45 @@
+{
+  "id": "BR3145356",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Novo Oriente de Minas",
+    "en": "Novo Oriente de Minas",
+    "slug": "novo-oriente-de-minas-br3145356"
+  },
+  "code": {
+    "id": "BR3145356",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.241",
+    "lon": "-41.225"
+  },
+  "metadata": {},
+  "source": {}
+}

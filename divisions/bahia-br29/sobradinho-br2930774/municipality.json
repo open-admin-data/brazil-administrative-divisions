@@ -1,0 +1,45 @@
+{
+  "id": "BR2930774",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sobradinho",
+    "en": "Sobradinho",
+    "slug": "sobradinho-br2930774"
+  },
+  "code": {
+    "id": "BR2930774",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.397",
+    "lon": "-53.01"
+  },
+  "metadata": {},
+  "source": {}
+}

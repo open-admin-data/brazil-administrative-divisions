@@ -1,0 +1,45 @@
+{
+  "id": "BR2905909",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campo Alegre de Lourdes",
+    "en": "Campo Alegre de Lourdes",
+    "slug": "campo-alegre-de-lourdes-br2905909"
+  },
+  "code": {
+    "id": "BR2905909",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.485",
+    "lon": "-43.053"
+  },
+  "metadata": {},
+  "source": {}
+}

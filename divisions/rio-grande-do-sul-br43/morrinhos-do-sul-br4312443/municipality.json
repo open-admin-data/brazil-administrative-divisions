@@ -1,0 +1,45 @@
+{
+  "id": "BR4312443",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Morrinhos do Sul",
+    "en": "Morrinhos do Sul",
+    "slug": "morrinhos-do-sul-br4312443"
+  },
+  "code": {
+    "id": "BR4312443",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.349",
+    "lon": "-49.968"
+  },
+  "metadata": {},
+  "source": {}
+}

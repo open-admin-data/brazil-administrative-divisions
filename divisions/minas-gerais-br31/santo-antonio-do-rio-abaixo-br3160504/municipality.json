@@ -1,0 +1,45 @@
+{
+  "id": "BR3160504",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Antônio do Rio Abaixo",
+    "en": "Santo Antonio do Rio Abaixo",
+    "slug": "santo-antonio-do-rio-abaixo-br3160504"
+  },
+  "code": {
+    "id": "BR3160504",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.251",
+    "lon": "-43.245"
+  },
+  "metadata": {},
+  "source": {}
+}

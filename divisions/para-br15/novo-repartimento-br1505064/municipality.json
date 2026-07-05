@@ -1,0 +1,45 @@
+{
+  "id": "BR1505064",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Novo Repartimento",
+    "en": "Novo Repartimento",
+    "slug": "novo-repartimento-br1505064"
+  },
+  "code": {
+    "id": "BR1505064",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.692",
+    "lon": "-50.538"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2804201",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Monte Alegre de Sergipe",
+    "en": "Monte Alegre de Sergipe",
+    "slug": "monte-alegre-de-sergipe-br2804201"
+  },
+  "code": {
+    "id": "BR2804201",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.075",
+    "lon": "-37.606"
+  },
+  "metadata": {},
+  "source": {}
+}

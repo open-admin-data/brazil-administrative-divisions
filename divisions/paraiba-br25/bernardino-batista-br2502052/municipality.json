@@ -1,0 +1,45 @@
+{
+  "id": "BR2502052",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bernardino Batista",
+    "en": "Bernardino Batista",
+    "slug": "bernardino-batista-br2502052"
+  },
+  "code": {
+    "id": "BR2502052",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.489",
+    "lon": "-38.567"
+  },
+  "metadata": {},
+  "source": {}
+}

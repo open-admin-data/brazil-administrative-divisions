@@ -1,0 +1,45 @@
+{
+  "id": "BR5219605",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Tereza de Goiás",
+    "en": "Santa Tereza de Goias",
+    "slug": "santa-tereza-de-goias-br5219605"
+  },
+  "code": {
+    "id": "BR5219605",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.565",
+    "lon": "-48.986"
+  },
+  "metadata": {},
+  "source": {}
+}

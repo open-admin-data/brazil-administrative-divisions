@@ -1,0 +1,45 @@
+{
+  "id": "BR1506807",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santarém",
+    "en": "Santarem",
+    "slug": "santarem-br1506807"
+  },
+  "code": {
+    "id": "BR1506807",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.617",
+    "lon": "-54.78"
+  },
+  "metadata": {},
+  "source": {}
+}

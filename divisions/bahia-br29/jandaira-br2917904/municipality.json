@@ -1,0 +1,45 @@
+{
+  "id": "BR2917904",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jandaíra",
+    "en": "Jandaira",
+    "slug": "jandaira-br2917904"
+  },
+  "code": {
+    "id": "BR2917904",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.595",
+    "lon": "-37.631"
+  },
+  "metadata": {},
+  "source": {}
+}

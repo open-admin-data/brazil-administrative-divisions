@@ -1,0 +1,45 @@
+{
+  "id": "BR4113007",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jussara",
+    "en": "Jussara",
+    "slug": "jussara-br4113007"
+  },
+  "code": {
+    "id": "BR4113007",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.675",
+    "lon": "-51.302"
+  },
+  "metadata": {},
+  "source": {}
+}

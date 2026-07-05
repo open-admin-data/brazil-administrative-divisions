@@ -1,0 +1,45 @@
+{
+  "id": "BR3117306",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Conceição das Alagoas",
+    "en": "Conceicao das Alagoas",
+    "slug": "conceicao-das-alagoas-br3117306"
+  },
+  "code": {
+    "id": "BR3117306",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.957",
+    "lon": "-48.338"
+  },
+  "metadata": {},
+  "source": {}
+}

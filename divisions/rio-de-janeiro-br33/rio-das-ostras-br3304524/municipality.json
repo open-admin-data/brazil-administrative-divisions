@@ -1,0 +1,45 @@
+{
+  "id": "BR3304524",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rio das Ostras",
+    "en": "Rio das Ostras",
+    "slug": "rio-das-ostras-br3304524"
+  },
+  "code": {
+    "id": "BR3304524",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR33",
+    "level": 1,
+    "name": {
+      "local": "Rio de Janeiro",
+      "en": "Rio de Janeiro",
+      "slug": "rio-de-janeiro-br33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.445",
+    "lon": "-41.948"
+  },
+  "metadata": {},
+  "source": {}
+}

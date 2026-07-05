@@ -1,0 +1,45 @@
+{
+  "id": "BR2102309",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Buriti Bravo",
+    "en": "Buriti Bravo",
+    "slug": "buriti-bravo-br2102309"
+  },
+  "code": {
+    "id": "BR2102309",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.749",
+    "lon": "-43.779"
+  },
+  "metadata": {},
+  "source": {}
+}

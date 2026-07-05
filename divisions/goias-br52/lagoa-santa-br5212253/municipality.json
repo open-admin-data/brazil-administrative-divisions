@@ -1,0 +1,45 @@
+{
+  "id": "BR5212253",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lagoa Santa",
+    "en": "Lagoa Santa",
+    "slug": "lagoa-santa-br5212253"
+  },
+  "code": {
+    "id": "BR5212253",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.22",
+    "lon": "-51.262"
+  },
+  "metadata": {},
+  "source": {}
+}

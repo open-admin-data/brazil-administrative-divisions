@@ -1,0 +1,45 @@
+{
+  "id": "BR3147600",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Passa Quatro",
+    "en": "Passa Quatro",
+    "slug": "passa-quatro-br3147600"
+  },
+  "code": {
+    "id": "BR3147600",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.412",
+    "lon": "-44.957"
+  },
+  "metadata": {},
+  "source": {}
+}

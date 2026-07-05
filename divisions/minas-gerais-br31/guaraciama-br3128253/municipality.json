@@ -1,0 +1,45 @@
+{
+  "id": "BR3128253",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Guaraciama",
+    "en": "Guaraciama",
+    "slug": "guaraciama-br3128253"
+  },
+  "code": {
+    "id": "BR3128253",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.073",
+    "lon": "-43.616"
+  },
+  "metadata": {},
+  "source": {}
+}

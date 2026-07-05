@@ -1,0 +1,45 @@
+{
+  "id": "BR2924603",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pindobaçu",
+    "en": "Pindobacu",
+    "slug": "pindobacu-br2924603"
+  },
+  "code": {
+    "id": "BR2924603",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.736",
+    "lon": "-40.336"
+  },
+  "metadata": {},
+  "source": {}
+}

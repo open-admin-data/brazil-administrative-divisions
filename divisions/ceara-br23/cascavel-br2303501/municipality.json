@@ -1,0 +1,45 @@
+{
+  "id": "BR2303501",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cascavel",
+    "en": "Cascavel",
+    "slug": "cascavel-br2303501"
+  },
+  "code": {
+    "id": "BR2303501",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.042",
+    "lon": "-53.392"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2514404",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José de Espinharas",
+    "en": "Sao Jose de Espinharas",
+    "slug": "sao-jose-de-espinharas-br2514404"
+  },
+  "code": {
+    "id": "BR2514404",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.81",
+    "lon": "-37.409"
+  },
+  "metadata": {},
+  "source": {}
+}

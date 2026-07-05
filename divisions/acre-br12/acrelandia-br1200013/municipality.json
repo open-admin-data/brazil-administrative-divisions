@@ -1,0 +1,45 @@
+{
+  "id": "BR1200013",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Acrelândia",
+    "en": "Acrelandia",
+    "slug": "acrelandia-br1200013"
+  },
+  "code": {
+    "id": "BR1200013",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR12",
+    "level": 1,
+    "name": {
+      "local": "Acre",
+      "en": "Acre",
+      "slug": "acre-br12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.026",
+    "lon": "-66.871"
+  },
+  "metadata": {},
+  "source": {}
+}

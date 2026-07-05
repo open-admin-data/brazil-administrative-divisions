@@ -1,0 +1,45 @@
+{
+  "id": "BR1100320",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Miguel do Guaporé",
+    "en": "Sao Miguel do Guapore",
+    "slug": "sao-miguel-do-guapore-br1100320"
+  },
+  "code": {
+    "id": "BR1100320",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.594",
+    "lon": "-63.098"
+  },
+  "metadata": {},
+  "source": {}
+}

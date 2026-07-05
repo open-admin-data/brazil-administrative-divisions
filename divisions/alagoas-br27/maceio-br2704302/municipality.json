@@ -1,0 +1,45 @@
+{
+  "id": "BR2704302",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Maceió",
+    "en": "Maceio",
+    "slug": "maceio-br2704302"
+  },
+  "code": {
+    "id": "BR2704302",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.57",
+    "lon": "-35.695"
+  },
+  "metadata": {},
+  "source": {}
+}

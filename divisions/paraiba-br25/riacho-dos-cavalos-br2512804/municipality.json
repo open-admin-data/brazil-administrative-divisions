@@ -1,0 +1,45 @@
+{
+  "id": "BR2512804",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Riacho dos Cavalos",
+    "en": "Riacho dos Cavalos",
+    "slug": "riacho-dos-cavalos-br2512804"
+  },
+  "code": {
+    "id": "BR2512804",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.509",
+    "lon": "-37.603"
+  },
+  "metadata": {},
+  "source": {}
+}

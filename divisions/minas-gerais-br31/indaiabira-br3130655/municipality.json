@@ -1,0 +1,45 @@
+{
+  "id": "BR3130655",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Indaiabira",
+    "en": "Indaiabira",
+    "slug": "indaiabira-br3130655"
+  },
+  "code": {
+    "id": "BR3130655",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.572",
+    "lon": "-42.148"
+  },
+  "metadata": {},
+  "source": {}
+}

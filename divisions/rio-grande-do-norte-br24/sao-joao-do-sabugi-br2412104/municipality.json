@@ -1,0 +1,45 @@
+{
+  "id": "BR2412104",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São João do Sabugi",
+    "en": "Sao Joao do Sabugi",
+    "slug": "sao-joao-do-sabugi-br2412104"
+  },
+  "code": {
+    "id": "BR2412104",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR24",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Norte",
+      "en": "Rio Grande do Norte",
+      "slug": "rio-grande-do-norte-br24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.695",
+    "lon": "-37.141"
+  },
+  "metadata": {},
+  "source": {}
+}

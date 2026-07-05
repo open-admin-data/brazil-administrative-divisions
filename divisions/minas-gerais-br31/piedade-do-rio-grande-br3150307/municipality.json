@@ -1,0 +1,45 @@
+{
+  "id": "BR3150307",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Piedade do Rio Grande",
+    "en": "Piedade do Rio Grande",
+    "slug": "piedade-do-rio-grande-br3150307"
+  },
+  "code": {
+    "id": "BR3150307",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.495",
+    "lon": "-44.17"
+  },
+  "metadata": {},
+  "source": {}
+}

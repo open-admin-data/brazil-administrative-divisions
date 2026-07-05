@@ -1,0 +1,45 @@
+{
+  "id": "BR3301157",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cardoso Moreira",
+    "en": "Cardoso Moreira",
+    "slug": "cardoso-moreira-br3301157"
+  },
+  "code": {
+    "id": "BR3301157",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR33",
+    "level": 1,
+    "name": {
+      "local": "Rio de Janeiro",
+      "en": "Rio de Janeiro",
+      "slug": "rio-de-janeiro-br33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.532",
+    "lon": "-41.483"
+  },
+  "metadata": {},
+  "source": {}
+}

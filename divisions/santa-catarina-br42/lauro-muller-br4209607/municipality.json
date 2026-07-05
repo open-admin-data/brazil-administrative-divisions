@@ -1,0 +1,45 @@
+{
+  "id": "BR4209607",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lauro Müller",
+    "en": "Lauro Muller",
+    "slug": "lauro-muller-br4209607"
+  },
+  "code": {
+    "id": "BR4209607",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.382",
+    "lon": "-49.466"
+  },
+  "metadata": {},
+  "source": {}
+}

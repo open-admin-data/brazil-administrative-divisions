@@ -1,0 +1,45 @@
+{
+  "id": "BR1701101",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Aparecida do Rio Negro",
+    "en": "Aparecida do Rio Negro",
+    "slug": "aparecida-do-rio-negro-br1701101"
+  },
+  "code": {
+    "id": "BR1701101",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.028",
+    "lon": "-47.988"
+  },
+  "metadata": {},
+  "source": {}
+}

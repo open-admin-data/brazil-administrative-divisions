@@ -1,0 +1,45 @@
+{
+  "id": "BR4107207",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dois Vizinhos",
+    "en": "Dois Vizinhos",
+    "slug": "dois-vizinhos-br4107207"
+  },
+  "code": {
+    "id": "BR4107207",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.74",
+    "lon": "-53.09"
+  },
+  "metadata": {},
+  "source": {}
+}

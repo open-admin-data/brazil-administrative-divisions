@@ -1,0 +1,45 @@
+{
+  "id": "BR3539202",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pirapozinho",
+    "en": "Pirapozinho",
+    "slug": "pirapozinho-br3539202"
+  },
+  "code": {
+    "id": "BR3539202",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.443",
+    "lon": "-51.608"
+  },
+  "metadata": {},
+  "source": {}
+}

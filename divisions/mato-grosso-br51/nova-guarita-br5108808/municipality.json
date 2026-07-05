@@ -1,0 +1,45 @@
+{
+  "id": "BR5108808",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Guarita",
+    "en": "Nova Guarita",
+    "slug": "nova-guarita-br5108808"
+  },
+  "code": {
+    "id": "BR5108808",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.27",
+    "lon": "-55.357"
+  },
+  "metadata": {},
+  "source": {}
+}

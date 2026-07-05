@@ -1,0 +1,45 @@
+{
+  "id": "BR2202604",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Castelo do Piauí",
+    "en": "Castelo do Piaui",
+    "slug": "castelo-do-piaui-br2202604"
+  },
+  "code": {
+    "id": "BR2202604",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.287",
+    "lon": "-41.585"
+  },
+  "metadata": {},
+  "source": {}
+}

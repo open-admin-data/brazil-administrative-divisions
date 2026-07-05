@@ -1,0 +1,45 @@
+{
+  "id": "BR5106190",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Santa Helena",
+    "en": "Nova Santa Helena",
+    "slug": "nova-santa-helena-br5106190"
+  },
+  "code": {
+    "id": "BR5106190",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.88",
+    "lon": "-54.818"
+  },
+  "metadata": {},
+  "source": {}
+}

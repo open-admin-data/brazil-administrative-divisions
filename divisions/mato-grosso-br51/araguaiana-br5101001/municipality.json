@@ -1,0 +1,45 @@
+{
+  "id": "BR5101001",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Araguaiana",
+    "en": "Araguaiana",
+    "slug": "araguaiana-br5101001"
+  },
+  "code": {
+    "id": "BR5101001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.021",
+    "lon": "-51.796"
+  },
+  "metadata": {},
+  "source": {}
+}

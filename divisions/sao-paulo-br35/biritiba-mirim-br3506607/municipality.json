@@ -1,0 +1,45 @@
+{
+  "id": "BR3506607",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Biritiba Mirim",
+    "en": "Biritiba Mirim",
+    "slug": "biritiba-mirim-br3506607"
+  },
+  "code": {
+    "id": "BR3506607",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.616",
+    "lon": "-46.021"
+  },
+  "metadata": {},
+  "source": {}
+}

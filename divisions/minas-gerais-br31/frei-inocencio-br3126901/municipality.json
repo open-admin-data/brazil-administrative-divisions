@@ -1,0 +1,45 @@
+{
+  "id": "BR3126901",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Frei Inocêncio",
+    "en": "Frei Inocencio",
+    "slug": "frei-inocencio-br3126901"
+  },
+  "code": {
+    "id": "BR3126901",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.516",
+    "lon": "-41.873"
+  },
+  "metadata": {},
+  "source": {}
+}

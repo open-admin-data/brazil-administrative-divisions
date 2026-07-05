@@ -1,0 +1,45 @@
+{
+  "id": "BR2301901",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barbalha",
+    "en": "Barbalha",
+    "slug": "barbalha-br2301901"
+  },
+  "code": {
+    "id": "BR2301901",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.377",
+    "lon": "-39.314"
+  },
+  "metadata": {},
+  "source": {}
+}

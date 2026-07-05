@@ -1,0 +1,45 @@
+{
+  "id": "BR3108701",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Brás Pires",
+    "en": "Bras Pires",
+    "slug": "bras-pires-br3108701"
+  },
+  "code": {
+    "id": "BR3108701",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.874",
+    "lon": "-43.233"
+  },
+  "metadata": {},
+  "source": {}
+}

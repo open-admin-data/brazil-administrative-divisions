@@ -1,0 +1,45 @@
+{
+  "id": "BR3143500",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Morada Nova de Minas",
+    "en": "Morada Nova de Minas",
+    "slug": "morada-nova-de-minas-br3143500"
+  },
+  "code": {
+    "id": "BR3143500",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.582",
+    "lon": "-45.427"
+  },
+  "metadata": {},
+  "source": {}
+}

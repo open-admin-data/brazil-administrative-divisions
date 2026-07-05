@@ -1,0 +1,45 @@
+{
+  "id": "BR1505007",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Timboteua",
+    "en": "Nova Timboteua",
+    "slug": "nova-timboteua-br1505007"
+  },
+  "code": {
+    "id": "BR1505007",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.118",
+    "lon": "-47.422"
+  },
+  "metadata": {},
+  "source": {}
+}

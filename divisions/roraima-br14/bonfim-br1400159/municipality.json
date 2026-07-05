@@ -1,0 +1,45 @@
+{
+  "id": "BR1400159",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bonfim",
+    "en": "Bonfim",
+    "slug": "bonfim-br1400159"
+  },
+  "code": {
+    "id": "BR1400159",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR14",
+    "level": 1,
+    "name": {
+      "local": "Roraima",
+      "en": "Roraima",
+      "slug": "roraima-br14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.327",
+    "lon": "-44.209"
+  },
+  "metadata": {},
+  "source": {}
+}

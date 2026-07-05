@@ -1,0 +1,45 @@
+{
+  "id": "BR2919405",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Licínio de Almeida",
+    "en": "Licinio de Almeida",
+    "slug": "licinio-de-almeida-br2919405"
+  },
+  "code": {
+    "id": "BR2919405",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.62",
+    "lon": "-42.483"
+  },
+  "metadata": {},
+  "source": {}
+}

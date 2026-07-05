@@ -1,0 +1,45 @@
+{
+  "id": "BR5103908",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "General Carneiro",
+    "en": "General Carneiro",
+    "slug": "general-carneiro-br5103908"
+  },
+  "code": {
+    "id": "BR5103908",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.555",
+    "lon": "-53.324"
+  },
+  "metadata": {},
+  "source": {}
+}

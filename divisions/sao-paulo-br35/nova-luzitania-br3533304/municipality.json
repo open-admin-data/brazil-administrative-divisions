@@ -1,0 +1,45 @@
+{
+  "id": "BR3533304",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Luzitânia",
+    "en": "Nova Luzitania",
+    "slug": "nova-luzitania-br3533304"
+  },
+  "code": {
+    "id": "BR3533304",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.869",
+    "lon": "-50.249"
+  },
+  "metadata": {},
+  "source": {}
+}

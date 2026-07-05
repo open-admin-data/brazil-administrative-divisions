@@ -1,0 +1,45 @@
+{
+  "id": "BR2903235",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barro Alto",
+    "en": "Barro Alto",
+    "slug": "barro-alto-br2903235"
+  },
+  "code": {
+    "id": "BR2903235",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.892",
+    "lon": "-48.87"
+  },
+  "metadata": {},
+  "source": {}
+}

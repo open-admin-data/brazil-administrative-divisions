@@ -1,0 +1,45 @@
+{
+  "id": "BR2203701",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Esperantina",
+    "en": "Esperantina",
+    "slug": "esperantina-br2203701"
+  },
+  "code": {
+    "id": "BR2203701",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.856",
+    "lon": "-42.168"
+  },
+  "metadata": {},
+  "source": {}
+}

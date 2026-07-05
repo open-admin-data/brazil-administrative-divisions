@@ -1,0 +1,45 @@
+{
+  "id": "BR5007554",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Rita do Pardo",
+    "en": "Santa Rita do Pardo",
+    "slug": "santa-rita-do-pardo-br5007554"
+  },
+  "code": {
+    "id": "BR5007554",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR50",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso do Sul",
+      "en": "Mato Grosso do Sul",
+      "slug": "mato-grosso-do-sul-br50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.363",
+    "lon": "-52.721"
+  },
+  "metadata": {},
+  "source": {}
+}

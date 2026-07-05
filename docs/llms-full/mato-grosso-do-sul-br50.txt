@@ -1,0 +1,404 @@
+# Mato Grosso do Sul — Brazil Administrative Divisions
+
+> 79 municipalitys
+> Code: BR50
+> Coordinates: -20.241, -54.802
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Água Clara (Agua Clara)
+
+Code: BR5000203, Coordinates: -20.088, -52.854
+
+
+### Alcinópolis (Alcinopolis)
+
+Code: BR5000252, Coordinates: -18.191, -53.796
+
+
+### Amambai
+
+Code: BR5000609, Coordinates: -23.113, -54.957
+
+
+### Anastácio (Anastacio)
+
+Code: BR5000708, Coordinates: -20.749, -55.729
+
+
+### Anaurilândia (Anaurilandia)
+
+Code: BR5000807, Coordinates: -22.138, -52.761
+
+
+### Angélica (Angelica)
+
+Code: BR5000856, Coordinates: -22.016, -53.87
+
+
+### Antônio João (Antonio Joao)
+
+Code: BR5000906, Coordinates: -22.199, -55.937
+
+
+### Aparecida do Taboado
+
+Code: BR5001003, Coordinates: -20.016, -51.334
+
+
+### Aquidauana
+
+Code: BR5001102, Coordinates: -19.845, -55.876
+
+
+### Aral Moreira
+
+Code: BR5001243, Coordinates: -22.914, -55.392
+
+
+### Bandeirantes
+
+Code: BR5001508, Coordinates: -19.807, -54.34
+
+
+### Bataguassu
+
+Code: BR5001904, Coordinates: -21.769, -52.589
+
+
+### Batayporã (Bataypora)
+
+Code: BR5002001, Coordinates: -22.47, -53.175
+
+
+### Bela Vista
+
+Code: BR5002100, Coordinates: -22.037, -56.568
+
+
+### Bodoquena
+
+Code: BR5002159, Coordinates: -20.465, -56.678
+
+
+### Bonito
+
+Code: BR5002209, Coordinates: -20.927, -56.319
+
+
+### Brasilândia (Brasilandia)
+
+Code: BR5002308, Coordinates: -21.077, -52.433
+
+
+### Caarapó (Caarapo)
+
+Code: BR5002407, Coordinates: -22.603, -54.821
+
+
+### Camapuã (Camapua)
+
+Code: BR5002605, Coordinates: -19.331, -53.853
+
+
+### Campo Grande
+
+Code: BR5002704, Coordinates: -20.985, -54.228
+
+
+### Caracol
+
+Code: BR5002803, Coordinates: -21.976, -57.11
+
+
+### Cassilândia (Cassilandia)
+
+Code: BR5002902, Coordinates: -19.075, -52.098
+
+
+### Chapadão do Sul (Chapadao do Sul)
+
+Code: BR5002951, Coordinates: -19.074, -52.68
+
+
+### Corguinho
+
+Code: BR5003108, Coordinates: -19.823, -54.978
+
+
+### Coronel Sapucaia
+
+Code: BR5003157, Coordinates: -23.338, -55.406
+
+
+### Corumbá (Corumba)
+
+Code: BR5003207, Coordinates: -18.646, -56.867
+
+
+### Costa Rica
+
+Code: BR5003256, Coordinates: -18.511, -53.228
+
+
+### Coxim
+
+Code: BR5003306, Coordinates: -18.284, -54.658
+
+
+### Deodápolis (Deodapolis)
+
+Code: BR5003454, Coordinates: -22.074, -54.197
+
+
+### Dois Irmãos do Buriti (Dois Irmaos do Buriti)
+
+Code: BR5003488, Coordinates: -20.529, -55.368
+
+
+### Douradina
+
+Code: BR5003504, Coordinates: -21.996, -54.577
+
+
+### Dourados
+
+Code: BR5003702, Coordinates: -22.143, -54.787
+
+
+### Eldorado
+
+Code: BR5003751, Coordinates: -23.784, -54.219
+
+
+### Fátima do Sul (Fatima do Sul)
+
+Code: BR5003801, Coordinates: -22.328, -54.456
+
+
+### Figueirão (Figueirao)
+
+Code: BR5003900, Coordinates: -18.715, -53.941
+
+
+### Glória de Dourados (Gloria de Dourados)
+
+Code: BR5004007, Coordinates: -22.483, -54.103
+
+
+### Guia Lopes da Laguna
+
+Code: BR5004106, Coordinates: -21.619, -55.937
+
+
+### Iguatemi
+
+Code: BR5004304, Coordinates: -23.434, -54.548
+
+
+### Inocência (Inocencia)
+
+Code: BR5004403, Coordinates: -19.664, -52.041
+
+
+### Itaporã (Itapora)
+
+Code: BR5004502, Coordinates: -21.948, -54.822
+
+
+### Itaquiraí (Itaquirai)
+
+Code: BR5004601, Coordinates: -23.302, -54.092
+
+
+### Ivinhema
+
+Code: BR5004700, Coordinates: -22.385, -53.752
+
+
+### Japorã (Japora)
+
+Code: BR5004809, Coordinates: -23.805, -54.547
+
+
+### Jaraguari
+
+Code: BR5004908, Coordinates: -20.258, -54.261
+
+
+### Jardim
+
+Code: BR5005004, Coordinates: -21.636, -56.27
+
+
+### Jateí (Jatei)
+
+Code: BR5005103, Coordinates: -22.741, -53.833
+
+
+### Juti
+
+Code: BR5005152, Coordinates: -22.839, -54.507
+
+
+### Ladário (Ladario)
+
+Code: BR5005202, Coordinates: -19.101, -57.567
+
+
+### Laguna Carapã (Laguna Carapa)
+
+Code: BR5005251, Coordinates: -22.708, -55.09
+
+
+### Maracaju
+
+Code: BR5005400, Coordinates: -21.454, -55.528
+
+
+### Miranda
+
+Code: BR5005608, Coordinates: -20.199, -56.513
+
+
+### Mundo Novo
+
+Code: BR5005681, Coordinates: -13.72, -50.213
+
+
+### Naviraí (Navirai)
+
+Code: BR5005707, Coordinates: -23.1, -54.04
+
+
+### Nioaque
+
+Code: BR5005806, Coordinates: -21.18, -55.801
+
+
+### Nova Alvorada do Sul
+
+Code: BR5006002, Coordinates: -21.497, -54.166
+
+
+### Nova Andradina
+
+Code: BR5006200, Coordinates: -21.891, -53.461
+
+
+### Novo Horizonte do Sul
+
+Code: BR5006259, Coordinates: -22.61, -53.736
+
+
+### Paraíso das Águas (Paraiso das Aguas)
+
+Code: BR5006275, Coordinates: -19.258, -53.108
+
+
+### Paranaíba (Paranaiba)
+
+Code: BR5006309, Coordinates: -19.514, -51.381
+
+
+### Paranhos
+
+Code: BR5006358, Coordinates: -23.721, -55.37
+
+
+### Pedro Gomes
+
+Code: BR5006408, Coordinates: -17.835, -54.162
+
+
+### Ponta Porã (Ponta Pora)
+
+Code: BR5006606, Coordinates: -22.033, -55.71
+
+
+### Porto Murtinho
+
+Code: BR5006903, Coordinates: -21.26, -57.404
+
+
+### Ribas do Rio Pardo
+
+Code: BR5007109, Coordinates: -20.74, -53.546
+
+
+### Rio Brilhante
+
+Code: BR5007208, Coordinates: -21.765, -54.449
+
+
+### Rio Negro
+
+Code: BR5007307, Coordinates: -19.448, -54.992
+
+
+### Rio Verde de Mato Grosso
+
+Code: BR5007406, Coordinates: -18.826, -54.906
+
+
+### Rochedo
+
+Code: BR5007505, Coordinates: -19.977, -54.761
+
+
+### Santa Rita do Pardo
+
+Code: BR5007554, Coordinates: -21.363, -52.721
+
+
+### São Gabriel do Oeste (Sao Gabriel do Oeste)
+
+Code: BR5007695, Coordinates: -19.13, -54.457
+
+
+### Selvíria (Selviria)
+
+Code: BR5007802, Coordinates: -20.263, -51.813
+
+
+### Sete Quedas
+
+Code: BR5007703, Coordinates: -23.867, -54.967
+
+
+### Sidrolândia (Sidrolandia)
+
+Code: BR5007901, Coordinates: -21.039, -54.983
+
+
+### Sonora
+
+Code: BR5007935, Coordinates: -17.668, -54.368
+
+
+### Tacuru
+
+Code: BR5007950, Coordinates: -23.694, -54.936
+
+
+### Taquarussu
+
+Code: BR5007976, Coordinates: -22.74, -53.477
+
+
+### Terenos
+
+Code: BR5008008, Coordinates: -20.413, -55.102
+
+
+### Três Lagoas (Tres Lagoas)
+
+Code: BR5008305, Coordinates: -20.405, -52.222
+
+
+### Vicentina
+
+Code: BR5008404, Coordinates: -22.508, -54.453
+
+

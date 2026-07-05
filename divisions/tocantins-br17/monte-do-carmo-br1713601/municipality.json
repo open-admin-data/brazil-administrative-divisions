@@ -1,0 +1,45 @@
+{
+  "id": "BR1713601",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Monte do Carmo",
+    "en": "Monte do Carmo",
+    "slug": "monte-do-carmo-br1713601"
+  },
+  "code": {
+    "id": "BR1713601",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.695",
+    "lon": "-47.993"
+  },
+  "metadata": {},
+  "source": {}
+}

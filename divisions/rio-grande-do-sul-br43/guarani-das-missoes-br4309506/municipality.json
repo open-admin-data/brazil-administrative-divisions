@@ -1,0 +1,45 @@
+{
+  "id": "BR4309506",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Guarani das Missões",
+    "en": "Guarani das Missoes",
+    "slug": "guarani-das-missoes-br4309506"
+  },
+  "code": {
+    "id": "BR4309506",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.155",
+    "lon": "-54.598"
+  },
+  "metadata": {},
+  "source": {}
+}

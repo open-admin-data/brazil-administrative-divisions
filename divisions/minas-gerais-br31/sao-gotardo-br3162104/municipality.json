@@ -1,0 +1,45 @@
+{
+  "id": "BR3162104",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Gotardo",
+    "en": "Sao Gotardo",
+    "slug": "sao-gotardo-br3162104"
+  },
+  "code": {
+    "id": "BR3162104",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.358",
+    "lon": "-45.961"
+  },
+  "metadata": {},
+  "source": {}
+}

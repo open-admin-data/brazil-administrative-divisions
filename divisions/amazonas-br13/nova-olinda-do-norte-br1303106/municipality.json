@@ -1,0 +1,45 @@
+{
+  "id": "BR1303106",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Olinda do Norte",
+    "en": "Nova Olinda do Norte",
+    "slug": "nova-olinda-do-norte-br1303106"
+  },
+  "code": {
+    "id": "BR1303106",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.965",
+    "lon": "-58.563"
+  },
+  "metadata": {},
+  "source": {}
+}

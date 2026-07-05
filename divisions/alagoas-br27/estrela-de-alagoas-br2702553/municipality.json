@@ -1,0 +1,45 @@
+{
+  "id": "BR2702553",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Estrela de Alagoas",
+    "en": "Estrela de Alagoas",
+    "slug": "estrela-de-alagoas-br2702553"
+  },
+  "code": {
+    "id": "BR2702553",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.403",
+    "lon": "-36.771"
+  },
+  "metadata": {},
+  "source": {}
+}

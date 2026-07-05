@@ -1,0 +1,45 @@
+{
+  "id": "BR5002951",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chapadão do Sul",
+    "en": "Chapadao do Sul",
+    "slug": "chapadao-do-sul-br5002951"
+  },
+  "code": {
+    "id": "BR5002951",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR50",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso do Sul",
+      "en": "Mato Grosso do Sul",
+      "slug": "mato-grosso-do-sul-br50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.074",
+    "lon": "-52.68"
+  },
+  "metadata": {},
+  "source": {}
+}

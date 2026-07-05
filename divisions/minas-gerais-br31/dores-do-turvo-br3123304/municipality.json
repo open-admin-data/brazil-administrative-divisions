@@ -1,0 +1,45 @@
+{
+  "id": "BR3123304",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dores do Turvo",
+    "en": "Dores do Turvo",
+    "slug": "dores-do-turvo-br3123304"
+  },
+  "code": {
+    "id": "BR3123304",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.025",
+    "lon": "-43.169"
+  },
+  "metadata": {},
+  "source": {}
+}

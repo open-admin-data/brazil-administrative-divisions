@@ -1,0 +1,33 @@
+{
+  "id": "BR15",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Pará",
+    "en": "Para",
+    "slug": "para-br15"
+  },
+  "code": {
+    "id": "BR15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 144
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.216",
+    "lon": "-52.455"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/br/states/para-br15/",
+    "api": "https://openadmindata.org/api/br/"
+  }
+}

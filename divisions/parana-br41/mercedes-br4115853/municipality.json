@@ -1,0 +1,45 @@
+{
+  "id": "BR4115853",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mercedes",
+    "en": "Mercedes",
+    "slug": "mercedes-br4115853"
+  },
+  "code": {
+    "id": "BR4115853",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.421",
+    "lon": "-54.166"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR4106308",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Corbélia",
+    "en": "Corbelia",
+    "slug": "corbelia-br4106308"
+  },
+  "code": {
+    "id": "BR4106308",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.725",
+    "lon": "-53.228"
+  },
+  "metadata": {},
+  "source": {}
+}

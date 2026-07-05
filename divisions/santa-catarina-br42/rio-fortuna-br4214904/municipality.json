@@ -1,0 +1,45 @@
+{
+  "id": "BR4214904",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rio Fortuna",
+    "en": "Rio Fortuna",
+    "slug": "rio-fortuna-br4214904"
+  },
+  "code": {
+    "id": "BR4214904",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.093",
+    "lon": "-49.189"
+  },
+  "metadata": {},
+  "source": {}
+}

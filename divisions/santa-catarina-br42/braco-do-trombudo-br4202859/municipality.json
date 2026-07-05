@@ -1,0 +1,45 @@
+{
+  "id": "BR4202859",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Braço do Trombudo",
+    "en": "Braco do Trombudo",
+    "slug": "braco-do-trombudo-br4202859"
+  },
+  "code": {
+    "id": "BR4202859",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.379",
+    "lon": "-49.911"
+  },
+  "metadata": {},
+  "source": {}
+}

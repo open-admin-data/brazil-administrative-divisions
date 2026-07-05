@@ -1,0 +1,33 @@
+{
+  "id": "BR50",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Mato Grosso do Sul",
+    "en": "Mato Grosso do Sul",
+    "slug": "mato-grosso-do-sul-br50"
+  },
+  "code": {
+    "id": "BR50",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 79
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.241",
+    "lon": "-54.802"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/br/states/mato-grosso-do-sul-br50/",
+    "api": "https://openadmindata.org/api/br/"
+  }
+}

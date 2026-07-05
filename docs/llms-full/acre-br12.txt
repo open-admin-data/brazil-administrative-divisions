@@ -1,0 +1,119 @@
+# Acre — Brazil Administrative Divisions
+
+> 22 municipalitys
+> Code: BR12
+> Coordinates: -9.48, -70.508
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Acrelândia (Acrelandia)
+
+Code: BR1200013, Coordinates: -10.026, -66.871
+
+
+### Assis Brasil
+
+Code: BR1200054, Coordinates: -10.757, -69.968
+
+
+### Brasiléia (Brasileia)
+
+Code: BR1200104, Coordinates: -10.814, -69.117
+
+
+### Bujari
+
+Code: BR1200138, Coordinates: -9.62, -68.134
+
+
+### Capixaba
+
+Code: BR1200179, Coordinates: -10.458, -67.834
+
+
+### Cruzeiro do Sul
+
+Code: BR1200203, Coordinates: -29.562, -52.029
+
+
+### Epitaciolândia (Epitaciolandia)
+
+Code: BR1200252, Coordinates: -10.879, -68.604
+
+
+### Feijó (Feijo)
+
+Code: BR1200302, Coordinates: -8.935, -71.129
+
+
+### Jordão (Jordao)
+
+Code: BR1200328, Coordinates: -9.112, -71.799
+
+
+### Mâncio Lima (Mancio Lima)
+
+Code: BR1200336, Coordinates: -7.544, -73.547
+
+
+### Manoel Urbano
+
+Code: BR1200344, Coordinates: -9.359, -69.96
+
+
+### Marechal Thaumaturgo
+
+Code: BR1200351, Coordinates: -9.093, -72.681
+
+
+### Plácido de Castro (Placido de Castro)
+
+Code: BR1200385, Coordinates: -10.321, -67.351
+
+
+### Porto Acre
+
+Code: BR1200807, Coordinates: -9.682, -67.753
+
+
+### Porto Walter
+
+Code: BR1200393, Coordinates: -8.465, -72.81
+
+
+### Rio Branco
+
+Code: BR1200401, Coordinates: -15.272, -58.16
+
+
+### Rodrigues Alves
+
+Code: BR1200427, Coordinates: -7.853, -73.141
+
+
+### Santa Rosa do Purus
+
+Code: BR1200435, Coordinates: -9.532, -70.404
+
+
+### Sena Madureira
+
+Code: BR1200500, Coordinates: -10.196, -69.691
+
+
+### Senador Guiomard
+
+Code: BR1200450, Coordinates: -10.067, -67.555
+
+
+### Tarauacá (Tarauaca)
+
+Code: BR1200609, Coordinates: -8.571, -71.355
+
+
+### Xapuri
+
+Code: BR1200708, Coordinates: -10.624, -68.527
+
+

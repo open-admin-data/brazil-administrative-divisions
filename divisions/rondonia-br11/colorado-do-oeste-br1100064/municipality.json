@@ -1,0 +1,45 @@
+{
+  "id": "BR1100064",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Colorado do Oeste",
+    "en": "Colorado do Oeste",
+    "slug": "colorado-do-oeste-br1100064"
+  },
+  "code": {
+    "id": "BR1100064",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.109",
+    "lon": "-60.514"
+  },
+  "metadata": {},
+  "source": {}
+}

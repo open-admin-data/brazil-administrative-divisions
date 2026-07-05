@@ -1,0 +1,45 @@
+{
+  "id": "BR1720150",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Félix do Tocantins",
+    "en": "Sao Felix do Tocantins",
+    "slug": "sao-felix-do-tocantins-br1720150"
+  },
+  "code": {
+    "id": "BR1720150",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.076",
+    "lon": "-46.703"
+  },
+  "metadata": {},
+  "source": {}
+}

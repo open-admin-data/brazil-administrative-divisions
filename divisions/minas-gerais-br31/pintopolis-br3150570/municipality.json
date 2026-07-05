@@ -1,0 +1,45 @@
+{
+  "id": "BR3150570",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pintópolis",
+    "en": "Pintopolis",
+    "slug": "pintopolis-br3150570"
+  },
+  "code": {
+    "id": "BR3150570",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.034",
+    "lon": "-45.223"
+  },
+  "metadata": {},
+  "source": {}
+}

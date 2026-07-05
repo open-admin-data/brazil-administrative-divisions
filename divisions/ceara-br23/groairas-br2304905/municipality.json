@@ -1,0 +1,45 @@
+{
+  "id": "BR2304905",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Groaíras",
+    "en": "Groairas",
+    "slug": "groairas-br2304905"
+  },
+  "code": {
+    "id": "BR2304905",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.918",
+    "lon": "-40.374"
+  },
+  "metadata": {},
+  "source": {}
+}

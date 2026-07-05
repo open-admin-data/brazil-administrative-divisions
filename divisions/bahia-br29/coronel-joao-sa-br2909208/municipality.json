@@ -1,0 +1,45 @@
+{
+  "id": "BR2909208",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Coronel João Sá",
+    "en": "Coronel Joao Sa",
+    "slug": "coronel-joao-sa-br2909208"
+  },
+  "code": {
+    "id": "BR2909208",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.318",
+    "lon": "-37.957"
+  },
+  "metadata": {},
+  "source": {}
+}

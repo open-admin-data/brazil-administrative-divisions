@@ -1,0 +1,45 @@
+{
+  "id": "BR2706406",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pão de Açúcar",
+    "en": "Pao de Acucar",
+    "slug": "pao-de-acucar-br2706406"
+  },
+  "code": {
+    "id": "BR2706406",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.665",
+    "lon": "-37.467"
+  },
+  "metadata": {},
+  "source": {}
+}

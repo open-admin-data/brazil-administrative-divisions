@@ -1,0 +1,45 @@
+{
+  "id": "BR4216354",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São João do Itaperiú",
+    "en": "Sao Joao do Itaperiu",
+    "slug": "sao-joao-do-itaperiu-br4216354"
+  },
+  "code": {
+    "id": "BR4216354",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.596",
+    "lon": "-48.805"
+  },
+  "metadata": {},
+  "source": {}
+}

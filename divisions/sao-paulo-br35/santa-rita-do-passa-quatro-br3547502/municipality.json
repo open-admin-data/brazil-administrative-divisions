@@ -1,0 +1,45 @@
+{
+  "id": "BR3547502",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Rita do Passa Quatro",
+    "en": "Santa Rita do Passa Quatro",
+    "slug": "santa-rita-do-passa-quatro-br3547502"
+  },
+  "code": {
+    "id": "BR3547502",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.694",
+    "lon": "-47.496"
+  },
+  "metadata": {},
+  "source": {}
+}

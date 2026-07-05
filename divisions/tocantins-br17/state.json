@@ -1,0 +1,33 @@
+{
+  "id": "BR17",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Tocantins",
+    "en": "Tocantins",
+    "slug": "tocantins-br17"
+  },
+  "code": {
+    "id": "BR17",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 139
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.144",
+    "lon": "-48.057"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/br/states/tocantins-br17/",
+    "api": "https://openadmindata.org/api/br/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1301902",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itacoatiara",
+    "en": "Itacoatiara",
+    "slug": "itacoatiara-br1301902"
+  },
+  "code": {
+    "id": "BR1301902",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.195",
+    "lon": "-58.77"
+  },
+  "metadata": {},
+  "source": {}
+}

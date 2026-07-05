@@ -1,0 +1,45 @@
+{
+  "id": "BR2100154",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Água Doce do Maranhão",
+    "en": "Agua Doce do Maranhao",
+    "slug": "agua-doce-do-maranhao-br2100154"
+  },
+  "code": {
+    "id": "BR2100154",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.922",
+    "lon": "-42.136"
+  },
+  "metadata": {},
+  "source": {}
+}

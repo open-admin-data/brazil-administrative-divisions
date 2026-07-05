@@ -1,0 +1,45 @@
+{
+  "id": "BR2203750",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Fartura do Piauí",
+    "en": "Fartura do Piaui",
+    "slug": "fartura-do-piaui-br2203750"
+  },
+  "code": {
+    "id": "BR2203750",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.501",
+    "lon": "-42.792"
+  },
+  "metadata": {},
+  "source": {}
+}

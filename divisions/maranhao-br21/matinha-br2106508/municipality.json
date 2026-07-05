@@ -1,0 +1,45 @@
+{
+  "id": "BR2106508",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Matinha",
+    "en": "Matinha",
+    "slug": "matinha-br2106508"
+  },
+  "code": {
+    "id": "BR2106508",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.092",
+    "lon": "-45.004"
+  },
+  "metadata": {},
+  "source": {}
+}

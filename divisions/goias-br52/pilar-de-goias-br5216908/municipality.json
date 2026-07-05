@@ -1,0 +1,45 @@
+{
+  "id": "BR5216908",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pilar de Goiás",
+    "en": "Pilar de Goias",
+    "slug": "pilar-de-goias-br5216908"
+  },
+  "code": {
+    "id": "BR5216908",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.558",
+    "lon": "-49.507"
+  },
+  "metadata": {},
+  "source": {}
+}

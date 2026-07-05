@@ -1,0 +1,45 @@
+{
+  "id": "BR4306759",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Doutor Ricardo",
+    "en": "Doutor Ricardo",
+    "slug": "doutor-ricardo-br4306759"
+  },
+  "code": {
+    "id": "BR4306759",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.095",
+    "lon": "-51.98"
+  },
+  "metadata": {},
+  "source": {}
+}

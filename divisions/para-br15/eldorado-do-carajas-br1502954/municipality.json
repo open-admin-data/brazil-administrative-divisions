@@ -1,0 +1,45 @@
+{
+  "id": "BR1502954",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Eldorado do Carajás",
+    "en": "Eldorado do Carajas",
+    "slug": "eldorado-do-carajas-br1502954"
+  },
+  "code": {
+    "id": "BR1502954",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.085",
+    "lon": "-49.29"
+  },
+  "metadata": {},
+  "source": {}
+}

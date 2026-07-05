@@ -1,0 +1,45 @@
+{
+  "id": "BR3547205",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santana da Ponte Pensa",
+    "en": "Santana da Ponte Pensa",
+    "slug": "santana-da-ponte-pensa-br3547205"
+  },
+  "code": {
+    "id": "BR3547205",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.25",
+    "lon": "-50.797"
+  },
+  "metadata": {},
+  "source": {}
+}

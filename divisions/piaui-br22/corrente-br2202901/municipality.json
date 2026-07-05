@@ -1,0 +1,45 @@
+{
+  "id": "BR2202901",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Corrente",
+    "en": "Corrente",
+    "slug": "corrente-br2202901"
+  },
+  "code": {
+    "id": "BR2202901",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.458",
+    "lon": "-45.119"
+  },
+  "metadata": {},
+  "source": {}
+}

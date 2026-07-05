@@ -1,0 +1,45 @@
+{
+  "id": "BR2406205",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lagoa d'Anta",
+    "en": "Lagoa d'Anta",
+    "slug": "lagoa-d-anta-br2406205"
+  },
+  "code": {
+    "id": "BR2406205",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR24",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Norte",
+      "en": "Rio Grande do Norte",
+      "slug": "rio-grande-do-norte-br24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.363",
+    "lon": "-35.639"
+  },
+  "metadata": {},
+  "source": {}
+}

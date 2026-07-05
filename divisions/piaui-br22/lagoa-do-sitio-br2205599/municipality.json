@@ -1,0 +1,45 @@
+{
+  "id": "BR2205599",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lagoa do Sítio",
+    "en": "Lagoa do Sitio",
+    "slug": "lagoa-do-sitio-br2205599"
+  },
+  "code": {
+    "id": "BR2205599",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.509",
+    "lon": "-41.409"
+  },
+  "metadata": {},
+  "source": {}
+}

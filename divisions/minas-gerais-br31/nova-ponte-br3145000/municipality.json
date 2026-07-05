@@ -1,0 +1,45 @@
+{
+  "id": "BR3145000",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Ponte",
+    "en": "Nova Ponte",
+    "slug": "nova-ponte-br3145000"
+  },
+  "code": {
+    "id": "BR3145000",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.243",
+    "lon": "-47.706"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3203163",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Laranja da Terra",
+    "en": "Laranja da Terra",
+    "slug": "laranja-da-terra-br3203163"
+  },
+  "code": {
+    "id": "BR3203163",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.863",
+    "lon": "-41.06"
+  },
+  "metadata": {},
+  "source": {}
+}

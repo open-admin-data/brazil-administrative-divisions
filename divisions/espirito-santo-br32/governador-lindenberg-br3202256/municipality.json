@@ -1,0 +1,45 @@
+{
+  "id": "BR3202256",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Governador Lindenberg",
+    "en": "Governador Lindenberg",
+    "slug": "governador-lindenberg-br3202256"
+  },
+  "code": {
+    "id": "BR3202256",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.205",
+    "lon": "-40.493"
+  },
+  "metadata": {},
+  "source": {}
+}

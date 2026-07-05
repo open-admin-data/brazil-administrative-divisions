@@ -1,0 +1,45 @@
+{
+  "id": "BR2109205",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Presidente Juscelino",
+    "en": "Presidente Juscelino",
+    "slug": "presidente-juscelino-br2109205"
+  },
+  "code": {
+    "id": "BR2109205",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.726",
+    "lon": "-44.086"
+  },
+  "metadata": {},
+  "source": {}
+}

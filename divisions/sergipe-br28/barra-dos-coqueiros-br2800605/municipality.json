@@ -1,0 +1,45 @@
+{
+  "id": "BR2800605",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barra dos Coqueiros",
+    "en": "Barra dos Coqueiros",
+    "slug": "barra-dos-coqueiros-br2800605"
+  },
+  "code": {
+    "id": "BR2800605",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.834",
+    "lon": "-36.966"
+  },
+  "metadata": {},
+  "source": {}
+}

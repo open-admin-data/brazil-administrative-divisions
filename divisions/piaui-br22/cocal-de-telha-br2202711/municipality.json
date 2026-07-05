@@ -1,0 +1,45 @@
+{
+  "id": "BR2202711",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cocal de Telha",
+    "en": "Cocal de Telha",
+    "slug": "cocal-de-telha-br2202711"
+  },
+  "code": {
+    "id": "BR2202711",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.638",
+    "lon": "-41.97"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR5219258",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Fé de Goiás",
+    "en": "Santa Fe de Goias",
+    "slug": "santa-fe-de-goias-br5219258"
+  },
+  "code": {
+    "id": "BR5219258",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.641",
+    "lon": "-51.155"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3147709",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Passa Tempo",
+    "en": "Passa Tempo",
+    "slug": "passa-tempo-br3147709"
+  },
+  "code": {
+    "id": "BR3147709",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.646",
+    "lon": "-44.484"
+  },
+  "metadata": {},
+  "source": {}
+}

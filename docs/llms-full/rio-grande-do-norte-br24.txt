@@ -1,0 +1,844 @@
+# Rio Grande do Norte — Brazil Administrative Divisions
+
+> 167 municipalitys
+> Code: BR24
+> Coordinates: -5.401, -36.954
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Acari
+
+Code: BR2400109, Coordinates: -6.396, -36.645
+
+
+### Açu (Acu)
+
+Code: BR2400208, Coordinates: -5.584, -36.941
+
+
+### Afonso Bezerra
+
+Code: BR2400307, Coordinates: -5.461, -36.704
+
+
+### Água Nova (Agua Nova)
+
+Code: BR2400406, Coordinates: -6.209, -38.295
+
+
+### Alexandria
+
+Code: BR2400505, Coordinates: -6.385, -37.977
+
+
+### Almino Afonso
+
+Code: BR2400604, Coordinates: -6.148, -37.773
+
+
+### Alto do Rodrigues
+
+Code: BR2400703, Coordinates: -5.346, -36.763
+
+
+### Angicos
+
+Code: BR2400802, Coordinates: -5.669, -36.565
+
+
+### Antônio Martins (Antonio Martins)
+
+Code: BR2400901, Coordinates: -6.196, -37.919
+
+
+### Apodi
+
+Code: BR2401008, Coordinates: -5.621, -37.912
+
+
+### Areia Branca
+
+Code: BR2401107, Coordinates: -10.783, -37.327
+
+
+### Arês (Ares)
+
+Code: BR2401206, Coordinates: -6.192, -35.192
+
+
+### Baía Formosa (Baia Formosa)
+
+Code: BR2401404, Coordinates: -6.421, -35.05
+
+
+### Baraúna (Barauna)
+
+Code: BR2401453, Coordinates: -6.61, -36.269
+
+
+### Barcelona
+
+Code: BR2401503, Coordinates: -5.946, -35.927
+
+
+### Bento Fernandes
+
+Code: BR2401602, Coordinates: -5.638, -35.817
+
+
+### Bodó (Bodo)
+
+Code: BR2401651, Coordinates: -5.932, -36.399
+
+
+### Bom Jesus
+
+Code: BR2401701, Coordinates: -28.585, -50.451
+
+
+### Brejinho
+
+Code: BR2401800, Coordinates: -7.343, -37.348
+
+
+### Caiçara do Norte (Caicara do Norte)
+
+Code: BR2401859, Coordinates: -5.184, -36.053
+
+
+### Caiçara do Rio do Vento (Caicara do Rio do Vento)
+
+Code: BR2401909, Coordinates: -5.791, -35.993
+
+
+### Caicó (Caico)
+
+Code: BR2402006, Coordinates: -6.466, -37.039
+
+
+### Campo Grande
+
+Code: BR2401305, Coordinates: -20.985, -54.228
+
+
+### Campo Redondo
+
+Code: BR2402105, Coordinates: -6.268, -36.243
+
+
+### Canguaretama
+
+Code: BR2402204, Coordinates: -6.379, -35.13
+
+
+### Caraúbas (Caraubas)
+
+Code: BR2402303, Coordinates: -7.745, -36.516
+
+
+### Carnaúba dos Dantas (Carnauba dos Dantas)
+
+Code: BR2402402, Coordinates: -6.562, -36.547
+
+
+### Carnaubais
+
+Code: BR2402501, Coordinates: -5.282, -36.798
+
+
+### Ceará-Mirim (Ceara-Mirim)
+
+Code: BR2402600, Coordinates: -5.564, -35.373
+
+
+### Cerro Corá (Cerro Cora)
+
+Code: BR2402709, Coordinates: -5.973, -36.339
+
+
+### Coronel Ezequiel
+
+Code: BR2402808, Coordinates: -6.331, -36.228
+
+
+### Coronel João Pessoa (Coronel Joao Pessoa)
+
+Code: BR2402907, Coordinates: -6.265, -38.418
+
+
+### Cruzeta
+
+Code: BR2403004, Coordinates: -6.34, -36.845
+
+
+### Currais Novos
+
+Code: BR2403103, Coordinates: -6.199, -36.492
+
+
+### Doutor Severiano
+
+Code: BR2403202, Coordinates: -6.107, -38.394
+
+
+### Encanto
+
+Code: BR2403301, Coordinates: -6.109, -38.305
+
+
+### Equador
+
+Code: BR2403400, Coordinates: -6.874, -36.65
+
+
+### Espírito Santo (Espirito Santo)
+
+Code: BR2403509, Coordinates: -6.311, -35.322
+
+
+### Extremoz
+
+Code: BR2403608, Coordinates: -5.699, -35.265
+
+
+### Felipe Guerra
+
+Code: BR2403707, Coordinates: -5.538, -37.659
+
+
+### Fernando Pedroza
+
+Code: BR2403756, Coordinates: -5.727, -36.414
+
+
+### Florânia (Florania)
+
+Code: BR2403806, Coordinates: -6.174, -36.816
+
+
+### Francisco Dantas
+
+Code: BR2403905, Coordinates: -6.04, -38.095
+
+
+### Frutuoso Gomes
+
+Code: BR2404002, Coordinates: -6.154, -37.84
+
+
+### Galinhos
+
+Code: BR2404101, Coordinates: -5.145, -36.237
+
+
+### Goianinha
+
+Code: BR2404200, Coordinates: -6.279, -35.183
+
+
+### Governador Dix-Sept Rosado
+
+Code: BR2404309, Coordinates: -5.394, -37.53
+
+
+### Grossos
+
+Code: BR2404408, Coordinates: -4.952, -37.194
+
+
+### Guamaré (Guamare)
+
+Code: BR2404507, Coordinates: -5.14, -36.322
+
+
+### Ielmo Marinho
+
+Code: BR2404606, Coordinates: -5.753, -35.539
+
+
+### Ipanguaçu (Ipanguacu)
+
+Code: BR2404705, Coordinates: -5.559, -36.817
+
+
+### Ipueira
+
+Code: BR2404804, Coordinates: -6.767, -37.188
+
+
+### Itajá (Itaja)
+
+Code: BR2404853, Coordinates: -19.117, -51.235
+
+
+### Itaú (Itau)
+
+Code: BR2404903, Coordinates: -5.831, -37.938
+
+
+### Jaçanã (Jacana)
+
+Code: BR2405009, Coordinates: -6.409, -36.219
+
+
+### Jandaíra (Jandaira)
+
+Code: BR2405108, Coordinates: -11.595, -37.631
+
+
+### Janduís (Janduis)
+
+Code: BR2405207, Coordinates: -5.959, -37.49
+
+
+### Januário Cicco (Januario Cicco)
+
+Code: BR2405306, Coordinates: -6.151, -35.597
+
+
+### Japi
+
+Code: BR2405405, Coordinates: -6.405, -35.89
+
+
+### Jardim de Angicos
+
+Code: BR2405504, Coordinates: -5.645, -35.949
+
+
+### Jardim de Piranhas
+
+Code: BR2405603, Coordinates: -6.265, -37.254
+
+
+### Jardim do Seridó (Jardim do Serido)
+
+Code: BR2405702, Coordinates: -6.577, -36.828
+
+
+### João Câmara (Joao Camara)
+
+Code: BR2405801, Coordinates: -5.528, -35.848
+
+
+### João Dias (Joao Dias)
+
+Code: BR2405900, Coordinates: -6.29, -37.827
+
+
+### José da Penha (Jose da Penha)
+
+Code: BR2406007, Coordinates: -6.333, -38.285
+
+
+### Jucurutu
+
+Code: BR2406106, Coordinates: -6.057, -37.005
+
+
+### Jundiá (Jundia)
+
+Code: BR2406155, Coordinates: -8.952, -35.543
+
+
+### Lagoa d&#39;Anta
+
+Code: BR2406205, Coordinates: -6.363, -35.639
+
+
+### Lagoa de Pedras
+
+Code: BR2406304, Coordinates: -6.175, -35.47
+
+
+### Lagoa de Velhos
+
+Code: BR2406403, Coordinates: -6.021, -35.841
+
+
+### Lagoa Nova
+
+Code: BR2406502, Coordinates: -6.118, -36.514
+
+
+### Lagoa Salgada
+
+Code: BR2406601, Coordinates: -6.143, -35.499
+
+
+### Lajes
+
+Code: BR2406700, Coordinates: -5.742, -36.188
+
+
+### Lajes Pintadas
+
+Code: BR2406809, Coordinates: -6.129, -36.156
+
+
+### Lucrécia (Lucrecia)
+
+Code: BR2406908, Coordinates: -6.112, -37.81
+
+
+### Luís Gomes (Luis Gomes)
+
+Code: BR2407005, Coordinates: -6.386, -38.418
+
+
+### Macaíba (Macaiba)
+
+Code: BR2407104, Coordinates: -5.93, -35.423
+
+
+### Macau
+
+Code: BR2407203, Coordinates: -5.161, -36.587
+
+
+### Major Sales
+
+Code: BR2407252, Coordinates: -6.397, -38.313
+
+
+### Marcelino Vieira
+
+Code: BR2407302, Coordinates: -6.301, -38.173
+
+
+### Martins
+
+Code: BR2407401, Coordinates: -6.115, -37.911
+
+
+### Maxaranguape
+
+Code: BR2407500, Coordinates: -5.465, -35.356
+
+
+### Messias Targino
+
+Code: BR2407609, Coordinates: -6.099, -37.442
+
+
+### Montanhas
+
+Code: BR2407708, Coordinates: -6.499, -35.282
+
+
+### Monte Alegre
+
+Code: BR2407807, Coordinates: -6.086, -35.432
+
+
+### Monte das Gameleiras
+
+Code: BR2407906, Coordinates: -6.44, -35.809
+
+
+### Mossoró (Mossoro)
+
+Code: BR2408003, Coordinates: -5.112, -37.29
+
+
+### Natal
+
+Code: BR2408102, Coordinates: -5.808, -35.226
+
+
+### Nísia Floresta (Nisia Floresta)
+
+Code: BR2408201, Coordinates: -6.063, -35.169
+
+
+### Nova Cruz
+
+Code: BR2408300, Coordinates: -6.458, -35.457
+
+
+### Olho d&#39;Água do Borges (Olho d&#39;Agua do Borges)
+
+Code: BR2408409, Coordinates: -5.999, -37.732
+
+
+### Ouro Branco
+
+Code: BR2408508, Coordinates: -20.53, -43.702
+
+
+### Paraná (Parana)
+
+Code: BR2408607, Coordinates: -6.456, -38.288
+
+
+### Paraú (Parau)
+
+Code: BR2408706, Coordinates: -5.747, -37.142
+
+
+### Parazinho
+
+Code: BR2408805, Coordinates: -5.312, -35.962
+
+
+### Parelhas
+
+Code: BR2408904, Coordinates: -6.729, -36.624
+
+
+### Parnamirim
+
+Code: BR2403251, Coordinates: -8.211, -39.761
+
+
+### Passa e Fica
+
+Code: BR2409100, Coordinates: -6.453, -35.622
+
+
+### Passagem
+
+Code: BR2409209, Coordinates: -7.115, -37.043
+
+
+### Patu
+
+Code: BR2409308, Coordinates: -6.126, -37.629
+
+
+### Pau dos Ferros
+
+Code: BR2409407, Coordinates: -6.107, -38.197
+
+
+### Pedra Grande
+
+Code: BR2409506, Coordinates: -5.125, -35.847
+
+
+### Pedra Preta
+
+Code: BR2409605, Coordinates: -16.745, -54.171
+
+
+### Pedro Avelino
+
+Code: BR2409704, Coordinates: -5.486, -36.322
+
+
+### Pedro Velho
+
+Code: BR2409803, Coordinates: -6.46, -35.233
+
+
+### Pendências (Pendencias)
+
+Code: BR2409902, Coordinates: -5.259, -36.626
+
+
+### Pilões (Piloes)
+
+Code: BR2410009, Coordinates: -6.877, -35.618
+
+
+### Poço Branco (Poco Branco)
+
+Code: BR2410108, Coordinates: -5.565, -35.697
+
+
+### Portalegre
+
+Code: BR2410207, Coordinates: -6.023, -38.024
+
+
+### Porto do Mangue
+
+Code: BR2410256, Coordinates: -5.081, -36.795
+
+
+### Pureza
+
+Code: BR2410405, Coordinates: -5.42, -35.586
+
+
+### Rafael Fernandes
+
+Code: BR2410504, Coordinates: -6.199, -38.228
+
+
+### Rafael Godeiro
+
+Code: BR2410603, Coordinates: -6.059, -37.74
+
+
+### Riacho da Cruz
+
+Code: BR2410702, Coordinates: -5.931, -37.976
+
+
+### Riacho de Santana
+
+Code: BR2410801, Coordinates: -13.723, -43.026
+
+
+### Riachuelo
+
+Code: BR2410900, Coordinates: -10.722, -37.223
+
+
+### Rio do Fogo
+
+Code: BR2408953, Coordinates: -5.396, -35.392
+
+
+### Rodolfo Fernandes
+
+Code: BR2411007, Coordinates: -5.885, -38.11
+
+
+### Ruy Barbosa
+
+Code: BR2411106, Coordinates: -12.242, -40.415
+
+
+### Santa Cruz
+
+Code: BR2411205, Coordinates: -8.319, -40.298
+
+
+### Santa Maria
+
+Code: BR2409332, Coordinates: -29.777, -53.834
+
+
+### Santana do Matos
+
+Code: BR2411403, Coordinates: -5.906, -36.675
+
+
+### Santana do Seridó (Santana do Serido)
+
+Code: BR2411429, Coordinates: -6.718, -36.752
+
+
+### Santo Antônio (Santo Antonio)
+
+Code: BR2411502, Coordinates: -6.318, -35.536
+
+
+### São Bento do Norte (Sao Bento do Norte)
+
+Code: BR2411601, Coordinates: -5.143, -36.017
+
+
+### São Bento do Trairí (Sao Bento do Trairi)
+
+Code: BR2411700, Coordinates: -6.391, -36.05
+
+
+### São Fernando (Sao Fernando)
+
+Code: BR2411809, Coordinates: -6.294, -37.142
+
+
+### São Francisco do Oeste (Sao Francisco do Oeste)
+
+Code: BR2411908, Coordinates: -5.978, -38.166
+
+
+### São Gonçalo do Amarante (Sao Goncalo do Amarante)
+
+Code: BR2412005, Coordinates: -5.763, -35.323
+
+
+### São João do Sabugi (Sao Joao do Sabugi)
+
+Code: BR2412104, Coordinates: -6.695, -37.141
+
+
+### São José de Mipibu (Sao Jose de Mipibu)
+
+Code: BR2412203, Coordinates: -6.056, -35.293
+
+
+### São José do Campestre (Sao Jose do Campestre)
+
+Code: BR2412302, Coordinates: -6.289, -35.756
+
+
+### São José do Seridó (Sao Jose do Serido)
+
+Code: BR2412401, Coordinates: -6.488, -36.842
+
+
+### São Miguel (Sao Miguel)
+
+Code: BR2412500, Coordinates: -6.208, -38.474
+
+
+### São Miguel do Gostoso (Sao Miguel do Gostoso)
+
+Code: BR2412559, Coordinates: -5.154, -35.721
+
+
+### São Paulo do Potengi (Sao Paulo do Potengi)
+
+Code: BR2412609, Coordinates: -5.897, -35.749
+
+
+### São Pedro (Sao Pedro)
+
+Code: BR2412708, Coordinates: -22.558, -47.918
+
+
+### São Rafael (Sao Rafael)
+
+Code: BR2412807, Coordinates: -5.849, -36.898
+
+
+### São Tomé (Sao Tome)
+
+Code: BR2412906, Coordinates: -23.526, -52.501
+
+
+### São Vicente (Sao Vicente)
+
+Code: BR2413003, Coordinates: -23.964, -46.493
+
+
+### Senador Elói de Souza (Senador Eloi de Souza)
+
+Code: BR2413102, Coordinates: -6.04, -35.686
+
+
+### Senador Georgino Avelino
+
+Code: BR2413201, Coordinates: -6.156, -35.129
+
+
+### Serra Caiada
+
+Code: BR2410306, Coordinates: -6.107, -35.725
+
+
+### Serra de São Bento (Serra de Sao Bento)
+
+Code: BR2413300, Coordinates: -6.434, -35.713
+
+
+### Serra do Mel
+
+Code: BR2413359, Coordinates: -5.127, -37.037
+
+
+### Serra Negra do Norte
+
+Code: BR2413409, Coordinates: -6.584, -37.394
+
+
+### Serrinha
+
+Code: BR2413508, Coordinates: -11.658, -38.985
+
+
+### Serrinha dos Pintos
+
+Code: BR2413557, Coordinates: -6.158, -37.981
+
+
+### Severiano Melo
+
+Code: BR2413607, Coordinates: -5.801, -37.982
+
+
+### Sítio Novo (Sitio Novo)
+
+Code: BR2413706, Coordinates: -6.125, -35.967
+
+
+### Taboleiro Grande
+
+Code: BR2413805, Coordinates: -5.948, -38.051
+
+
+### Taipu
+
+Code: BR2413904, Coordinates: -5.55, -35.567
+
+
+### Tangará (Tangara)
+
+Code: BR2414001, Coordinates: -27.141, -51.12
+
+
+### Tenente Ananias
+
+Code: BR2414100, Coordinates: -6.453, -38.146
+
+
+### Tenente Laurentino Cruz
+
+Code: BR2414159, Coordinates: -6.162, -36.723
+
+
+### Tibau
+
+Code: BR2411056, Coordinates: -4.909, -37.333
+
+
+### Tibau do Sul
+
+Code: BR2414209, Coordinates: -6.248, -35.099
+
+
+### Timbaúba dos Batistas (Timbauba dos Batistas)
+
+Code: BR2414308, Coordinates: -6.474, -37.221
+
+
+### Touros
+
+Code: BR2414407, Coordinates: -5.297, -35.575
+
+
+### Triunfo Potiguar
+
+Code: BR2414456, Coordinates: -5.942, -37.139
+
+
+### Umarizal
+
+Code: BR2414506, Coordinates: -6.012, -37.801
+
+
+### Upanema
+
+Code: BR2414605, Coordinates: -5.687, -37.279
+
+
+### Várzea (Varzea)
+
+Code: BR2414704, Coordinates: -6.794, -37.038
+
+
+### Venha-Ver
+
+Code: BR2414753, Coordinates: -6.331, -38.531
+
+
+### Vera Cruz
+
+Code: BR2414803, Coordinates: -29.767, -52.527
+
+
+### Viçosa (Vicosa)
+
+Code: BR2414902, Coordinates: -20.734, -42.888
+
+
+### Vila Flor
+
+Code: BR2415008, Coordinates: -6.296, -35.077
+
+

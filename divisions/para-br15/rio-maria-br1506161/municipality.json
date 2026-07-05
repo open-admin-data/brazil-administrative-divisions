@@ -1,0 +1,45 @@
+{
+  "id": "BR1506161",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rio Maria",
+    "en": "Rio Maria",
+    "slug": "rio-maria-br1506161"
+  },
+  "code": {
+    "id": "BR1506161",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.413",
+    "lon": "-49.825"
+  },
+  "metadata": {},
+  "source": {}
+}

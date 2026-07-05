@@ -1,0 +1,45 @@
+{
+  "id": "BR2209559",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Braz do Piauí",
+    "en": "Sao Braz do Piaui",
+    "slug": "sao-braz-do-piaui-br2209559"
+  },
+  "code": {
+    "id": "BR2209559",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.974",
+    "lon": "-42.973"
+  },
+  "metadata": {},
+  "source": {}
+}

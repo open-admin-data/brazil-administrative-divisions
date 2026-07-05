@@ -1,0 +1,45 @@
+{
+  "id": "BR3164506",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Sebastião do Maranhão",
+    "en": "Sao Sebastiao do Maranhao",
+    "slug": "sao-sebastiao-do-maranhao-br3164506"
+  },
+  "code": {
+    "id": "BR3164506",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.052",
+    "lon": "-42.54"
+  },
+  "metadata": {},
+  "source": {}
+}

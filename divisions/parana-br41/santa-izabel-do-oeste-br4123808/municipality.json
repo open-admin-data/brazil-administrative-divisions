@@ -1,0 +1,45 @@
+{
+  "id": "BR4123808",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Izabel do Oeste",
+    "en": "Santa Izabel do Oeste",
+    "slug": "santa-izabel-do-oeste-br4123808"
+  },
+  "code": {
+    "id": "BR4123808",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.77",
+    "lon": "-53.406"
+  },
+  "metadata": {},
+  "source": {}
+}

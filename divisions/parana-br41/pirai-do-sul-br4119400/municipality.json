@@ -1,0 +1,45 @@
+{
+  "id": "BR4119400",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Piraí do Sul",
+    "en": "Pirai do Sul",
+    "slug": "pirai-do-sul-br4119400"
+  },
+  "code": {
+    "id": "BR4119400",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.474",
+    "lon": "-49.927"
+  },
+  "metadata": {},
+  "source": {}
+}

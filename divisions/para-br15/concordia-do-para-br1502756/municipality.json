@@ -1,0 +1,45 @@
+{
+  "id": "BR1502756",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Concórdia do Pará",
+    "en": "Concordia do Para",
+    "slug": "concordia-do-para-br1502756"
+  },
+  "code": {
+    "id": "BR1502756",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.862",
+    "lon": "-47.967"
+  },
+  "metadata": {},
+  "source": {}
+}

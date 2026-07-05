@@ -1,0 +1,45 @@
+{
+  "id": "BR3500808",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alfredo Marcondes",
+    "en": "Alfredo Marcondes",
+    "slug": "alfredo-marcondes-br3500808"
+  },
+  "code": {
+    "id": "BR3500808",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.939",
+    "lon": "-51.399"
+  },
+  "metadata": {},
+  "source": {}
+}

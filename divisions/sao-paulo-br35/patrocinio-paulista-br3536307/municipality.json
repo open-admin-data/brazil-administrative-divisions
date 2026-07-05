@@ -1,0 +1,45 @@
+{
+  "id": "BR3536307",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Patrocínio Paulista",
+    "en": "Patrocinio Paulista",
+    "slug": "patrocinio-paulista-br3536307"
+  },
+  "code": {
+    "id": "BR3536307",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.673",
+    "lon": "-47.283"
+  },
+  "metadata": {},
+  "source": {}
+}

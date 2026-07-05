@@ -1,0 +1,45 @@
+{
+  "id": "BR2930105",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Senhor do Bonfim",
+    "en": "Senhor do Bonfim",
+    "slug": "senhor-do-bonfim-br2930105"
+  },
+  "code": {
+    "id": "BR2930105",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.44",
+    "lon": "-40.121"
+  },
+  "metadata": {},
+  "source": {}
+}

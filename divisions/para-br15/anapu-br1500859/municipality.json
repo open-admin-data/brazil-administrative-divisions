@@ -1,0 +1,45 @@
+{
+  "id": "BR1500859",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Anapu",
+    "en": "Anapu",
+    "slug": "anapu-br1500859"
+  },
+  "code": {
+    "id": "BR1500859",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.904",
+    "lon": "-51.325"
+  },
+  "metadata": {},
+  "source": {}
+}

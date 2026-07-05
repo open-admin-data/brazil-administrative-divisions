@@ -1,0 +1,45 @@
+{
+  "id": "BR3102803",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Andrelândia",
+    "en": "Andrelandia",
+    "slug": "andrelandia-br3102803"
+  },
+  "code": {
+    "id": "BR3102803",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.719",
+    "lon": "-44.29"
+  },
+  "metadata": {},
+  "source": {}
+}

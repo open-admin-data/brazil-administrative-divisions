@@ -1,0 +1,45 @@
+{
+  "id": "BR5103858",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Gaúcha do Norte",
+    "en": "Gaucha do Norte",
+    "slug": "gaucha-do-norte-br5103858"
+  },
+  "code": {
+    "id": "BR5103858",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.023",
+    "lon": "-53.483"
+  },
+  "metadata": {},
+  "source": {}
+}

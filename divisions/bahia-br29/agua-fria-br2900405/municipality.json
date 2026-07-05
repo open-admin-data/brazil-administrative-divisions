@@ -1,0 +1,45 @@
+{
+  "id": "BR2900405",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Água Fria",
+    "en": "Agua Fria",
+    "slug": "agua-fria-br2900405"
+  },
+  "code": {
+    "id": "BR2900405",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.797",
+    "lon": "-38.688"
+  },
+  "metadata": {},
+  "source": {}
+}

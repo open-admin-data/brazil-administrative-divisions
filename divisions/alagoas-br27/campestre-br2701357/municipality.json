@@ -1,0 +1,45 @@
+{
+  "id": "BR2701357",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campestre",
+    "en": "Campestre",
+    "slug": "campestre-br2701357"
+  },
+  "code": {
+    "id": "BR2701357",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.731",
+    "lon": "-46.23"
+  },
+  "metadata": {},
+  "source": {}
+}

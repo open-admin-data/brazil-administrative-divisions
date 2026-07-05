@@ -1,0 +1,45 @@
+{
+  "id": "BR4323606",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vista Alegre do Prata",
+    "en": "Vista Alegre do Prata",
+    "slug": "vista-alegre-do-prata-br4323606"
+  },
+  "code": {
+    "id": "BR4323606",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.829",
+    "lon": "-51.787"
+  },
+  "metadata": {},
+  "source": {}
+}

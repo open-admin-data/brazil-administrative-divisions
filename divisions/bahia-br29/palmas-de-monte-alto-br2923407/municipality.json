@@ -1,0 +1,45 @@
+{
+  "id": "BR2923407",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Palmas de Monte Alto",
+    "en": "Palmas de Monte Alto",
+    "slug": "palmas-de-monte-alto-br2923407"
+  },
+  "code": {
+    "id": "BR2923407",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.099",
+    "lon": "-43.192"
+  },
+  "metadata": {},
+  "source": {}
+}

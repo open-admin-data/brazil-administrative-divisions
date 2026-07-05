@@ -1,0 +1,45 @@
+{
+  "id": "BR3147204",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Paraguaçu",
+    "en": "Paraguacu",
+    "slug": "paraguacu-br3147204"
+  },
+  "code": {
+    "id": "BR3147204",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.565",
+    "lon": "-45.743"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR5104526",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ipiranga do Norte",
+    "en": "Ipiranga do Norte",
+    "slug": "ipiranga-do-norte-br5104526"
+  },
+  "code": {
+    "id": "BR5104526",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.992",
+    "lon": "-55.966"
+  },
+  "metadata": {},
+  "source": {}
+}

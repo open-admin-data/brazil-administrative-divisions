@@ -1,0 +1,45 @@
+{
+  "id": "BR3105400",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barão de Cocais",
+    "en": "Barao de Cocais",
+    "slug": "barao-de-cocais-br3105400"
+  },
+  "code": {
+    "id": "BR3105400",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.878",
+    "lon": "-43.498"
+  },
+  "metadata": {},
+  "source": {}
+}

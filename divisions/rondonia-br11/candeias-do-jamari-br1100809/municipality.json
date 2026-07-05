@@ -1,0 +1,45 @@
+{
+  "id": "BR1100809",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Candeias do Jamari",
+    "en": "Candeias do Jamari",
+    "slug": "candeias-do-jamari-br1100809"
+  },
+  "code": {
+    "id": "BR1100809",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.933",
+    "lon": "-63.363"
+  },
+  "metadata": {},
+  "source": {}
+}

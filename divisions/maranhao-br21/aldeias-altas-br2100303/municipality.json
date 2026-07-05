@@ -1,0 +1,45 @@
+{
+  "id": "BR2100303",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Aldeias Altas",
+    "en": "Aldeias Altas",
+    "slug": "aldeias-altas-br2100303"
+  },
+  "code": {
+    "id": "BR2100303",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.587",
+    "lon": "-43.457"
+  },
+  "metadata": {},
+  "source": {}
+}

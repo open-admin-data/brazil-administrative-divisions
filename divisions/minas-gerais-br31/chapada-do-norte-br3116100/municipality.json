@@ -1,0 +1,45 @@
+{
+  "id": "BR3116100",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chapada do Norte",
+    "en": "Chapada do Norte",
+    "slug": "chapada-do-norte-br3116100"
+  },
+  "code": {
+    "id": "BR3116100",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.163",
+    "lon": "-42.378"
+  },
+  "metadata": {},
+  "source": {}
+}

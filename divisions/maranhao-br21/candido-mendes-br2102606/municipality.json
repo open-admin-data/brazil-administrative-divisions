@@ -1,0 +1,45 @@
+{
+  "id": "BR2102606",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cândido Mendes",
+    "en": "Candido Mendes",
+    "slug": "candido-mendes-br2102606"
+  },
+  "code": {
+    "id": "BR2102606",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.561",
+    "lon": "-45.652"
+  },
+  "metadata": {},
+  "source": {}
+}

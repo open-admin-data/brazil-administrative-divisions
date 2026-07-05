@@ -1,0 +1,45 @@
+{
+  "id": "BR2210607",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Raimundo Nonato",
+    "en": "Sao Raimundo Nonato",
+    "slug": "sao-raimundo-nonato-br2210607"
+  },
+  "code": {
+    "id": "BR2210607",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.08",
+    "lon": "-42.7"
+  },
+  "metadata": {},
+  "source": {}
+}

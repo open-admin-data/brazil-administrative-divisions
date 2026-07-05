@@ -1,0 +1,45 @@
+{
+  "id": "BR1505494",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Palestina do Pará",
+    "en": "Palestina do Para",
+    "slug": "palestina-do-para-br1505494"
+  },
+  "code": {
+    "id": "BR1505494",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.977",
+    "lon": "-48.387"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3159605",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Rita do Sapucaí",
+    "en": "Santa Rita do Sapucai",
+    "slug": "santa-rita-do-sapucai-br3159605"
+  },
+  "code": {
+    "id": "BR3159605",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.245",
+    "lon": "-45.692"
+  },
+  "metadata": {},
+  "source": {}
+}

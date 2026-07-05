@@ -1,0 +1,45 @@
+{
+  "id": "BR1301100",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Careiro",
+    "en": "Careiro",
+    "slug": "careiro-br1301100"
+  },
+  "code": {
+    "id": "BR1301100",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.9",
+    "lon": "-60.253"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2211506",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vera Mendes",
+    "en": "Vera Mendes",
+    "slug": "vera-mendes-br2211506"
+  },
+  "code": {
+    "id": "BR2211506",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.576",
+    "lon": "-41.498"
+  },
+  "metadata": {},
+  "source": {}
+}

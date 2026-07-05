@@ -1,0 +1,45 @@
+{
+  "id": "BR3136207",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "João Monlevade",
+    "en": "Joao Monlevade",
+    "slug": "joao-monlevade-br3136207"
+  },
+  "code": {
+    "id": "BR3136207",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.831",
+    "lon": "-43.164"
+  },
+  "metadata": {},
+  "source": {}
+}

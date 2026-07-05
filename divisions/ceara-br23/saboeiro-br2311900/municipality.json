@@ -1,0 +1,45 @@
+{
+  "id": "BR2311900",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Saboeiro",
+    "en": "Saboeiro",
+    "slug": "saboeiro-br2311900"
+  },
+  "code": {
+    "id": "BR2311900",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.47",
+    "lon": "-39.88"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2102754",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Capinzal do Norte",
+    "en": "Capinzal do Norte",
+    "slug": "capinzal-do-norte-br2102754"
+  },
+  "code": {
+    "id": "BR2102754",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.703",
+    "lon": "-44.308"
+  },
+  "metadata": {},
+  "source": {}
+}

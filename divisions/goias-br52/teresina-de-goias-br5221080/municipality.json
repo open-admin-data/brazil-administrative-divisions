@@ -1,0 +1,45 @@
+{
+  "id": "BR5221080",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Teresina de Goiás",
+    "en": "Teresina de Goias",
+    "slug": "teresina-de-goias-br5221080"
+  },
+  "code": {
+    "id": "BR5221080",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.707",
+    "lon": "-47.247"
+  },
+  "metadata": {},
+  "source": {}
+}

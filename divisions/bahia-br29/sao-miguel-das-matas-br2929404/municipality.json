@@ -1,0 +1,45 @@
+{
+  "id": "BR2929404",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Miguel das Matas",
+    "en": "Sao Miguel das Matas",
+    "slug": "sao-miguel-das-matas-br2929404"
+  },
+  "code": {
+    "id": "BR2929404",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.051",
+    "lon": "-39.418"
+  },
+  "metadata": {},
+  "source": {}
+}

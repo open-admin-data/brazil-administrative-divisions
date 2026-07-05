@@ -1,0 +1,45 @@
+{
+  "id": "BR3541505",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Presidente Venceslau",
+    "en": "Presidente Venceslau",
+    "slug": "presidente-venceslau-br3541505"
+  },
+  "code": {
+    "id": "BR3541505",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.793",
+    "lon": "-51.843"
+  },
+  "metadata": {},
+  "source": {}
+}

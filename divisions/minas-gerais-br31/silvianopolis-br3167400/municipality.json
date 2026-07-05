@@ -1,0 +1,45 @@
+{
+  "id": "BR3167400",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Silvianópolis",
+    "en": "Silvianopolis",
+    "slug": "silvianopolis-br3167400"
+  },
+  "code": {
+    "id": "BR3167400",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.041",
+    "lon": "-45.802"
+  },
+  "metadata": {},
+  "source": {}
+}

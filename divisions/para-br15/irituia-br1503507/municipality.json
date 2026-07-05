@@ -1,0 +1,45 @@
+{
+  "id": "BR1503507",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Irituia",
+    "en": "Irituia",
+    "slug": "irituia-br1503507"
+  },
+  "code": {
+    "id": "BR1503507",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.766",
+    "lon": "-47.423"
+  },
+  "metadata": {},
+  "source": {}
+}

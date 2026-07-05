@@ -1,0 +1,45 @@
+{
+  "id": "BR5201207",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Anhanguera",
+    "en": "Anhanguera",
+    "slug": "anhanguera-br5201207"
+  },
+  "code": {
+    "id": "BR5201207",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.313",
+    "lon": "-48.226"
+  },
+  "metadata": {},
+  "source": {}
+}

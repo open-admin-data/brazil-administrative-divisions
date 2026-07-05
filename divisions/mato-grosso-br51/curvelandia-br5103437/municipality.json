@@ -1,0 +1,45 @@
+{
+  "id": "BR5103437",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Curvelândia",
+    "en": "Curvelandia",
+    "slug": "curvelandia-br5103437"
+  },
+  "code": {
+    "id": "BR5103437",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.619",
+    "lon": "-57.85"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2911402",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Glória",
+    "en": "Gloria",
+    "slug": "gloria-br2911402"
+  },
+  "code": {
+    "id": "BR2911402",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.215",
+    "lon": "-38.429"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2601508",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Belém de Maria",
+    "en": "Belem de Maria",
+    "slug": "belem-de-maria-br2601508"
+  },
+  "code": {
+    "id": "BR2601508",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR26",
+    "level": 1,
+    "name": {
+      "local": "Pernambuco",
+      "en": "Pernambuco",
+      "slug": "pernambuco-br26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.599",
+    "lon": "-35.82"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1506500",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Izabel do Pará",
+    "en": "Santa Izabel do Para",
+    "slug": "santa-izabel-do-para-br1506500"
+  },
+  "code": {
+    "id": "BR1506500",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.388",
+    "lon": "-48.135"
+  },
+  "metadata": {},
+  "source": {}
+}

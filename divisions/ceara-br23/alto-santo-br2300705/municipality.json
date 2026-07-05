@@ -1,0 +1,45 @@
+{
+  "id": "BR2300705",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alto Santo",
+    "en": "Alto Santo",
+    "slug": "alto-santo-br2300705"
+  },
+  "code": {
+    "id": "BR2300705",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.525",
+    "lon": "-38.214"
+  },
+  "metadata": {},
+  "source": {}
+}

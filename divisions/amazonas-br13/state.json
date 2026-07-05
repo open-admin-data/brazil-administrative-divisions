@@ -1,0 +1,33 @@
+{
+  "id": "BR13",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Amazonas",
+    "en": "Amazonas",
+    "slug": "amazonas-br13"
+  },
+  "code": {
+    "id": "BR13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 62
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.992",
+    "lon": "-65.299"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/br/states/amazonas-br13/",
+    "api": "https://openadmindata.org/api/br/"
+  }
+}

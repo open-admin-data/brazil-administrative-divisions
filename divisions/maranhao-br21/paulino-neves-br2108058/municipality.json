@@ -1,0 +1,45 @@
+{
+  "id": "BR2108058",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Paulino Neves",
+    "en": "Paulino Neves",
+    "slug": "paulino-neves-br2108058"
+  },
+  "code": {
+    "id": "BR2108058",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.883",
+    "lon": "-42.599"
+  },
+  "metadata": {},
+  "source": {}
+}

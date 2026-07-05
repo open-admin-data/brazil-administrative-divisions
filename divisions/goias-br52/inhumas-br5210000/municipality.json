@@ -1,0 +1,45 @@
+{
+  "id": "BR5210000",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Inhumas",
+    "en": "Inhumas",
+    "slug": "inhumas-br5210000"
+  },
+  "code": {
+    "id": "BR5210000",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.332",
+    "lon": "-49.5"
+  },
+  "metadata": {},
+  "source": {}
+}

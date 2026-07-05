@@ -1,0 +1,45 @@
+{
+  "id": "BR2901155",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "América Dourada",
+    "en": "America Dourada",
+    "slug": "america-dourada-br2901155"
+  },
+  "code": {
+    "id": "BR2901155",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.421",
+    "lon": "-41.469"
+  },
+  "metadata": {},
+  "source": {}
+}

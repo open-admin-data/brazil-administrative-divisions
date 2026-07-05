@@ -1,0 +1,47 @@
+[
+  {
+    "id": "BR5300108",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Brasília",
+      "en": "Brasilia",
+      "slug": "brasilia-br5300108"
+    },
+    "code": {
+      "id": "BR5300108",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR53",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-br53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR53",
+        "level": 1,
+        "name": {
+          "local": "Distrito Federal",
+          "en": "Distrito Federal",
+          "slug": "distrito-federal-br53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.82",
+      "lon": "-47.701"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

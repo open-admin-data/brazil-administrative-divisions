@@ -1,0 +1,45 @@
+{
+  "id": "BR3508801",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cafelândia",
+    "en": "Cafelandia",
+    "slug": "cafelandia-br3508801"
+  },
+  "code": {
+    "id": "BR3508801",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.685",
+    "lon": "-53.35"
+  },
+  "metadata": {},
+  "source": {}
+}

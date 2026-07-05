@@ -1,0 +1,45 @@
+{
+  "id": "BR4108551",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Godoy Moreira",
+    "en": "Godoy Moreira",
+    "slug": "godoy-moreira-br4108551"
+  },
+  "code": {
+    "id": "BR4108551",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.155",
+    "lon": "-51.924"
+  },
+  "metadata": {},
+  "source": {}
+}

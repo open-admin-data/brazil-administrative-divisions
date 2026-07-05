@@ -1,0 +1,45 @@
+{
+  "id": "BR2512002",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pocinhos",
+    "en": "Pocinhos",
+    "slug": "pocinhos-br2512002"
+  },
+  "code": {
+    "id": "BR2512002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.03",
+    "lon": "-36.072"
+  },
+  "metadata": {},
+  "source": {}
+}

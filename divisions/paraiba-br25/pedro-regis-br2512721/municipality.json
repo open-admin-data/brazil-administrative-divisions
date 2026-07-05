@@ -1,0 +1,45 @@
+{
+  "id": "BR2512721",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pedro Régis",
+    "en": "Pedro Regis",
+    "slug": "pedro-regis-br2512721"
+  },
+  "code": {
+    "id": "BR2512721",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.676",
+    "lon": "-35.283"
+  },
+  "metadata": {},
+  "source": {}
+}

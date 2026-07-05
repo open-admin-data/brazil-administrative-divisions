@@ -1,0 +1,45 @@
+{
+  "id": "BR1504703",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Moju",
+    "en": "Moju",
+    "slug": "moju-br1504703"
+  },
+  "code": {
+    "id": "BR1504703",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.592",
+    "lon": "-49.031"
+  },
+  "metadata": {},
+  "source": {}
+}

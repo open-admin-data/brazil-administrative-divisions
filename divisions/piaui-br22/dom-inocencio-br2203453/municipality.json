@@ -1,0 +1,45 @@
+{
+  "id": "BR2203453",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dom Inocêncio",
+    "en": "Dom Inocencio",
+    "slug": "dom-inocencio-br2203453"
+  },
+  "code": {
+    "id": "BR2203453",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.859",
+    "lon": "-41.765"
+  },
+  "metadata": {},
+  "source": {}
+}

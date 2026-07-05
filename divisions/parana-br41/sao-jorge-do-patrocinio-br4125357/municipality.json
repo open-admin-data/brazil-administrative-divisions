@@ -1,0 +1,45 @@
+{
+  "id": "BR4125357",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Jorge do Patrocínio",
+    "en": "Sao Jorge do Patrocinio",
+    "slug": "sao-jorge-do-patrocinio-br4125357"
+  },
+  "code": {
+    "id": "BR4125357",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.751",
+    "lon": "-53.899"
+  },
+  "metadata": {},
+  "source": {}
+}

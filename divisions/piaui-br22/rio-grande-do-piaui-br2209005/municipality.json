@@ -1,0 +1,45 @@
+{
+  "id": "BR2209005",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rio Grande do Piauí",
+    "en": "Rio Grande do Piaui",
+    "slug": "rio-grande-do-piaui-br2209005"
+  },
+  "code": {
+    "id": "BR2209005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.831",
+    "lon": "-43.126"
+  },
+  "metadata": {},
+  "source": {}
+}

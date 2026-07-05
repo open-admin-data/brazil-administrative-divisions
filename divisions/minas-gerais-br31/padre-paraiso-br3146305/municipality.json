@@ -1,0 +1,45 @@
+{
+  "id": "BR3146305",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Padre Paraíso",
+    "en": "Padre Paraiso",
+    "slug": "padre-paraiso-br3146305"
+  },
+  "code": {
+    "id": "BR3146305",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.063",
+    "lon": "-41.537"
+  },
+  "metadata": {},
+  "source": {}
+}

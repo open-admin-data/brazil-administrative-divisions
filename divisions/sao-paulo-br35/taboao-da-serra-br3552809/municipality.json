@@ -1,0 +1,45 @@
+{
+  "id": "BR3552809",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Taboão da Serra",
+    "en": "Taboao da Serra",
+    "slug": "taboao-da-serra-br3552809"
+  },
+  "code": {
+    "id": "BR3552809",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.618",
+    "lon": "-46.788"
+  },
+  "metadata": {},
+  "source": {}
+}

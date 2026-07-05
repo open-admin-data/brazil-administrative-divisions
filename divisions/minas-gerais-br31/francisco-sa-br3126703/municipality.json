@@ -1,0 +1,45 @@
+{
+  "id": "BR3126703",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Francisco Sá",
+    "en": "Francisco Sa",
+    "slug": "francisco-sa-br3126703"
+  },
+  "code": {
+    "id": "BR3126703",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.421",
+    "lon": "-43.485"
+  },
+  "metadata": {},
+  "source": {}
+}

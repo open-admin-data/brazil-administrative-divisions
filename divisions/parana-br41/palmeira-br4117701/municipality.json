@@ -1,0 +1,45 @@
+{
+  "id": "BR4117701",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Palmeira",
+    "en": "Palmeira",
+    "slug": "palmeira-br4117701"
+  },
+  "code": {
+    "id": "BR4117701",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.546",
+    "lon": "-50.161"
+  },
+  "metadata": {},
+  "source": {}
+}

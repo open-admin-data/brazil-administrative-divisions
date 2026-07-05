@@ -1,0 +1,45 @@
+{
+  "id": "BR3549201",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São João das Duas Pontes",
+    "en": "Sao Joao das Duas Pontes",
+    "slug": "sao-joao-das-duas-pontes-br3549201"
+  },
+  "code": {
+    "id": "BR3549201",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.419",
+    "lon": "-50.386"
+  },
+  "metadata": {},
+  "source": {}
+}

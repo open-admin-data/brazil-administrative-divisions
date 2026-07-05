@@ -1,0 +1,45 @@
+{
+  "id": "BR2200459",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alvorada do Gurguéia",
+    "en": "Alvorada do Gurgueia",
+    "slug": "alvorada-do-gurgueia-br2200459"
+  },
+  "code": {
+    "id": "BR2200459",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.421",
+    "lon": "-43.877"
+  },
+  "metadata": {},
+  "source": {}
+}

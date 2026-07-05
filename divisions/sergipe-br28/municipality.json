@@ -1,0 +1,3377 @@
+[
+  {
+    "id": "BR2800100",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amparo do São Francisco",
+      "en": "Amparo do Sao Francisco",
+      "slug": "amparo-do-sao-francisco-br2800100"
+    },
+    "code": {
+      "id": "BR2800100",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.144",
+      "lon": "-36.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2800209",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aquidabã",
+      "en": "Aquidaba",
+      "slug": "aquidaba-br2800209"
+    },
+    "code": {
+      "id": "BR2800209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.296",
+      "lon": "-37.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2800308",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aracaju",
+      "en": "Aracaju",
+      "slug": "aracaju-br2800308"
+    },
+    "code": {
+      "id": "BR2800308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.972",
+      "lon": "-37.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2800407",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arauá",
+      "en": "Araua",
+      "slug": "araua-br2800407"
+    },
+    "code": {
+      "id": "BR2800407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.247",
+      "lon": "-37.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2800506",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Areia Branca",
+      "en": "Areia Branca",
+      "slug": "areia-branca-br2800506"
+    },
+    "code": {
+      "id": "BR2800506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.783",
+      "lon": "-37.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2800605",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barra dos Coqueiros",
+      "en": "Barra dos Coqueiros",
+      "slug": "barra-dos-coqueiros-br2800605"
+    },
+    "code": {
+      "id": "BR2800605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.834",
+      "lon": "-36.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2800670",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Boquim",
+      "en": "Boquim",
+      "slug": "boquim-br2800670"
+    },
+    "code": {
+      "id": "BR2800670",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.136",
+      "lon": "-37.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2800704",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Brejo Grande",
+      "en": "Brejo Grande",
+      "slug": "brejo-grande-br2800704"
+    },
+    "code": {
+      "id": "BR2800704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.469",
+      "lon": "-36.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2801009",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Campo do Brito",
+      "en": "Campo do Brito",
+      "slug": "campo-do-brito-br2801009"
+    },
+    "code": {
+      "id": "BR2801009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.777",
+      "lon": "-37.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2801108",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Canhoba",
+      "en": "Canhoba",
+      "slug": "canhoba-br2801108"
+    },
+    "code": {
+      "id": "BR2801108",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.139",
+      "lon": "-37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2801207",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Canindé de São Francisco",
+      "en": "Caninde de Sao Francisco",
+      "slug": "caninde-de-sao-francisco-br2801207"
+    },
+    "code": {
+      "id": "BR2801207",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.715",
+      "lon": "-37.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2801306",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Capela",
+      "en": "Capela",
+      "slug": "capela-br2801306"
+    },
+    "code": {
+      "id": "BR2801306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.438",
+      "lon": "-37.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2801405",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carira",
+      "en": "Carira",
+      "slug": "carira-br2801405"
+    },
+    "code": {
+      "id": "BR2801405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.337",
+      "lon": "-37.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2801504",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carmópolis",
+      "en": "Carmopolis",
+      "slug": "carmopolis-br2801504"
+    },
+    "code": {
+      "id": "BR2801504",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.672",
+      "lon": "-36.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2801603",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cedro de São João",
+      "en": "Cedro de Sao Joao",
+      "slug": "cedro-de-sao-joao-br2801603"
+    },
+    "code": {
+      "id": "BR2801603",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.28",
+      "lon": "-36.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2801702",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cristinápolis",
+      "en": "Cristinapolis",
+      "slug": "cristinapolis-br2801702"
+    },
+    "code": {
+      "id": "BR2801702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.492",
+      "lon": "-37.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2801900",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cumbe",
+      "en": "Cumbe",
+      "slug": "cumbe-br2801900"
+    },
+    "code": {
+      "id": "BR2801900",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.339",
+      "lon": "-37.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2802007",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Divina Pastora",
+      "en": "Divina Pastora",
+      "slug": "divina-pastora-br2802007"
+    },
+    "code": {
+      "id": "BR2802007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.676",
+      "lon": "-37.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2802106",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Estância",
+      "en": "Estancia",
+      "slug": "estancia-br2802106"
+    },
+    "code": {
+      "id": "BR2802106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.242",
+      "lon": "-37.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2802205",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Feira Nova",
+      "en": "Feira Nova",
+      "slug": "feira-nova-br2802205"
+    },
+    "code": {
+      "id": "BR2802205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.311",
+      "lon": "-37.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2802304",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Frei Paulo",
+      "en": "Frei Paulo",
+      "slug": "frei-paulo-br2802304"
+    },
+    "code": {
+      "id": "BR2802304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.521",
+      "lon": "-37.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2802403",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gararu",
+      "en": "Gararu",
+      "slug": "gararu-br2802403"
+    },
+    "code": {
+      "id": "BR2802403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.048",
+      "lon": "-37.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2802502",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "General Maynard",
+      "en": "General Maynard",
+      "slug": "general-maynard-br2802502"
+    },
+    "code": {
+      "id": "BR2802502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.693",
+      "lon": "-36.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2802601",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gracho Cardoso",
+      "en": "Gracho Cardoso",
+      "slug": "gracho-cardoso-br2802601"
+    },
+    "code": {
+      "id": "BR2802601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.232",
+      "lon": "-37.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2802700",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ilha das Flores",
+      "en": "Ilha das Flores",
+      "slug": "ilha-das-flores-br2802700"
+    },
+    "code": {
+      "id": "BR2802700",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.448",
+      "lon": "-36.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2802809",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Indiaroba",
+      "en": "Indiaroba",
+      "slug": "indiaroba-br2802809"
+    },
+    "code": {
+      "id": "BR2802809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.488",
+      "lon": "-37.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2802908",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itabaiana",
+      "en": "Itabaiana",
+      "slug": "itabaiana-br2802908"
+    },
+    "code": {
+      "id": "BR2802908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.691",
+      "lon": "-37.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2803005",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itabaianinha",
+      "en": "Itabaianinha",
+      "slug": "itabaianinha-br2803005"
+    },
+    "code": {
+      "id": "BR2803005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.259",
+      "lon": "-37.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2803104",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itabi",
+      "en": "Itabi",
+      "slug": "itabi-br2803104"
+    },
+    "code": {
+      "id": "BR2803104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.091",
+      "lon": "-37.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2803203",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itaporanga d'Ajuda",
+      "en": "Itaporanga d'Ajuda",
+      "slug": "itaporanga-d-ajuda-br2803203"
+    },
+    "code": {
+      "id": "BR2803203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.035",
+      "lon": "-37.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2803302",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Japaratuba",
+      "en": "Japaratuba",
+      "slug": "japaratuba-br2803302"
+    },
+    "code": {
+      "id": "BR2803302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.522",
+      "lon": "-36.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2803401",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Japoatã",
+      "en": "Japoata",
+      "slug": "japoata-br2803401"
+    },
+    "code": {
+      "id": "BR2803401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.442",
+      "lon": "-36.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2803500",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagarto",
+      "en": "Lagarto",
+      "slug": "lagarto-br2803500"
+    },
+    "code": {
+      "id": "BR2803500",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.885",
+      "lon": "-37.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2803609",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Laranjeiras",
+      "en": "Laranjeiras",
+      "slug": "laranjeiras-br2803609"
+    },
+    "code": {
+      "id": "BR2803609",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.803",
+      "lon": "-37.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2803708",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Macambira",
+      "en": "Macambira",
+      "slug": "macambira-br2803708"
+    },
+    "code": {
+      "id": "BR2803708",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.683",
+      "lon": "-37.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2803807",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Malhada dos Bois",
+      "en": "Malhada dos Bois",
+      "slug": "malhada-dos-bois-br2803807"
+    },
+    "code": {
+      "id": "BR2803807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.328",
+      "lon": "-36.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2803906",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Malhador",
+      "en": "Malhador",
+      "slug": "malhador-br2803906"
+    },
+    "code": {
+      "id": "BR2803906",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.689",
+      "lon": "-37.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2804003",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maruim",
+      "en": "Maruim",
+      "slug": "maruim-br2804003"
+    },
+    "code": {
+      "id": "BR2804003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.736",
+      "lon": "-37.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2804102",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Moita Bonita",
+      "en": "Moita Bonita",
+      "slug": "moita-bonita-br2804102"
+    },
+    "code": {
+      "id": "BR2804102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.597",
+      "lon": "-37.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2804201",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Monte Alegre de Sergipe",
+      "en": "Monte Alegre de Sergipe",
+      "slug": "monte-alegre-de-sergipe-br2804201"
+    },
+    "code": {
+      "id": "BR2804201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.075",
+      "lon": "-37.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2804300",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Muribeca",
+      "en": "Muribeca",
+      "slug": "muribeca-br2804300"
+    },
+    "code": {
+      "id": "BR2804300",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.39",
+      "lon": "-36.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2804409",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Neópolis",
+      "en": "Neopolis",
+      "slug": "neopolis-br2804409"
+    },
+    "code": {
+      "id": "BR2804409",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.354",
+      "lon": "-36.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2804458",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nossa Senhora Aparecida",
+      "en": "Nossa Senhora Aparecida",
+      "slug": "nossa-senhora-aparecida-br2804458"
+    },
+    "code": {
+      "id": "BR2804458",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.301",
+      "lon": "-37.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2804508",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nossa Senhora da Glória",
+      "en": "Nossa Senhora da Gloria",
+      "slug": "nossa-senhora-da-gloria-br2804508"
+    },
+    "code": {
+      "id": "BR2804508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.181",
+      "lon": "-37.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2804607",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nossa Senhora das Dores",
+      "en": "Nossa Senhora das Dores",
+      "slug": "nossa-senhora-das-dores-br2804607"
+    },
+    "code": {
+      "id": "BR2804607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.447",
+      "lon": "-37.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2804706",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nossa Senhora de Lourdes",
+      "en": "Nossa Senhora de Lourdes",
+      "slug": "nossa-senhora-de-lourdes-br2804706"
+    },
+    "code": {
+      "id": "BR2804706",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.093",
+      "lon": "-37.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2804805",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nossa Senhora do Socorro",
+      "en": "Nossa Senhora do Socorro",
+      "slug": "nossa-senhora-do-socorro-br2804805"
+    },
+    "code": {
+      "id": "BR2804805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.866",
+      "lon": "-37.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2804904",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pacatuba",
+      "en": "Pacatuba",
+      "slug": "pacatuba-br2804904"
+    },
+    "code": {
+      "id": "BR2804904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.498",
+      "lon": "-36.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2805000",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedra Mole",
+      "en": "Pedra Mole",
+      "slug": "pedra-mole-br2805000"
+    },
+    "code": {
+      "id": "BR2805000",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.653",
+      "lon": "-37.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2805109",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedrinhas",
+      "en": "Pedrinhas",
+      "slug": "pedrinhas-br2805109"
+    },
+    "code": {
+      "id": "BR2805109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.206",
+      "lon": "-37.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2805208",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pinhão",
+      "en": "Pinhao",
+      "slug": "pinhao-br2805208"
+    },
+    "code": {
+      "id": "BR2805208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.766",
+      "lon": "-51.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2805307",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pirambu",
+      "en": "Pirambu",
+      "slug": "pirambu-br2805307"
+    },
+    "code": {
+      "id": "BR2805307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.683",
+      "lon": "-36.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2805406",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Poço Redondo",
+      "en": "Poco Redondo",
+      "slug": "poco-redondo-br2805406"
+    },
+    "code": {
+      "id": "BR2805406",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.917",
+      "lon": "-37.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2805505",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Poço Verde",
+      "en": "Poco Verde",
+      "slug": "poco-verde-br2805505"
+    },
+    "code": {
+      "id": "BR2805505",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.819",
+      "lon": "-38.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2805604",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto da Folha",
+      "en": "Porto da Folha",
+      "slug": "porto-da-folha-br2805604"
+    },
+    "code": {
+      "id": "BR2805604",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.975",
+      "lon": "-37.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2805703",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Propriá",
+      "en": "Propria",
+      "slug": "propria-br2805703"
+    },
+    "code": {
+      "id": "BR2805703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.253",
+      "lon": "-36.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2805802",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Riachão do Dantas",
+      "en": "Riachao do Dantas",
+      "slug": "riachao-do-dantas-br2805802"
+    },
+    "code": {
+      "id": "BR2805802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.018",
+      "lon": "-37.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2805901",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Riachuelo",
+      "en": "Riachuelo",
+      "slug": "riachuelo-br2805901"
+    },
+    "code": {
+      "id": "BR2805901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.722",
+      "lon": "-37.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2806008",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ribeirópolis",
+      "en": "Ribeiropolis",
+      "slug": "ribeiropolis-br2806008"
+    },
+    "code": {
+      "id": "BR2806008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.521",
+      "lon": "-37.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2806107",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rosário do Catete",
+      "en": "Rosario do Catete",
+      "slug": "rosario-do-catete-br2806107"
+    },
+    "code": {
+      "id": "BR2806107",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.688",
+      "lon": "-37.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2806206",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Salgado",
+      "en": "Salgado",
+      "slug": "salgado-br2806206"
+    },
+    "code": {
+      "id": "BR2806206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.08",
+      "lon": "-37.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2806305",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Luzia do Itanhy",
+      "en": "Santa Luzia do Itanhy",
+      "slug": "santa-luzia-do-itanhy-br2806305"
+    },
+    "code": {
+      "id": "BR2806305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.359",
+      "lon": "-37.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2806503",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Rosa de Lima",
+      "en": "Santa Rosa de Lima",
+      "slug": "santa-rosa-de-lima-br2806503"
+    },
+    "code": {
+      "id": "BR2806503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.006",
+      "lon": "-49.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2806404",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santana do São Francisco",
+      "en": "Santana do Sao Francisco",
+      "slug": "santana-do-sao-francisco-br2806404"
+    },
+    "code": {
+      "id": "BR2806404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.274",
+      "lon": "-36.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2806602",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo Amaro das Brotas",
+      "en": "Santo Amaro das Brotas",
+      "slug": "santo-amaro-das-brotas-br2806602"
+    },
+    "code": {
+      "id": "BR2806602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.779",
+      "lon": "-36.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2806701",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Cristóvão",
+      "en": "Sao Cristovao",
+      "slug": "sao-cristovao-br2806701"
+    },
+    "code": {
+      "id": "BR2806701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.964",
+      "lon": "-37.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2806800",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Domingos",
+      "en": "Sao Domingos",
+      "slug": "sao-domingos-br2806800"
+    },
+    "code": {
+      "id": "BR2806800",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.53",
+      "lon": "-46.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2806909",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Francisco",
+      "en": "Sao Francisco",
+      "slug": "sao-francisco-br2806909"
+    },
+    "code": {
+      "id": "BR2806909",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.37",
+      "lon": "-50.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2807006",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Miguel do Aleixo",
+      "en": "Sao Miguel do Aleixo",
+      "slug": "sao-miguel-do-aleixo-br2807006"
+    },
+    "code": {
+      "id": "BR2807006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.371",
+      "lon": "-37.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2807105",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Simão Dias",
+      "en": "Simao Dias",
+      "slug": "simao-dias-br2807105"
+    },
+    "code": {
+      "id": "BR2807105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.715",
+      "lon": "-37.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2807204",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Siriri",
+      "en": "Siriri",
+      "slug": "siriri-br2807204"
+    },
+    "code": {
+      "id": "BR2807204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.58",
+      "lon": "-37.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2807303",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Telha",
+      "en": "Telha",
+      "slug": "telha-br2807303"
+    },
+    "code": {
+      "id": "BR2807303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.179",
+      "lon": "-36.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2807402",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tobias Barreto",
+      "en": "Tobias Barreto",
+      "slug": "tobias-barreto-br2807402"
+    },
+    "code": {
+      "id": "BR2807402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.098",
+      "lon": "-38.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2807501",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tomar do Geru",
+      "en": "Tomar do Geru",
+      "slug": "tomar-do-geru-br2807501"
+    },
+    "code": {
+      "id": "BR2807501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.391",
+      "lon": "-37.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2807600",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Umbaúba",
+      "en": "Umbauba",
+      "slug": "umbauba-br2807600"
+    },
+    "code": {
+      "id": "BR2807600",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR28",
+        "level": 1,
+        "name": {
+          "local": "Sergipe",
+          "en": "Sergipe",
+          "slug": "sergipe-br28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.398",
+      "lon": "-37.68"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

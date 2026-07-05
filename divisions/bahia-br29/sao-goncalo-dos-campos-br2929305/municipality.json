@@ -1,0 +1,45 @@
+{
+  "id": "BR2929305",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Gonçalo dos Campos",
+    "en": "Sao Goncalo dos Campos",
+    "slug": "sao-goncalo-dos-campos-br2929305"
+  },
+  "code": {
+    "id": "BR2929305",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.433",
+    "lon": "-38.975"
+  },
+  "metadata": {},
+  "source": {}
+}

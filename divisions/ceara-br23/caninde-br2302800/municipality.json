@@ -1,0 +1,45 @@
+{
+  "id": "BR2302800",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Canindé",
+    "en": "Caninde",
+    "slug": "caninde-br2302800"
+  },
+  "code": {
+    "id": "BR2302800",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.415",
+    "lon": "-39.486"
+  },
+  "metadata": {},
+  "source": {}
+}

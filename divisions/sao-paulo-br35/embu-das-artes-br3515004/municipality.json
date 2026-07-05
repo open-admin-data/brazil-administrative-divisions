@@ -1,0 +1,45 @@
+{
+  "id": "BR3515004",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Embu das Artes",
+    "en": "Embu das Artes",
+    "slug": "embu-das-artes-br3515004"
+  },
+  "code": {
+    "id": "BR3515004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.647",
+    "lon": "-46.853"
+  },
+  "metadata": {},
+  "source": {}
+}

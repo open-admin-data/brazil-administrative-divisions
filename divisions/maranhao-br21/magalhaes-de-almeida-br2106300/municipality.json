@@ -1,0 +1,45 @@
+{
+  "id": "BR2106300",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Magalhães de Almeida",
+    "en": "Magalhaes de Almeida",
+    "slug": "magalhaes-de-almeida-br2106300"
+  },
+  "code": {
+    "id": "BR2106300",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.326",
+    "lon": "-42.137"
+  },
+  "metadata": {},
+  "source": {}
+}

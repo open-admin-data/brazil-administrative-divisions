@@ -1,0 +1,45 @@
+{
+  "id": "BR2202778",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Colônia do Piauí",
+    "en": "Colonia do Piaui",
+    "slug": "colonia-do-piaui-br2202778"
+  },
+  "code": {
+    "id": "BR2202778",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.236",
+    "lon": "-42.209"
+  },
+  "metadata": {},
+  "source": {}
+}

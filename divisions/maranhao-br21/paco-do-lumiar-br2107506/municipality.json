@@ -1,0 +1,45 @@
+{
+  "id": "BR2107506",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Paço do Lumiar",
+    "en": "Paco do Lumiar",
+    "slug": "paco-do-lumiar-br2107506"
+  },
+  "code": {
+    "id": "BR2107506",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.499",
+    "lon": "-44.121"
+  },
+  "metadata": {},
+  "source": {}
+}

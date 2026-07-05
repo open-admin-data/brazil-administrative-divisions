@@ -1,0 +1,45 @@
+{
+  "id": "BR4126603",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Siqueira Campos",
+    "en": "Siqueira Campos",
+    "slug": "siqueira-campos-br4126603"
+  },
+  "code": {
+    "id": "BR4126603",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.634",
+    "lon": "-49.781"
+  },
+  "metadata": {},
+  "source": {}
+}

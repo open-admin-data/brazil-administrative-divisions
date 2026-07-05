@@ -1,0 +1,45 @@
+{
+  "id": "BR3136702",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Juiz de Fora",
+    "en": "Juiz de Fora",
+    "slug": "juiz-de-fora-br3136702"
+  },
+  "code": {
+    "id": "BR3136702",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.755",
+    "lon": "-43.445"
+  },
+  "metadata": {},
+  "source": {}
+}

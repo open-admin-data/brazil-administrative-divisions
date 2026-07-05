@@ -1,0 +1,89 @@
+# Amapa — Brazil Administrative Divisions
+
+> 16 municipalitys
+> Code: BR16
+> Coordinates: 1.559, -52.21
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Amapá (Amapa)
+
+Code: BR1600105, Coordinates: 1.832, -50.855
+
+
+### Calçoene (Calcoene)
+
+Code: BR1600204, Coordinates: 2.333, -51.501
+
+
+### Cutias
+
+Code: BR1600212, Coordinates: 1.009, -50.532
+
+
+### Ferreira Gomes
+
+Code: BR1600238, Coordinates: 0.916, -51.401
+
+
+### Itaubal
+
+Code: BR1600253, Coordinates: 0.573, -50.683
+
+
+### Laranjal do Jari
+
+Code: BR1600279, Coordinates: 0.971, -53.28
+
+
+### Macapá (Macapa)
+
+Code: BR1600303, Coordinates: 0.567, -50.809
+
+
+### Mazagão (Mazagao)
+
+Code: BR1600402, Coordinates: -0.03, -52.083
+
+
+### Oiapoque
+
+Code: BR1600501, Coordinates: 2.74, -52.164
+
+
+### Pedra Branca do Amapari
+
+Code: BR1600154, Coordinates: 1.15, -52.407
+
+
+### Porto Grande
+
+Code: BR1600535, Coordinates: 0.571, -51.706
+
+
+### Pracuúba (Pracuuba)
+
+Code: BR1600550, Coordinates: 1.663, -51.254
+
+
+### Santana
+
+Code: BR1600600, Coordinates: -13.056, -43.946
+
+
+### Serra do Navio
+
+Code: BR1600055, Coordinates: 1.635, -52.255
+
+
+### Tartarugalzinho
+
+Code: BR1600709, Coordinates: 1.254, -51.117
+
+
+### Vitória do Jari (Vitoria do Jari)
+
+Code: BR1600808, Coordinates: -0.958, -52.025
+
+

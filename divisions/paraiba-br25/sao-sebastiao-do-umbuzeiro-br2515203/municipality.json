@@ -1,0 +1,45 @@
+{
+  "id": "BR2515203",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Sebastião do Umbuzeiro",
+    "en": "Sao Sebastiao do Umbuzeiro",
+    "slug": "sao-sebastiao-do-umbuzeiro-br2515203"
+  },
+  "code": {
+    "id": "BR2515203",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.146",
+    "lon": "-37.004"
+  },
+  "metadata": {},
+  "source": {}
+}

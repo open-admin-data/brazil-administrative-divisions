@@ -1,0 +1,45 @@
+{
+  "id": "BR5105580",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Marcelândia",
+    "en": "Marcelandia",
+    "slug": "marcelandia-br5105580"
+  },
+  "code": {
+    "id": "BR5105580",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.968",
+    "lon": "-54.134"
+  },
+  "metadata": {},
+  "source": {}
+}

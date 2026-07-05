@@ -1,0 +1,45 @@
+{
+  "id": "BR4106100",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Conselheiro Mairinck",
+    "en": "Conselheiro Mairinck",
+    "slug": "conselheiro-mairinck-br4106100"
+  },
+  "code": {
+    "id": "BR4106100",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.591",
+    "lon": "-50.119"
+  },
+  "metadata": {},
+  "source": {}
+}

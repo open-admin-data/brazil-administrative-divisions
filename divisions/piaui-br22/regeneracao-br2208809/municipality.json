@@ -1,0 +1,45 @@
+{
+  "id": "BR2208809",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Regeneração",
+    "en": "Regeneracao",
+    "slug": "regeneracao-br2208809"
+  },
+  "code": {
+    "id": "BR2208809",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.286",
+    "lon": "-42.52"
+  },
+  "metadata": {},
+  "source": {}
+}

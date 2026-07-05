@@ -1,0 +1,45 @@
+{
+  "id": "BR2110039",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Luzia do Paruá",
+    "en": "Santa Luzia do Parua",
+    "slug": "santa-luzia-do-parua-br2110039"
+  },
+  "code": {
+    "id": "BR2110039",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.598",
+    "lon": "-45.866"
+  },
+  "metadata": {},
+  "source": {}
+}

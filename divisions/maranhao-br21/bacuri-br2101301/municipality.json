@@ -1,0 +1,45 @@
+{
+  "id": "BR2101301",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bacuri",
+    "en": "Bacuri",
+    "slug": "bacuri-br2101301"
+  },
+  "code": {
+    "id": "BR2101301",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.666",
+    "lon": "-45.138"
+  },
+  "metadata": {},
+  "source": {}
+}

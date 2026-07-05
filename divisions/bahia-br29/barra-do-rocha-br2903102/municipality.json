@@ -1,0 +1,45 @@
+{
+  "id": "BR2903102",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barra do Rocha",
+    "en": "Barra do Rocha",
+    "slug": "barra-do-rocha-br2903102"
+  },
+  "code": {
+    "id": "BR2903102",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.09",
+    "lon": "-39.585"
+  },
+  "metadata": {},
+  "source": {}
+}

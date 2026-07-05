@@ -1,0 +1,45 @@
+{
+  "id": "BR2501708",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barra de São Miguel",
+    "en": "Barra de Sao Miguel",
+    "slug": "barra-de-sao-miguel-br2501708"
+  },
+  "code": {
+    "id": "BR2501708",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.81",
+    "lon": "-35.949"
+  },
+  "metadata": {},
+  "source": {}
+}

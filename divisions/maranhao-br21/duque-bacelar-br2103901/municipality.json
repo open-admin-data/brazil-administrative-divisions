@@ -1,0 +1,45 @@
+{
+  "id": "BR2103901",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Duque Bacelar",
+    "en": "Duque Bacelar",
+    "slug": "duque-bacelar-br2103901"
+  },
+  "code": {
+    "id": "BR2103901",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.111",
+    "lon": "-43.027"
+  },
+  "metadata": {},
+  "source": {}
+}

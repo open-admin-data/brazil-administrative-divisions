@@ -1,0 +1,45 @@
+{
+  "id": "BR3509700",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campos do Jordão",
+    "en": "Campos do Jordao",
+    "slug": "campos-do-jordao-br3509700"
+  },
+  "code": {
+    "id": "BR3509700",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.699",
+    "lon": "-45.531"
+  },
+  "metadata": {},
+  "source": {}
+}

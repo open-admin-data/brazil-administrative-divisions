@@ -1,0 +1,45 @@
+{
+  "id": "BR2102556",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campestre do Maranhão",
+    "en": "Campestre do Maranhao",
+    "slug": "campestre-do-maranhao-br2102556"
+  },
+  "code": {
+    "id": "BR2102556",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.154",
+    "lon": "-47.246"
+  },
+  "metadata": {},
+  "source": {}
+}

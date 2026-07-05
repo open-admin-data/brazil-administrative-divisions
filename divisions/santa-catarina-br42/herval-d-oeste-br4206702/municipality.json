@@ -1,0 +1,45 @@
+{
+  "id": "BR4206702",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Herval d'Oeste",
+    "en": "Herval d'Oeste",
+    "slug": "herval-d-oeste-br4206702"
+  },
+  "code": {
+    "id": "BR4206702",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.204",
+    "lon": "-51.429"
+  },
+  "metadata": {},
+  "source": {}
+}

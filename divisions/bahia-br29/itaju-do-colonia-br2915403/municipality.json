@@ -1,0 +1,45 @@
+{
+  "id": "BR2915403",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itaju do Colônia",
+    "en": "Itaju do Colonia",
+    "slug": "itaju-do-colonia-br2915403"
+  },
+  "code": {
+    "id": "BR2915403",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.139",
+    "lon": "-39.715"
+  },
+  "metadata": {},
+  "source": {}
+}

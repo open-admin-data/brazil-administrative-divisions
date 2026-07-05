@@ -1,0 +1,45 @@
+{
+  "id": "BR3547304",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santana de Parnaíba",
+    "en": "Santana de Parnaiba",
+    "slug": "santana-de-parnaiba-br3547304"
+  },
+  "code": {
+    "id": "BR3547304",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.451",
+    "lon": "-46.921"
+  },
+  "metadata": {},
+  "source": {}
+}

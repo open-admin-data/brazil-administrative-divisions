@@ -1,0 +1,722 @@
+[
+  {
+    "id": "BR1600105",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amapá",
+      "en": "Amapa",
+      "slug": "amapa-br1600105"
+    },
+    "code": {
+      "id": "BR1600105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR16",
+        "level": 1,
+        "name": {
+          "local": "Amapá",
+          "en": "Amapa",
+          "slug": "amapa-br16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.832",
+      "lon": "-50.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1600204",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Calçoene",
+      "en": "Calcoene",
+      "slug": "calcoene-br1600204"
+    },
+    "code": {
+      "id": "BR1600204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR16",
+        "level": 1,
+        "name": {
+          "local": "Amapá",
+          "en": "Amapa",
+          "slug": "amapa-br16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.333",
+      "lon": "-51.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1600212",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cutias",
+      "en": "Cutias",
+      "slug": "cutias-br1600212"
+    },
+    "code": {
+      "id": "BR1600212",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR16",
+        "level": 1,
+        "name": {
+          "local": "Amapá",
+          "en": "Amapa",
+          "slug": "amapa-br16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.009",
+      "lon": "-50.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1600238",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ferreira Gomes",
+      "en": "Ferreira Gomes",
+      "slug": "ferreira-gomes-br1600238"
+    },
+    "code": {
+      "id": "BR1600238",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR16",
+        "level": 1,
+        "name": {
+          "local": "Amapá",
+          "en": "Amapa",
+          "slug": "amapa-br16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.916",
+      "lon": "-51.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1600253",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itaubal",
+      "en": "Itaubal",
+      "slug": "itaubal-br1600253"
+    },
+    "code": {
+      "id": "BR1600253",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR16",
+        "level": 1,
+        "name": {
+          "local": "Amapá",
+          "en": "Amapa",
+          "slug": "amapa-br16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.573",
+      "lon": "-50.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1600279",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Laranjal do Jari",
+      "en": "Laranjal do Jari",
+      "slug": "laranjal-do-jari-br1600279"
+    },
+    "code": {
+      "id": "BR1600279",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR16",
+        "level": 1,
+        "name": {
+          "local": "Amapá",
+          "en": "Amapa",
+          "slug": "amapa-br16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.971",
+      "lon": "-53.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1600303",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Macapá",
+      "en": "Macapa",
+      "slug": "macapa-br1600303"
+    },
+    "code": {
+      "id": "BR1600303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR16",
+        "level": 1,
+        "name": {
+          "local": "Amapá",
+          "en": "Amapa",
+          "slug": "amapa-br16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.567",
+      "lon": "-50.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1600402",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mazagão",
+      "en": "Mazagao",
+      "slug": "mazagao-br1600402"
+    },
+    "code": {
+      "id": "BR1600402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR16",
+        "level": 1,
+        "name": {
+          "local": "Amapá",
+          "en": "Amapa",
+          "slug": "amapa-br16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.03",
+      "lon": "-52.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1600501",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Oiapoque",
+      "en": "Oiapoque",
+      "slug": "oiapoque-br1600501"
+    },
+    "code": {
+      "id": "BR1600501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR16",
+        "level": 1,
+        "name": {
+          "local": "Amapá",
+          "en": "Amapa",
+          "slug": "amapa-br16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.74",
+      "lon": "-52.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1600154",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedra Branca do Amapari",
+      "en": "Pedra Branca do Amapari",
+      "slug": "pedra-branca-do-amapari-br1600154"
+    },
+    "code": {
+      "id": "BR1600154",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR16",
+        "level": 1,
+        "name": {
+          "local": "Amapá",
+          "en": "Amapa",
+          "slug": "amapa-br16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.15",
+      "lon": "-52.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1600535",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto Grande",
+      "en": "Porto Grande",
+      "slug": "porto-grande-br1600535"
+    },
+    "code": {
+      "id": "BR1600535",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR16",
+        "level": 1,
+        "name": {
+          "local": "Amapá",
+          "en": "Amapa",
+          "slug": "amapa-br16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.571",
+      "lon": "-51.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1600550",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pracuúba",
+      "en": "Pracuuba",
+      "slug": "pracuuba-br1600550"
+    },
+    "code": {
+      "id": "BR1600550",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR16",
+        "level": 1,
+        "name": {
+          "local": "Amapá",
+          "en": "Amapa",
+          "slug": "amapa-br16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.663",
+      "lon": "-51.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1600600",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santana",
+      "en": "Santana",
+      "slug": "santana-br1600600"
+    },
+    "code": {
+      "id": "BR1600600",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR16",
+        "level": 1,
+        "name": {
+          "local": "Amapá",
+          "en": "Amapa",
+          "slug": "amapa-br16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.056",
+      "lon": "-43.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1600055",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Serra do Navio",
+      "en": "Serra do Navio",
+      "slug": "serra-do-navio-br1600055"
+    },
+    "code": {
+      "id": "BR1600055",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR16",
+        "level": 1,
+        "name": {
+          "local": "Amapá",
+          "en": "Amapa",
+          "slug": "amapa-br16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.635",
+      "lon": "-52.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1600709",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tartarugalzinho",
+      "en": "Tartarugalzinho",
+      "slug": "tartarugalzinho-br1600709"
+    },
+    "code": {
+      "id": "BR1600709",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR16",
+        "level": 1,
+        "name": {
+          "local": "Amapá",
+          "en": "Amapa",
+          "slug": "amapa-br16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.254",
+      "lon": "-51.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1600808",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vitória do Jari",
+      "en": "Vitoria do Jari",
+      "slug": "vitoria-do-jari-br1600808"
+    },
+    "code": {
+      "id": "BR1600808",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR16",
+        "level": 1,
+        "name": {
+          "local": "Amapá",
+          "en": "Amapa",
+          "slug": "amapa-br16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.958",
+      "lon": "-52.025"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

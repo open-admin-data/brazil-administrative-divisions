@@ -1,0 +1,45 @@
+{
+  "id": "BR3521408",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Iracemápolis",
+    "en": "Iracemapolis",
+    "slug": "iracemapolis-br3521408"
+  },
+  "code": {
+    "id": "BR3521408",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.609",
+    "lon": "-47.522"
+  },
+  "metadata": {},
+  "source": {}
+}

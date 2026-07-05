@@ -1,0 +1,45 @@
+{
+  "id": "BR2203305",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Demerval Lobão",
+    "en": "Demerval Lobao",
+    "slug": "demerval-lobao-br2203305"
+  },
+  "code": {
+    "id": "BR2203305",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.329",
+    "lon": "-42.663"
+  },
+  "metadata": {},
+  "source": {}
+}

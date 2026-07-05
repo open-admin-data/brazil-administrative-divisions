@@ -1,0 +1,45 @@
+{
+  "id": "BR2401859",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Caiçara do Norte",
+    "en": "Caicara do Norte",
+    "slug": "caicara-do-norte-br2401859"
+  },
+  "code": {
+    "id": "BR2401859",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR24",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Norte",
+      "en": "Rio Grande do Norte",
+      "slug": "rio-grande-do-norte-br24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.184",
+    "lon": "-36.053"
+  },
+  "metadata": {},
+  "source": {}
+}

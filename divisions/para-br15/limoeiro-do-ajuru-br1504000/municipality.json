@@ -1,0 +1,45 @@
+{
+  "id": "BR1504000",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Limoeiro do Ajuru",
+    "en": "Limoeiro do Ajuru",
+    "slug": "limoeiro-do-ajuru-br1504000"
+  },
+  "code": {
+    "id": "BR1504000",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.892",
+    "lon": "-49.518"
+  },
+  "metadata": {},
+  "source": {}
+}

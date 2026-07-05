@@ -1,0 +1,45 @@
+{
+  "id": "BR3119906",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Córrego do Bom Jesus",
+    "en": "Corrego do Bom Jesus",
+    "slug": "corrego-do-bom-jesus-br3119906"
+  },
+  "code": {
+    "id": "BR3119906",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.635",
+    "lon": "-45.989"
+  },
+  "metadata": {},
+  "source": {}
+}

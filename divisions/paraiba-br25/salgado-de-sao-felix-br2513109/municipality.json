@@ -1,0 +1,45 @@
+{
+  "id": "BR2513109",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Salgado de São Félix",
+    "en": "Salgado de Sao Felix",
+    "slug": "salgado-de-sao-felix-br2513109"
+  },
+  "code": {
+    "id": "BR2513109",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.42",
+    "lon": "-35.463"
+  },
+  "metadata": {},
+  "source": {}
+}

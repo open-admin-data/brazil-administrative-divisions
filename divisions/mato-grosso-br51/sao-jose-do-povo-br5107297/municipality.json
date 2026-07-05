@@ -1,0 +1,45 @@
+{
+  "id": "BR5107297",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José do Povo",
+    "en": "Sao Jose do Povo",
+    "slug": "sao-jose-do-povo-br5107297"
+  },
+  "code": {
+    "id": "BR5107297",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.454",
+    "lon": "-54.282"
+  },
+  "metadata": {},
+  "source": {}
+}

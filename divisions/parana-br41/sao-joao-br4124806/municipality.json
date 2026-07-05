@@ -1,0 +1,45 @@
+{
+  "id": "BR4124806",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São João",
+    "en": "Sao Joao",
+    "slug": "sao-joao-br4124806"
+  },
+  "code": {
+    "id": "BR4124806",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.768",
+    "lon": "-52.81"
+  },
+  "metadata": {},
+  "source": {}
+}

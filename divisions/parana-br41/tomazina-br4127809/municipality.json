@@ -1,0 +1,45 @@
+{
+  "id": "BR4127809",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tomazina",
+    "en": "Tomazina",
+    "slug": "tomazina-br4127809"
+  },
+  "code": {
+    "id": "BR4127809",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.687",
+    "lon": "-49.982"
+  },
+  "metadata": {},
+  "source": {}
+}

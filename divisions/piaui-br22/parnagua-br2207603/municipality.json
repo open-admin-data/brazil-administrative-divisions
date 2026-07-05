@@ -1,0 +1,45 @@
+{
+  "id": "BR2207603",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Parnaguá",
+    "en": "Parnagua",
+    "slug": "parnagua-br2207603"
+  },
+  "code": {
+    "id": "BR2207603",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.21",
+    "lon": "-44.561"
+  },
+  "metadata": {},
+  "source": {}
+}

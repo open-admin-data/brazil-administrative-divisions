@@ -1,0 +1,45 @@
+{
+  "id": "BR1400233",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Caroebe",
+    "en": "Caroebe",
+    "slug": "caroebe-br1400233"
+  },
+  "code": {
+    "id": "BR1400233",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR14",
+    "level": 1,
+    "name": {
+      "local": "Roraima",
+      "en": "Roraima",
+      "slug": "roraima-br14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.195",
+    "lon": "-59.472"
+  },
+  "metadata": {},
+  "source": {}
+}

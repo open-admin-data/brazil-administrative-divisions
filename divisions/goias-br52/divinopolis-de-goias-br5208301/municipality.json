@@ -1,0 +1,45 @@
+{
+  "id": "BR5208301",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Divinópolis de Goiás",
+    "en": "Divinopolis de Goias",
+    "slug": "divinopolis-de-goias-br5208301"
+  },
+  "code": {
+    "id": "BR5208301",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.232",
+    "lon": "-46.539"
+  },
+  "metadata": {},
+  "source": {}
+}

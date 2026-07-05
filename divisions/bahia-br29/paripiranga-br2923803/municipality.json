@@ -1,0 +1,45 @@
+{
+  "id": "BR2923803",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Paripiranga",
+    "en": "Paripiranga",
+    "slug": "paripiranga-br2923803"
+  },
+  "code": {
+    "id": "BR2923803",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.592",
+    "lon": "-37.888"
+  },
+  "metadata": {},
+  "source": {}
+}

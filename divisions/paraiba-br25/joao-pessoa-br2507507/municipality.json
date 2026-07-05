@@ -1,0 +1,45 @@
+{
+  "id": "BR2507507",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "João Pessoa",
+    "en": "Joao Pessoa",
+    "slug": "joao-pessoa-br2507507"
+  },
+  "code": {
+    "id": "BR2507507",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.151",
+    "lon": "-34.871"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR4103909",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campina da Lagoa",
+    "en": "Campina da Lagoa",
+    "slug": "campina-da-lagoa-br4103909"
+  },
+  "code": {
+    "id": "BR4103909",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.614",
+    "lon": "-52.806"
+  },
+  "metadata": {},
+  "source": {}
+}

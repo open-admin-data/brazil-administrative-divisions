@@ -1,0 +1,45 @@
+{
+  "id": "BR3305133",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José de Ubá",
+    "en": "Sao Jose de Uba",
+    "slug": "sao-jose-de-uba-br3305133"
+  },
+  "code": {
+    "id": "BR3305133",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR33",
+    "level": 1,
+    "name": {
+      "local": "Rio de Janeiro",
+      "en": "Rio de Janeiro",
+      "slug": "rio-de-janeiro-br33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.372",
+    "lon": "-41.95"
+  },
+  "metadata": {},
+  "source": {}
+}

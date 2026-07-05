@@ -1,0 +1,45 @@
+{
+  "id": "BR3557204",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chavantes",
+    "en": "Chavantes",
+    "slug": "chavantes-br3557204"
+  },
+  "code": {
+    "id": "BR3557204",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.039",
+    "lon": "-49.725"
+  },
+  "metadata": {},
+  "source": {}
+}

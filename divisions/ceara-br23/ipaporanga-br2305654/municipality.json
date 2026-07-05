@@ -1,0 +1,45 @@
+{
+  "id": "BR2305654",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ipaporanga",
+    "en": "Ipaporanga",
+    "slug": "ipaporanga-br2305654"
+  },
+  "code": {
+    "id": "BR2305654",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.869",
+    "lon": "-40.837"
+  },
+  "metadata": {},
+  "source": {}
+}

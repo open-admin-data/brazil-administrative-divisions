@@ -1,0 +1,45 @@
+{
+  "id": "BR3111309",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campo do Meio",
+    "en": "Campo do Meio",
+    "slug": "campo-do-meio-br3111309"
+  },
+  "code": {
+    "id": "BR3111309",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.128",
+    "lon": "-45.809"
+  },
+  "metadata": {},
+  "source": {}
+}

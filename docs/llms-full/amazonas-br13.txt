@@ -1,0 +1,319 @@
+# Amazonas — Brazil Administrative Divisions
+
+> 62 municipalitys
+> Code: BR13
+> Coordinates: -2.992, -65.299
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Alvarães (Alvaraes)
+
+Code: BR1300029, Coordinates: -3.755, -65.274
+
+
+### Amaturá (Amatura)
+
+Code: BR1300060, Coordinates: -3.316, -68.263
+
+
+### Anamã (Anama)
+
+Code: BR1300086, Coordinates: -3.479, -61.678
+
+
+### Anori
+
+Code: BR1300102, Coordinates: -4.241, -62.19
+
+
+### Apuí (Apui)
+
+Code: BR1300144, Coordinates: -7.918, -59.604
+
+
+### Atalaia do Norte
+
+Code: BR1300201, Coordinates: -5.611, -71.474
+
+
+### Autazes
+
+Code: BR1300300, Coordinates: -3.885, -59.743
+
+
+### Barcelos
+
+Code: BR1300409, Coordinates: -0.496, -63.623
+
+
+### Barreirinha
+
+Code: BR1300508, Coordinates: -3.012, -57.172
+
+
+### Benjamin Constant
+
+Code: BR1300607, Coordinates: -5.589, -70.419
+
+
+### Beruri
+
+Code: BR1300631, Coordinates: -4.35, -61.794
+
+
+### Boa Vista do Ramos
+
+Code: BR1300680, Coordinates: -3.121, -57.613
+
+
+### Boca do Acre
+
+Code: BR1300706, Coordinates: -8.464, -67.967
+
+
+### Borba
+
+Code: BR1300805, Coordinates: -5.108, -59.239
+
+
+### Caapiranga
+
+Code: BR1300839, Coordinates: -3.143, -61.705
+
+
+### Canutama
+
+Code: BR1300904, Coordinates: -7.631, -63.954
+
+
+### Carauari
+
+Code: BR1301001, Coordinates: -5.042, -67.321
+
+
+### Careiro
+
+Code: BR1301100, Coordinates: -3.9, -60.253
+
+
+### Careiro da Várzea (Careiro da Varzea)
+
+Code: BR1301159, Coordinates: -3.376, -59.635
+
+
+### Coari
+
+Code: BR1301209, Coordinates: -3.827, -64.055
+
+
+### Codajás (Codajas)
+
+Code: BR1301308, Coordinates: -3.155, -63.245
+
+
+### Eirunepé (Eirunepe)
+
+Code: BR1301407, Coordinates: -7.134, -70.471
+
+
+### Envira
+
+Code: BR1301506, Coordinates: -7.505, -70.074
+
+
+### Fonte Boa
+
+Code: BR1301605, Coordinates: -2.555, -66.238
+
+
+### Guajará (Guajara)
+
+Code: BR1301654, Coordinates: -7.137, -72.653
+
+
+### Humaitá (Humaita)
+
+Code: BR1301704, Coordinates: -27.585, -54
+
+
+### Ipixuna
+
+Code: BR1301803, Coordinates: -7.137, -71.259
+
+
+### Iranduba
+
+Code: BR1301852, Coordinates: -3.104, -60.45
+
+
+### Itacoatiara
+
+Code: BR1301902, Coordinates: -3.195, -58.77
+
+
+### Itamarati
+
+Code: BR1301951, Coordinates: -6.739, -67.757
+
+
+### Itapiranga
+
+Code: BR1302009, Coordinates: -27.104, -53.721
+
+
+### Japurá (Japura)
+
+Code: BR1302108, Coordinates: -23.422, -52.557
+
+
+### Juruá (Jurua)
+
+Code: BR1302207, Coordinates: -3.267, -66.305
+
+
+### Jutaí (Jutai)
+
+Code: BR1302306, Coordinates: -4.609, -68.173
+
+
+### Lábrea (Labrea)
+
+Code: BR1302405, Coordinates: -8.051, -66.13
+
+
+### Manacapuru
+
+Code: BR1302504, Coordinates: -3.249, -61.021
+
+
+### Manaquiri
+
+Code: BR1302553, Coordinates: -3.815, -60.692
+
+
+### Manaus
+
+Code: BR1302603, Coordinates: -2.671, -60.128
+
+
+### Manicoré (Manicore)
+
+Code: BR1302702, Coordinates: -7.024, -61.499
+
+
+### Maraã (Maraa)
+
+Code: BR1302801, Coordinates: -2.68, -64.77
+
+
+### Maués (Maues)
+
+Code: BR1302900, Coordinates: -5.078, -58.411
+
+
+### Nhamundá (Nhamunda)
+
+Code: BR1303007, Coordinates: -1.359, -57.894
+
+
+### Nova Olinda do Norte
+
+Code: BR1303106, Coordinates: -3.965, -58.563
+
+
+### Novo Airão (Novo Airao)
+
+Code: BR1303205, Coordinates: -1.901, -61.736
+
+
+### Novo Aripuanã (Novo Aripuana)
+
+Code: BR1303304, Coordinates: -6.921, -60.587
+
+
+### Parintins
+
+Code: BR1303403, Coordinates: -2.642, -56.929
+
+
+### Pauini
+
+Code: BR1303502, Coordinates: -7.714, -67.834
+
+
+### Presidente Figueiredo
+
+Code: BR1303536, Coordinates: -1.209, -60.048
+
+
+### Rio Preto da Eva
+
+Code: BR1303569, Coordinates: -2.47, -59.631
+
+
+### Santa Isabel do Rio Negro
+
+Code: BR1303601, Coordinates: -0.216, -65.384
+
+
+### Santo Antônio do Içá (Santo Antonio do Ica)
+
+Code: BR1303700, Coordinates: -3.142, -68.77
+
+
+### São Gabriel da Cachoeira (Sao Gabriel da Cachoeira)
+
+Code: BR1303809, Coordinates: 0.231, -67.836
+
+
+### São Paulo de Olivença (Sao Paulo de Olivenca)
+
+Code: BR1303908, Coordinates: -4.499, -69.533
+
+
+### São Sebastião do Uatumã (Sao Sebastiao do Uatuma)
+
+Code: BR1303957, Coordinates: -1.866, -58.749
+
+
+### Silves
+
+Code: BR1304005, Coordinates: -2.781, -58.619
+
+
+### Tabatinga
+
+Code: BR1304062, Coordinates: -21.724, -48.636
+
+
+### Tapauá (Tapaua)
+
+Code: BR1304104, Coordinates: -6.318, -66.114
+
+
+### Tefé (Tefe)
+
+Code: BR1304203, Coordinates: -4.426, -65.541
+
+
+### Tonantins
+
+Code: BR1304237, Coordinates: -2.637, -67.802
+
+
+### Uarini
+
+Code: BR1304260, Coordinates: -3.14, -65.413
+
+
+### Urucará (Urucara)
+
+Code: BR1304302, Coordinates: -1.185, -58.889
+
+
+### Urucurituba
+
+Code: BR1304401, Coordinates: -2.843, -57.732
+
+

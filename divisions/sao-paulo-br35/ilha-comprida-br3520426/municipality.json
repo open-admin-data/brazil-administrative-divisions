@@ -1,0 +1,45 @@
+{
+  "id": "BR3520426",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ilha Comprida",
+    "en": "Ilha Comprida",
+    "slug": "ilha-comprida-br3520426"
+  },
+  "code": {
+    "id": "BR3520426",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.88",
+    "lon": "-47.749"
+  },
+  "metadata": {},
+  "source": {}
+}

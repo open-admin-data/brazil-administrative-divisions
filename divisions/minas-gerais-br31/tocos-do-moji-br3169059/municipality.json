@@ -1,0 +1,45 @@
+{
+  "id": "BR3169059",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tocos do Moji",
+    "en": "Tocos do Moji",
+    "slug": "tocos-do-moji-br3169059"
+  },
+  "code": {
+    "id": "BR3169059",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.358",
+    "lon": "-46.147"
+  },
+  "metadata": {},
+  "source": {}
+}

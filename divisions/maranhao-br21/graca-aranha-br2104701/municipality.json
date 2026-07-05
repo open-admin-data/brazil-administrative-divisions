@@ -1,0 +1,45 @@
+{
+  "id": "BR2104701",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Graça Aranha",
+    "en": "Graca Aranha",
+    "slug": "graca-aranha-br2104701"
+  },
+  "code": {
+    "id": "BR2104701",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.417",
+    "lon": "-44.347"
+  },
+  "metadata": {},
+  "source": {}
+}

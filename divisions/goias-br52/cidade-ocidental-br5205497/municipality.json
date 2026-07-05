@@ -1,0 +1,45 @@
+{
+  "id": "BR5205497",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cidade Ocidental",
+    "en": "Cidade Ocidental",
+    "slug": "cidade-ocidental-br5205497"
+  },
+  "code": {
+    "id": "BR5205497",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.151",
+    "lon": "-47.811"
+  },
+  "metadata": {},
+  "source": {}
+}

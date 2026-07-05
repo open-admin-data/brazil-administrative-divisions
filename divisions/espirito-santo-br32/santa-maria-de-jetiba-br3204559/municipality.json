@@ -1,0 +1,45 @@
+{
+  "id": "BR3204559",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Maria de Jetibá",
+    "en": "Santa Maria de Jetiba",
+    "slug": "santa-maria-de-jetiba-br3204559"
+  },
+  "code": {
+    "id": "BR3204559",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.086",
+    "lon": "-40.8"
+  },
+  "metadata": {},
+  "source": {}
+}

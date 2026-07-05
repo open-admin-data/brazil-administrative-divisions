@@ -1,0 +1,45 @@
+{
+  "id": "BR3147303",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Paraisópolis",
+    "en": "Paraisopolis",
+    "slug": "paraisopolis-br3147303"
+  },
+  "code": {
+    "id": "BR3147303",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.581",
+    "lon": "-45.835"
+  },
+  "metadata": {},
+  "source": {}
+}

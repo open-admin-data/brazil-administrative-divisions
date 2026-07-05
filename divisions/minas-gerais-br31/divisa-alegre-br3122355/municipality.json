@@ -1,0 +1,45 @@
+{
+  "id": "BR3122355",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Divisa Alegre",
+    "en": "Divisa Alegre",
+    "slug": "divisa-alegre-br3122355"
+  },
+  "code": {
+    "id": "BR3122355",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.705",
+    "lon": "-41.383"
+  },
+  "metadata": {},
+  "source": {}
+}

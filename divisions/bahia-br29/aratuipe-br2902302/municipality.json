@@ -1,0 +1,45 @@
+{
+  "id": "BR2902302",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Aratuípe",
+    "en": "Aratuipe",
+    "slug": "aratuipe-br2902302"
+  },
+  "code": {
+    "id": "BR2902302",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.087",
+    "lon": "-39.074"
+  },
+  "metadata": {},
+  "source": {}
+}

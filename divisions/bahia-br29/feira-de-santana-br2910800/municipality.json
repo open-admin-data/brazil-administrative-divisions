@@ -1,0 +1,45 @@
+{
+  "id": "BR2910800",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Feira de Santana",
+    "en": "Feira de Santana",
+    "slug": "feira-de-santana-br2910800"
+  },
+  "code": {
+    "id": "BR2910800",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.213",
+    "lon": "-39.061"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2307254",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jijoca de Jericoacoara",
+    "en": "Jijoca de Jericoacoara",
+    "slug": "jijoca-de-jericoacoara-br2307254"
+  },
+  "code": {
+    "id": "BR2307254",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.877",
+    "lon": "-40.498"
+  },
+  "metadata": {},
+  "source": {}
+}

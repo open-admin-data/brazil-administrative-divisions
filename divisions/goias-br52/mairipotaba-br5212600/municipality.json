@@ -1,0 +1,45 @@
+{
+  "id": "BR5212600",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mairipotaba",
+    "en": "Mairipotaba",
+    "slug": "mairipotaba-br5212600"
+  },
+  "code": {
+    "id": "BR5212600",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.308",
+    "lon": "-49.45"
+  },
+  "metadata": {},
+  "source": {}
+}

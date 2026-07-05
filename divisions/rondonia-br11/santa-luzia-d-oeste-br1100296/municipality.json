@@ -1,0 +1,45 @@
+{
+  "id": "BR1100296",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Luzia D'Oeste",
+    "en": "Santa Luzia D'Oeste",
+    "slug": "santa-luzia-d-oeste-br1100296"
+  },
+  "code": {
+    "id": "BR1100296",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.118",
+    "lon": "-61.777"
+  },
+  "metadata": {},
+  "source": {}
+}

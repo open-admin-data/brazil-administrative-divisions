@@ -1,0 +1,45 @@
+{
+  "id": "BR2910503",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Entre Rios",
+    "en": "Entre Rios",
+    "slug": "entre-rios-br2910503"
+  },
+  "code": {
+    "id": "BR2910503",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.732",
+    "lon": "-52.598"
+  },
+  "metadata": {},
+  "source": {}
+}

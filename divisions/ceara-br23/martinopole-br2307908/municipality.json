@@ -1,0 +1,45 @@
+{
+  "id": "BR2307908",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Martinópole",
+    "en": "Martinopole",
+    "slug": "martinopole-br2307908"
+  },
+  "code": {
+    "id": "BR2307908",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.192",
+    "lon": "-40.604"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1100148",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Brasilândia D'Oeste",
+    "en": "Nova Brasilandia D'Oeste",
+    "slug": "nova-brasilandia-d-oeste-br1100148"
+  },
+  "code": {
+    "id": "BR1100148",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.577",
+    "lon": "-62.207"
+  },
+  "metadata": {},
+  "source": {}
+}

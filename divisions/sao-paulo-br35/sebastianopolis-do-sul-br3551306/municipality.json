@@ -1,0 +1,45 @@
+{
+  "id": "BR3551306",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sebastianópolis do Sul",
+    "en": "Sebastianopolis do Sul",
+    "slug": "sebastianopolis-do-sul-br3551306"
+  },
+  "code": {
+    "id": "BR3551306",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.62",
+    "lon": "-49.919"
+  },
+  "metadata": {},
+  "source": {}
+}

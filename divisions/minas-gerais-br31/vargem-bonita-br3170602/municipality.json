@@ -1,0 +1,45 @@
+{
+  "id": "BR3170602",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vargem Bonita",
+    "en": "Vargem Bonita",
+    "slug": "vargem-bonita-br3170602"
+  },
+  "code": {
+    "id": "BR3170602",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.926",
+    "lon": "-51.754"
+  },
+  "metadata": {},
+  "source": {}
+}

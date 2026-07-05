@@ -1,0 +1,45 @@
+{
+  "id": "BR4203303",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campo Alegre",
+    "en": "Campo Alegre",
+    "slug": "campo-alegre-br4203303"
+  },
+  "code": {
+    "id": "BR4203303",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.112",
+    "lon": "-49.22"
+  },
+  "metadata": {},
+  "source": {}
+}

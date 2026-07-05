@@ -1,0 +1,45 @@
+{
+  "id": "BR2505402",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Desterro",
+    "en": "Desterro",
+    "slug": "desterro-br2505402"
+  },
+  "code": {
+    "id": "BR2505402",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.303",
+    "lon": "-37.102"
+  },
+  "metadata": {},
+  "source": {}
+}

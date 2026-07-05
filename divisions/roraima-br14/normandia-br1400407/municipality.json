@@ -1,0 +1,45 @@
+{
+  "id": "BR1400407",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Normandia",
+    "en": "Normandia",
+    "slug": "normandia-br1400407"
+  },
+  "code": {
+    "id": "BR1400407",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR14",
+    "level": 1,
+    "name": {
+      "local": "Roraima",
+      "en": "Roraima",
+      "slug": "roraima-br14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.865",
+    "lon": "-60.046"
+  },
+  "metadata": {},
+  "source": {}
+}

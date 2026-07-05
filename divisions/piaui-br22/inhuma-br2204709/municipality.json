@@ -1,0 +1,45 @@
+{
+  "id": "BR2204709",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Inhuma",
+    "en": "Inhuma",
+    "slug": "inhuma-br2204709"
+  },
+  "code": {
+    "id": "BR2204709",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.671",
+    "lon": "-41.745"
+  },
+  "metadata": {},
+  "source": {}
+}

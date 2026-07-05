@@ -1,0 +1,45 @@
+{
+  "id": "BR3137601",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lagoa Santa",
+    "en": "Lagoa Santa",
+    "slug": "lagoa-santa-br3137601"
+  },
+  "code": {
+    "id": "BR3137601",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.22",
+    "lon": "-51.262"
+  },
+  "metadata": {},
+  "source": {}
+}

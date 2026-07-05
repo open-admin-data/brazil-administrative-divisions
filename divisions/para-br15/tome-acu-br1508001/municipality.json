@@ -1,0 +1,45 @@
+{
+  "id": "BR1508001",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tomé-Açu",
+    "en": "Tome-Acu",
+    "slug": "tome-acu-br1508001"
+  },
+  "code": {
+    "id": "BR1508001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.598",
+    "lon": "-48.235"
+  },
+  "metadata": {},
+  "source": {}
+}

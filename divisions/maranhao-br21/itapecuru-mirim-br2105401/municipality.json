@@ -1,0 +1,45 @@
+{
+  "id": "BR2105401",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itapecuru Mirim",
+    "en": "Itapecuru Mirim",
+    "slug": "itapecuru-mirim-br2105401"
+  },
+  "code": {
+    "id": "BR2105401",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.359",
+    "lon": "-44.335"
+  },
+  "metadata": {},
+  "source": {}
+}

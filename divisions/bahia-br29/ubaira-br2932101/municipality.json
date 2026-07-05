@@ -1,0 +1,45 @@
+{
+  "id": "BR2932101",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ubaíra",
+    "en": "Ubaira",
+    "slug": "ubaira-br2932101"
+  },
+  "code": {
+    "id": "BR2932101",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.293",
+    "lon": "-39.674"
+  },
+  "metadata": {},
+  "source": {}
+}

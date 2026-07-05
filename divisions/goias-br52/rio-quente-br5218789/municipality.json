@@ -1,0 +1,45 @@
+{
+  "id": "BR5218789",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rio Quente",
+    "en": "Rio Quente",
+    "slug": "rio-quente-br5218789"
+  },
+  "code": {
+    "id": "BR5218789",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.834",
+    "lon": "-48.799"
+  },
+  "metadata": {},
+  "source": {}
+}

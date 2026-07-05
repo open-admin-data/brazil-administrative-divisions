@@ -1,0 +1,45 @@
+{
+  "id": "BR2102150",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Brejo de Areia",
+    "en": "Brejo de Areia",
+    "slug": "brejo-de-areia-br2102150"
+  },
+  "code": {
+    "id": "BR2102150",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.33",
+    "lon": "-45.631"
+  },
+  "metadata": {},
+  "source": {}
+}

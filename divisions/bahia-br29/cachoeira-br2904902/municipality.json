@@ -1,0 +1,45 @@
+{
+  "id": "BR2904902",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cachoeira",
+    "en": "Cachoeira",
+    "slug": "cachoeira-br2904902"
+  },
+  "code": {
+    "id": "BR2904902",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.65",
+    "lon": "-38.863"
+  },
+  "metadata": {},
+  "source": {}
+}

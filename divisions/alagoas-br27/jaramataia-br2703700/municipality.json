@@ -1,0 +1,45 @@
+{
+  "id": "BR2703700",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jaramataia",
+    "en": "Jaramataia",
+    "slug": "jaramataia-br2703700"
+  },
+  "code": {
+    "id": "BR2703700",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.65",
+    "lon": "-36.949"
+  },
+  "metadata": {},
+  "source": {}
+}

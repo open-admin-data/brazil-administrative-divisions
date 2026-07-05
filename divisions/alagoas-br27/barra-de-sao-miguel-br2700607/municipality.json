@@ -1,0 +1,45 @@
+{
+  "id": "BR2700607",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barra de São Miguel",
+    "en": "Barra de Sao Miguel",
+    "slug": "barra-de-sao-miguel-br2700607"
+  },
+  "code": {
+    "id": "BR2700607",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.81",
+    "lon": "-35.949"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR5106778",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Porto Alegre do Norte",
+    "en": "Porto Alegre do Norte",
+    "slug": "porto-alegre-do-norte-br5106778"
+  },
+  "code": {
+    "id": "BR5106778",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.844",
+    "lon": "-51.707"
+  },
+  "metadata": {},
+  "source": {}
+}

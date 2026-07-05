@@ -1,0 +1,45 @@
+{
+  "id": "BR3532306",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Natividade da Serra",
+    "en": "Natividade da Serra",
+    "slug": "natividade-da-serra-br3532306"
+  },
+  "code": {
+    "id": "BR3532306",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.398",
+    "lon": "-45.386"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,2342 @@
+[
+  {
+    "id": "BR1100015",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alta Floresta D'Oeste",
+      "en": "Alta Floresta D'Oeste",
+      "slug": "alta-floresta-d-oeste-br1100015"
+    },
+    "code": {
+      "id": "BR1100015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.557",
+      "lon": "-62.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100379",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alto Alegre dos Parecis",
+      "en": "Alto Alegre dos Parecis",
+      "slug": "alto-alegre-dos-parecis-br1100379"
+    },
+    "code": {
+      "id": "BR1100379",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.791",
+      "lon": "-62.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100403",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alto Paraíso",
+      "en": "Alto Paraiso",
+      "slug": "alto-paraiso-br1100403"
+    },
+    "code": {
+      "id": "BR1100403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.544",
+      "lon": "-53.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100346",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alvorada D'Oeste",
+      "en": "Alvorada D'Oeste",
+      "slug": "alvorada-d-oeste-br1100346"
+    },
+    "code": {
+      "id": "BR1100346",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.286",
+      "lon": "-62.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100023",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ariquemes",
+      "en": "Ariquemes",
+      "slug": "ariquemes-br1100023"
+    },
+    "code": {
+      "id": "BR1100023",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.924",
+      "lon": "-62.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100452",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Buritis",
+      "en": "Buritis",
+      "slug": "buritis-br1100452"
+    },
+    "code": {
+      "id": "BR1100452",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.419",
+      "lon": "-46.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100031",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cabixi",
+      "en": "Cabixi",
+      "slug": "cabixi-br1100031"
+    },
+    "code": {
+      "id": "BR1100031",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.539",
+      "lon": "-60.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100601",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cacaulândia",
+      "en": "Cacaulandia",
+      "slug": "cacaulandia-br1100601"
+    },
+    "code": {
+      "id": "BR1100601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.326",
+      "lon": "-63.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100049",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cacoal",
+      "en": "Cacoal",
+      "slug": "cacoal-br1100049"
+    },
+    "code": {
+      "id": "BR1100049",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.483",
+      "lon": "-61.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100700",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Campo Novo de Rondônia",
+      "en": "Campo Novo de Rondonia",
+      "slug": "campo-novo-de-rondonia-br1100700"
+    },
+    "code": {
+      "id": "BR1100700",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.479",
+      "lon": "-63.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100809",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Candeias do Jamari",
+      "en": "Candeias do Jamari",
+      "slug": "candeias-do-jamari-br1100809"
+    },
+    "code": {
+      "id": "BR1100809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.933",
+      "lon": "-63.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100908",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Castanheiras",
+      "en": "Castanheiras",
+      "slug": "castanheiras-br1100908"
+    },
+    "code": {
+      "id": "BR1100908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.435",
+      "lon": "-61.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100056",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cerejeiras",
+      "en": "Cerejeiras",
+      "slug": "cerejeiras-br1100056"
+    },
+    "code": {
+      "id": "BR1100056",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.181",
+      "lon": "-61.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100924",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chupinguaia",
+      "en": "Chupinguaia",
+      "slug": "chupinguaia-br1100924"
+    },
+    "code": {
+      "id": "BR1100924",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.669",
+      "lon": "-60.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100064",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colorado do Oeste",
+      "en": "Colorado do Oeste",
+      "slug": "colorado-do-oeste-br1100064"
+    },
+    "code": {
+      "id": "BR1100064",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.109",
+      "lon": "-60.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100072",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Corumbiara",
+      "en": "Corumbiara",
+      "slug": "corumbiara-br1100072"
+    },
+    "code": {
+      "id": "BR1100072",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.895",
+      "lon": "-61.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100080",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Costa Marques",
+      "en": "Costa Marques",
+      "slug": "costa-marques-br1100080"
+    },
+    "code": {
+      "id": "BR1100080",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.086",
+      "lon": "-64.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100940",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cujubim",
+      "en": "Cujubim",
+      "slug": "cujubim-br1100940"
+    },
+    "code": {
+      "id": "BR1100940",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.971",
+      "lon": "-62.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100098",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Espigão D'Oeste",
+      "en": "Espigao D'Oeste",
+      "slug": "espigao-d-oeste-br1100098"
+    },
+    "code": {
+      "id": "BR1100098",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.435",
+      "lon": "-60.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1101005",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Governador Jorge Teixeira",
+      "en": "Governador Jorge Teixeira",
+      "slug": "governador-jorge-teixeira-br1101005"
+    },
+    "code": {
+      "id": "BR1101005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.8",
+      "lon": "-63.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100106",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guajará-Mirim",
+      "en": "Guajara-Mirim",
+      "slug": "guajara-mirim-br1100106"
+    },
+    "code": {
+      "id": "BR1100106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.335",
+      "lon": "-64.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1101104",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itapuã do Oeste",
+      "en": "Itapua do Oeste",
+      "slug": "itapua-do-oeste-br1101104"
+    },
+    "code": {
+      "id": "BR1101104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.027",
+      "lon": "-63.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100114",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jaru",
+      "en": "Jaru",
+      "slug": "jaru-br1100114"
+    },
+    "code": {
+      "id": "BR1100114",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.64",
+      "lon": "-62.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100122",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ji-Paraná",
+      "en": "Ji-Parana",
+      "slug": "ji-parana-br1100122"
+    },
+    "code": {
+      "id": "BR1100122",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.414",
+      "lon": "-61.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100130",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Machadinho D'Oeste",
+      "en": "Machadinho D'Oeste",
+      "slug": "machadinho-d-oeste-br1100130"
+    },
+    "code": {
+      "id": "BR1100130",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.214",
+      "lon": "-62.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1101203",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ministro Andreazza",
+      "en": "Ministro Andreazza",
+      "slug": "ministro-andreazza-br1101203"
+    },
+    "code": {
+      "id": "BR1101203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.233",
+      "lon": "-61.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1101302",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mirante da Serra",
+      "en": "Mirante da Serra",
+      "slug": "mirante-da-serra-br1101302"
+    },
+    "code": {
+      "id": "BR1101302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.127",
+      "lon": "-62.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1101401",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Monte Negro",
+      "en": "Monte Negro",
+      "slug": "monte-negro-br1101401"
+    },
+    "code": {
+      "id": "BR1101401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.712",
+      "lon": "-51.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100148",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Brasilândia D'Oeste",
+      "en": "Nova Brasilandia D'Oeste",
+      "slug": "nova-brasilandia-d-oeste-br1100148"
+    },
+    "code": {
+      "id": "BR1100148",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.577",
+      "lon": "-62.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100338",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Mamoré",
+      "en": "Nova Mamore",
+      "slug": "nova-mamore-br1100338"
+    },
+    "code": {
+      "id": "BR1100338",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.513",
+      "lon": "-64.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1101435",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova União",
+      "en": "Nova Uniao",
+      "slug": "nova-uniao-br1101435"
+    },
+    "code": {
+      "id": "BR1101435",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.64",
+      "lon": "-43.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100502",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Novo Horizonte do Oeste",
+      "en": "Novo Horizonte do Oeste",
+      "slug": "novo-horizonte-do-oeste-br1100502"
+    },
+    "code": {
+      "id": "BR1100502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.714",
+      "lon": "-62.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100155",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ouro Preto do Oeste",
+      "en": "Ouro Preto do Oeste",
+      "slug": "ouro-preto-do-oeste-br1100155"
+    },
+    "code": {
+      "id": "BR1100155",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.381",
+      "lon": "-61.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1101450",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Parecis",
+      "en": "Parecis",
+      "slug": "parecis-br1101450"
+    },
+    "code": {
+      "id": "BR1101450",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.308",
+      "lon": "-61.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100189",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pimenta Bueno",
+      "en": "Pimenta Bueno",
+      "slug": "pimenta-bueno-br1100189"
+    },
+    "code": {
+      "id": "BR1100189",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.771",
+      "lon": "-60.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1101468",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pimenteiras do Oeste",
+      "en": "Pimenteiras do Oeste",
+      "slug": "pimenteiras-do-oeste-br1101468"
+    },
+    "code": {
+      "id": "BR1101468",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.201",
+      "lon": "-61.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100205",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto Velho",
+      "en": "Porto Velho",
+      "slug": "porto-velho-br1100205"
+    },
+    "code": {
+      "id": "BR1100205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.187",
+      "lon": "-64.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100254",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Presidente Médici",
+      "en": "Presidente Medici",
+      "slug": "presidente-medici-br1100254"
+    },
+    "code": {
+      "id": "BR1100254",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.29",
+      "lon": "-45.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1101476",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Primavera de Rondônia",
+      "en": "Primavera de Rondonia",
+      "slug": "primavera-de-rondonia-br1101476"
+    },
+    "code": {
+      "id": "BR1101476",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.919",
+      "lon": "-61.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100262",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rio Crespo",
+      "en": "Rio Crespo",
+      "slug": "rio-crespo-br1100262"
+    },
+    "code": {
+      "id": "BR1100262",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.712",
+      "lon": "-62.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100288",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rolim de Moura",
+      "en": "Rolim de Moura",
+      "slug": "rolim-de-moura-br1100288"
+    },
+    "code": {
+      "id": "BR1100288",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.747",
+      "lon": "-61.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100296",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Luzia D'Oeste",
+      "en": "Santa Luzia D'Oeste",
+      "slug": "santa-luzia-d-oeste-br1100296"
+    },
+    "code": {
+      "id": "BR1100296",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.118",
+      "lon": "-61.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1101484",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Felipe D'Oeste",
+      "en": "Sao Felipe D'Oeste",
+      "slug": "sao-felipe-d-oeste-br1101484"
+    },
+    "code": {
+      "id": "BR1101484",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.897",
+      "lon": "-61.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1101492",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Francisco do Guaporé",
+      "en": "Sao Francisco do Guapore",
+      "slug": "sao-francisco-do-guapore-br1101492"
+    },
+    "code": {
+      "id": "BR1101492",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.42",
+      "lon": "-63.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100320",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Miguel do Guaporé",
+      "en": "Sao Miguel do Guapore",
+      "slug": "sao-miguel-do-guapore-br1100320"
+    },
+    "code": {
+      "id": "BR1100320",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.594",
+      "lon": "-63.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1101500",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Seringueiras",
+      "en": "Seringueiras",
+      "slug": "seringueiras-br1101500"
+    },
+    "code": {
+      "id": "BR1101500",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.886",
+      "lon": "-63.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1101559",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Teixeirópolis",
+      "en": "Teixeiropolis",
+      "slug": "teixeiropolis-br1101559"
+    },
+    "code": {
+      "id": "BR1101559",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.984",
+      "lon": "-62.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1101609",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Theobroma",
+      "en": "Theobroma",
+      "slug": "theobroma-br1101609"
+    },
+    "code": {
+      "id": "BR1101609",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.089",
+      "lon": "-62.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1101708",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Urupá",
+      "en": "Urupa",
+      "slug": "urupa-br1101708"
+    },
+    "code": {
+      "id": "BR1101708",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.078",
+      "lon": "-62.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1101757",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vale do Anari",
+      "en": "Vale do Anari",
+      "slug": "vale-do-anari-br1101757"
+    },
+    "code": {
+      "id": "BR1101757",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.71",
+      "lon": "-61.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1101807",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vale do Paraíso",
+      "en": "Vale do Paraiso",
+      "slug": "vale-do-paraiso-br1101807"
+    },
+    "code": {
+      "id": "BR1101807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.215",
+      "lon": "-62.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1100304",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vilhena",
+      "en": "Vilhena",
+      "slug": "vilhena-br1100304"
+    },
+    "code": {
+      "id": "BR1100304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR11",
+        "level": 1,
+        "name": {
+          "local": "Rondônia",
+          "en": "Rondonia",
+          "slug": "rondonia-br11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.988",
+      "lon": "-60.263"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

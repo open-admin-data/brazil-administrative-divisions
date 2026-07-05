@@ -1,0 +1,45 @@
+{
+  "id": "BR2930808",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Souto Soares",
+    "en": "Souto Soares",
+    "slug": "souto-soares-br2930808"
+  },
+  "code": {
+    "id": "BR2930808",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.999",
+    "lon": "-41.929"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2501351",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Assunção",
+    "en": "Assuncao",
+    "slug": "assuncao-br2501351"
+  },
+  "code": {
+    "id": "BR2501351",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.078",
+    "lon": "-36.7"
+  },
+  "metadata": {},
+  "source": {}
+}

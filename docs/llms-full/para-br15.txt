@@ -1,0 +1,729 @@
+# Para — Brazil Administrative Divisions
+
+> 144 municipalitys
+> Code: BR15
+> Coordinates: -2.216, -52.455
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Abaetetuba
+
+Code: BR1500107, Coordinates: -1.729, -48.934
+
+
+### Abel Figueiredo
+
+Code: BR1500131, Coordinates: -4.941, -48.417
+
+
+### Acará (Acara)
+
+Code: BR1500206, Coordinates: -2.101, -48.469
+
+
+### Afuá (Afua)
+
+Code: BR1500305, Coordinates: -0.4, -50.721
+
+
+### Água Azul do Norte (Agua Azul do Norte)
+
+Code: BR1500347, Coordinates: -6.647, -50.585
+
+
+### Alenquer
+
+Code: BR1500404, Coordinates: -0.995, -54.852
+
+
+### Almeirim
+
+Code: BR1500503, Coordinates: 0.538, -53.921
+
+
+### Altamira
+
+Code: BR1500602, Coordinates: -5.941, -53.722
+
+
+### Anajás (Anajas)
+
+Code: BR1500701, Coordinates: -0.82, -50.058
+
+
+### Ananindeua
+
+Code: BR1500800, Coordinates: -1.344, -48.378
+
+
+### Anapu
+
+Code: BR1500859, Coordinates: -3.904, -51.325
+
+
+### Augusto Corrêa (Augusto Correa)
+
+Code: BR1500909, Coordinates: -0.993, -46.491
+
+
+### Aurora do Pará (Aurora do Para)
+
+Code: BR1500958, Coordinates: -2.293, -47.76
+
+
+### Aveiro
+
+Code: BR1501006, Coordinates: -3.929, -55.992
+
+
+### Bagre
+
+Code: BR1501105, Coordinates: -2.415, -50.154
+
+
+### Baião (Baiao)
+
+Code: BR1501204, Coordinates: -3.242, -49.729
+
+
+### Bannach
+
+Code: BR1501253, Coordinates: -7.486, -50.619
+
+
+### Barcarena
+
+Code: BR1501303, Coordinates: -1.552, -48.632
+
+
+### Belém (Belem)
+
+Code: BR1501402, Coordinates: -9.557, -36.495
+
+
+### Belterra
+
+Code: BR1501451, Coordinates: -3.529, -55.049
+
+
+### Benevides
+
+Code: BR1501501, Coordinates: -1.328, -48.292
+
+
+### Bom Jesus do Tocantins
+
+Code: BR1501576, Coordinates: -8.998, -47.873
+
+
+### Bonito
+
+Code: BR1501600, Coordinates: -20.927, -56.319
+
+
+### Bragança (Braganca)
+
+Code: BR1501709, Coordinates: -1.05, -46.755
+
+
+### Brasil Novo
+
+Code: BR1501725, Coordinates: -3.402, -52.744
+
+
+### Brejo Grande do Araguaia
+
+Code: BR1501758, Coordinates: -5.766, -48.474
+
+
+### Breu Branco
+
+Code: BR1501782, Coordinates: -3.785, -49.234
+
+
+### Breves
+
+Code: BR1501808, Coordinates: -1.152, -50.549
+
+
+### Bujaru
+
+Code: BR1501907, Coordinates: -1.651, -48.053
+
+
+### Cachoeira do Arari
+
+Code: BR1502004, Coordinates: -0.848, -48.944
+
+
+### Cachoeira do Piriá (Cachoeira do Piria)
+
+Code: BR1501956, Coordinates: -1.955, -46.436
+
+
+### Cametá (Cameta)
+
+Code: BR1502103, Coordinates: -2.301, -49.492
+
+
+### Canaã dos Carajás (Canaa dos Carajas)
+
+Code: BR1502152, Coordinates: -6.503, -50.073
+
+
+### Capanema
+
+Code: BR1502202, Coordinates: -25.619, -53.777
+
+
+### Capitão Poço (Capitao Poco)
+
+Code: BR1502301, Coordinates: -1.993, -47.191
+
+
+### Castanhal
+
+Code: BR1502400, Coordinates: -1.282, -47.84
+
+
+### Chaves
+
+Code: BR1502509, Coordinates: -0.047, -49.607
+
+
+### Colares
+
+Code: BR1502608, Coordinates: -0.933, -48.236
+
+
+### Conceição do Araguaia (Conceicao do Araguaia)
+
+Code: BR1502707, Coordinates: -8.203, -49.604
+
+
+### Concórdia do Pará (Concordia do Para)
+
+Code: BR1502756, Coordinates: -1.862, -47.967
+
+
+### Cumaru do Norte
+
+Code: BR1502764, Coordinates: -8.47, -51.222
+
+
+### Curionópolis (Curionopolis)
+
+Code: BR1502772, Coordinates: -6.17, -49.674
+
+
+### Curralinho
+
+Code: BR1502806, Coordinates: -1.583, -49.984
+
+
+### Curuá (Curua)
+
+Code: BR1502855, Coordinates: -1.756, -55.097
+
+
+### Curuçá (Curuca)
+
+Code: BR1502905, Coordinates: -0.708, -47.87
+
+
+### Dom Eliseu
+
+Code: BR1502939, Coordinates: -4.069, -47.894
+
+
+### Eldorado do Carajás (Eldorado do Carajas)
+
+Code: BR1502954, Coordinates: -6.085, -49.29
+
+
+### Faro
+
+Code: BR1503002, Coordinates: -1.129, -57.849
+
+
+### Floresta do Araguaia
+
+Code: BR1503044, Coordinates: -7.519, -49.509
+
+
+### Garrafão do Norte (Garrafao do Norte)
+
+Code: BR1503077, Coordinates: -2.202, -47.102
+
+
+### Goianésia do Pará (Goianesia do Para)
+
+Code: BR1503093, Coordinates: -3.941, -48.875
+
+
+### Gurupá (Gurupa)
+
+Code: BR1503101, Coordinates: -1.164, -51.63
+
+
+### Igarapé-Açu (Igarape-Acu)
+
+Code: BR1503200, Coordinates: -1.136, -47.508
+
+
+### Igarapé-Miri (Igarape-Miri)
+
+Code: BR1503309, Coordinates: -2.078, -49.153
+
+
+### Inhangapi
+
+Code: BR1503408, Coordinates: -1.471, -47.959
+
+
+### Ipixuna do Pará (Ipixuna do Para)
+
+Code: BR1503457, Coordinates: -2.965, -48.093
+
+
+### Irituia
+
+Code: BR1503507, Coordinates: -1.766, -47.423
+
+
+### Itaituba
+
+Code: BR1503606, Coordinates: -5.792, -56.218
+
+
+### Itupiranga
+
+Code: BR1503705, Coordinates: -5.237, -49.95
+
+
+### Jacareacanga
+
+Code: BR1503754, Coordinates: -7.309, -57.151
+
+
+### Jacundá (Jacunda)
+
+Code: BR1503804, Coordinates: -4.594, -49.225
+
+
+### Juruti
+
+Code: BR1503903, Coordinates: -2.303, -56.016
+
+
+### Limoeiro do Ajuru
+
+Code: BR1504000, Coordinates: -1.892, -49.518
+
+
+### Mãe do Rio (Mae do Rio)
+
+Code: BR1504059, Coordinates: -1.989, -47.513
+
+
+### Magalhães Barata (Magalhaes Barata)
+
+Code: BR1504109, Coordinates: -0.819, -47.633
+
+
+### Marabá (Maraba)
+
+Code: BR1504208, Coordinates: -5.631, -50.067
+
+
+### Maracanã (Maracana)
+
+Code: BR1504307, Coordinates: -0.763, -47.486
+
+
+### Marapanim
+
+Code: BR1504406, Coordinates: -0.767, -47.71
+
+
+### Marituba
+
+Code: BR1504422, Coordinates: -1.4, -48.322
+
+
+### Medicilândia (Medicilandia)
+
+Code: BR1504455, Coordinates: -3.167, -53.242
+
+
+### Melgaço (Melgaco)
+
+Code: BR1504505, Coordinates: -1.662, -51.082
+
+
+### Mocajuba
+
+Code: BR1504604, Coordinates: -2.56, -49.45
+
+
+### Moju
+
+Code: BR1504703, Coordinates: -2.592, -49.031
+
+
+### Mojuí dos Campos (Mojui dos Campos)
+
+Code: BR1504752, Coordinates: -3.145, -54.478
+
+
+### Monte Alegre
+
+Code: BR1504802, Coordinates: -6.086, -35.432
+
+
+### Muaná (Muana)
+
+Code: BR1504901, Coordinates: -1.246, -49.316
+
+
+### Nova Esperança do Piriá (Nova Esperanca do Piria)
+
+Code: BR1504950, Coordinates: -2.436, -46.94
+
+
+### Nova Ipixuna
+
+Code: BR1504976, Coordinates: -4.976, -49.208
+
+
+### Nova Timboteua
+
+Code: BR1505007, Coordinates: -1.118, -47.422
+
+
+### Novo Progresso
+
+Code: BR1505031, Coordinates: -7.809, -55.456
+
+
+### Novo Repartimento
+
+Code: BR1505064, Coordinates: -4.692, -50.538
+
+
+### Óbidos (Obidos)
+
+Code: BR1505106, Coordinates: 0.155, -55.807
+
+
+### Oeiras do Pará (Oeiras do Para)
+
+Code: BR1505205, Coordinates: -2.267, -49.887
+
+
+### Oriximiná (Oriximina)
+
+Code: BR1505304, Coordinates: 0.601, -56.89
+
+
+### Ourém (Ourem)
+
+Code: BR1505403, Coordinates: -1.541, -47.141
+
+
+### Ourilândia do Norte (Ourilandia do Norte)
+
+Code: BR1505437, Coordinates: -7.5, -51.449
+
+
+### Pacajá (Pacaja)
+
+Code: BR1505486, Coordinates: -3.649, -50.64
+
+
+### Palestina do Pará (Palestina do Para)
+
+Code: BR1505494, Coordinates: -5.977, -48.387
+
+
+### Paragominas
+
+Code: BR1505502, Coordinates: -3.209, -47.681
+
+
+### Parauapebas
+
+Code: BR1505536, Coordinates: -6.161, -50.536
+
+
+### Pau D&#39;Arco
+
+Code: BR1505551, Coordinates: -7.561, -48.912
+
+
+### Peixe-Boi
+
+Code: BR1505601, Coordinates: -1.105, -47.269
+
+
+### Piçarra (Picarra)
+
+Code: BR1505635, Coordinates: -6.486, -48.939
+
+
+### Placas
+
+Code: BR1505650, Coordinates: -3.983, -54.529
+
+
+### Ponta de Pedras
+
+Code: BR1505700, Coordinates: -1.054, -49.157
+
+
+### Portel
+
+Code: BR1505809, Coordinates: -2.684, -50.834
+
+
+### Porto de Moz
+
+Code: BR1505908, Coordinates: -2.121, -52.596
+
+
+### Prainha
+
+Code: BR1506005, Coordinates: -2.084, -53.527
+
+
+### Primavera
+
+Code: BR1506104, Coordinates: -8.33, -35.382
+
+
+### Quatipuru
+
+Code: BR1506112, Coordinates: -0.863, -47.015
+
+
+### Redenção (Redencao)
+
+Code: BR1506138, Coordinates: -4.268, -38.764
+
+
+### Rio Maria
+
+Code: BR1506161, Coordinates: -7.413, -49.825
+
+
+### Rondon do Pará (Rondon do Para)
+
+Code: BR1506187, Coordinates: -4.475, -48.583
+
+
+### Rurópolis (Ruropolis)
+
+Code: BR1506195, Coordinates: -4.181, -55.188
+
+
+### Salinópolis (Salinopolis)
+
+Code: BR1506203, Coordinates: -0.67, -47.351
+
+
+### Salvaterra
+
+Code: BR1506302, Coordinates: -0.783, -48.637
+
+
+### Santa Bárbara do Pará (Santa Barbara do Para)
+
+Code: BR1506351, Coordinates: -1.194, -48.252
+
+
+### Santa Cruz do Arari
+
+Code: BR1506401, Coordinates: -0.609, -49.284
+
+
+### Santa Izabel do Pará (Santa Izabel do Para)
+
+Code: BR1506500, Coordinates: -1.388, -48.135
+
+
+### Santa Luzia do Pará (Santa Luzia do Para)
+
+Code: BR1506559, Coordinates: -1.685, -46.94
+
+
+### Santa Maria das Barreiras
+
+Code: BR1506583, Coordinates: -8.622, -50.272
+
+
+### Santa Maria do Pará (Santa Maria do Para)
+
+Code: BR1506609, Coordinates: -1.337, -47.514
+
+
+### Santana do Araguaia
+
+Code: BR1506708, Coordinates: -9.146, -50.68
+
+
+### Santarém (Santarem)
+
+Code: BR1506807, Coordinates: -2.617, -54.78
+
+
+### Santarém Novo (Santarem Novo)
+
+Code: BR1506906, Coordinates: -0.89, -47.359
+
+
+### Santo Antônio do Tauá (Santo Antonio do Taua)
+
+Code: BR1507003, Coordinates: -1.102, -48.192
+
+
+### São Caetano de Odivelas (Sao Caetano de Odivelas)
+
+Code: BR1507102, Coordinates: -0.816, -48.019
+
+
+### São Domingos do Araguaia (Sao Domingos do Araguaia)
+
+Code: BR1507151, Coordinates: -5.718, -48.714
+
+
+### São Domingos do Capim (Sao Domingos do Capim)
+
+Code: BR1507201, Coordinates: -1.89, -47.792
+
+
+### São Félix do Xingu (Sao Felix do Xingu)
+
+Code: BR1507300, Coordinates: -7.214, -52.196
+
+
+### São Francisco do Pará (Sao Francisco do Para)
+
+Code: BR1507409, Coordinates: -1.149, -47.754
+
+
+### São Geraldo do Araguaia (Sao Geraldo do Araguaia)
+
+Code: BR1507458, Coordinates: -6.187, -48.699
+
+
+### São João da Ponta (Sao Joao da Ponta)
+
+Code: BR1507466, Coordinates: -0.854, -47.975
+
+
+### São João de Pirabas (Sao Joao de Pirabas)
+
+Code: BR1507474, Coordinates: -0.774, -47.195
+
+
+### São João do Araguaia (Sao Joao do Araguaia)
+
+Code: BR1507508, Coordinates: -5.447, -48.738
+
+
+### São Miguel do Guamá (Sao Miguel do Guama)
+
+Code: BR1507607, Coordinates: -1.593, -47.54
+
+
+### São Sebastião da Boa Vista (Sao Sebastiao da Boa Vista)
+
+Code: BR1507706, Coordinates: -1.449, -49.658
+
+
+### Sapucaia
+
+Code: BR1507755, Coordinates: -22.038, -42.818
+
+
+### Senador José Porfírio (Senador Jose Porfirio)
+
+Code: BR1507805, Coordinates: -4.236, -51.806
+
+
+### Soure
+
+Code: BR1507904, Coordinates: -0.494, -48.646
+
+
+### Tailândia (Tailandia)
+
+Code: BR1507953, Coordinates: -2.866, -48.757
+
+
+### Terra Alta
+
+Code: BR1507961, Coordinates: -0.997, -47.845
+
+
+### Terra Santa
+
+Code: BR1507979, Coordinates: -1.907, -56.482
+
+
+### Tomé-Açu (Tome-Acu)
+
+Code: BR1508001, Coordinates: -2.598, -48.235
+
+
+### Tracuateua
+
+Code: BR1508035, Coordinates: -1.003, -46.942
+
+
+### Trairão (Trairao)
+
+Code: BR1508050, Coordinates: -5.147, -55.96
+
+
+### Tucumã (Tucuma)
+
+Code: BR1508084, Coordinates: -6.839, -51.454
+
+
+### Tucuruí (Tucurui)
+
+Code: BR1508100, Coordinates: -3.827, -49.882
+
+
+### Ulianópolis (Ulianopolis)
+
+Code: BR1508126, Coordinates: -3.836, -47.454
+
+
+### Uruará (Uruara)
+
+Code: BR1508159, Coordinates: -3.63, -53.758
+
+
+### Vigia
+
+Code: BR1508209, Coordinates: -0.911, -48.151
+
+
+### Viseu
+
+Code: BR1508308, Coordinates: -1.451, -46.361
+
+
+### Vitória do Xingu (Vitoria do Xingu)
+
+Code: BR1508357, Coordinates: -3.193, -51.949
+
+
+### Xinguara
+
+Code: BR1508407, Coordinates: -6.857, -49.461
+
+

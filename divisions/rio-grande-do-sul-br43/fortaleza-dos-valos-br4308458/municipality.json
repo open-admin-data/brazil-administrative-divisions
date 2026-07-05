@@ -1,0 +1,45 @@
+{
+  "id": "BR4308458",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Fortaleza dos Valos",
+    "en": "Fortaleza dos Valos",
+    "slug": "fortaleza-dos-valos-br4308458"
+  },
+  "code": {
+    "id": "BR4308458",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.916",
+    "lon": "-53.303"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,6347 @@
+[
+  {
+    "id": "BR5100102",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acorizal",
+      "en": "Acorizal",
+      "slug": "acorizal-br5100102"
+    },
+    "code": {
+      "id": "BR5100102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.167",
+      "lon": "-56.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5100201",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Água Boa",
+      "en": "Agua Boa",
+      "slug": "agua-boa-br5100201"
+    },
+    "code": {
+      "id": "BR5100201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.144",
+      "lon": "-52.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5100250",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alta Floresta",
+      "en": "Alta Floresta",
+      "slug": "alta-floresta-br5100250"
+    },
+    "code": {
+      "id": "BR5100250",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.13",
+      "lon": "-56.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5100300",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alto Araguaia",
+      "en": "Alto Araguaia",
+      "slug": "alto-araguaia-br5100300"
+    },
+    "code": {
+      "id": "BR5100300",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.484",
+      "lon": "-53.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5100359",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alto Boa Vista",
+      "en": "Alto Boa Vista",
+      "slug": "alto-boa-vista-br5100359"
+    },
+    "code": {
+      "id": "BR5100359",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.816",
+      "lon": "-51.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5100409",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alto Garças",
+      "en": "Alto Garcas",
+      "slug": "alto-garcas-br5100409"
+    },
+    "code": {
+      "id": "BR5100409",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.787",
+      "lon": "-53.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5100508",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alto Paraguai",
+      "en": "Alto Paraguai",
+      "slug": "alto-paraguai-br5100508"
+    },
+    "code": {
+      "id": "BR5100508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.741",
+      "lon": "-56.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5100607",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alto Taquari",
+      "en": "Alto Taquari",
+      "slug": "alto-taquari-br5100607"
+    },
+    "code": {
+      "id": "BR5100607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.775",
+      "lon": "-53.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5100805",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Apiacás",
+      "en": "Apiacas",
+      "slug": "apiacas-br5100805"
+    },
+    "code": {
+      "id": "BR5100805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.99",
+      "lon": "-57.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5101001",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Araguaiana",
+      "en": "Araguaiana",
+      "slug": "araguaiana-br5101001"
+    },
+    "code": {
+      "id": "BR5101001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.021",
+      "lon": "-51.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5101209",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Araguainha",
+      "en": "Araguainha",
+      "slug": "araguainha-br5101209"
+    },
+    "code": {
+      "id": "BR5101209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.782",
+      "lon": "-53.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5101258",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Araputanga",
+      "en": "Araputanga",
+      "slug": "araputanga-br5101258"
+    },
+    "code": {
+      "id": "BR5101258",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.183",
+      "lon": "-58.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5101308",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arenápolis",
+      "en": "Arenapolis",
+      "slug": "arenapolis-br5101308"
+    },
+    "code": {
+      "id": "BR5101308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.502",
+      "lon": "-56.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5101407",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aripuanã",
+      "en": "Aripuana",
+      "slug": "aripuana-br5101407"
+    },
+    "code": {
+      "id": "BR5101407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.211",
+      "lon": "-59.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5101605",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barão de Melgaço",
+      "en": "Barao de Melgaco",
+      "slug": "barao-de-melgaco-br5101605"
+    },
+    "code": {
+      "id": "BR5101605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.843",
+      "lon": "-56.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5101704",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barra do Bugres",
+      "en": "Barra do Bugres",
+      "slug": "barra-do-bugres-br5101704"
+    },
+    "code": {
+      "id": "BR5101704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.126",
+      "lon": "-57.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5101803",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barra do Garças",
+      "en": "Barra do Garcas",
+      "slug": "barra-do-garcas-br5101803"
+    },
+    "code": {
+      "id": "BR5101803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.341",
+      "lon": "-52.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5101852",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bom Jesus do Araguaia",
+      "en": "Bom Jesus do Araguaia",
+      "slug": "bom-jesus-do-araguaia-br5101852"
+    },
+    "code": {
+      "id": "BR5101852",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.25",
+      "lon": "-51.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5101902",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Brasnorte",
+      "en": "Brasnorte",
+      "slug": "brasnorte-br5101902"
+    },
+    "code": {
+      "id": "BR5101902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.211",
+      "lon": "-58.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5102504",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cáceres",
+      "en": "Caceres",
+      "slug": "caceres-br5102504"
+    },
+    "code": {
+      "id": "BR5102504",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.568",
+      "lon": "-57.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5102603",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Campinápolis",
+      "en": "Campinapolis",
+      "slug": "campinapolis-br5102603"
+    },
+    "code": {
+      "id": "BR5102603",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.283",
+      "lon": "-53.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5102637",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Campo Novo do Parecis",
+      "en": "Campo Novo do Parecis",
+      "slug": "campo-novo-do-parecis-br5102637"
+    },
+    "code": {
+      "id": "BR5102637",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.561",
+      "lon": "-57.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5102678",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Campo Verde",
+      "en": "Campo Verde",
+      "slug": "campo-verde-br5102678"
+    },
+    "code": {
+      "id": "BR5102678",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.573",
+      "lon": "-55.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5102686",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Campos de Júlio",
+      "en": "Campos de Julio",
+      "slug": "campos-de-julio-br5102686"
+    },
+    "code": {
+      "id": "BR5102686",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.591",
+      "lon": "-59.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5102694",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Canabrava do Norte",
+      "en": "Canabrava do Norte",
+      "slug": "canabrava-do-norte-br5102694"
+    },
+    "code": {
+      "id": "BR5102694",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.16",
+      "lon": "-51.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5102702",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Canarana",
+      "en": "Canarana",
+      "slug": "canarana-br5102702"
+    },
+    "code": {
+      "id": "BR5102702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.179",
+      "lon": "-52.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5102793",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carlinda",
+      "en": "Carlinda",
+      "slug": "carlinda-br5102793"
+    },
+    "code": {
+      "id": "BR5102793",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.116",
+      "lon": "-55.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5102850",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Castanheira",
+      "en": "Castanheira",
+      "slug": "castanheira-br5102850"
+    },
+    "code": {
+      "id": "BR5102850",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.887",
+      "lon": "-58.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5103007",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chapada dos Guimarães",
+      "en": "Chapada dos Guimaraes",
+      "slug": "chapada-dos-guimaraes-br5103007"
+    },
+    "code": {
+      "id": "BR5103007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.095",
+      "lon": "-55.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5103056",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cláudia",
+      "en": "Claudia",
+      "slug": "claudia-br5103056"
+    },
+    "code": {
+      "id": "BR5103056",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.419",
+      "lon": "-54.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5103106",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cocalinho",
+      "en": "Cocalinho",
+      "slug": "cocalinho-br5103106"
+    },
+    "code": {
+      "id": "BR5103106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.743",
+      "lon": "-51.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5103205",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colíder",
+      "en": "Colider",
+      "slug": "colider-br5103205"
+    },
+    "code": {
+      "id": "BR5103205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.553",
+      "lon": "-55.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5103254",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colniza",
+      "en": "Colniza",
+      "slug": "colniza-br5103254"
+    },
+    "code": {
+      "id": "BR5103254",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.575",
+      "lon": "-60.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5103304",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Comodoro",
+      "en": "Comodoro",
+      "slug": "comodoro-br5103304"
+    },
+    "code": {
+      "id": "BR5103304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.226",
+      "lon": "-59.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5103353",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Confresa",
+      "en": "Confresa",
+      "slug": "confresa-br5103353"
+    },
+    "code": {
+      "id": "BR5103353",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.307",
+      "lon": "-51.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5103361",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Conquista D'Oeste",
+      "en": "Conquista D'Oeste",
+      "slug": "conquista-d-oeste-br5103361"
+    },
+    "code": {
+      "id": "BR5103361",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.571",
+      "lon": "-59.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5103379",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cotriguaçu",
+      "en": "Cotriguacu",
+      "slug": "cotriguacu-br5103379"
+    },
+    "code": {
+      "id": "BR5103379",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.467",
+      "lon": "-58.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5103403",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuiabá",
+      "en": "Cuiaba",
+      "slug": "cuiaba-br5103403"
+    },
+    "code": {
+      "id": "BR5103403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.394",
+      "lon": "-55.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5103437",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Curvelândia",
+      "en": "Curvelandia",
+      "slug": "curvelandia-br5103437"
+    },
+    "code": {
+      "id": "BR5103437",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.619",
+      "lon": "-57.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5103452",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Denise",
+      "en": "Denise",
+      "slug": "denise-br5103452"
+    },
+    "code": {
+      "id": "BR5103452",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.74",
+      "lon": "-56.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5103502",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Diamantino",
+      "en": "Diamantino",
+      "slug": "diamantino-br5103502"
+    },
+    "code": {
+      "id": "BR5103502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.069",
+      "lon": "-56.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5103601",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dom Aquino",
+      "en": "Dom Aquino",
+      "slug": "dom-aquino-br5103601"
+    },
+    "code": {
+      "id": "BR5103601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.712",
+      "lon": "-54.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5103700",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Feliz Natal",
+      "en": "Feliz Natal",
+      "slug": "feliz-natal-br5103700"
+    },
+    "code": {
+      "id": "BR5103700",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.942",
+      "lon": "-54.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5103809",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Figueirópolis D'Oeste",
+      "en": "Figueiropolis D'Oeste",
+      "slug": "figueiropolis-d-oeste-br5103809"
+    },
+    "code": {
+      "id": "BR5103809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.491",
+      "lon": "-58.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5103858",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gaúcha do Norte",
+      "en": "Gaucha do Norte",
+      "slug": "gaucha-do-norte-br5103858"
+    },
+    "code": {
+      "id": "BR5103858",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.023",
+      "lon": "-53.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5103908",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "General Carneiro",
+      "en": "General Carneiro",
+      "slug": "general-carneiro-br5103908"
+    },
+    "code": {
+      "id": "BR5103908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.555",
+      "lon": "-53.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5103957",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Glória D'Oeste",
+      "en": "Gloria D'Oeste",
+      "slug": "gloria-d-oeste-br5103957"
+    },
+    "code": {
+      "id": "BR5103957",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.898",
+      "lon": "-58.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5104104",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guarantã do Norte",
+      "en": "Guaranta do Norte",
+      "slug": "guaranta-do-norte-br5104104"
+    },
+    "code": {
+      "id": "BR5104104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.85",
+      "lon": "-54.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5104203",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guiratinga",
+      "en": "Guiratinga",
+      "slug": "guiratinga-br5104203"
+    },
+    "code": {
+      "id": "BR5104203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.361",
+      "lon": "-53.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5104500",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Indiavaí",
+      "en": "Indiavai",
+      "slug": "indiavai-br5104500"
+    },
+    "code": {
+      "id": "BR5104500",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.31",
+      "lon": "-58.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5104526",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ipiranga do Norte",
+      "en": "Ipiranga do Norte",
+      "slug": "ipiranga-do-norte-br5104526"
+    },
+    "code": {
+      "id": "BR5104526",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.992",
+      "lon": "-55.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5104542",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itanhangá",
+      "en": "Itanhanga",
+      "slug": "itanhanga-br5104542"
+    },
+    "code": {
+      "id": "BR5104542",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.179",
+      "lon": "-56.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5104559",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itaúba",
+      "en": "Itauba",
+      "slug": "itauba-br5104559"
+    },
+    "code": {
+      "id": "BR5104559",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.092",
+      "lon": "-55.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5104609",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itiquira",
+      "en": "Itiquira",
+      "slug": "itiquira-br5104609"
+    },
+    "code": {
+      "id": "BR5104609",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.401",
+      "lon": "-54.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5104807",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jaciara",
+      "en": "Jaciara",
+      "slug": "jaciara-br5104807"
+    },
+    "code": {
+      "id": "BR5104807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.003",
+      "lon": "-55.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5104906",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jangada",
+      "en": "Jangada",
+      "slug": "jangada-br5104906"
+    },
+    "code": {
+      "id": "BR5104906",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.355",
+      "lon": "-56.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5105002",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jauru",
+      "en": "Jauru",
+      "slug": "jauru-br5105002"
+    },
+    "code": {
+      "id": "BR5105002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.302",
+      "lon": "-58.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5105101",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juara",
+      "en": "Juara",
+      "slug": "juara-br5105101"
+    },
+    "code": {
+      "id": "BR5105101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.089",
+      "lon": "-57.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5105150",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juína",
+      "en": "Juina",
+      "slug": "juina-br5105150"
+    },
+    "code": {
+      "id": "BR5105150",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.418",
+      "lon": "-59.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5105176",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juruena",
+      "en": "Juruena",
+      "slug": "juruena-br5105176"
+    },
+    "code": {
+      "id": "BR5105176",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.429",
+      "lon": "-58.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5105200",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juscimeira",
+      "en": "Juscimeira",
+      "slug": "juscimeira-br5105200"
+    },
+    "code": {
+      "id": "BR5105200",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.28",
+      "lon": "-55.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5105234",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lambari D'Oeste",
+      "en": "Lambari D'Oeste",
+      "slug": "lambari-d-oeste-br5105234"
+    },
+    "code": {
+      "id": "BR5105234",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.471",
+      "lon": "-57.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5105259",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lucas do Rio Verde",
+      "en": "Lucas do Rio Verde",
+      "slug": "lucas-do-rio-verde-br5105259"
+    },
+    "code": {
+      "id": "BR5105259",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.028",
+      "lon": "-56.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5105309",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Luciara",
+      "en": "Luciara",
+      "slug": "luciara-br5105309"
+    },
+    "code": {
+      "id": "BR5105309",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.894",
+      "lon": "-50.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5105580",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Marcelândia",
+      "en": "Marcelandia",
+      "slug": "marcelandia-br5105580"
+    },
+    "code": {
+      "id": "BR5105580",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.968",
+      "lon": "-54.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5105606",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Matupá",
+      "en": "Matupa",
+      "slug": "matupa-br5105606"
+    },
+    "code": {
+      "id": "BR5105606",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.03",
+      "lon": "-54.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5105622",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mirassol d'Oeste",
+      "en": "Mirassol d'Oeste",
+      "slug": "mirassol-d-oeste-br5105622"
+    },
+    "code": {
+      "id": "BR5105622",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.637",
+      "lon": "-58.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5105903",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nobres",
+      "en": "Nobres",
+      "slug": "nobres-br5105903"
+    },
+    "code": {
+      "id": "BR5105903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.412",
+      "lon": "-55.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106000",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nortelândia",
+      "en": "Nortelandia",
+      "slug": "nortelandia-br5106000"
+    },
+    "code": {
+      "id": "BR5106000",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.416",
+      "lon": "-56.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106109",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nossa Senhora do Livramento",
+      "en": "Nossa Senhora do Livramento",
+      "slug": "nossa-senhora-do-livramento-br5106109"
+    },
+    "code": {
+      "id": "BR5106109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.948",
+      "lon": "-56.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106158",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Bandeirantes",
+      "en": "Nova Bandeirantes",
+      "slug": "nova-bandeirantes-br5106158"
+    },
+    "code": {
+      "id": "BR5106158",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.655",
+      "lon": "-58.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106208",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Brasilândia",
+      "en": "Nova Brasilandia",
+      "slug": "nova-brasilandia-br5106208"
+    },
+    "code": {
+      "id": "BR5106208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.769",
+      "lon": "-55.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106216",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Canaã do Norte",
+      "en": "Nova Canaa do Norte",
+      "slug": "nova-canaa-do-norte-br5106216"
+    },
+    "code": {
+      "id": "BR5106216",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.694",
+      "lon": "-56.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5108808",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Guarita",
+      "en": "Nova Guarita",
+      "slug": "nova-guarita-br5108808"
+    },
+    "code": {
+      "id": "BR5108808",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.27",
+      "lon": "-55.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106182",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Lacerda",
+      "en": "Nova Lacerda",
+      "slug": "nova-lacerda-br5106182"
+    },
+    "code": {
+      "id": "BR5106182",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.292",
+      "lon": "-59.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5108857",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Marilândia",
+      "en": "Nova Marilandia",
+      "slug": "nova-marilandia-br5108857"
+    },
+    "code": {
+      "id": "BR5108857",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.306",
+      "lon": "-57.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5108907",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Maringá",
+      "en": "Nova Maringa",
+      "slug": "nova-maringa-br5108907"
+    },
+    "code": {
+      "id": "BR5108907",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.829",
+      "lon": "-57.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5108956",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Monte Verde",
+      "en": "Nova Monte Verde",
+      "slug": "nova-monte-verde-br5108956"
+    },
+    "code": {
+      "id": "BR5108956",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.915",
+      "lon": "-57.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106224",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Mutum",
+      "en": "Nova Mutum",
+      "slug": "nova-mutum-br5106224"
+    },
+    "code": {
+      "id": "BR5106224",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.595",
+      "lon": "-56.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106174",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Nazaré",
+      "en": "Nova Nazare",
+      "slug": "nova-nazare-br5106174"
+    },
+    "code": {
+      "id": "BR5106174",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.133",
+      "lon": "-51.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106232",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Olímpia",
+      "en": "Nova Olimpia",
+      "slug": "nova-olimpia-br5106232"
+    },
+    "code": {
+      "id": "BR5106232",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.788",
+      "lon": "-57.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106190",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Santa Helena",
+      "en": "Nova Santa Helena",
+      "slug": "nova-santa-helena-br5106190"
+    },
+    "code": {
+      "id": "BR5106190",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.88",
+      "lon": "-54.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106240",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Ubiratã",
+      "en": "Nova Ubirata",
+      "slug": "nova-ubirata-br5106240"
+    },
+    "code": {
+      "id": "BR5106240",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.68",
+      "lon": "-54.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106257",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Xavantina",
+      "en": "Nova Xavantina",
+      "slug": "nova-xavantina-br5106257"
+    },
+    "code": {
+      "id": "BR5106257",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.585",
+      "lon": "-52.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106273",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Novo Horizonte do Norte",
+      "en": "Novo Horizonte do Norte",
+      "slug": "novo-horizonte-do-norte-br5106273"
+    },
+    "code": {
+      "id": "BR5106273",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.369",
+      "lon": "-57.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106265",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Novo Mundo",
+      "en": "Novo Mundo",
+      "slug": "novo-mundo-br5106265"
+    },
+    "code": {
+      "id": "BR5106265",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.89",
+      "lon": "-55.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106315",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Novo Santo Antônio",
+      "en": "Novo Santo Antonio",
+      "slug": "novo-santo-antonio-br5106315"
+    },
+    "code": {
+      "id": "BR5106315",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.308",
+      "lon": "-50.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106281",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Novo São Joaquim",
+      "en": "Novo Sao Joaquim",
+      "slug": "novo-sao-joaquim-br5106281"
+    },
+    "code": {
+      "id": "BR5106281",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.103",
+      "lon": "-53.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106299",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paranaíta",
+      "en": "Paranaita",
+      "slug": "paranaita-br5106299"
+    },
+    "code": {
+      "id": "BR5106299",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.564",
+      "lon": "-56.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106307",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paranatinga",
+      "en": "Paranatinga",
+      "slug": "paranatinga-br5106307"
+    },
+    "code": {
+      "id": "BR5106307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.369",
+      "lon": "-54.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106372",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedra Preta",
+      "en": "Pedra Preta",
+      "slug": "pedra-preta-br5106372"
+    },
+    "code": {
+      "id": "BR5106372",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.745",
+      "lon": "-54.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106422",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Peixoto de Azevedo",
+      "en": "Peixoto de Azevedo",
+      "slug": "peixoto-de-azevedo-br5106422"
+    },
+    "code": {
+      "id": "BR5106422",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.171",
+      "lon": "-54.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106455",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Planalto da Serra",
+      "en": "Planalto da Serra",
+      "slug": "planalto-da-serra-br5106455"
+    },
+    "code": {
+      "id": "BR5106455",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.539",
+      "lon": "-54.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106505",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Poconé",
+      "en": "Pocone",
+      "slug": "pocone-br5106505"
+    },
+    "code": {
+      "id": "BR5106505",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.873",
+      "lon": "-56.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106653",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pontal do Araguaia",
+      "en": "Pontal do Araguaia",
+      "slug": "pontal-do-araguaia-br5106653"
+    },
+    "code": {
+      "id": "BR5106653",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.946",
+      "lon": "-52.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106703",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ponte Branca",
+      "en": "Ponte Branca",
+      "slug": "ponte-branca-br5106703"
+    },
+    "code": {
+      "id": "BR5106703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.657",
+      "lon": "-52.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106752",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pontes e Lacerda",
+      "en": "Pontes e Lacerda",
+      "slug": "pontes-e-lacerda-br5106752"
+    },
+    "code": {
+      "id": "BR5106752",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.486",
+      "lon": "-59.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106778",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto Alegre do Norte",
+      "en": "Porto Alegre do Norte",
+      "slug": "porto-alegre-do-norte-br5106778"
+    },
+    "code": {
+      "id": "BR5106778",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.844",
+      "lon": "-51.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106802",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto dos Gaúchos",
+      "en": "Porto dos Gauchos",
+      "slug": "porto-dos-gauchos-br5106802"
+    },
+    "code": {
+      "id": "BR5106802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.723",
+      "lon": "-56.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106828",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto Esperidião",
+      "en": "Porto Esperidiao",
+      "slug": "porto-esperidiao-br5106828"
+    },
+    "code": {
+      "id": "BR5106828",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.893",
+      "lon": "-58.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5106851",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto Estrela",
+      "en": "Porto Estrela",
+      "slug": "porto-estrela-br5106851"
+    },
+    "code": {
+      "id": "BR5106851",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.523",
+      "lon": "-57.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107008",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Poxoréu",
+      "en": "Poxoreu",
+      "slug": "poxoreu-br5107008"
+    },
+    "code": {
+      "id": "BR5107008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.776",
+      "lon": "-54.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107040",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Primavera do Leste",
+      "en": "Primavera do Leste",
+      "slug": "primavera-do-leste-br5107040"
+    },
+    "code": {
+      "id": "BR5107040",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.158",
+      "lon": "-54.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107065",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Querência",
+      "en": "Querencia",
+      "slug": "querencia-br5107065"
+    },
+    "code": {
+      "id": "BR5107065",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.225",
+      "lon": "-52.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107156",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Reserva do Cabaçal",
+      "en": "Reserva do Cabacal",
+      "slug": "reserva-do-cabacal-br5107156"
+    },
+    "code": {
+      "id": "BR5107156",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.949",
+      "lon": "-58.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107180",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ribeirão Cascalheira",
+      "en": "Ribeirao Cascalheira",
+      "slug": "ribeirao-cascalheira-br5107180"
+    },
+    "code": {
+      "id": "BR5107180",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.815",
+      "lon": "-51.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107198",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ribeirãozinho",
+      "en": "Ribeiraozinho",
+      "slug": "ribeiraozinho-br5107198"
+    },
+    "code": {
+      "id": "BR5107198",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.494",
+      "lon": "-52.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107206",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rio Branco",
+      "en": "Rio Branco",
+      "slug": "rio-branco-br5107206"
+    },
+    "code": {
+      "id": "BR5107206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.272",
+      "lon": "-58.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107578",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rondolândia",
+      "en": "Rondolandia",
+      "slug": "rondolandia-br5107578"
+    },
+    "code": {
+      "id": "BR5107578",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.241",
+      "lon": "-61.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107602",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rondonópolis",
+      "en": "Rondonopolis",
+      "slug": "rondonopolis-br5107602"
+    },
+    "code": {
+      "id": "BR5107602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.564",
+      "lon": "-54.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107701",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rosário Oeste",
+      "en": "Rosario Oeste",
+      "slug": "rosario-oeste-br5107701"
+    },
+    "code": {
+      "id": "BR5107701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.655",
+      "lon": "-55.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107750",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Salto do Céu",
+      "en": "Salto do Ceu",
+      "slug": "salto-do-ceu-br5107750"
+    },
+    "code": {
+      "id": "BR5107750",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.027",
+      "lon": "-58.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107248",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Carmem",
+      "en": "Santa Carmem",
+      "slug": "santa-carmem-br5107248"
+    },
+    "code": {
+      "id": "BR5107248",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.935",
+      "lon": "-54.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107743",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz do Xingu",
+      "en": "Santa Cruz do Xingu",
+      "slug": "santa-cruz-do-xingu-br5107743"
+    },
+    "code": {
+      "id": "BR5107743",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.14",
+      "lon": "-52.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107768",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Rita do Trivelato",
+      "en": "Santa Rita do Trivelato",
+      "slug": "santa-rita-do-trivelato-br5107768"
+    },
+    "code": {
+      "id": "BR5107768",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.755",
+      "lon": "-55.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107776",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Terezinha",
+      "en": "Santa Terezinha",
+      "slug": "santa-terezinha-br5107776"
+    },
+    "code": {
+      "id": "BR5107776",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.379",
+      "lon": "-50.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107263",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo Afonso",
+      "en": "Santo Afonso",
+      "slug": "santo-afonso-br5107263"
+    },
+    "code": {
+      "id": "BR5107263",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.452",
+      "lon": "-57.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107792",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo Antônio do Leste",
+      "en": "Santo Antonio do Leste",
+      "slug": "santo-antonio-do-leste-br5107792"
+    },
+    "code": {
+      "id": "BR5107792",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.732",
+      "lon": "-53.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107800",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo Antônio do Leverger",
+      "en": "Santo Antonio do Leverger",
+      "slug": "santo-antonio-do-leverger-br5107800"
+    },
+    "code": {
+      "id": "BR5107800",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.444",
+      "lon": "-55.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107859",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Félix do Araguaia",
+      "en": "Sao Felix do Araguaia",
+      "slug": "sao-felix-do-araguaia-br5107859"
+    },
+    "code": {
+      "id": "BR5107859",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.492",
+      "lon": "-52.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107297",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José do Povo",
+      "en": "Sao Jose do Povo",
+      "slug": "sao-jose-do-povo-br5107297"
+    },
+    "code": {
+      "id": "BR5107297",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.454",
+      "lon": "-54.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107305",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José do Rio Claro",
+      "en": "Sao Jose do Rio Claro",
+      "slug": "sao-jose-do-rio-claro-br5107305"
+    },
+    "code": {
+      "id": "BR5107305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.536",
+      "lon": "-56.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107354",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José do Xingu",
+      "en": "Sao Jose do Xingu",
+      "slug": "sao-jose-do-xingu-br5107354"
+    },
+    "code": {
+      "id": "BR5107354",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.66",
+      "lon": "-52.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107107",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José dos Quatro Marcos",
+      "en": "Sao Jose dos Quatro Marcos",
+      "slug": "sao-jose-dos-quatro-marcos-br5107107"
+    },
+    "code": {
+      "id": "BR5107107",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.525",
+      "lon": "-58.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107404",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Pedro da Cipa",
+      "en": "Sao Pedro da Cipa",
+      "slug": "sao-pedro-da-cipa-br5107404"
+    },
+    "code": {
+      "id": "BR5107404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.958",
+      "lon": "-54.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107875",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sapezal",
+      "en": "Sapezal",
+      "slug": "sapezal-br5107875"
+    },
+    "code": {
+      "id": "BR5107875",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.972",
+      "lon": "-58.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107883",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Serra Nova Dourada",
+      "en": "Serra Nova Dourada",
+      "slug": "serra-nova-dourada-br5107883"
+    },
+    "code": {
+      "id": "BR5107883",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.043",
+      "lon": "-51.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107909",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sinop",
+      "en": "Sinop",
+      "slug": "sinop-br5107909"
+    },
+    "code": {
+      "id": "BR5107909",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.753",
+      "lon": "-55.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107925",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sorriso",
+      "en": "Sorriso",
+      "slug": "sorriso-br5107925"
+    },
+    "code": {
+      "id": "BR5107925",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.672",
+      "lon": "-55.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107941",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tabaporã",
+      "en": "Tabapora",
+      "slug": "tabapora-br5107941"
+    },
+    "code": {
+      "id": "BR5107941",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.021",
+      "lon": "-56.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5107958",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tangará da Serra",
+      "en": "Tangara da Serra",
+      "slug": "tangara-da-serra-br5107958"
+    },
+    "code": {
+      "id": "BR5107958",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.559",
+      "lon": "-58.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5108006",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tapurah",
+      "en": "Tapurah",
+      "slug": "tapurah-br5108006"
+    },
+    "code": {
+      "id": "BR5108006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.506",
+      "lon": "-56.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5108055",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Terra Nova do Norte",
+      "en": "Terra Nova do Norte",
+      "slug": "terra-nova-do-norte-br5108055"
+    },
+    "code": {
+      "id": "BR5108055",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.567",
+      "lon": "-54.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5108105",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tesouro",
+      "en": "Tesouro",
+      "slug": "tesouro-br5108105"
+    },
+    "code": {
+      "id": "BR5108105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.978",
+      "lon": "-53.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5108204",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Torixoréu",
+      "en": "Torixoreu",
+      "slug": "torixoreu-br5108204"
+    },
+    "code": {
+      "id": "BR5108204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.265",
+      "lon": "-52.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5108303",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "União do Sul",
+      "en": "Uniao do Sul",
+      "slug": "uniao-do-sul-br5108303"
+    },
+    "code": {
+      "id": "BR5108303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.488",
+      "lon": "-54.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5108352",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vale de São Domingos",
+      "en": "Vale de Sao Domingos",
+      "slug": "vale-de-sao-domingos-br5108352"
+    },
+    "code": {
+      "id": "BR5108352",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.145",
+      "lon": "-59.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5108402",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Várzea Grande",
+      "en": "Varzea Grande",
+      "slug": "varzea-grande-br5108402"
+    },
+    "code": {
+      "id": "BR5108402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.549",
+      "lon": "-56.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5108501",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vera",
+      "en": "Vera",
+      "slug": "vera-br5108501"
+    },
+    "code": {
+      "id": "BR5108501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.428",
+      "lon": "-55.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5105507",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vila Bela da Santíssima Trindade",
+      "en": "Vila Bela da Santissima Trindade",
+      "slug": "vila-bela-da-santissima-trindade-br5105507"
+    },
+    "code": {
+      "id": "BR5105507",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.853",
+      "lon": "-60.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5108600",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vila Rica",
+      "en": "Vila Rica",
+      "slug": "vila-rica-br5108600"
+    },
+    "code": {
+      "id": "BR5108600",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR51",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso",
+          "en": "Mato Grosso",
+          "slug": "mato-grosso-br51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.124",
+      "lon": "-51.424"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "BR2209401",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Antônio de Lisboa",
+    "en": "Santo Antonio de Lisboa",
+    "slug": "santo-antonio-de-lisboa-br2209401"
+  },
+  "code": {
+    "id": "BR2209401",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.876",
+    "lon": "-41.221"
+  },
+  "metadata": {},
+  "source": {}
+}

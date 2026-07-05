@@ -1,0 +1,45 @@
+{
+  "id": "BR4121604",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Renascença",
+    "en": "Renascenca",
+    "slug": "renascenca-br4121604"
+  },
+  "code": {
+    "id": "BR4121604",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.208",
+    "lon": "-52.939"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR4127106",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Telêmaco Borba",
+    "en": "Telemaco Borba",
+    "slug": "telemaco-borba-br4127106"
+  },
+  "code": {
+    "id": "BR4127106",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.224",
+    "lon": "-50.562"
+  },
+  "metadata": {},
+  "source": {}
+}

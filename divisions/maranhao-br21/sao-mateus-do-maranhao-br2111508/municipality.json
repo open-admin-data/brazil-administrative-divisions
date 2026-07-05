@@ -1,0 +1,45 @@
+{
+  "id": "BR2111508",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Mateus do Maranhão",
+    "en": "Sao Mateus do Maranhao",
+    "slug": "sao-mateus-do-maranhao-br2111508"
+  },
+  "code": {
+    "id": "BR2111508",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.977",
+    "lon": "-44.535"
+  },
+  "metadata": {},
+  "source": {}
+}

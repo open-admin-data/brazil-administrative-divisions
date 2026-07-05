@@ -1,0 +1,45 @@
+{
+  "id": "BR1506401",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Cruz do Arari",
+    "en": "Santa Cruz do Arari",
+    "slug": "santa-cruz-do-arari-br1506401"
+  },
+  "code": {
+    "id": "BR1506401",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.609",
+    "lon": "-49.284"
+  },
+  "metadata": {},
+  "source": {}
+}

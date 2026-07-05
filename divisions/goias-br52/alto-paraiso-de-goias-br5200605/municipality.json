@@ -1,0 +1,45 @@
+{
+  "id": "BR5200605",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alto Paraíso de Goiás",
+    "en": "Alto Paraiso de Goias",
+    "slug": "alto-paraiso-de-goias-br5200605"
+  },
+  "code": {
+    "id": "BR5200605",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.19",
+    "lon": "-47.474"
+  },
+  "metadata": {},
+  "source": {}
+}

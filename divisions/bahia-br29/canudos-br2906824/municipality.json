@@ -1,0 +1,45 @@
+{
+  "id": "BR2906824",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Canudos",
+    "en": "Canudos",
+    "slug": "canudos-br2906824"
+  },
+  "code": {
+    "id": "BR2906824",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.945",
+    "lon": "-38.982"
+  },
+  "metadata": {},
+  "source": {}
+}

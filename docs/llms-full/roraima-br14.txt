@@ -1,0 +1,84 @@
+# Roraima — Brazil Administrative Divisions
+
+> 15 municipalitys
+> Code: BR14
+> Coordinates: 2.339, -61.611
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Alto Alegre
+
+Code: BR1400050, Coordinates: -28.802, -52.982
+
+
+### Amajari
+
+Code: BR1400027, Coordinates: 3.774, -62.585
+
+
+### Boa Vista
+
+Code: BR1400100, Coordinates: -7.298, -36.189
+
+
+### Bonfim
+
+Code: BR1400159, Coordinates: -20.327, -44.209
+
+
+### Cantá (Canta)
+
+Code: BR1400175, Coordinates: 2.215, -60.459
+
+
+### Caracaraí (Caracarai)
+
+Code: BR1400209, Coordinates: 0.796, -61.145
+
+
+### Caroebe
+
+Code: BR1400233, Coordinates: 1.195, -59.472
+
+
+### Iracema
+
+Code: BR1400282, Coordinates: -5.788, -38.347
+
+
+### Mucajaí (Mucajai)
+
+Code: BR1400308, Coordinates: 2.556, -62.051
+
+
+### Normandia
+
+Code: BR1400407, Coordinates: 3.865, -60.046
+
+
+### Pacaraima
+
+Code: BR1400456, Coordinates: 4.18, -60.855
+
+
+### Rorainópolis (Rorainopolis)
+
+Code: BR1400472, Coordinates: -0.055, -60.846
+
+
+### São João da Baliza (Sao Joao da Baliza)
+
+Code: BR1400506, Coordinates: 0.697, -59.879
+
+
+### São Luiz (Sao Luiz)
+
+Code: BR1400605, Coordinates: 0.834, -60.131
+
+
+### Uiramutã (Uiramuta)
+
+Code: BR1400704, Coordinates: 4.653, -60.217
+
+

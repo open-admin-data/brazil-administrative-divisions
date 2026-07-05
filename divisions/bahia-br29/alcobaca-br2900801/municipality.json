@@ -1,0 +1,45 @@
+{
+  "id": "BR2900801",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alcobaça",
+    "en": "Alcobaca",
+    "slug": "alcobaca-br2900801"
+  },
+  "code": {
+    "id": "BR2900801",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.406",
+    "lon": "-39.42"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR5106216",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Canaã do Norte",
+    "en": "Nova Canaa do Norte",
+    "slug": "nova-canaa-do-norte-br5106216"
+  },
+  "code": {
+    "id": "BR5106216",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.694",
+    "lon": "-56.006"
+  },
+  "metadata": {},
+  "source": {}
+}

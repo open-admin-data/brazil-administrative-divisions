@@ -1,0 +1,45 @@
+{
+  "id": "BR3505351",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barra do Chapéu",
+    "en": "Barra do Chapeu",
+    "slug": "barra-do-chapeu-br3505351"
+  },
+  "code": {
+    "id": "BR3505351",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.439",
+    "lon": "-49.096"
+  },
+  "metadata": {},
+  "source": {}
+}

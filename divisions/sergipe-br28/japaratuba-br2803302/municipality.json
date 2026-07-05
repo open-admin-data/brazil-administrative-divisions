@@ -1,0 +1,45 @@
+{
+  "id": "BR2803302",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Japaratuba",
+    "en": "Japaratuba",
+    "slug": "japaratuba-br2803302"
+  },
+  "code": {
+    "id": "BR2803302",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.522",
+    "lon": "-36.888"
+  },
+  "metadata": {},
+  "source": {}
+}

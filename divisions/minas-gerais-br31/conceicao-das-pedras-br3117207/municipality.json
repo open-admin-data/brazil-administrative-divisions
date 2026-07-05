@@ -1,0 +1,45 @@
+{
+  "id": "BR3117207",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Conceição das Pedras",
+    "en": "Conceicao das Pedras",
+    "slug": "conceicao-das-pedras-br3117207"
+  },
+  "code": {
+    "id": "BR3117207",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.137",
+    "lon": "-45.409"
+  },
+  "metadata": {},
+  "source": {}
+}

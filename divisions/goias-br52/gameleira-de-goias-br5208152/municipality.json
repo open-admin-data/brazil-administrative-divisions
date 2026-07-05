@@ -1,0 +1,45 @@
+{
+  "id": "BR5208152",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Gameleira de Goiás",
+    "en": "Gameleira de Goias",
+    "slug": "gameleira-de-goias-br5208152"
+  },
+  "code": {
+    "id": "BR5208152",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.414",
+    "lon": "-48.683"
+  },
+  "metadata": {},
+  "source": {}
+}

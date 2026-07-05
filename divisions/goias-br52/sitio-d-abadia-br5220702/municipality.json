@@ -1,0 +1,45 @@
+{
+  "id": "BR5220702",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sítio d'Abadia",
+    "en": "Sitio d'Abadia",
+    "slug": "sitio-d-abadia-br5220702"
+  },
+  "code": {
+    "id": "BR5220702",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.714",
+    "lon": "-46.262"
+  },
+  "metadata": {},
+  "source": {}
+}

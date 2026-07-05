@@ -1,0 +1,45 @@
+{
+  "id": "BR2917201",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ituaçu",
+    "en": "Ituacu",
+    "slug": "ituacu-br2917201"
+  },
+  "code": {
+    "id": "BR2917201",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.879",
+    "lon": "-41.404"
+  },
+  "metadata": {},
+  "source": {}
+}

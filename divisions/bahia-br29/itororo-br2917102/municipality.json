@@ -1,0 +1,45 @@
+{
+  "id": "BR2917102",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itororó",
+    "en": "Itororo",
+    "slug": "itororo-br2917102"
+  },
+  "code": {
+    "id": "BR2917102",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.05",
+    "lon": "-40.023"
+  },
+  "metadata": {},
+  "source": {}
+}

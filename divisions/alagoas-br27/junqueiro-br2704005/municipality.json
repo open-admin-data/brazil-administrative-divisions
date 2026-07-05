@@ -1,0 +1,45 @@
+{
+  "id": "BR2704005",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Junqueiro",
+    "en": "Junqueiro",
+    "slug": "junqueiro-br2704005"
+  },
+  "code": {
+    "id": "BR2704005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.87",
+    "lon": "-36.446"
+  },
+  "metadata": {},
+  "source": {}
+}

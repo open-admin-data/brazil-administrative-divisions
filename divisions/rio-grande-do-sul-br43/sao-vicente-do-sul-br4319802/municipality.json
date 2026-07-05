@@ -1,0 +1,45 @@
+{
+  "id": "BR4319802",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Vicente do Sul",
+    "en": "Sao Vicente do Sul",
+    "slug": "sao-vicente-do-sul-br4319802"
+  },
+  "code": {
+    "id": "BR4319802",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.717",
+    "lon": "-54.773"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2502102",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Boa Ventura",
+    "en": "Boa Ventura",
+    "slug": "boa-ventura-br2502102"
+  },
+  "code": {
+    "id": "BR2502102",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.417",
+    "lon": "-38.21"
+  },
+  "metadata": {},
+  "source": {}
+}

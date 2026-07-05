@@ -1,0 +1,45 @@
+{
+  "id": "BR3136520",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "José Gonçalves de Minas",
+    "en": "Jose Goncalves de Minas",
+    "slug": "jose-goncalves-de-minas-br3136520"
+  },
+  "code": {
+    "id": "BR3136520",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.899",
+    "lon": "-42.664"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR5219803",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Domingos",
+    "en": "Sao Domingos",
+    "slug": "sao-domingos-br5219803"
+  },
+  "code": {
+    "id": "BR5219803",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.53",
+    "lon": "-46.491"
+  },
+  "metadata": {},
+  "source": {}
+}

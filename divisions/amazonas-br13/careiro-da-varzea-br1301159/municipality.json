@@ -1,0 +1,45 @@
+{
+  "id": "BR1301159",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Careiro da Várzea",
+    "en": "Careiro da Varzea",
+    "slug": "careiro-da-varzea-br1301159"
+  },
+  "code": {
+    "id": "BR1301159",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.376",
+    "lon": "-59.635"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2200251",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alagoinha do Piauí",
+    "en": "Alagoinha do Piaui",
+    "slug": "alagoinha-do-piaui-br2200251"
+  },
+  "code": {
+    "id": "BR2200251",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.934",
+    "lon": "-40.911"
+  },
+  "metadata": {},
+  "source": {}
+}

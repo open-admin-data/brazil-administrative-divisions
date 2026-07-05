@@ -1,0 +1,45 @@
+{
+  "id": "BR4102752",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bela Vista da Caroba",
+    "en": "Bela Vista da Caroba",
+    "slug": "bela-vista-da-caroba-br4102752"
+  },
+  "code": {
+    "id": "BR4102752",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.875",
+    "lon": "-53.625"
+  },
+  "metadata": {},
+  "source": {}
+}

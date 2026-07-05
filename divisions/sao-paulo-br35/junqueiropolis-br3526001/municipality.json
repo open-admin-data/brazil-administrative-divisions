@@ -1,0 +1,45 @@
+{
+  "id": "BR3526001",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Junqueirópolis",
+    "en": "Junqueiropolis",
+    "slug": "junqueiropolis-br3526001"
+  },
+  "code": {
+    "id": "BR3526001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.44",
+    "lon": "-51.437"
+  },
+  "metadata": {},
+  "source": {}
+}

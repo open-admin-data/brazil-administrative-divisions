@@ -1,0 +1,45 @@
+{
+  "id": "BR2513901",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Bento",
+    "en": "Sao Bento",
+    "slug": "sao-bento-br2513901"
+  },
+  "code": {
+    "id": "BR2513901",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.459",
+    "lon": "-37.492"
+  },
+  "metadata": {},
+  "source": {}
+}

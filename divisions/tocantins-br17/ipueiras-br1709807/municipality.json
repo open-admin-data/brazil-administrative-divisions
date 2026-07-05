@@ -1,0 +1,45 @@
+{
+  "id": "BR1709807",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ipueiras",
+    "en": "Ipueiras",
+    "slug": "ipueiras-br1709807"
+  },
+  "code": {
+    "id": "BR1709807",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.582",
+    "lon": "-40.905"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2108108",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Paulo Ramos",
+    "en": "Paulo Ramos",
+    "slug": "paulo-ramos-br2108108"
+  },
+  "code": {
+    "id": "BR2108108",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.565",
+    "lon": "-45.399"
+  },
+  "metadata": {},
+  "source": {}
+}

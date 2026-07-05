@@ -1,0 +1,45 @@
+{
+  "id": "BR2800308",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Aracaju",
+    "en": "Aracaju",
+    "slug": "aracaju-br2800308"
+  },
+  "code": {
+    "id": "BR2800308",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.972",
+    "lon": "-37.1"
+  },
+  "metadata": {},
+  "source": {}
+}

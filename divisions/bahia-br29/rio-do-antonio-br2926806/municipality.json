@@ -1,0 +1,45 @@
+{
+  "id": "BR2926806",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rio do Antônio",
+    "en": "Rio do Antonio",
+    "slug": "rio-do-antonio-br2926806"
+  },
+  "code": {
+    "id": "BR2926806",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.268",
+    "lon": "-42.134"
+  },
+  "metadata": {},
+  "source": {}
+}

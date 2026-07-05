@@ -1,0 +1,45 @@
+{
+  "id": "BR4202206",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Benedito Novo",
+    "en": "Benedito Novo",
+    "slug": "benedito-novo-br4202206"
+  },
+  "code": {
+    "id": "BR4202206",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.795",
+    "lon": "-49.438"
+  },
+  "metadata": {},
+  "source": {}
+}

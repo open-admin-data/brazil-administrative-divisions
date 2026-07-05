@@ -1,0 +1,45 @@
+{
+  "id": "BR2706422",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pariconha",
+    "en": "Pariconha",
+    "slug": "pariconha-br2706422"
+  },
+  "code": {
+    "id": "BR2706422",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.218",
+    "lon": "-38.022"
+  },
+  "metadata": {},
+  "source": {}
+}

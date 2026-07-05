@@ -1,0 +1,45 @@
+{
+  "id": "BR2919504",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Livramento de Nossa Senhora",
+    "en": "Livramento de Nossa Senhora",
+    "slug": "livramento-de-nossa-senhora-br2919504"
+  },
+  "code": {
+    "id": "BR2919504",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.817",
+    "lon": "-41.977"
+  },
+  "metadata": {},
+  "source": {}
+}

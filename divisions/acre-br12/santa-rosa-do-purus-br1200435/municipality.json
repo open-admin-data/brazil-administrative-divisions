@@ -1,0 +1,45 @@
+{
+  "id": "BR1200435",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Rosa do Purus",
+    "en": "Santa Rosa do Purus",
+    "slug": "santa-rosa-do-purus-br1200435"
+  },
+  "code": {
+    "id": "BR1200435",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR12",
+    "level": 1,
+    "name": {
+      "local": "Acre",
+      "en": "Acre",
+      "slug": "acre-br12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.532",
+    "lon": "-70.404"
+  },
+  "metadata": {},
+  "source": {}
+}

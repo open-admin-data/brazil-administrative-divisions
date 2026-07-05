@@ -1,0 +1,45 @@
+{
+  "id": "BR5219357",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Isabel",
+    "en": "Santa Isabel",
+    "slug": "santa-isabel-br5219357"
+  },
+  "code": {
+    "id": "BR5219357",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.265",
+    "lon": "-49.385"
+  },
+  "metadata": {},
+  "source": {}
+}

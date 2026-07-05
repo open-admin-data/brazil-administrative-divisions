@@ -1,0 +1,45 @@
+{
+  "id": "BR4206603",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Guarujá do Sul",
+    "en": "Guaruja do Sul",
+    "slug": "guaruja-do-sul-br4206603"
+  },
+  "code": {
+    "id": "BR4206603",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.406",
+    "lon": "-53.482"
+  },
+  "metadata": {},
+  "source": {}
+}

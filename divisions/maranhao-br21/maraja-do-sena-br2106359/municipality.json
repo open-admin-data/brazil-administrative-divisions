@@ -1,0 +1,45 @@
+{
+  "id": "BR2106359",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Marajá do Sena",
+    "en": "Maraja do Sena",
+    "slug": "maraja-do-sena-br2106359"
+  },
+  "code": {
+    "id": "BR2106359",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.741",
+    "lon": "-45.528"
+  },
+  "metadata": {},
+  "source": {}
+}

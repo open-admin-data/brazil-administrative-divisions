@@ -1,0 +1,45 @@
+{
+  "id": "BR4212403",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pedras Grandes",
+    "en": "Pedras Grandes",
+    "slug": "pedras-grandes-br4212403"
+  },
+  "code": {
+    "id": "BR4212403",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.474",
+    "lon": "-49.211"
+  },
+  "metadata": {},
+  "source": {}
+}

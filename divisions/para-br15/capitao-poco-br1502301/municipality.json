@@ -1,0 +1,45 @@
+{
+  "id": "BR1502301",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Capitão Poço",
+    "en": "Capitao Poco",
+    "slug": "capitao-poco-br1502301"
+  },
+  "code": {
+    "id": "BR1502301",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.993",
+    "lon": "-47.191"
+  },
+  "metadata": {},
+  "source": {}
+}

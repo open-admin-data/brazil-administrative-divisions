@@ -1,0 +1,45 @@
+{
+  "id": "BR2928950",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Domingos",
+    "en": "Sao Domingos",
+    "slug": "sao-domingos-br2928950"
+  },
+  "code": {
+    "id": "BR2928950",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.53",
+    "lon": "-46.491"
+  },
+  "metadata": {},
+  "source": {}
+}

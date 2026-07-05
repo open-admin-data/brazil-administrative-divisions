@@ -1,0 +1,45 @@
+{
+  "id": "BR2203230",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Currais",
+    "en": "Currais",
+    "slug": "currais-br2203230"
+  },
+  "code": {
+    "id": "BR2203230",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.788",
+    "lon": "-44.85"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2210375",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Luis do Piauí",
+    "en": "Sao Luis do Piaui",
+    "slug": "sao-luis-do-piaui-br2210375"
+  },
+  "code": {
+    "id": "BR2210375",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.797",
+    "lon": "-41.277"
+  },
+  "metadata": {},
+  "source": {}
+}

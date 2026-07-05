@@ -1,0 +1,45 @@
+{
+  "id": "BR3157104",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Salto da Divisa",
+    "en": "Salto da Divisa",
+    "slug": "salto-da-divisa-br3157104"
+  },
+  "code": {
+    "id": "BR3157104",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.08",
+    "lon": "-40.037"
+  },
+  "metadata": {},
+  "source": {}
+}

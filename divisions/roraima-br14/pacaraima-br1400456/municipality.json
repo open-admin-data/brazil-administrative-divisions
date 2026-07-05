@@ -1,0 +1,45 @@
+{
+  "id": "BR1400456",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pacaraima",
+    "en": "Pacaraima",
+    "slug": "pacaraima-br1400456"
+  },
+  "code": {
+    "id": "BR1400456",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR14",
+    "level": 1,
+    "name": {
+      "local": "Roraima",
+      "en": "Roraima",
+      "slug": "roraima-br14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.18",
+    "lon": "-60.855"
+  },
+  "metadata": {},
+  "source": {}
+}

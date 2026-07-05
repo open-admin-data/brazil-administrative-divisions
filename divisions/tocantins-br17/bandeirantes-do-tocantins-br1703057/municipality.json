@@ -1,0 +1,45 @@
+{
+  "id": "BR1703057",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bandeirantes do Tocantins",
+    "en": "Bandeirantes do Tocantins",
+    "slug": "bandeirantes-do-tocantins-br1703057"
+  },
+  "code": {
+    "id": "BR1703057",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.018",
+    "lon": "-48.676"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR5106174",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Nazaré",
+    "en": "Nova Nazare",
+    "slug": "nova-nazare-br5106174"
+  },
+  "code": {
+    "id": "BR5106174",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.133",
+    "lon": "-51.897"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR5206404",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Crixás",
+    "en": "Crixas",
+    "slug": "crixas-br5206404"
+  },
+  "code": {
+    "id": "BR5206404",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.662",
+    "lon": "-50.018"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR4101705",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Araruna",
+    "en": "Araruna",
+    "slug": "araruna-br4101705"
+  },
+  "code": {
+    "id": "BR4101705",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.951",
+    "lon": "-52.583"
+  },
+  "metadata": {},
+  "source": {}
+}

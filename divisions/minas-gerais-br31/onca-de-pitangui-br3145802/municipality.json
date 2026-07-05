@@ -1,0 +1,45 @@
+{
+  "id": "BR3145802",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Onça de Pitangui",
+    "en": "Onca de Pitangui",
+    "slug": "onca-de-pitangui-br3145802"
+  },
+  "code": {
+    "id": "BR3145802",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.71",
+    "lon": "-44.746"
+  },
+  "metadata": {},
+  "source": {}
+}

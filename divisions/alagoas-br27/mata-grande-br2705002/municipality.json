@@ -1,0 +1,45 @@
+{
+  "id": "BR2705002",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mata Grande",
+    "en": "Mata Grande",
+    "slug": "mata-grande-br2705002"
+  },
+  "code": {
+    "id": "BR2705002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.99",
+    "lon": "-37.742"
+  },
+  "metadata": {},
+  "source": {}
+}

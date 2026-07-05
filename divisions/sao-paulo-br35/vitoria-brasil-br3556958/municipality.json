@@ -1,0 +1,45 @@
+{
+  "id": "BR3556958",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vitória Brasil",
+    "en": "Vitoria Brasil",
+    "slug": "vitoria-brasil-br3556958"
+  },
+  "code": {
+    "id": "BR3556958",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.195",
+    "lon": "-50.483"
+  },
+  "metadata": {},
+  "source": {}
+}

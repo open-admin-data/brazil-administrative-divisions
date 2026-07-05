@@ -1,0 +1,45 @@
+{
+  "id": "BR3123205",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dores do Indaiá",
+    "en": "Dores do Indaia",
+    "slug": "dores-do-indaia-br3123205"
+  },
+  "code": {
+    "id": "BR3123205",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.484",
+    "lon": "-45.543"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2205581",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lagoa do Piauí",
+    "en": "Lagoa do Piaui",
+    "slug": "lagoa-do-piaui-br2205581"
+  },
+  "code": {
+    "id": "BR2205581",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.462",
+    "lon": "-42.554"
+  },
+  "metadata": {},
+  "source": {}
+}

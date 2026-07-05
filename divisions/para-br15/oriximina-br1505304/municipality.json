@@ -1,0 +1,45 @@
+{
+  "id": "BR1505304",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Oriximiná",
+    "en": "Oriximina",
+    "slug": "oriximina-br1505304"
+  },
+  "code": {
+    "id": "BR1505304",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.601",
+    "lon": "-56.89"
+  },
+  "metadata": {},
+  "source": {}
+}

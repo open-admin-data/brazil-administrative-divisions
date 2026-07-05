@@ -1,0 +1,45 @@
+{
+  "id": "BR2305902",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ipueiras",
+    "en": "Ipueiras",
+    "slug": "ipueiras-br2305902"
+  },
+  "code": {
+    "id": "BR2305902",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.582",
+    "lon": "-40.905"
+  },
+  "metadata": {},
+  "source": {}
+}

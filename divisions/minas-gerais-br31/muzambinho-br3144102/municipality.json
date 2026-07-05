@@ -1,0 +1,45 @@
+{
+  "id": "BR3144102",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Muzambinho",
+    "en": "Muzambinho",
+    "slug": "muzambinho-br3144102"
+  },
+  "code": {
+    "id": "BR3144102",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.361",
+    "lon": "-46.523"
+  },
+  "metadata": {},
+  "source": {}
+}

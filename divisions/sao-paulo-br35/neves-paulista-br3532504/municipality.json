@@ -1,0 +1,45 @@
+{
+  "id": "BR3532504",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Neves Paulista",
+    "en": "Neves Paulista",
+    "slug": "neves-paulista-br3532504"
+  },
+  "code": {
+    "id": "BR3532504",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.869",
+    "lon": "-49.646"
+  },
+  "metadata": {},
+  "source": {}
+}

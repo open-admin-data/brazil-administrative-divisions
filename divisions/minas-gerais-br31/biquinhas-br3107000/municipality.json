@@ -1,0 +1,45 @@
+{
+  "id": "BR3107000",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Biquinhas",
+    "en": "Biquinhas",
+    "slug": "biquinhas-br3107000"
+  },
+  "code": {
+    "id": "BR3107000",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.766",
+    "lon": "-45.531"
+  },
+  "metadata": {},
+  "source": {}
+}

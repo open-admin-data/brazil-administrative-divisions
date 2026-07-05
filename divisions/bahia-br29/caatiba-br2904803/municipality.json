@@ -1,0 +1,45 @@
+{
+  "id": "BR2904803",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Caatiba",
+    "en": "Caatiba",
+    "slug": "caatiba-br2904803"
+  },
+  "code": {
+    "id": "BR2904803",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.006",
+    "lon": "-40.333"
+  },
+  "metadata": {},
+  "source": {}
+}

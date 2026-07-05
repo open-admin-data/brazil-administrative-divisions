@@ -1,0 +1,45 @@
+{
+  "id": "BR5210604",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itaguaru",
+    "en": "Itaguaru",
+    "slug": "itaguaru-br5210604"
+  },
+  "code": {
+    "id": "BR5210604",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.772",
+    "lon": "-49.605"
+  },
+  "metadata": {},
+  "source": {}
+}

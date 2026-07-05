@@ -1,0 +1,45 @@
+{
+  "id": "BR3124708",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Estrela do Indaiá",
+    "en": "Estrela do Indaia",
+    "slug": "estrela-do-indaia-br3124708"
+  },
+  "code": {
+    "id": "BR3124708",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.589",
+    "lon": "-45.816"
+  },
+  "metadata": {},
+  "source": {}
+}

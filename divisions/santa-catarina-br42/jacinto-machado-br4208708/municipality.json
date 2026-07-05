@@ -1,0 +1,45 @@
+{
+  "id": "BR4208708",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jacinto Machado",
+    "en": "Jacinto Machado",
+    "slug": "jacinto-machado-br4208708"
+  },
+  "code": {
+    "id": "BR4208708",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.999",
+    "lon": "-49.872"
+  },
+  "metadata": {},
+  "source": {}
+}

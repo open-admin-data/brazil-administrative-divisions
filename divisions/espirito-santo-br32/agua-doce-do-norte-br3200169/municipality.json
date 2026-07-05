@@ -1,0 +1,45 @@
+{
+  "id": "BR3200169",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Água Doce do Norte",
+    "en": "Agua Doce do Norte",
+    "slug": "agua-doce-do-norte-br3200169"
+  },
+  "code": {
+    "id": "BR3200169",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.502",
+    "lon": "-40.993"
+  },
+  "metadata": {},
+  "source": {}
+}

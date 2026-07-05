@@ -1,0 +1,45 @@
+{
+  "id": "BR1505551",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pau D'Arco",
+    "en": "Pau D'Arco",
+    "slug": "pau-d-arco-br1505551"
+  },
+  "code": {
+    "id": "BR1505551",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.561",
+    "lon": "-48.912"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2207793",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pau D'Arco do Piauí",
+    "en": "Pau D'Arco do Piaui",
+    "slug": "pau-d-arco-do-piaui-br2207793"
+  },
+  "code": {
+    "id": "BR2207793",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.264",
+    "lon": "-42.457"
+  },
+  "metadata": {},
+  "source": {}
+}

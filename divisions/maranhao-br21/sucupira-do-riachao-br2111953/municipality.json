@@ -1,0 +1,45 @@
+{
+  "id": "BR2111953",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sucupira do Riachão",
+    "en": "Sucupira do Riachao",
+    "slug": "sucupira-do-riachao-br2111953"
+  },
+  "code": {
+    "id": "BR2111953",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.398",
+    "lon": "-43.451"
+  },
+  "metadata": {},
+  "source": {}
+}

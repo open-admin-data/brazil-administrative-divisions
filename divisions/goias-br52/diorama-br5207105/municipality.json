@@ -1,0 +1,45 @@
+{
+  "id": "BR5207105",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Diorama",
+    "en": "Diorama",
+    "slug": "diorama-br5207105"
+  },
+  "code": {
+    "id": "BR5207105",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.197",
+    "lon": "-51.382"
+  },
+  "metadata": {},
+  "source": {}
+}

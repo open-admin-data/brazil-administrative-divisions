@@ -1,0 +1,45 @@
+{
+  "id": "BR2805406",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Poço Redondo",
+    "en": "Poco Redondo",
+    "slug": "poco-redondo-br2805406"
+  },
+  "code": {
+    "id": "BR2805406",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.917",
+    "lon": "-37.753"
+  },
+  "metadata": {},
+  "source": {}
+}

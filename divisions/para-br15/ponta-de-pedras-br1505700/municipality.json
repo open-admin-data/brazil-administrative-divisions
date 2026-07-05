@@ -1,0 +1,45 @@
+{
+  "id": "BR1505700",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ponta de Pedras",
+    "en": "Ponta de Pedras",
+    "slug": "ponta-de-pedras-br1505700"
+  },
+  "code": {
+    "id": "BR1505700",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.054",
+    "lon": "-49.157"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2909703",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cristópolis",
+    "en": "Cristopolis",
+    "slug": "cristopolis-br2909703"
+  },
+  "code": {
+    "id": "BR2909703",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.194",
+    "lon": "-44.187"
+  },
+  "metadata": {},
+  "source": {}
+}

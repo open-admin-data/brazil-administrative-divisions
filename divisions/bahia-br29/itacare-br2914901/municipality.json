@@ -1,0 +1,45 @@
+{
+  "id": "BR2914901",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itacaré",
+    "en": "Itacare",
+    "slug": "itacare-br2914901"
+  },
+  "code": {
+    "id": "BR2914901",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.344",
+    "lon": "-39.12"
+  },
+  "metadata": {},
+  "source": {}
+}

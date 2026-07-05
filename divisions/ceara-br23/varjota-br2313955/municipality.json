@@ -1,0 +1,45 @@
+{
+  "id": "BR2313955",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Varjota",
+    "en": "Varjota",
+    "slug": "varjota-br2313955"
+  },
+  "code": {
+    "id": "BR2313955",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.174",
+    "lon": "-40.493"
+  },
+  "metadata": {},
+  "source": {}
+}

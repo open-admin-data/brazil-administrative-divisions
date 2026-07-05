@@ -1,0 +1,45 @@
+{
+  "id": "BR1200336",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mâncio Lima",
+    "en": "Mancio Lima",
+    "slug": "mancio-lima-br1200336"
+  },
+  "code": {
+    "id": "BR1200336",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR12",
+    "level": 1,
+    "name": {
+      "local": "Acre",
+      "en": "Acre",
+      "slug": "acre-br12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.544",
+    "lon": "-73.547"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1501451",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Belterra",
+    "en": "Belterra",
+    "slug": "belterra-br1501451"
+  },
+  "code": {
+    "id": "BR1501451",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.529",
+    "lon": "-55.049"
+  },
+  "metadata": {},
+  "source": {}
+}

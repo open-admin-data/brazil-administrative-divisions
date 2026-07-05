@@ -1,0 +1,45 @@
+{
+  "id": "BR2208700",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Redenção do Gurguéia",
+    "en": "Redencao do Gurgueia",
+    "slug": "redencao-do-gurgueia-br2208700"
+  },
+  "code": {
+    "id": "BR2208700",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.614",
+    "lon": "-44.537"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2211407",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Várzea Grande",
+    "en": "Varzea Grande",
+    "slug": "varzea-grande-br2211407"
+  },
+  "code": {
+    "id": "BR2211407",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.549",
+    "lon": "-56.278"
+  },
+  "metadata": {},
+  "source": {}
+}

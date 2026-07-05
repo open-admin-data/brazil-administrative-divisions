@@ -1,0 +1,45 @@
+{
+  "id": "BR1504109",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Magalhães Barata",
+    "en": "Magalhaes Barata",
+    "slug": "magalhaes-barata-br1504109"
+  },
+  "code": {
+    "id": "BR1504109",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.819",
+    "lon": "-47.633"
+  },
+  "metadata": {},
+  "source": {}
+}

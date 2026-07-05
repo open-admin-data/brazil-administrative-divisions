@@ -1,0 +1,45 @@
+{
+  "id": "BR2907301",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Castro Alves",
+    "en": "Castro Alves",
+    "slug": "castro-alves-br2907301"
+  },
+  "code": {
+    "id": "BR2907301",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.74",
+    "lon": "-39.369"
+  },
+  "metadata": {},
+  "source": {}
+}

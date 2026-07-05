@@ -1,0 +1,45 @@
+{
+  "id": "BR1100056",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cerejeiras",
+    "en": "Cerejeiras",
+    "slug": "cerejeiras-br1100056"
+  },
+  "code": {
+    "id": "BR1100056",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.181",
+    "lon": "-61.395"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR5204250",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cachoeira Dourada",
+    "en": "Cachoeira Dourada",
+    "slug": "cachoeira-dourada-br5204250"
+  },
+  "code": {
+    "id": "BR5204250",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.496",
+    "lon": "-49.632"
+  },
+  "metadata": {},
+  "source": {}
+}

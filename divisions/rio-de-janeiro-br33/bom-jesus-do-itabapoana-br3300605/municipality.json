@@ -1,0 +1,45 @@
+{
+  "id": "BR3300605",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bom Jesus do Itabapoana",
+    "en": "Bom Jesus do Itabapoana",
+    "slug": "bom-jesus-do-itabapoana-br3300605"
+  },
+  "code": {
+    "id": "BR3300605",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR33",
+    "level": 1,
+    "name": {
+      "local": "Rio de Janeiro",
+      "en": "Rio de Janeiro",
+      "slug": "rio-de-janeiro-br33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.111",
+    "lon": "-41.689"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2210003",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São João do Piauí",
+    "en": "Sao Joao do Piaui",
+    "slug": "sao-joao-do-piaui-br2210003"
+  },
+  "code": {
+    "id": "BR2210003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.244",
+    "lon": "-42.318"
+  },
+  "metadata": {},
+  "source": {}
+}

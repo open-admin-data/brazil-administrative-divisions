@@ -1,0 +1,45 @@
+{
+  "id": "BR2509701",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Monteiro",
+    "en": "Monteiro",
+    "slug": "monteiro-br2509701"
+  },
+  "code": {
+    "id": "BR2509701",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.912",
+    "lon": "-37.178"
+  },
+  "metadata": {},
+  "source": {}
+}

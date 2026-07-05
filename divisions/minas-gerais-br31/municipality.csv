@@ -1,0 +1,854 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+BR3100104,Abadia dos Dourados,Abadia dos Dourados,abadia-dos-dourados-br3100104,BR3100104,-18.356,-47.476
+BR3100203,Abaeté,Abaete,abaete-br3100203,BR3100203,-19.103,-45.398
+BR3100302,Abre Campo,Abre Campo,abre-campo-br3100302,BR3100302,-20.271,-42.44
+BR3100401,Acaiaca,Acaiaca,acaiaca-br3100401,BR3100401,-20.404,-43.097
+BR3100500,Açucena,Acucena,acucena-br3100500,BR3100500,-19.051,-42.445
+BR3100609,Água Boa,Agua Boa,agua-boa-br3100609,BR3100609,-14.144,-52.475
+BR3100708,Água Comprida,Agua Comprida,agua-comprida-br3100708,BR3100708,-19.989,-48.093
+BR3100807,Aguanil,Aguanil,aguanil-br3100807,BR3100807,-20.977,-45.409
+BR3100906,Águas Formosas,Aguas Formosas,aguas-formosas-br3100906,BR3100906,-17.053,-40.981
+BR3101003,Águas Vermelhas,Aguas Vermelhas,aguas-vermelhas-br3101003,BR3101003,-15.697,-41.56
+BR3101102,Aimorés,Aimores,aimores-br3101102,BR3101102,-19.62,-41.214
+BR3101201,Aiuruoca,Aiuruoca,aiuruoca-br3101201,BR3101201,-21.954,-44.639
+BR3101300,Alagoa,Alagoa,alagoa-br3101300,BR3101300,-22.183,-44.661
+BR3101409,Albertina,Albertina,albertina-br3101409,BR3101409,-22.199,-46.612
+BR3101508,Além Paraíba,Alem Paraiba,alem-paraiba-br3101508,BR3101508,-21.811,-42.756
+BR3101607,Alfenas,Alfenas,alfenas-br3101607,BR3101607,-21.392,-45.992
+BR3101631,Alfredo Vasconcelos,Alfredo Vasconcelos,alfredo-vasconcelos-br3101631,BR3101631,-21.139,-43.71
+BR3101706,Almenara,Almenara,almenara-br3101706,BR3101706,-16.113,-40.733
+BR3101805,Alpercata,Alpercata,alpercata-br3101805,BR3101805,-18.985,-42.003
+BR3101904,Alpinópolis,Alpinopolis,alpinopolis-br3101904,BR3101904,-20.84,-46.381
+BR3102001,Alterosa,Alterosa,alterosa-br3102001,BR3102001,-21.219,-46.168
+BR3102050,Alto Caparaó,Alto Caparao,alto-caparao-br3102050,BR3102050,-20.461,-41.873
+BR3153509,Alto Jequitibá,Alto Jequitiba,alto-jequitiba-br3153509,BR3153509,-20.436,-41.947
+BR3102100,Alto Rio Doce,Alto Rio Doce,alto-rio-doce-br3102100,BR3102100,-21.021,-43.409
+BR3102209,Alvarenga,Alvarenga,alvarenga-br3102209,BR3102209,-19.428,-41.709
+BR3102308,Alvinópolis,Alvinopolis,alvinopolis-br3102308,BR3102308,-20.114,-43.13
+BR3102407,Alvorada de Minas,Alvorada de Minas,alvorada-de-minas-br3102407,BR3102407,-18.778,-43.363
+BR3102506,Amparo do Serra,Amparo do Serra,amparo-do-serra-br3102506,BR3102506,-20.521,-42.795
+BR3102605,Andradas,Andradas,andradas-br3102605,BR3102605,-22.075,-46.567
+BR3102803,Andrelândia,Andrelandia,andrelandia-br3102803,BR3102803,-21.719,-44.29
+BR3102852,Angelândia,Angelandia,angelandia-br3102852,BR3102852,-17.699,-42.283
+BR3102902,Antônio Carlos,Antonio Carlos,antonio-carlos-br3102902,BR3102902,-27.5,-48.839
+BR3103009,Antônio Dias,Antonio Dias,antonio-dias-br3103009,BR3103009,-19.562,-42.892
+BR3103108,Antônio Prado de Minas,Antonio Prado de Minas,antonio-prado-de-minas-br3103108,BR3103108,-21.02,-42.152
+BR3103207,Araçaí,Aracai,aracai-br3103207,BR3103207,-19.243,-44.222
+BR3103306,Aracitaba,Aracitaba,aracitaba-br3103306,BR3103306,-21.355,-43.408
+BR3103405,Araçuaí,Aracuai,aracuai-br3103405,BR3103405,-16.912,-41.983
+BR3103504,Araguari,Araguari,araguari-br3103504,BR3103504,-18.575,-48.279
+BR3103603,Arantina,Arantina,arantina-br3103603,BR3103603,-21.902,-44.228
+BR3103702,Araponga,Araponga,araponga-br3103702,BR3103702,-20.66,-42.5
+BR3103751,Araporã,Arapora,arapora-br3103751,BR3103751,-18.489,-49.136
+BR3103801,Arapuá,Arapua,arapua-br3103801,BR3103801,-24.321,-51.812
+BR3103900,Araújos,Araujos,araujos-br3103900,BR3103900,-19.88,-45.167
+BR3104007,Araxá,Araxa,araxa-br3104007,BR3104007,-19.606,-46.977
+BR3104106,Arceburgo,Arceburgo,arceburgo-br3104106,BR3104106,-21.359,-46.935
+BR3104205,Arcos,Arcos,arcos-br3104205,BR3104205,-20.245,-45.559
+BR3104304,Areado,Areado,areado-br3104304,BR3104304,-21.347,-46.15
+BR3104403,Argirita,Argirita,argirita-br3104403,BR3104403,-21.638,-42.833
+BR3104452,Aricanduva,Aricanduva,aricanduva-br3104452,BR3104452,-17.872,-42.599
+BR3104502,Arinos,Arinos,arinos-br3104502,BR3104502,-15.781,-46
+BR3104601,Astolfo Dutra,Astolfo Dutra,astolfo-dutra-br3104601,BR3104601,-21.304,-42.881
+BR3104700,Ataléia,Ataleia,ataleia-br3104700,BR3104700,-18.176,-41.169
+BR3104809,Augusto de Lima,Augusto de Lima,augusto-de-lima-br3104809,BR3104809,-18.101,-44.18
+BR3104908,Baependi,Baependi,baependi-br3104908,BR3104908,-21.995,-44.837
+BR3105004,Baldim,Baldim,baldim-br3105004,BR3105004,-19.236,-43.861
+BR3105103,Bambuí,Bambui,bambui-br3105103,BR3105103,-20.117,-45.995
+BR3105202,Bandeira,Bandeira,bandeira-br3105202,BR3105202,-15.874,-40.6
+BR3105301,Bandeira do Sul,Bandeira do Sul,bandeira-do-sul-br3105301,BR3105301,-21.726,-46.384
+BR3105400,Barão de Cocais,Barao de Cocais,barao-de-cocais-br3105400,BR3105400,-19.878,-43.498
+BR3105509,Barão de Monte Alto,Barao de Monte Alto,barao-de-monte-alto-br3105509,BR3105509,-21.265,-42.282
+BR3105608,Barbacena,Barbacena,barbacena-br3105608,BR3105608,-21.249,-43.822
+BR3105707,Barra Longa,Barra Longa,barra-longa-br3105707,BR3105707,-20.279,-43.067
+BR3105905,Barroso,Barroso,barroso-br3105905,BR3105905,-21.182,-43.958
+BR3106002,Bela Vista de Minas,Bela Vista de Minas,bela-vista-de-minas-br3106002,BR3106002,-19.801,-43.101
+BR3106101,Belmiro Braga,Belmiro Braga,belmiro-braga-br3106101,BR3106101,-21.967,-43.455
+BR3106200,Belo Horizonte,Belo Horizonte,belo-horizonte-br3106200,BR3106200,-19.891,-43.962
+BR3106309,Belo Oriente,Belo Oriente,belo-oriente-br3106309,BR3106309,-19.253,-42.436
+BR3106408,Belo Vale,Belo Vale,belo-vale-br3106408,BR3106408,-20.411,-44.062
+BR3106507,Berilo,Berilo,berilo-br3106507,BR3106507,-16.876,-42.492
+BR3106655,Berizal,Berizal,berizal-br3106655,BR3106655,-15.681,-41.77
+BR3106606,Bertópolis,Bertopolis,bertopolis-br3106606,BR3106606,-16.954,-40.563
+BR3106705,Betim,Betim,betim-br3106705,BR3106705,-19.96,-44.197
+BR3106804,Bias Fortes,Bias Fortes,bias-fortes-br3106804,BR3106804,-21.638,-43.761
+BR3106903,Bicas,Bicas,bicas-br3106903,BR3106903,-21.731,-43.099
+BR3107000,Biquinhas,Biquinhas,biquinhas-br3107000,BR3107000,-18.766,-45.531
+BR3107109,Boa Esperança,Boa Esperanca,boa-esperanca-br3107109,BR3107109,-24.246,-52.741
+BR3107208,Bocaina de Minas,Bocaina de Minas,bocaina-de-minas-br3107208,BR3107208,-22.229,-44.496
+BR3107307,Bocaiúva,Bocaiuva,bocaiuva-br3107307,BR3107307,-17.319,-43.664
+BR3107406,Bom Despacho,Bom Despacho,bom-despacho-br3107406,BR3107406,-19.684,-45.291
+BR3107505,Bom Jardim de Minas,Bom Jardim de Minas,bom-jardim-de-minas-br3107505,BR3107505,-21.945,-44.125
+BR3107604,Bom Jesus da Penha,Bom Jesus da Penha,bom-jesus-da-penha-br3107604,BR3107604,-21.003,-46.544
+BR3107703,Bom Jesus do Amparo,Bom Jesus do Amparo,bom-jesus-do-amparo-br3107703,BR3107703,-19.719,-43.467
+BR3107802,Bom Jesus do Galho,Bom Jesus do Galho,bom-jesus-do-galho-br3107802,BR3107802,-19.725,-42.361
+BR3107901,Bom Repouso,Bom Repouso,bom-repouso-br3107901,BR3107901,-22.449,-46.183
+BR3108008,Bom Sucesso,Bom Sucesso,bom-sucesso-br3108008,BR3108008,-23.694,-51.819
+BR3108107,Bonfim,Bonfim,bonfim-br3108107,BR3108107,-20.327,-44.209
+BR3108206,Bonfinópolis de Minas,Bonfinopolis de Minas,bonfinopolis-de-minas-br3108206,BR3108206,-16.521,-46.166
+BR3108255,Bonito de Minas,Bonito de Minas,bonito-de-minas-br3108255,BR3108255,-14.922,-44.873
+BR3108305,Borda da Mata,Borda da Mata,borda-da-mata-br3108305,BR3108305,-22.25,-46.16
+BR3108404,Botelhos,Botelhos,botelhos-br3108404,BR3108404,-21.651,-46.433
+BR3108503,Botumirim,Botumirim,botumirim-br3108503,BR3108503,-16.902,-43.007
+BR3108701,Brás Pires,Bras Pires,bras-pires-br3108701,BR3108701,-20.874,-43.233
+BR3108552,Brasilândia de Minas,Brasilandia de Minas,brasilandia-de-minas-br3108552,BR3108552,-16.955,-45.915
+BR3108602,Brasília de Minas,Brasilia de Minas,brasilia-de-minas-br3108602,BR3108602,-16.248,-44.458
+BR3108800,Braúnas,Braunas,braunas-br3108800,BR3108800,-19.034,-42.717
+BR3108909,Brazópolis,Brazopolis,brazopolis-br3108909,BR3108909,-22.491,-45.631
+BR3109006,Brumadinho,Brumadinho,brumadinho-br3109006,BR3109006,-20.206,-44.142
+BR3109105,Bueno Brandão,Bueno Brandao,bueno-brandao-br3109105,BR3109105,-22.509,-46.358
+BR3109204,Buenópolis,Buenopolis,buenopolis-br3109204,BR3109204,-17.879,-44.037
+BR3109253,Bugre,Bugre,bugre-br3109253,BR3109253,-19.366,-42.307
+BR3109303,Buritis,Buritis,buritis-br3109303,BR3109303,-15.419,-46.562
+BR3109402,Buritizeiro,Buritizeiro,buritizeiro-br3109402,BR3109402,-17.307,-45.272
+BR3109451,Cabeceira Grande,Cabeceira Grande,cabeceira-grande-br3109451,BR3109451,-16.083,-47.164
+BR3109501,Cabo Verde,Cabo Verde,cabo-verde-br3109501,BR3109501,-21.486,-46.387
+BR3109600,Cachoeira da Prata,Cachoeira da Prata,cachoeira-da-prata-br3109600,BR3109600,-19.517,-44.465
+BR3109709,Cachoeira de Minas,Cachoeira de Minas,cachoeira-de-minas-br3109709,BR3109709,-22.364,-45.791
+BR3102704,Cachoeira de Pajeú,Cachoeira de Pajeu,cachoeira-de-pajeu-br3102704,BR3102704,-15.977,-41.505
+BR3109808,Cachoeira Dourada,Cachoeira Dourada,cachoeira-dourada-br3109808,BR3109808,-18.496,-49.632
+BR3109907,Caetanópolis,Caetanopolis,caetanopolis-br3109907,BR3109907,-19.344,-44.401
+BR3110004,Caeté,Caete,caete-br3110004,BR3110004,-19.859,-43.647
+BR3110103,Caiana,Caiana,caiana-br3110103,BR3110103,-20.725,-41.908
+BR3110202,Cajuri,Cajuri,cajuri-br3110202,BR3110202,-20.789,-42.759
+BR3110301,Caldas,Caldas,caldas-br3110301,BR3110301,-21.883,-46.356
+BR3110400,Camacho,Camacho,camacho-br3110400,BR3110400,-20.643,-45.13
+BR3110509,Camanducaia,Camanducaia,camanducaia-br3110509,BR3110509,-22.791,-46.075
+BR3110608,Cambuí,Cambui,cambui-br3110608,BR3110608,-22.579,-46.069
+BR3110707,Cambuquira,Cambuquira,cambuquira-br3110707,BR3110707,-21.857,-45.267
+BR3110806,Campanário,Campanario,campanario-br3110806,BR3110806,-18.273,-41.737
+BR3110905,Campanha,Campanha,campanha-br3110905,BR3110905,-21.817,-45.4
+BR3111002,Campestre,Campestre,campestre-br3111002,BR3111002,-21.731,-46.23
+BR3111101,Campina Verde,Campina Verde,campina-verde-br3111101,BR3111101,-19.479,-49.737
+BR3111150,Campo Azul,Campo Azul,campo-azul-br3111150,BR3111150,-16.522,-44.782
+BR3111200,Campo Belo,Campo Belo,campo-belo-br3111200,BR3111200,-20.92,-45.239
+BR3111309,Campo do Meio,Campo do Meio,campo-do-meio-br3111309,BR3111309,-21.128,-45.809
+BR3111408,Campo Florido,Campo Florido,campo-florido-br3111408,BR3111408,-19.707,-48.651
+BR3111507,Campos Altos,Campos Altos,campos-altos-br3111507,BR3111507,-19.61,-46.191
+BR3111606,Campos Gerais,Campos Gerais,campos-gerais-br3111606,BR3111606,-21.255,-45.73
+BR3111903,Cana Verde,Cana Verde,cana-verde-br3111903,BR3111903,-21.034,-45.19
+BR3111705,Canaã,Canaa,canaa-br3111705,BR3111705,-20.671,-42.637
+BR3111804,Canápolis,Canapolis,canapolis-br3111804,BR3111804,-18.779,-49.275
+BR3112000,Candeias,Candeias,candeias-br3112000,BR3112000,-20.75,-45.269
+BR3112059,Cantagalo,Cantagalo,cantagalo-br3112059,BR3112059,-25.29,-52.138
+BR3112109,Caparaó,Caparao,caparao-br3112109,BR3112109,-20.525,-41.95
+BR3112208,Capela Nova,Capela Nova,capela-nova-br3112208,BR3112208,-20.921,-43.609
+BR3112307,Capelinha,Capelinha,capelinha-br3112307,BR3112307,-17.687,-42.503
+BR3112406,Capetinga,Capetinga,capetinga-br3112406,BR3112406,-20.661,-47.02
+BR3112505,Capim Branco,Capim Branco,capim-branco-br3112505,BR3112505,-19.576,-44.165
+BR3112604,Capinópolis,Capinopolis,capinopolis-br3112604,BR3112604,-18.686,-49.58
+BR3112653,Capitão Andrade,Capitao Andrade,capitao-andrade-br3112653,BR3112653,-19.046,-41.829
+BR3112703,Capitão Enéas,Capitao Eneas,capitao-eneas-br3112703,BR3112703,-16.042,-43.663
+BR3112802,Capitólio,Capitolio,capitolio-br3112802,BR3112802,-20.598,-46.149
+BR3112901,Caputira,Caputira,caputira-br3112901,BR3112901,-20.184,-42.25
+BR3113008,Caraí,Carai,carai-br3113008,BR3113008,-17.173,-41.565
+BR3113107,Caranaíba,Caranaiba,caranaiba-br3113107,BR3113107,-20.893,-43.73
+BR3113206,Carandaí,Carandai,carandai-br3113206,BR3113206,-20.992,-43.831
+BR3113305,Carangola,Carangola,carangola-br3113305,BR3113305,-20.711,-42.097
+BR3113404,Caratinga,Caratinga,caratinga-br3113404,BR3113404,-19.699,-42.119
+BR3113503,Carbonita,Carbonita,carbonita-br3113503,BR3113503,-17.489,-43.046
+BR3113602,Careaçu,Careacu,careacu-br3113602,BR3113602,-22.069,-45.665
+BR3113701,Carlos Chagas,Carlos Chagas,carlos-chagas-br3113701,BR3113701,-17.674,-40.867
+BR3113800,Carmésia,Carmesia,carmesia-br3113800,BR3113800,-19.065,-43.18
+BR3113909,Carmo da Cachoeira,Carmo da Cachoeira,carmo-da-cachoeira-br3113909,BR3113909,-21.449,-45.194
+BR3114006,Carmo da Mata,Carmo da Mata,carmo-da-mata-br3114006,BR3114006,-20.571,-44.873
+BR3114105,Carmo de Minas,Carmo de Minas,carmo-de-minas-br3114105,BR3114105,-22.091,-45.152
+BR3114204,Carmo do Cajuru,Carmo do Cajuru,carmo-do-cajuru-br3114204,BR3114204,-20.189,-44.707
+BR3114303,Carmo do Paranaíba,Carmo do Paranaiba,carmo-do-paranaiba-br3114303,BR3114303,-18.866,-46.138
+BR3114402,Carmo do Rio Claro,Carmo do Rio Claro,carmo-do-rio-claro-br3114402,BR3114402,-20.985,-46.118
+BR3114501,Carmópolis de Minas,Carmopolis de Minas,carmopolis-de-minas-br3114501,BR3114501,-20.563,-44.656
+BR3114550,Carneirinho,Carneirinho,carneirinho-br3114550,BR3114550,-19.726,-50.832
+BR3114600,Carrancas,Carrancas,carrancas-br3114600,BR3114600,-21.488,-44.606
+BR3114709,Carvalhópolis,Carvalhopolis,carvalhopolis-br3114709,BR3114709,-21.775,-45.825
+BR3114808,Carvalhos,Carvalhos,carvalhos-br3114808,BR3114808,-22.026,-44.488
+BR3114907,Casa Grande,Casa Grande,casa-grande-br3114907,BR3114907,-20.833,-43.94
+BR3115003,Cascalho Rico,Cascalho Rico,cascalho-rico-br3115003,BR3115003,-18.549,-47.86
+BR3115102,Cássia,Cassia,cassia-br3115102,BR3115102,-20.573,-46.916
+BR3115300,Cataguases,Cataguases,cataguases-br3115300,BR3115300,-21.341,-42.649
+BR3115359,Catas Altas,Catas Altas,catas-altas-br3115359,BR3115359,-20.073,-43.417
+BR3115409,Catas Altas da Noruega,Catas Altas da Noruega,catas-altas-da-noruega-br3115409,BR3115409,-20.673,-43.492
+BR3115458,Catuji,Catuji,catuji-br3115458,BR3115458,-17.367,-41.497
+BR3115474,Catuti,Catuti,catuti-br3115474,BR3115474,-15.331,-43.095
+BR3115508,Caxambu,Caxambu,caxambu-br3115508,BR3115508,-21.982,-44.944
+BR3115607,Cedro do Abaeté,Cedro do Abaete,cedro-do-abaete-br3115607,BR3115607,-19.113,-45.7
+BR3115706,Central de Minas,Central de Minas,central-de-minas-br3115706,BR3115706,-18.766,-41.294
+BR3115805,Centralina,Centralina,centralina-br3115805,BR3115805,-18.613,-49.169
+BR3115904,Chácara,Chacara,chacara-br3115904,BR3115904,-21.681,-43.215
+BR3116001,Chalé,Chale,chale-br3116001,BR3116001,-20.028,-41.672
+BR3116100,Chapada do Norte,Chapada do Norte,chapada-do-norte-br3116100,BR3116100,-17.163,-42.378
+BR3116159,Chapada Gaúcha,Chapada Gaucha,chapada-gaucha-br3116159,BR3116159,-15.447,-45.473
+BR3116209,Chiador,Chiador,chiador-br3116209,BR3116209,-21.996,-43.032
+BR3116308,Cipotânea,Cipotanea,cipotanea-br3116308,BR3116308,-20.927,-43.359
+BR3116407,Claraval,Claraval,claraval-br3116407,BR3116407,-20.366,-47.238
+BR3116506,Claro dos Poções,Claro dos Pocoes,claro-dos-pocoes-br3116506,BR3116506,-17.086,-44.227
+BR3116605,Cláudio,Claudio,claudio-br3116605,BR3116605,-20.393,-44.777
+BR3116704,Coimbra,Coimbra,coimbra-br3116704,BR3116704,-20.846,-42.79
+BR3116803,Coluna,Coluna,coluna-br3116803,BR3116803,-18.258,-42.827
+BR3116902,Comendador Gomes,Comendador Gomes,comendador-gomes-br3116902,BR3116902,-19.667,-49.084
+BR3117009,Comercinho,Comercinho,comercinho-br3117009,BR3117009,-16.285,-41.768
+BR3117108,Conceição da Aparecida,Conceicao da Aparecida,conceicao-da-aparecida-br3117108,BR3117108,-21.09,-46.227
+BR3115201,Conceição da Barra de Minas,Conceicao da Barra de Minas,conceicao-da-barra-de-minas-br3115201,BR3115201,-21.131,-44.489
+BR3117306,Conceição das Alagoas,Conceicao das Alagoas,conceicao-das-alagoas-br3117306,BR3117306,-19.957,-48.338
+BR3117207,Conceição das Pedras,Conceicao das Pedras,conceicao-das-pedras-br3117207,BR3117207,-22.137,-45.409
+BR3117405,Conceição de Ipanema,Conceicao de Ipanema,conceicao-de-ipanema-br3117405,BR3117405,-19.917,-41.696
+BR3117504,Conceição do Mato Dentro,Conceicao do Mato Dentro,conceicao-do-mato-dentro-br3117504,BR3117504,-18.925,-43.485
+BR3117603,Conceição do Pará,Conceicao do Para,conceicao-do-para-br3117603,BR3117603,-19.78,-44.88
+BR3117702,Conceição do Rio Verde,Conceicao do Rio Verde,conceicao-do-rio-verde-br3117702,BR3117702,-21.895,-45.088
+BR3117801,Conceição dos Ouros,Conceicao dos Ouros,conceicao-dos-ouros-br3117801,BR3117801,-22.446,-45.771
+BR3117836,Cônego Marinho,Conego Marinho,conego-marinho-br3117836,BR3117836,-15.016,-44.593
+BR3117876,Confins,Confins,confins-br3117876,BR3117876,-19.645,-43.972
+BR3117900,Congonhal,Congonhal,congonhal-br3117900,BR3117900,-22.139,-46.044
+BR3118007,Congonhas,Congonhas,congonhas-br3118007,BR3118007,-20.524,-43.856
+BR3118106,Congonhas do Norte,Congonhas do Norte,congonhas-do-norte-br3118106,BR3118106,-18.882,-43.685
+BR3118205,Conquista,Conquista,conquista-br3118205,BR3118205,-19.881,-47.62
+BR3118304,Conselheiro Lafaiete,Conselheiro Lafaiete,conselheiro-lafaiete-br3118304,BR3118304,-20.663,-43.803
+BR3118403,Conselheiro Pena,Conselheiro Pena,conselheiro-pena-br3118403,BR3118403,-19.151,-41.437
+BR3118502,Consolação,Consolacao,consolacao-br3118502,BR3118502,-22.531,-45.911
+BR3118601,Contagem,Contagem,contagem-br3118601,BR3118601,-19.886,-44.074
+BR3118700,Coqueiral,Coqueiral,coqueiral-br3118700,BR3118700,-21.182,-45.424
+BR3118809,Coração de Jesus,Coracao de Jesus,coracao-de-jesus-br3118809,BR3118809,-16.622,-44.437
+BR3118908,Cordisburgo,Cordisburgo,cordisburgo-br3118908,BR3118908,-19.086,-44.158
+BR3119005,Cordislândia,Cordislandia,cordislandia-br3119005,BR3119005,-21.786,-45.668
+BR3119104,Corinto,Corinto,corinto-br3119104,BR3119104,-18.347,-44.614
+BR3119203,Coroaci,Coroaci,coroaci-br3119203,BR3119203,-18.61,-42.26
+BR3119302,Coromandel,Coromandel,coromandel-br3119302,BR3119302,-18.378,-47.136
+BR3119401,Coronel Fabriciano,Coronel Fabriciano,coronel-fabriciano-br3119401,BR3119401,-19.458,-42.685
+BR3119500,Coronel Murta,Coronel Murta,coronel-murta-br3119500,BR3119500,-16.583,-42.193
+BR3119609,Coronel Pacheco,Coronel Pacheco,coronel-pacheco-br3119609,BR3119609,-21.607,-43.293
+BR3119708,Coronel Xavier Chaves,Coronel Xavier Chaves,coronel-xavier-chaves-br3119708,BR3119708,-21.031,-44.202
+BR3119807,Córrego Danta,Corrego Danta,corrego-danta-br3119807,BR3119807,-19.786,-45.983
+BR3119906,Córrego do Bom Jesus,Corrego do Bom Jesus,corrego-do-bom-jesus-br3119906,BR3119906,-22.635,-45.989
+BR3119955,Córrego Fundo,Corrego Fundo,corrego-fundo-br3119955,BR3119955,-20.448,-45.541
+BR3120003,Córrego Novo,Corrego Novo,corrego-novo-br3120003,BR3120003,-19.831,-42.45
+BR3120102,Couto de Magalhães de Minas,Couto de Magalhaes de Minas,couto-de-magalhaes-de-minas-br3120102,BR3120102,-18.089,-43.43
+BR3120151,Crisólita,Crisolita,crisolita-br3120151,BR3120151,-17.24,-40.978
+BR3120201,Cristais,Cristais,cristais-br3120201,BR3120201,-20.817,-45.54
+BR3120300,Cristália,Cristalia,cristalia-br3120300,BR3120300,-16.713,-42.824
+BR3120409,Cristiano Otoni,Cristiano Otoni,cristiano-otoni-br3120409,BR3120409,-20.838,-43.825
+BR3120508,Cristina,Cristina,cristina-br3120508,BR3120508,-22.214,-45.293
+BR3120607,Crucilândia,Crucilandia,crucilandia-br3120607,BR3120607,-20.403,-44.364
+BR3120706,Cruzeiro da Fortaleza,Cruzeiro da Fortaleza,cruzeiro-da-fortaleza-br3120706,BR3120706,-18.982,-46.666
+BR3120805,Cruzília,Cruzilia,cruzilia-br3120805,BR3120805,-21.731,-44.796
+BR3120839,Cuparaque,Cuparaque,cuparaque-br3120839,BR3120839,-18.999,-41.13
+BR3120870,Curral de Dentro,Curral de Dentro,curral-de-dentro-br3120870,BR3120870,-15.845,-41.745
+BR3120904,Curvelo,Curvelo,curvelo-br3120904,BR3120904,-18.795,-44.414
+BR3121001,Datas,Datas,datas-br3121001,BR3121001,-18.478,-43.656
+BR3121100,Delfim Moreira,Delfim Moreira,delfim-moreira-br3121100,BR3121100,-22.506,-45.293
+BR3121209,Delfinópolis,Delfinopolis,delfinopolis-br3121209,BR3121209,-20.353,-46.752
+BR3121258,Delta,Delta,delta-br3121258,BR3121258,-19.926,-47.814
+BR3121308,Descoberto,Descoberto,descoberto-br3121308,BR3121308,-21.451,-42.97
+BR3121407,Desterro de Entre Rios,Desterro de Entre Rios,desterro-de-entre-rios-br3121407,BR3121407,-20.637,-44.275
+BR3121506,Desterro do Melo,Desterro do Melo,desterro-do-melo-br3121506,BR3121506,-21.145,-43.52
+BR3121605,Diamantina,Diamantina,diamantina-br3121605,BR3121605,-17.93,-43.581
+BR3121704,Diogo de Vasconcelos,Diogo de Vasconcelos,diogo-de-vasconcelos-br3121704,BR3121704,-20.478,-43.183
+BR3121803,Dionísio,Dionisio,dionisio-br3121803,BR3121803,-19.833,-42.67
+BR3121902,Divinésia,Divinesia,divinesia-br3121902,BR3121902,-20.991,-42.997
+BR3122009,Divino,Divino,divino-br3122009,BR3122009,-20.578,-42.195
+BR3122108,Divino das Laranjeiras,Divino das Laranjeiras,divino-das-laranjeiras-br3122108,BR3122108,-18.71,-41.49
+BR3122207,Divinolândia de Minas,Divinolandia de Minas,divinolandia-de-minas-br3122207,BR3122207,-18.781,-42.574
+BR3122306,Divinópolis,Divinopolis,divinopolis-br3122306,BR3122306,-20.103,-44.919
+BR3122355,Divisa Alegre,Divisa Alegre,divisa-alegre-br3122355,BR3122355,-15.705,-41.383
+BR3122405,Divisa Nova,Divisa Nova,divisa-nova-br3122405,BR3122405,-21.526,-46.242
+BR3122454,Divisópolis,Divisopolis,divisopolis-br3122454,BR3122454,-15.768,-40.909
+BR3122470,Dom Bosco,Dom Bosco,dom-bosco-br3122470,BR3122470,-16.776,-46.311
+BR3122504,Dom Cavati,Dom Cavati,dom-cavati-br3122504,BR3122504,-19.387,-42.089
+BR3122603,Dom Joaquim,Dom Joaquim,dom-joaquim-br3122603,BR3122603,-18.925,-43.26
+BR3122702,Dom Silvério,Dom Silverio,dom-silverio-br3122702,BR3122702,-20.121,-42.943
+BR3122801,Dom Viçoso,Dom Vicoso,dom-vicoso-br3122801,BR3122801,-22.236,-45.151
+BR3122900,Dona Euzébia,Dona Euzebia,dona-euzebia-br3122900,BR3122900,-21.335,-42.803
+BR3123007,Dores de Campos,Dores de Campos,dores-de-campos-br3123007,BR3123007,-21.107,-43.993
+BR3123106,Dores de Guanhães,Dores de Guanhaes,dores-de-guanhaes-br3123106,BR3123106,-19.051,-42.92
+BR3123205,Dores do Indaiá,Dores do Indaia,dores-do-indaia-br3123205,BR3123205,-19.484,-45.543
+BR3123304,Dores do Turvo,Dores do Turvo,dores-do-turvo-br3123304,BR3123304,-21.025,-43.169
+BR3123403,Doresópolis,Doresopolis,doresopolis-br3123403,BR3123403,-20.296,-45.893
+BR3123502,Douradoquara,Douradoquara,douradoquara-br3123502,BR3123502,-18.436,-47.615
+BR3123528,Durandé,Durande,durande-br3123528,BR3123528,-20.141,-41.794
+BR3123601,Elói Mendes,Eloi Mendes,eloi-mendes-br3123601,BR3123601,-21.596,-45.596
+BR3123700,Engenheiro Caldas,Engenheiro Caldas,engenheiro-caldas-br3123700,BR3123700,-19.111,-42.017
+BR3123809,Engenheiro Navarro,Engenheiro Navarro,engenheiro-navarro-br3123809,BR3123809,-17.298,-44.028
+BR3123858,Entre Folhas,Entre Folhas,entre-folhas-br3123858,BR3123858,-19.657,-42.236
+BR3123908,Entre Rios de Minas,Entre Rios de Minas,entre-rios-de-minas-br3123908,BR3123908,-20.701,-44.116
+BR3124005,Ervália,Ervalia,ervalia-br3124005,BR3124005,-20.852,-42.611
+BR3124104,Esmeraldas,Esmeraldas,esmeraldas-br3124104,BR3124104,-19.75,-44.327
+BR3124203,Espera Feliz,Espera Feliz,espera-feliz-br3124203,BR3124203,-20.598,-41.92
+BR3124302,Espinosa,Espinosa,espinosa-br3124302,BR3124302,-14.861,-42.983
+BR3124401,Espírito Santo do Dourado,Espirito Santo do Dourado,espirito-santo-do-dourado-br3124401,BR3124401,-22.019,-45.979
+BR3124500,Estiva,Estiva,estiva-br3124500,BR3124500,-22.459,-46.02
+BR3124609,Estrela Dalva,Estrela Dalva,estrela-dalva-br3124609,BR3124609,-21.7,-42.467
+BR3124708,Estrela do Indaiá,Estrela do Indaia,estrela-do-indaia-br3124708,BR3124708,-19.589,-45.816
+BR3124807,Estrela do Sul,Estrela do Sul,estrela-do-sul-br3124807,BR3124807,-18.713,-47.702
+BR3124906,Eugenópolis,Eugenopolis,eugenopolis-br3124906,BR3124906,-21.023,-42.223
+BR3125002,Ewbank da Câmara,Ewbank da Camara,ewbank-da-camara-br3125002,BR3125002,-21.575,-43.556
+BR3125101,Extrema,Extrema,extrema-br3125101,BR3125101,-22.825,-46.294
+BR3125200,Fama,Fama,fama-br3125200,BR3125200,-21.47,-45.817
+BR3125309,Faria Lemos,Faria Lemos,faria-lemos-br3125309,BR3125309,-20.78,-42.021
+BR3125408,Felício dos Santos,Felicio dos Santos,felicio-dos-santos-br3125408,BR3125408,-18.143,-43.245
+BR3125606,Felisburgo,Felisburgo,felisburgo-br3125606,BR3125606,-16.659,-40.717
+BR3125705,Felixlândia,Felixlandia,felixlandia-br3125705,BR3125705,-18.715,-44.935
+BR3125804,Fernandes Tourinho,Fernandes Tourinho,fernandes-tourinho-br3125804,BR3125804,-19.102,-42.091
+BR3125903,Ferros,Ferros,ferros-br3125903,BR3125903,-19.233,-42.971
+BR3125952,Fervedouro,Fervedouro,fervedouro-br3125952,BR3125952,-20.688,-42.343
+BR3126000,Florestal,Florestal,florestal-br3126000,BR3126000,-19.861,-44.432
+BR3126109,Formiga,Formiga,formiga-br3126109,BR3126109,-20.531,-45.479
+BR3126208,Formoso,Formoso,formoso-br3126208,BR3126208,-13.705,-48.869
+BR3126307,Fortaleza de Minas,Fortaleza de Minas,fortaleza-de-minas-br3126307,BR3126307,-20.883,-46.773
+BR3126406,Fortuna de Minas,Fortuna de Minas,fortuna-de-minas-br3126406,BR3126406,-19.554,-44.51
+BR3126505,Francisco Badaró,Francisco Badaro,francisco-badaro-br3126505,BR3126505,-16.955,-42.281
+BR3126604,Francisco Dumont,Francisco Dumont,francisco-dumont-br3126604,BR3126604,-17.391,-44.227
+BR3126703,Francisco Sá,Francisco Sa,francisco-sa-br3126703,BR3126703,-16.421,-43.485
+BR3126752,Franciscópolis,Franciscopolis,franciscopolis-br3126752,BR3126752,-17.996,-41.966
+BR3126802,Frei Gaspar,Frei Gaspar,frei-gaspar-br3126802,BR3126802,-18.142,-41.506
+BR3126901,Frei Inocêncio,Frei Inocencio,frei-inocencio-br3126901,BR3126901,-18.516,-41.873
+BR3126950,Frei Lagonegro,Frei Lagonegro,frei-lagonegro-br3126950,BR3126950,-18.144,-42.765
+BR3127008,Fronteira,Fronteira,fronteira-br3127008,BR3127008,-20.217,-49.168
+BR3127057,Fronteira dos Vales,Fronteira dos Vales,fronteira-dos-vales-br3127057,BR3127057,-16.892,-40.82
+BR3127073,Fruta de Leite,Fruta de Leite,fruta-de-leite-br3127073,BR3127073,-16.144,-42.526
+BR3127107,Frutal,Frutal,frutal-br3127107,BR3127107,-20.012,-48.975
+BR3127206,Funilândia,Funilandia,funilandia-br3127206,BR3127206,-19.363,-44.066
+BR3127305,Galiléia,Galileia,galileia-br3127305,BR3127305,-18.867,-41.517
+BR3127339,Gameleiras,Gameleiras,gameleiras-br3127339,BR3127339,-14.981,-43.294
+BR3127354,Glaucilândia,Glaucilandia,glaucilandia-br3127354,BR3127354,-16.895,-43.65
+BR3127370,Goiabeira,Goiabeira,goiabeira-br3127370,BR3127370,-19.03,-41.232
+BR3127388,Goianá,Goiana,goiana-br3127388,BR3127388,-21.559,-43.188
+BR3127404,Gonçalves,Goncalves,goncalves-br3127404,BR3127404,-22.674,-45.828
+BR3127503,Gonzaga,Gonzaga,gonzaga-br3127503,BR3127503,-18.874,-42.505
+BR3127602,Gouveia,Gouveia,gouveia-br3127602,BR3127602,-18.546,-43.865
+BR3127701,Governador Valadares,Governador Valadares,governador-valadares-br3127701,BR3127701,-18.756,-41.953
+BR3127800,Grão Mogol,Grao Mogol,grao-mogol-br3127800,BR3127800,-16.506,-42.958
+BR3127909,Grupiara,Grupiara,grupiara-br3127909,BR3127909,-18.484,-47.772
+BR3128006,Guanhães,Guanhaes,guanhaes-br3128006,BR3128006,-18.863,-42.818
+BR3128105,Guapé,Guape,guape-br3128105,BR3128105,-20.772,-45.909
+BR3128204,Guaraciaba,Guaraciaba,guaraciaba-br3128204,BR3128204,-26.573,-53.604
+BR3128253,Guaraciama,Guaraciama,guaraciama-br3128253,BR3128253,-17.073,-43.616
+BR3128303,Guaranésia,Guaranesia,guaranesia-br3128303,BR3128303,-21.281,-46.813
+BR3128402,Guarani,Guarani,guarani-br3128402,BR3128402,-21.352,-43.054
+BR3128501,Guarará,Guarara,guarara-br3128501,BR3128501,-21.753,-43.021
+BR3128600,Guarda-Mor,Guarda-Mor,guarda-mor-br3128600,BR3128600,-17.744,-47.125
+BR3128709,Guaxupé,Guaxupe,guaxupe-br3128709,BR3128709,-21.294,-46.687
+BR3128808,Guidoval,Guidoval,guidoval-br3128808,BR3128808,-21.177,-42.787
+BR3128907,Guimarânia,Guimarania,guimarania-br3128907,BR3128907,-18.81,-46.755
+BR3129004,Guiricema,Guiricema,guiricema-br3129004,BR3129004,-21.009,-42.693
+BR3129103,Gurinhatã,Gurinhata,gurinhata-br3129103,BR3129103,-19.054,-49.89
+BR3129202,Heliodora,Heliodora,heliodora-br3129202,BR3129202,-22.046,-45.536
+BR3129301,Iapu,Iapu,iapu-br3129301,BR3129301,-19.36,-42.244
+BR3129400,Ibertioga,Ibertioga,ibertioga-br3129400,BR3129400,-21.446,-43.948
+BR3129509,Ibiá,Ibia,ibia-br3129509,BR3129509,-19.556,-46.609
+BR3129608,Ibiaí,Ibiai,ibiai-br3129608,BR3129608,-16.813,-44.776
+BR3129657,Ibiracatu,Ibiracatu,ibiracatu-br3129657,BR3129657,-15.666,-44.135
+BR3129707,Ibiraci,Ibiraci,ibiraci-br3129707,BR3129707,-20.392,-47.128
+BR3129806,Ibirité,Ibirite,ibirite-br3129806,BR3129806,-20.018,-44.073
+BR3129905,Ibitiúra de Minas,Ibitiura de Minas,ibitiura-de-minas-br3129905,BR3129905,-22.068,-46.409
+BR3130002,Ibituruna,Ibituruna,ibituruna-br3130002,BR3130002,-21.165,-44.786
+BR3130051,Icaraí de Minas,Icarai de Minas,icarai-de-minas-br3130051,BR3130051,-16.209,-44.865
+BR3130101,Igarapé,Igarape,igarape-br3130101,BR3130101,-20.053,-44.314
+BR3130200,Igaratinga,Igaratinga,igaratinga-br3130200,BR3130200,-19.955,-44.722
+BR3130309,Iguatama,Iguatama,iguatama-br3130309,BR3130309,-20.133,-45.75
+BR3130408,Ijaci,Ijaci,ijaci-br3130408,BR3130408,-21.176,-44.926
+BR3130507,Ilicínea,Ilicinea,ilicinea-br3130507,BR3130507,-20.931,-45.815
+BR3130556,Imbé de Minas,Imbe de Minas,imbe-de-minas-br3130556,BR3130556,-19.643,-41.975
+BR3130606,Inconfidentes,Inconfidentes,inconfidentes-br3130606,BR3130606,-22.335,-46.279
+BR3130655,Indaiabira,Indaiabira,indaiabira-br3130655,BR3130655,-15.572,-42.148
+BR3130705,Indianópolis,Indianopolis,indianopolis-br3130705,BR3130705,-23.477,-52.644
+BR3130804,Ingaí,Ingai,ingai-br3130804,BR3130804,-21.415,-44.931
+BR3130903,Inhapim,Inhapim,inhapim-br3130903,BR3130903,-19.5,-41.949
+BR3131000,Inhaúma,Inhauma,inhauma-br3131000,BR3131000,-19.499,-44.415
+BR3131109,Inimutaba,Inimutaba,inimutaba-br3131109,BR3131109,-18.73,-44.269
+BR3131158,Ipaba,Ipaba,ipaba-br3131158,BR3131158,-19.407,-42.364
+BR3131208,Ipanema,Ipanema,ipanema-br3131208,BR3131208,-19.768,-41.77
+BR3131307,Ipatinga,Ipatinga,ipatinga-br3131307,BR3131307,-19.44,-42.6
+BR3131406,Ipiaçu,Ipiacu,ipiacu-br3131406,BR3131406,-18.704,-49.933
+BR3131505,Ipuiúna,Ipuiuna,ipuiuna-br3131505,BR3131505,-22.024,-46.136
+BR3131604,Iraí de Minas,Irai de Minas,irai-de-minas-br3131604,BR3131604,-19.063,-47.456
+BR3131703,Itabira,Itabira,itabira-br3131703,BR3131703,-19.579,-43.298
+BR3131802,Itabirinha,Itabirinha,itabirinha-br3131802,BR3131802,-18.534,-41.25
+BR3131901,Itabirito,Itabirito,itabirito-br3131901,BR3131901,-20.244,-43.782
+BR3132008,Itacambira,Itacambira,itacambira-br3132008,BR3132008,-16.887,-43.308
+BR3132107,Itacarambi,Itacarambi,itacarambi-br3132107,BR3132107,-15.172,-44.15
+BR3132206,Itaguara,Itaguara,itaguara-br3132206,BR3132206,-20.366,-44.527
+BR3132305,Itaipé,Itaipe,itaipe-br3132305,BR3132305,-17.415,-41.659
+BR3132404,Itajubá,Itajuba,itajuba-br3132404,BR3132404,-22.427,-45.407
+BR3132503,Itamarandiba,Itamarandiba,itamarandiba-br3132503,BR3132503,-17.836,-42.873
+BR3132602,Itamarati de Minas,Itamarati de Minas,itamarati-de-minas-br3132602,BR3132602,-21.426,-42.848
+BR3132701,Itambacuri,Itambacuri,itambacuri-br3132701,BR3132701,-18.175,-41.861
+BR3132800,Itambé do Mato Dentro,Itambe do Mato Dentro,itambe-do-mato-dentro-br3132800,BR3132800,-19.405,-43.346
+BR3132909,Itamogi,Itamogi,itamogi-br3132909,BR3132909,-21.08,-47.045
+BR3133006,Itamonte,Itamonte,itamonte-br3133006,BR3133006,-22.29,-44.759
+BR3133105,Itanhandu,Itanhandu,itanhandu-br3133105,BR3133105,-22.323,-44.912
+BR3133204,Itanhomi,Itanhomi,itanhomi-br3133204,BR3133204,-19.151,-41.833
+BR3133303,Itaobim,Itaobim,itaobim-br3133303,BR3133303,-16.569,-41.527
+BR3133402,Itapagipe,Itapagipe,itapagipe-br3133402,BR3133402,-19.752,-49.452
+BR3133501,Itapecerica,Itapecerica,itapecerica-br3133501,BR3133501,-20.462,-45.113
+BR3133600,Itapeva,Itapeva,itapeva-br3133600,BR3133600,-23.932,-48.849
+BR3133709,Itatiaiuçu,Itatiaiucu,itatiaiucu-br3133709,BR3133709,-20.216,-44.457
+BR3133758,Itaú de Minas,Itau de Minas,itau-de-minas-br3133758,BR3133758,-20.73,-46.775
+BR3133808,Itaúna,Itauna,itauna-br3133808,BR3133808,-20.085,-44.581
+BR3133907,Itaverava,Itaverava,itaverava-br3133907,BR3133907,-20.699,-43.601
+BR3134004,Itinga,Itinga,itinga-br3134004,BR3134004,-16.584,-41.855
+BR3134103,Itueta,Itueta,itueta-br3134103,BR3134103,-19.377,-41.096
+BR3134202,Ituiutaba,Ituiutaba,ituiutaba-br3134202,BR3134202,-18.992,-49.548
+BR3134301,Itumirim,Itumirim,itumirim-br3134301,BR3134301,-21.281,-44.835
+BR3134400,Iturama,Iturama,iturama-br3134400,BR3134400,-19.687,-50.369
+BR3134509,Itutinga,Itutinga,itutinga-br3134509,BR3134509,-21.344,-44.717
+BR3134608,Jaboticatubas,Jaboticatubas,jaboticatubas-br3134608,BR3134608,-19.444,-43.749
+BR3134707,Jacinto,Jacinto,jacinto-br3134707,BR3134707,-16.188,-40.33
+BR3134806,Jacuí,Jacui,jacui-br3134806,BR3134806,-21.017,-46.736
+BR3134905,Jacutinga,Jacutinga,jacutinga-br3134905,BR3134905,-27.786,-52.552
+BR3135001,Jaguaraçu,Jaguaracu,jaguaracu-br3135001,BR3135001,-19.642,-42.713
+BR3135050,Jaíba,Jaiba,jaiba-br3135050,BR3135050,-15.21,-43.663
+BR3135076,Jampruca,Jampruca,jampruca-br3135076,BR3135076,-18.467,-41.756
+BR3135100,Janaúba,Janauba,janauba-br3135100,BR3135100,-15.812,-43.377
+BR3135209,Januária,Januaria,januaria-br3135209,BR3135209,-15.307,-44.871
+BR3135308,Japaraíba,Japaraiba,japaraiba-br3135308,BR3135308,-20.134,-45.533
+BR3135357,Japonvar,Japonvar,japonvar-br3135357,BR3135357,-15.938,-44.338
+BR3135407,Jeceaba,Jeceaba,jeceaba-br3135407,BR3135407,-20.556,-44.042
+BR3135456,Jenipapo de Minas,Jenipapo de Minas,jenipapo-de-minas-br3135456,BR3135456,-17.176,-42.211
+BR3135506,Jequeri,Jequeri,jequeri-br3135506,BR3135506,-20.477,-42.619
+BR3135605,Jequitaí,Jequitai,jequitai-br3135605,BR3135605,-17.19,-44.461
+BR3135704,Jequitibá,Jequitiba,jequitiba-br3135704,BR3135704,-19.215,-44.012
+BR3135803,Jequitinhonha,Jequitinhonha,jequitinhonha-br3135803,BR3135803,-16.388,-41.058
+BR3135902,Jesuânia,Jesuania,jesuania-br3135902,BR3135902,-22.009,-45.278
+BR3136009,Joaíma,Joaima,joaima-br3136009,BR3136009,-16.805,-41.019
+BR3136108,Joanésia,Joanesia,joanesia-br3136108,BR3136108,-19.206,-42.71
+BR3136207,João Monlevade,Joao Monlevade,joao-monlevade-br3136207,BR3136207,-19.831,-43.164
+BR3136306,João Pinheiro,Joao Pinheiro,joao-pinheiro-br3136306,BR3136306,-17.532,-45.991
+BR3136405,Joaquim Felício,Joaquim Felicio,joaquim-felicio-br3136405,BR3136405,-17.648,-44.107
+BR3136504,Jordânia,Jordania,jordania-br3136504,BR3136504,-15.876,-40.304
+BR3136520,José Gonçalves de Minas,Jose Goncalves de Minas,jose-goncalves-de-minas-br3136520,BR3136520,-16.899,-42.664
+BR3136553,José Raydan,Jose Raydan,jose-raydan-br3136553,BR3136553,-18.259,-42.471
+BR3136579,Josenópolis,Josenopolis,josenopolis-br3136579,BR3136579,-16.548,-42.524
+BR3136652,Juatuba,Juatuba,juatuba-br3136652,BR3136652,-19.955,-44.35
+BR3136702,Juiz de Fora,Juiz de Fora,juiz-de-fora-br3136702,BR3136702,-21.755,-43.445
+BR3136801,Juramento,Juramento,juramento-br3136801,BR3136801,-16.858,-43.581
+BR3136900,Juruaia,Juruaia,juruaia-br3136900,BR3136900,-21.227,-46.517
+BR3136959,Juvenília,Juvenilia,juvenilia-br3136959,BR3136959,-14.355,-44.083
+BR3137007,Ladainha,Ladainha,ladainha-br3137007,BR3137007,-17.639,-41.835
+BR3137106,Lagamar,Lagamar,lagamar-br3137106,BR3137106,-18.013,-46.719
+BR3137205,Lagoa da Prata,Lagoa da Prata,lagoa-da-prata-br3137205,BR3137205,-19.996,-45.516
+BR3137304,Lagoa dos Patos,Lagoa dos Patos,lagoa-dos-patos-br3137304,BR3137304,-17.021,-44.675
+BR3137403,Lagoa Dourada,Lagoa Dourada,lagoa-dourada-br3137403,BR3137403,-20.9,-44.072
+BR3137502,Lagoa Formosa,Lagoa Formosa,lagoa-formosa-br3137502,BR3137502,-18.763,-46.32
+BR3137536,Lagoa Grande,Lagoa Grande,lagoa-grande-br3137536,BR3137536,-17.75,-46.523
+BR3137601,Lagoa Santa,Lagoa Santa,lagoa-santa-br3137601,BR3137601,-19.22,-51.262
+BR3137700,Lajinha,Lajinha,lajinha-br3137700,BR3137700,-20.11,-41.595
+BR3137809,Lambari,Lambari,lambari-br3137809,BR3137809,-21.989,-45.365
+BR3137908,Lamim,Lamim,lamim-br3137908,BR3137908,-20.773,-43.481
+BR3138005,Laranjal,Laranjal,laranjal-br3138005,BR3138005,-24.909,-52.503
+BR3138104,Lassance,Lassance,lassance-br3138104,BR3138104,-17.886,-44.685
+BR3138203,Lavras,Lavras,lavras-br3138203,BR3138203,-21.252,-45.036
+BR3138302,Leandro Ferreira,Leandro Ferreira,leandro-ferreira-br3138302,BR3138302,-19.684,-45.047
+BR3138351,Leme do Prado,Leme do Prado,leme-do-prado-br3138351,BR3138351,-17.056,-42.744
+BR3138401,Leopoldina,Leopoldina,leopoldina-br3138401,BR3138401,-21.53,-42.64
+BR3138500,Liberdade,Liberdade,liberdade-br3138500,BR3138500,-22.023,-44.34
+BR3138609,Lima Duarte,Lima Duarte,lima-duarte-br3138609,BR3138609,-21.797,-43.877
+BR3138625,Limeira do Oeste,Limeira do Oeste,limeira-do-oeste-br3138625,BR3138625,-19.402,-50.628
+BR3138658,Lontra,Lontra,lontra-br3138658,BR3138658,-15.849,-44.277
+BR3138674,Luisburgo,Luisburgo,luisburgo-br3138674,BR3138674,-20.441,-42.073
+BR3138682,Luislândia,Luislandia,luislandia-br3138682,BR3138682,-16.189,-44.594
+BR3138708,Luminárias,Luminarias,luminarias-br3138708,BR3138708,-21.523,-44.917
+BR3138807,Luz,Luz,luz-br3138807,BR3138807,-19.851,-45.667
+BR3138906,Machacalis,Machacalis,machacalis-br3138906,BR3138906,-17.098,-40.716
+BR3139003,Machado,Machado,machado-br3139003,BR3139003,-21.696,-45.899
+BR3139102,Madre de Deus de Minas,Madre de Deus de Minas,madre-de-deus-de-minas-br3139102,BR3139102,-21.488,-44.326
+BR3139201,Malacacheta,Malacacheta,malacacheta-br3139201,BR3139201,-17.836,-42.098
+BR3139250,Mamonas,Mamonas,mamonas-br3139250,BR3139250,-15.019,-42.948
+BR3139300,Manga,Manga,manga-br3139300,BR3139300,-14.665,-44.13
+BR3139409,Manhuaçu,Manhuacu,manhuacu-br3139409,BR3139409,-20.189,-42.101
+BR3139508,Manhumirim,Manhumirim,manhumirim-br3139508,BR3139508,-20.347,-41.942
+BR3139607,Mantena,Mantena,mantena-br3139607,BR3139607,-18.687,-41.105
+BR3139805,Mar de Espanha,Mar de Espanha,mar-de-espanha-br3139805,BR3139805,-21.874,-43.025
+BR3139706,Maravilhas,Maravilhas,maravilhas-br3139706,BR3139706,-19.504,-44.669
+BR3139904,Maria da Fé,Maria da Fe,maria-da-fe-br3139904,BR3139904,-22.32,-45.305
+BR3140001,Mariana,Mariana,mariana-br3140001,BR3140001,-20.322,-43.314
+BR3140100,Marilac,Marilac,marilac-br3140100,BR3140100,-18.498,-42.067
+BR3140159,Mário Campos,Mario Campos,mario-campos-br3140159,BR3140159,-20.076,-44.175
+BR3140209,Maripá de Minas,Maripa de Minas,maripa-de-minas-br3140209,BR3140209,-21.695,-42.959
+BR3140308,Marliéria,Marlieria,marlieria-br3140308,BR3140308,-19.698,-42.633
+BR3140407,Marmelópolis,Marmelopolis,marmelopolis-br3140407,BR3140407,-22.468,-45.17
+BR3140506,Martinho Campos,Martinho Campos,martinho-campos-br3140506,BR3140506,-19.4,-45.195
+BR3140530,Martins Soares,Martins Soares,martins-soares-br3140530,BR3140530,-20.255,-41.847
+BR3140555,Mata Verde,Mata Verde,mata-verde-br3140555,BR3140555,-15.761,-40.707
+BR3140605,Materlândia,Materlandia,materlandia-br3140605,BR3140605,-18.447,-43.024
+BR3140704,Mateus Leme,Mateus Leme,mateus-leme-br3140704,BR3140704,-20.018,-44.443
+BR3171501,Mathias Lobato,Mathias Lobato,mathias-lobato-br3171501,BR3171501,-18.598,-41.956
+BR3140803,Matias Barbosa,Matias Barbosa,matias-barbosa-br3140803,BR3140803,-21.879,-43.303
+BR3140852,Matias Cardoso,Matias Cardoso,matias-cardoso-br3140852,BR3140852,-14.849,-43.705
+BR3140902,Matipó,Matipo,matipo-br3140902,BR3140902,-20.299,-42.316
+BR3141009,Mato Verde,Mato Verde,mato-verde-br3141009,BR3141009,-15.437,-42.882
+BR3141108,Matozinhos,Matozinhos,matozinhos-br3141108,BR3141108,-19.52,-44.045
+BR3141207,Matutina,Matutina,matutina-br3141207,BR3141207,-19.185,-45.985
+BR3141306,Medeiros,Medeiros,medeiros-br3141306,BR3141306,-19.995,-46.353
+BR3141405,Medina,Medina,medina-br3141405,BR3141405,-16.296,-41.531
+BR3141504,Mendes Pimentel,Mendes Pimentel,mendes-pimentel-br3141504,BR3141504,-18.624,-41.355
+BR3141603,Mercês,Merces,merces-br3141603,BR3141603,-21.185,-43.332
+BR3141702,Mesquita,Mesquita,mesquita-br3141702,BR3141702,-22.794,-43.451
+BR3141801,Minas Novas,Minas Novas,minas-novas-br3141801,BR3141801,-17.352,-42.427
+BR3141900,Minduri,Minduri,minduri-br3141900,BR3141900,-21.671,-44.612
+BR3142007,Mirabela,Mirabela,mirabela-br3142007,BR3142007,-16.273,-44.159
+BR3142106,Miradouro,Miradouro,miradouro-br3142106,BR3142106,-20.847,-42.391
+BR3142205,Miraí,Mirai,mirai-br3142205,BR3142205,-21.148,-42.607
+BR3142254,Miravânia,Miravania,miravania-br3142254,BR3142254,-14.748,-44.413
+BR3142304,Moeda,Moeda,moeda-br3142304,BR3142304,-20.334,-44.018
+BR3142403,Moema,Moema,moema-br3142403,BR3142403,-19.835,-45.42
+BR3142502,Monjolos,Monjolos,monjolos-br3142502,BR3142502,-18.39,-44.024
+BR3142601,Monsenhor Paulo,Monsenhor Paulo,monsenhor-paulo-br3142601,BR3142601,-21.726,-45.473
+BR3142700,Montalvânia,Montalvania,montalvania-br3142700,BR3142700,-14.448,-44.494
+BR3142809,Monte Alegre de Minas,Monte Alegre de Minas,monte-alegre-de-minas-br3142809,BR3142809,-18.825,-48.932
+BR3142908,Monte Azul,Monte Azul,monte-azul-br3142908,BR3142908,-15.217,-43.009
+BR3143005,Monte Belo,Monte Belo,monte-belo-br3143005,BR3143005,-21.32,-46.326
+BR3143104,Monte Carmelo,Monte Carmelo,monte-carmelo-br3143104,BR3143104,-18.654,-47.498
+BR3143153,Monte Formoso,Monte Formoso,monte-formoso-br3143153,BR3143153,-16.879,-41.275
+BR3143203,Monte Santo de Minas,Monte Santo de Minas,monte-santo-de-minas-br3143203,BR3143203,-21.194,-46.949
+BR3143401,Monte Sião,Monte Siao,monte-siao-br3143401,BR3143401,-22.422,-46.535
+BR3143302,Montes Claros,Montes Claros,montes-claros-br3143302,BR3143302,-16.624,-43.925
+BR3143450,Montezuma,Montezuma,montezuma-br3143450,BR3143450,-15.177,-42.472
+BR3143500,Morada Nova de Minas,Morada Nova de Minas,morada-nova-de-minas-br3143500,BR3143500,-18.582,-45.427
+BR3143609,Morro da Garça,Morro da Garca,morro-da-garca-br3143609,BR3143609,-18.622,-44.629
+BR3143708,Morro do Pilar,Morro do Pilar,morro-do-pilar-br3143708,BR3143708,-19.223,-43.401
+BR3143807,Munhoz,Munhoz,munhoz-br3143807,BR3143807,-22.625,-46.307
+BR3143906,Muriaé,Muriae,muriae-br3143906,BR3143906,-21.065,-42.437
+BR3144003,Mutum,Mutum,mutum-br3144003,BR3144003,-19.91,-41.459
+BR3144102,Muzambinho,Muzambinho,muzambinho-br3144102,BR3144102,-21.361,-46.523
+BR3144201,Nacip Raydan,Nacip Raydan,nacip-raydan-br3144201,BR3144201,-18.477,-42.171
+BR3144300,Nanuque,Nanuque,nanuque-br3144300,BR3144300,-17.791,-40.527
+BR3144359,Naque,Naque,naque-br3144359,BR3144359,-19.183,-42.329
+BR3144375,Natalândia,Natalandia,natalandia-br3144375,BR3144375,-16.57,-46.49
+BR3144409,Natércia,Natercia,natercia-br3144409,BR3144409,-22.133,-45.511
+BR3144508,Nazareno,Nazareno,nazareno-br3144508,BR3144508,-21.207,-44.61
+BR3144607,Nepomuceno,Nepomuceno,nepomuceno-br3144607,BR3144607,-21.211,-45.244
+BR3144656,Ninheira,Ninheira,ninheira-br3144656,BR3144656,-15.406,-41.671
+BR3144672,Nova Belém,Nova Belem,nova-belem-br3144672,BR3144672,-18.503,-41.107
+BR3144706,Nova Era,Nova Era,nova-era-br3144706,BR3144706,-19.718,-43.012
+BR3144805,Nova Lima,Nova Lima,nova-lima-br3144805,BR3144805,-20.086,-43.898
+BR3144904,Nova Módica,Nova Modica,nova-modica-br3144904,BR3144904,-18.461,-41.523
+BR3145000,Nova Ponte,Nova Ponte,nova-ponte-br3145000,BR3145000,-19.243,-47.706
+BR3145059,Nova Porteirinha,Nova Porteirinha,nova-porteirinha-br3145059,BR3145059,-15.725,-43.277
+BR3145109,Nova Resende,Nova Resende,nova-resende-br3145109,BR3145109,-21.094,-46.417
+BR3145208,Nova Serrana,Nova Serrana,nova-serrana-br3145208,BR3145208,-19.848,-44.973
+BR3136603,Nova União,Nova Uniao,nova-uniao-br3136603,BR3136603,-19.64,-43.573
+BR3145307,Novo Cruzeiro,Novo Cruzeiro,novo-cruzeiro-br3145307,BR3145307,-17.376,-41.966
+BR3145356,Novo Oriente de Minas,Novo Oriente de Minas,novo-oriente-de-minas-br3145356,BR3145356,-17.241,-41.225
+BR3145372,Novorizonte,Novorizonte,novorizonte-br3145372,BR3145372,-16.014,-42.393
+BR3145406,Olaria,Olaria,olaria-br3145406,BR3145406,-21.905,-43.96
+BR3145455,Olhos-d'Água,Olhos-d'Agua,olhos-d-agua-br3145455,BR3145455,-17.516,-43.568
+BR3145505,Olímpio Noronha,Olimpio Noronha,olimpio-noronha-br3145505,BR3145505,-22.089,-45.284
+BR3145604,Oliveira,Oliveira,oliveira-br3145604,BR3145604,-20.743,-44.717
+BR3145703,Oliveira Fortes,Oliveira Fortes,oliveira-fortes-br3145703,BR3145703,-21.34,-43.525
+BR3145802,Onça de Pitangui,Onca de Pitangui,onca-de-pitangui-br3145802,BR3145802,-19.71,-44.746
+BR3145851,Oratórios,Oratorios,oratorios-br3145851,BR3145851,-20.437,-42.795
+BR3145877,Orizânia,Orizania,orizania-br3145877,BR3145877,-20.514,-42.21
+BR3145901,Ouro Branco,Ouro Branco,ouro-branco-br3145901,BR3145901,-20.53,-43.702
+BR3146008,Ouro Fino,Ouro Fino,ouro-fino-br3146008,BR3146008,-22.26,-46.381
+BR3146107,Ouro Preto,Ouro Preto,ouro-preto-br3146107,BR3146107,-20.39,-43.626
+BR3146206,Ouro Verde de Minas,Ouro Verde de Minas,ouro-verde-de-minas-br3146206,BR3146206,-18.04,-41.294
+BR3146255,Padre Carvalho,Padre Carvalho,padre-carvalho-br3146255,BR3146255,-16.282,-42.602
+BR3146305,Padre Paraíso,Padre Paraiso,padre-paraiso-br3146305,BR3146305,-17.063,-41.537
+BR3146552,Pai Pedro,Pai Pedro,pai-pedro-br3146552,BR3146552,-15.355,-43.174
+BR3146404,Paineiras,Paineiras,paineiras-br3146404,BR3146404,-18.913,-45.508
+BR3146503,Pains,Pains,pains-br3146503,BR3146503,-20.388,-45.696
+BR3146602,Paiva,Paiva,paiva-br3146602,BR3146602,-21.288,-43.423
+BR3146701,Palma,Palma,palma-br3146701,BR3146701,-21.422,-42.322
+BR3146750,Palmópolis,Palmopolis,palmopolis-br3146750,BR3146750,-16.792,-40.361
+BR3146909,Papagaios,Papagaios,papagaios-br3146909,BR3146909,-19.388,-44.687
+BR3147105,Pará de Minas,Para de Minas,para-de-minas-br3147105,BR3147105,-19.822,-44.605
+BR3147006,Paracatu,Paracatu,paracatu-br3147006,BR3147006,-17.162,-46.918
+BR3147204,Paraguaçu,Paraguacu,paraguacu-br3147204,BR3147204,-21.565,-45.743
+BR3147303,Paraisópolis,Paraisopolis,paraisopolis-br3147303,BR3147303,-22.581,-45.835
+BR3147402,Paraopeba,Paraopeba,paraopeba-br3147402,BR3147402,-19.303,-44.448
+BR3147600,Passa Quatro,Passa Quatro,passa-quatro-br3147600,BR3147600,-22.412,-44.957
+BR3147709,Passa Tempo,Passa Tempo,passa-tempo-br3147709,BR3147709,-20.646,-44.484
+BR3147808,Passa Vinte,Passa Vinte,passa-vinte-br3147808,BR3147808,-22.181,-44.255
+BR3147501,Passabém,Passabem,passabem-br3147501,BR3147501,-19.35,-43.19
+BR3147907,Passos,Passos,passos-br3147907,BR3147907,-20.745,-46.642
+BR3147956,Patis,Patis,patis-br3147956,BR3147956,-16.076,-44.122
+BR3148004,Patos de Minas,Patos de Minas,patos-de-minas-br3148004,BR3148004,-18.59,-46.488
+BR3148103,Patrocínio,Patrocinio,patrocinio-br3148103,BR3148103,-19.002,-47.062
+BR3148202,Patrocínio do Muriaé,Patrocinio do Muriae,patrocinio-do-muriae-br3148202,BR3148202,-21.168,-42.251
+BR3148301,Paula Cândido,Paula Candido,paula-candido-br3148301,BR3148301,-20.863,-42.983
+BR3148400,Paulistas,Paulistas,paulistas-br3148400,BR3148400,-18.443,-42.865
+BR3148509,Pavão,Pavao,pavao-br3148509,BR3148509,-17.465,-41.061
+BR3148608,Peçanha,Pecanha,pecanha-br3148608,BR3148608,-18.553,-42.509
+BR3148707,Pedra Azul,Pedra Azul,pedra-azul-br3148707,BR3148707,-15.966,-41.209
+BR3148756,Pedra Bonita,Pedra Bonita,pedra-bonita-br3148756,BR3148756,-20.47,-42.378
+BR3148806,Pedra do Anta,Pedra do Anta,pedra-do-anta-br3148806,BR3148806,-20.592,-42.726
+BR3148905,Pedra do Indaiá,Pedra do Indaia,pedra-do-indaia-br3148905,BR3148905,-20.286,-45.219
+BR3149002,Pedra Dourada,Pedra Dourada,pedra-dourada-br3149002,BR3149002,-20.831,-42.156
+BR3149101,Pedralva,Pedralva,pedralva-br3149101,BR3149101,-22.247,-45.448
+BR3149150,Pedras de Maria da Cruz,Pedras de Maria da Cruz,pedras-de-maria-da-cruz-br3149150,BR3149150,-15.643,-44.315
+BR3149200,Pedrinópolis,Pedrinopolis,pedrinopolis-br3149200,BR3149200,-19.179,-47.516
+BR3149309,Pedro Leopoldo,Pedro Leopoldo,pedro-leopoldo-br3149309,BR3149309,-19.632,-44.036
+BR3149408,Pedro Teixeira,Pedro Teixeira,pedro-teixeira-br3149408,BR3149408,-21.731,-43.725
+BR3149507,Pequeri,Pequeri,pequeri-br3149507,BR3149507,-21.82,-43.138
+BR3149606,Pequi,Pequi,pequi-br3149606,BR3149606,-19.603,-44.629
+BR3149705,Perdigão,Perdigao,perdigao-br3149705,BR3149705,-19.934,-45.06
+BR3149804,Perdizes,Perdizes,perdizes-br3149804,BR3149804,-19.369,-47.157
+BR3149903,Perdões,Perdoes,perdoes-br3149903,BR3149903,-21.076,-45.068
+BR3149952,Periquito,Periquito,periquito-br3149952,BR3149952,-19.071,-42.232
+BR3150000,Pescador,Pescador,pescador-br3150000,BR3150000,-18.325,-41.563
+BR3150109,Piau,Piau,piau-br3150109,BR3150109,-21.501,-43.311
+BR3150158,Piedade de Caratinga,Piedade de Caratinga,piedade-de-caratinga-br3150158,BR3150158,-19.763,-42.042
+BR3150208,Piedade de Ponte Nova,Piedade de Ponte Nova,piedade-de-ponte-nova-br3150208,BR3150208,-20.245,-42.712
+BR3150307,Piedade do Rio Grande,Piedade do Rio Grande,piedade-do-rio-grande-br3150307,BR3150307,-21.495,-44.17
+BR3150406,Piedade dos Gerais,Piedade dos Gerais,piedade-dos-gerais-br3150406,BR3150406,-20.479,-44.243
+BR3150505,Pimenta,Pimenta,pimenta-br3150505,BR3150505,-20.508,-45.836
+BR3150539,Pingo d'Água,Pingo d'Agua,pingo-d-agua-br3150539,BR3150539,-19.745,-42.427
+BR3150570,Pintópolis,Pintopolis,pintopolis-br3150570,BR3150570,-16.034,-45.223
+BR3150604,Piracema,Piracema,piracema-br3150604,BR3150604,-20.521,-44.42
+BR3150703,Pirajuba,Pirajuba,pirajuba-br3150703,BR3150703,-19.934,-48.697
+BR3150802,Piranga,Piranga,piranga-br3150802,BR3150802,-20.632,-43.285
+BR3150901,Piranguçu,Pirangucu,pirangucu-br3150901,BR3150901,-22.564,-45.516
+BR3151008,Piranguinho,Piranguinho,piranguinho-br3151008,BR3151008,-22.364,-45.589
+BR3151107,Pirapetinga,Pirapetinga,pirapetinga-br3151107,BR3151107,-21.669,-42.366
+BR3151206,Pirapora,Pirapora,pirapora-br3151206,BR3151206,-17.385,-44.863
+BR3151305,Piraúba,Pirauba,pirauba-br3151305,BR3151305,-21.265,-43.015
+BR3151404,Pitangui,Pitangui,pitangui-br3151404,BR3151404,-19.596,-44.886
+BR3151503,Piumhi,Piumhi,piumhi-br3151503,BR3151503,-20.433,-46.069
+BR3151602,Planura,Planura,planura-br3151602,BR3151602,-20.07,-48.653
+BR3151701,Poço Fundo,Poco Fundo,poco-fundo-br3151701,BR3151701,-21.803,-45.997
+BR3151800,Poços de Caldas,Pocos de Caldas,pocos-de-caldas-br3151800,BR3151800,-21.794,-46.542
+BR3151909,Pocrane,Pocrane,pocrane-br3151909,BR3151909,-19.579,-41.545
+BR3152006,Pompéu,Pompeu,pompeu-br3152006,BR3152006,-19.099,-44.911
+BR3152105,Ponte Nova,Ponte Nova,ponte-nova-br3152105,BR3152105,-20.397,-42.919
+BR3152131,Ponto Chique,Ponto Chique,ponto-chique-br3152131,BR3152131,-16.625,-44.946
+BR3152170,Ponto dos Volantes,Ponto dos Volantes,ponto-dos-volantes-br3152170,BR3152170,-16.86,-41.466
+BR3152204,Porteirinha,Porteirinha,porteirinha-br3152204,BR3152204,-15.717,-43.114
+BR3152303,Porto Firme,Porto Firme,porto-firme-br3152303,BR3152303,-20.667,-43.076
+BR3152402,Poté,Pote,pote-br3152402,BR3152402,-17.802,-41.764
+BR3152501,Pouso Alegre,Pouso Alegre,pouso-alegre-br3152501,BR3152501,-22.242,-45.918
+BR3152600,Pouso Alto,Pouso Alto,pouso-alto-br3152600,BR3152600,-22.174,-44.944
+BR3152709,Prados,Prados,prados-br3152709,BR3152709,-21.108,-44.06
+BR3152808,Prata,Prata,prata-br3152808,BR3152808,-19.321,-48.954
+BR3152907,Pratápolis,Pratapolis,pratapolis-br3152907,BR3152907,-20.788,-46.843
+BR3153004,Pratinha,Pratinha,pratinha-br3153004,BR3153004,-19.764,-46.394
+BR3153103,Presidente Bernardes,Presidente Bernardes,presidente-bernardes-br3153103,BR3153103,-22.123,-51.639
+BR3153202,Presidente Juscelino,Presidente Juscelino,presidente-juscelino-br3153202,BR3153202,-18.726,-44.086
+BR3153301,Presidente Kubitschek,Presidente Kubitschek,presidente-kubitschek-br3153301,BR3153301,-18.644,-43.577
+BR3153400,Presidente Olegário,Presidente Olegario,presidente-olegario-br3153400,BR3153400,-18.189,-46.39
+BR3153608,Prudente de Morais,Prudente de Morais,prudente-de-morais-br3153608,BR3153608,-19.467,-44.115
+BR3153707,Quartel Geral,Quartel Geral,quartel-geral-br3153707,BR3153707,-19.277,-45.631
+BR3153806,Queluzito,Queluzito,queluzito-br3153806,BR3153806,-20.737,-43.888
+BR3153905,Raposos,Raposos,raposos-br3153905,BR3153905,-19.974,-43.789
+BR3154002,Raul Soares,Raul Soares,raul-soares-br3154002,BR3154002,-20.015,-42.381
+BR3154101,Recreio,Recreio,recreio-br3154101,BR3154101,-21.523,-42.434
+BR3154150,Reduto,Reduto,reduto-br3154150,BR3154150,-20.239,-41.938
+BR3154200,Resende Costa,Resende Costa,resende-costa-br3154200,BR3154200,-20.837,-44.284
+BR3154309,Resplendor,Resplendor,resplendor-br3154309,BR3154309,-19.202,-41.136
+BR3154408,Ressaquinha,Ressaquinha,ressaquinha-br3154408,BR3154408,-21.09,-43.771
+BR3154457,Riachinho,Riachinho,riachinho-br3154457,BR3154457,-16.253,-45.901
+BR3154507,Riacho dos Machados,Riacho dos Machados,riacho-dos-machados-br3154507,BR3154507,-16.07,-42.989
+BR3154606,Ribeirão das Neves,Ribeirao das Neves,ribeirao-das-neves-br3154606,BR3154606,-19.775,-44.067
+BR3154705,Ribeirão Vermelho,Ribeirao Vermelho,ribeirao-vermelho-br3154705,BR3154705,-21.154,-45.079
+BR3154804,Rio Acima,Rio Acima,rio-acima-br3154804,BR3154804,-20.109,-43.773
+BR3154903,Rio Casca,Rio Casca,rio-casca-br3154903,BR3154903,-20.13,-42.663
+BR3155108,Rio do Prado,Rio do Prado,rio-do-prado-br3155108,BR3155108,-16.683,-40.565
+BR3155009,Rio Doce,Rio Doce,rio-doce-br3155009,BR3155009,-20.208,-42.892
+BR3155207,Rio Espera,Rio Espera,rio-espera-br3155207,BR3155207,-20.865,-43.508
+BR3155306,Rio Manso,Rio Manso,rio-manso-br3155306,BR3155306,-20.263,-44.347
+BR3155405,Rio Novo,Rio Novo,rio-novo-br3155405,BR3155405,-21.47,-43.145
+BR3155504,Rio Paranaíba,Rio Paranaiba,rio-paranaiba-br3155504,BR3155504,-19.228,-46.303
+BR3155603,Rio Pardo de Minas,Rio Pardo de Minas,rio-pardo-de-minas-br3155603,BR3155603,-15.724,-42.571
+BR3155702,Rio Piracicaba,Rio Piracicaba,rio-piracicaba-br3155702,BR3155702,-19.976,-43.153
+BR3155801,Rio Pomba,Rio Pomba,rio-pomba-br3155801,BR3155801,-21.242,-43.169
+BR3155900,Rio Preto,Rio Preto,rio-preto-br3155900,BR3155900,-22.051,-43.864
+BR3156007,Rio Vermelho,Rio Vermelho,rio-vermelho-br3156007,BR3156007,-18.267,-43.05
+BR3156106,Ritápolis,Ritapolis,ritapolis-br3156106,BR3156106,-21,-44.371
+BR3156205,Rochedo de Minas,Rochedo de Minas,rochedo-de-minas-br3156205,BR3156205,-21.646,-43.039
+BR3156304,Rodeiro,Rodeiro,rodeiro-br3156304,BR3156304,-21.218,-42.846
+BR3156403,Romaria,Romaria,romaria-br3156403,BR3156403,-18.899,-47.562
+BR3156452,Rosário da Limeira,Rosario da Limeira,rosario-da-limeira-br3156452,BR3156452,-20.987,-42.506
+BR3156502,Rubelita,Rubelita,rubelita-br3156502,BR3156502,-16.355,-42.214
+BR3156601,Rubim,Rubim,rubim-br3156601,BR3156601,-16.462,-40.493
+BR3156700,Sabará,Sabara,sabara-br3156700,BR3156700,-19.853,-43.783
+BR3156809,Sabinópolis,Sabinopolis,sabinopolis-br3156809,BR3156809,-18.659,-43.062
+BR3156908,Sacramento,Sacramento,sacramento-br3156908,BR3156908,-19.889,-47.247
+BR3157005,Salinas,Salinas,salinas-br3157005,BR3157005,-16.109,-42.17
+BR3157104,Salto da Divisa,Salto da Divisa,salto-da-divisa-br3157104,BR3157104,-16.08,-40.037
+BR3157203,Santa Bárbara,Santa Barbara,santa-barbara-br3157203,BR3157203,-20.027,-43.446
+BR3157252,Santa Bárbara do Leste,Santa Barbara do Leste,santa-barbara-do-leste-br3157252,BR3157252,-19.943,-42.097
+BR3157278,Santa Bárbara do Monte Verde,Santa Barbara do Monte Verde,santa-barbara-do-monte-verde-br3157278,BR3157278,-21.977,-43.692
+BR3157302,Santa Bárbara do Tugúrio,Santa Barbara do Tugurio,santa-barbara-do-tugurio-br3157302,BR3157302,-21.24,-43.53
+BR3157336,Santa Cruz de Minas,Santa Cruz de Minas,santa-cruz-de-minas-br3157336,BR3157336,-21.12,-44.215
+BR3157377,Santa Cruz de Salinas,Santa Cruz de Salinas,santa-cruz-de-salinas-br3157377,BR3157377,-16.061,-41.792
+BR3157401,Santa Cruz do Escalvado,Santa Cruz do Escalvado,santa-cruz-do-escalvado-br3157401,BR3157401,-20.243,-42.83
+BR3157500,Santa Efigênia de Minas,Santa Efigenia de Minas,santa-efigenia-de-minas-br3157500,BR3157500,-18.862,-42.404
+BR3157609,Santa Fé de Minas,Santa Fe de Minas,santa-fe-de-minas-br3157609,BR3157609,-16.688,-45.565
+BR3157658,Santa Helena de Minas,Santa Helena de Minas,santa-helena-de-minas-br3157658,BR3157658,-16.899,-40.661
+BR3157708,Santa Juliana,Santa Juliana,santa-juliana-br3157708,BR3157708,-19.373,-47.535
+BR3157807,Santa Luzia,Santa Luzia,santa-luzia-br3157807,BR3157807,-19.728,-43.827
+BR3157906,Santa Margarida,Santa Margarida,santa-margarida-br3157906,BR3157906,-20.436,-42.273
+BR3158003,Santa Maria de Itabira,Santa Maria de Itabira,santa-maria-de-itabira-br3158003,BR3158003,-19.446,-43.042
+BR3158102,Santa Maria do Salto,Santa Maria do Salto,santa-maria-do-salto-br3158102,BR3158102,-16.318,-40.109
+BR3158201,Santa Maria do Suaçuí,Santa Maria do Suacui,santa-maria-do-suacui-br3158201,BR3158201,-18.253,-42.327
+BR3159209,Santa Rita de Caldas,Santa Rita de Caldas,santa-rita-de-caldas-br3159209,BR3159209,-22.022,-46.275
+BR3159407,Santa Rita de Ibitipoca,Santa Rita de Ibitipoca,santa-rita-de-ibitipoca-br3159407,BR3159407,-21.562,-43.947
+BR3159308,Santa Rita de Jacutinga,Santa Rita de Jacutinga,santa-rita-de-jacutinga-br3159308,BR3159308,-22.115,-44.102
+BR3159357,Santa Rita de Minas,Santa Rita de Minas,santa-rita-de-minas-br3159357,BR3159357,-19.873,-42.131
+BR3159506,Santa Rita do Itueto,Santa Rita do Itueto,santa-rita-do-itueto-br3159506,BR3159506,-19.43,-41.4
+BR3159605,Santa Rita do Sapucaí,Santa Rita do Sapucai,santa-rita-do-sapucai-br3159605,BR3159605,-22.245,-45.692
+BR3159704,Santa Rosa da Serra,Santa Rosa da Serra,santa-rosa-da-serra-br3159704,BR3159704,-19.551,-45.987
+BR3159803,Santa Vitória,Santa Vitoria,santa-vitoria-br3159803,BR3159803,-19.057,-50.3
+BR3158300,Santana da Vargem,Santana da Vargem,santana-da-vargem-br3158300,BR3158300,-21.268,-45.494
+BR3158409,Santana de Cataguases,Santana de Cataguases,santana-de-cataguases-br3158409,BR3158409,-21.278,-42.565
+BR3158508,Santana de Pirapama,Santana de Pirapama,santana-de-pirapama-br3158508,BR3158508,-18.903,-43.935
+BR3158607,Santana do Deserto,Santana do Deserto,santana-do-deserto-br3158607,BR3158607,-21.944,-43.176
+BR3158706,Santana do Garambéu,Santana do Garambeu,santana-do-garambeu-br3158706,BR3158706,-21.645,-44.065
+BR3158805,Santana do Jacaré,Santana do Jacare,santana-do-jacare-br3158805,BR3158805,-20.888,-45.077
+BR3158904,Santana do Manhuaçu,Santana do Manhuacu,santana-do-manhuacu-br3158904,BR3158904,-20.041,-41.895
+BR3158953,Santana do Paraíso,Santana do Paraiso,santana-do-paraiso-br3158953,BR3158953,-19.386,-42.545
+BR3159001,Santana do Riacho,Santana do Riacho,santana-do-riacho-br3159001,BR3159001,-19.175,-43.683
+BR3159100,Santana dos Montes,Santana dos Montes,santana-dos-montes-br3159100,BR3159100,-20.792,-43.66
+BR3159902,Santo Antônio do Amparo,Santo Antonio do Amparo,santo-antonio-do-amparo-br3159902,BR3159902,-20.918,-44.959
+BR3160009,Santo Antônio do Aventureiro,Santo Antonio do Aventureiro,santo-antonio-do-aventureiro-br3160009,BR3160009,-21.743,-42.808
+BR3160108,Santo Antônio do Grama,Santo Antonio do Grama,santo-antonio-do-grama-br3160108,BR3160108,-20.321,-42.619
+BR3160207,Santo Antônio do Itambé,Santo Antonio do Itambe,santo-antonio-do-itambe-br3160207,BR3160207,-18.492,-43.256
+BR3160306,Santo Antônio do Jacinto,Santo Antonio do Jacinto,santo-antonio-do-jacinto-br3160306,BR3160306,-16.505,-40.274
+BR3160405,Santo Antônio do Monte,Santo Antonio do Monte,santo-antonio-do-monte-br3160405,BR3160405,-20.077,-45.304
+BR3160454,Santo Antônio do Retiro,Santo Antonio do Retiro,santo-antonio-do-retiro-br3160454,BR3160454,-15.281,-42.657
+BR3160504,Santo Antônio do Rio Abaixo,Santo Antonio do Rio Abaixo,santo-antonio-do-rio-abaixo-br3160504,BR3160504,-19.251,-43.245
+BR3160603,Santo Hipólito,Santo Hipolito,santo-hipolito-br3160603,BR3160603,-18.387,-44.173
+BR3160702,Santos Dumont,Santos Dumont,santos-dumont-br3160702,BR3160702,-21.46,-43.523
+BR3160801,São Bento Abade,Sao Bento Abade,sao-bento-abade-br3160801,BR3160801,-21.568,-45.07
+BR3160900,São Brás do Suaçuí,Sao Bras do Suacui,sao-bras-do-suacui-br3160900,BR3160900,-20.619,-43.974
+BR3160959,São Domingos das Dores,Sao Domingos das Dores,sao-domingos-das-dores-br3160959,BR3160959,-19.52,-42.033
+BR3161007,São Domingos do Prata,Sao Domingos do Prata,sao-domingos-do-prata-br3161007,BR3161007,-19.894,-42.886
+BR3161056,São Félix de Minas,Sao Felix de Minas,sao-felix-de-minas-br3161056,BR3161056,-18.562,-41.447
+BR3161106,São Francisco,Sao Francisco,sao-francisco-br3161106,BR3161106,-20.37,-50.676
+BR3161205,São Francisco de Paula,Sao Francisco de Paula,sao-francisco-de-paula-br3161205,BR3161205,-29.235,-50.46
+BR3161304,São Francisco de Sales,Sao Francisco de Sales,sao-francisco-de-sales-br3161304,BR3161304,-19.773,-49.817
+BR3161403,São Francisco do Glória,Sao Francisco do Gloria,sao-francisco-do-gloria-br3161403,BR3161403,-20.785,-42.28
+BR3161502,São Geraldo,Sao Geraldo,sao-geraldo-br3161502,BR3161502,-20.907,-42.827
+BR3161601,São Geraldo da Piedade,Sao Geraldo da Piedade,sao-geraldo-da-piedade-br3161601,BR3161601,-18.898,-42.31
+BR3161650,São Geraldo do Baixio,Sao Geraldo do Baixio,sao-geraldo-do-baixio-br3161650,BR3161650,-18.918,-41.362
+BR3161700,São Gonçalo do Abaeté,Sao Goncalo do Abaete,sao-goncalo-do-abaete-br3161700,BR3161700,-18.215,-45.591
+BR3161809,São Gonçalo do Pará,Sao Goncalo do Para,sao-goncalo-do-para-br3161809,BR3161809,-19.975,-44.846
+BR3161908,São Gonçalo do Rio Abaixo,Sao Goncalo do Rio Abaixo,sao-goncalo-do-rio-abaixo-br3161908,BR3161908,-19.813,-43.322
+BR3125507,São Gonçalo do Rio Preto,Sao Goncalo do Rio Preto,sao-goncalo-do-rio-preto-br3125507,BR3125507,-18.081,-43.355
+BR3162005,São Gonçalo do Sapucaí,Sao Goncalo do Sapucai,sao-goncalo-do-sapucai-br3162005,BR3162005,-21.909,-45.601
+BR3162104,São Gotardo,Sao Gotardo,sao-gotardo-br3162104,BR3162104,-19.358,-45.961
+BR3162203,São João Batista do Glória,Sao Joao Batista do Gloria,sao-joao-batista-do-gloria-br3162203,BR3162203,-20.553,-46.435
+BR3162252,São João da Lagoa,Sao Joao da Lagoa,sao-joao-da-lagoa-br3162252,BR3162252,-16.862,-44.342
+BR3162302,São João da Mata,Sao Joao da Mata,sao-joao-da-mata-br3162302,BR3162302,-21.939,-45.928
+BR3162401,São João da Ponte,Sao Joao da Ponte,sao-joao-da-ponte-br3162401,BR3162401,-15.892,-43.851
+BR3162450,São João das Missões,Sao Joao das Missoes,sao-joao-das-missoes-br3162450,BR3162450,-14.897,-44.21
+BR3162500,São João del Rei,Sao Joao del Rei,sao-joao-del-rei-br3162500,BR3162500,-21.247,-44.263
+BR3162559,São João do Manhuaçu,Sao Joao do Manhuacu,sao-joao-do-manhuacu-br3162559,BR3162559,-20.376,-42.151
+BR3162575,São João do Manteninha,Sao Joao do Manteninha,sao-joao-do-manteninha-br3162575,BR3162575,-18.744,-41.156
+BR3162609,São João do Oriente,Sao Joao do Oriente,sao-joao-do-oriente-br3162609,BR3162609,-19.354,-42.172
+BR3162658,São João do Pacuí,Sao Joao do Pacui,sao-joao-do-pacui-br3162658,BR3162658,-16.539,-44.54
+BR3162708,São João do Paraíso,Sao Joao do Paraiso,sao-joao-do-paraiso-br3162708,BR3162708,-15.352,-41.967
+BR3162807,São João Evangelista,Sao Joao Evangelista,sao-joao-evangelista-br3162807,BR3162807,-18.511,-42.779
+BR3162906,São João Nepomuceno,Sao Joao Nepomuceno,sao-joao-nepomuceno-br3162906,BR3162906,-21.583,-43.017
+BR3162922,São Joaquim de Bicas,Sao Joaquim de Bicas,sao-joaquim-de-bicas-br3162922,BR3162922,-20.05,-44.251
+BR3162948,São José da Barra,Sao Jose da Barra,sao-jose-da-barra-br3162948,BR3162948,-20.754,-46.264
+BR3162955,São José da Lapa,Sao Jose da Lapa,sao-jose-da-lapa-br3162955,BR3162955,-19.696,-43.993
+BR3163003,São José da Safira,Sao Jose da Safira,sao-jose-da-safira-br3163003,BR3163003,-18.329,-42.112
+BR3163102,São José da Varginha,Sao Jose da Varginha,sao-jose-da-varginha-br3163102,BR3163102,-19.69,-44.549
+BR3163201,São José do Alegre,Sao Jose do Alegre,sao-jose-do-alegre-br3163201,BR3163201,-22.336,-45.512
+BR3163300,São José do Divino,Sao Jose do Divino,sao-jose-do-divino-br3163300,BR3163300,-18.417,-41.372
+BR3163409,São José do Goiabal,Sao Jose do Goiabal,sao-jose-do-goiabal-br3163409,BR3163409,-19.924,-42.685
+BR3163508,São José do Jacuri,Sao Jose do Jacuri,sao-jose-do-jacuri-br3163508,BR3163508,-18.253,-42.677
+BR3163607,São José do Mantimento,Sao Jose do Mantimento,sao-jose-do-mantimento-br3163607,BR3163607,-20.026,-41.763
+BR3163706,São Lourenço,Sao Lourenco,sao-lourenco-br3163706,BR3163706,-22.116,-45.035
+BR3163805,São Miguel do Anta,Sao Miguel do Anta,sao-miguel-do-anta-br3163805,BR3163805,-20.737,-42.703
+BR3163904,São Pedro da União,Sao Pedro da Uniao,sao-pedro-da-uniao-br3163904,BR3163904,-21.114,-46.647
+BR3164100,São Pedro do Suaçuí,Sao Pedro do Suacui,sao-pedro-do-suacui-br3164100,BR3164100,-18.358,-42.601
+BR3164001,São Pedro dos Ferros,Sao Pedro dos Ferros,sao-pedro-dos-ferros-br3164001,BR3164001,-20.078,-42.567
+BR3164209,São Romão,Sao Romao,sao-romao-br3164209,BR3164209,-16.36,-45.432
+BR3164308,São Roque de Minas,Sao Roque de Minas,sao-roque-de-minas-br3164308,BR3164308,-20.194,-46.478
+BR3164407,São Sebastião da Bela Vista,Sao Sebastiao da Bela Vista,sao-sebastiao-da-bela-vista-br3164407,BR3164407,-22.163,-45.791
+BR3164431,São Sebastião da Vargem Alegre,Sao Sebastiao da Vargem Alegre,sao-sebastiao-da-vargem-alegre-br3164431,BR3164431,-21.022,-42.602
+BR3164472,São Sebastião do Anta,Sao Sebastiao do Anta,sao-sebastiao-do-anta-br3164472,BR3164472,-19.517,-41.947
+BR3164506,São Sebastião do Maranhão,Sao Sebastiao do Maranhao,sao-sebastiao-do-maranhao-br3164506,BR3164506,-18.052,-42.54
+BR3164605,São Sebastião do Oeste,Sao Sebastiao do Oeste,sao-sebastiao-do-oeste-br3164605,BR3164605,-20.247,-45.048
+BR3164704,São Sebastião do Paraíso,Sao Sebastiao do Paraiso,sao-sebastiao-do-paraiso-br3164704,BR3164704,-20.926,-47.004
+BR3164803,São Sebastião do Rio Preto,Sao Sebastiao do Rio Preto,sao-sebastiao-do-rio-preto-br3164803,BR3164803,-19.298,-43.227
+BR3164902,São Sebastião do Rio Verde,Sao Sebastiao do Rio Verde,sao-sebastiao-do-rio-verde-br3164902,BR3164902,-22.213,-45.024
+BR3165008,São Tiago,Sao Tiago,sao-tiago-br3165008,BR3165008,-20.95,-44.562
+BR3165107,São Tomás de Aquino,Sao Tomas de Aquino,sao-tomas-de-aquino-br3165107,BR3165107,-20.776,-47.126
+BR3165206,São Tomé das Letras,Sao Tome das Letras,sao-tome-das-letras-br3165206,BR3165206,-21.744,-44.966
+BR3165305,São Vicente de Minas,Sao Vicente de Minas,sao-vicente-de-minas-br3165305,BR3165305,-21.675,-44.46
+BR3165404,Sapucaí-Mirim,Sapucai-Mirim,sapucai-mirim-br3165404,BR3165404,-22.797,-45.839
+BR3165503,Sardoá,Sardoa,sardoa-br3165503,BR3165503,-18.777,-42.399
+BR3165537,Sarzedo,Sarzedo,sarzedo-br3165537,BR3165537,-20.05,-44.126
+BR3165560,Sem-Peixe,Sem-Peixe,sem-peixe-br3165560,BR3165560,-20.077,-42.822
+BR3165578,Senador Amaral,Senador Amaral,senador-amaral-br3165578,BR3165578,-22.557,-46.22
+BR3165602,Senador Cortes,Senador Cortes,senador-cortes-br3165602,BR3165602,-21.761,-42.908
+BR3165701,Senador Firmino,Senador Firmino,senador-firmino-br3165701,BR3165701,-20.897,-43.103
+BR3165800,Senador José Bento,Senador Jose Bento,senador-jose-bento-br3165800,BR3165800,-22.158,-46.141
+BR3165909,Senador Modestino Gonçalves,Senador Modestino Goncalves,senador-modestino-goncalves-br3165909,BR3165909,-17.886,-43.24
+BR3166006,Senhora de Oliveira,Senhora de Oliveira,senhora-de-oliveira-br3166006,BR3166006,-20.803,-43.343
+BR3166105,Senhora do Porto,Senhora do Porto,senhora-do-porto-br3166105,BR3166105,-18.904,-43.081
+BR3166204,Senhora dos Remédios,Senhora dos Remedios,senhora-dos-remedios-br3166204,BR3166204,-21.032,-43.599
+BR3166303,Sericita,Sericita,sericita-br3166303,BR3166303,-20.5,-42.458
+BR3166402,Seritinga,Seritinga,seritinga-br3166402,BR3166402,-21.919,-44.476
+BR3166501,Serra Azul de Minas,Serra Azul de Minas,serra-azul-de-minas-br3166501,BR3166501,-18.394,-43.203
+BR3166600,Serra da Saudade,Serra da Saudade,serra-da-saudade-br3166600,BR3166600,-19.387,-45.785
+BR3166808,Serra do Salitre,Serra do Salitre,serra-do-salitre-br3166808,BR3166808,-19.162,-46.665
+BR3166709,Serra dos Aimorés,Serra dos Aimores,serra-dos-aimores-br3166709,BR3166709,-17.758,-40.263
+BR3166907,Serrania,Serrania,serrania-br3166907,BR3166907,-21.561,-46.096
+BR3166956,Serranópolis de Minas,Serranopolis de Minas,serranopolis-de-minas-br3166956,BR3166956,-15.884,-42.846
+BR3167004,Serranos,Serranos,serranos-br3167004,BR3167004,-21.831,-44.544
+BR3167103,Serro,Serro,serro-br3167103,BR3167103,-18.534,-43.38
+BR3167202,Sete Lagoas,Sete Lagoas,sete-lagoas-br3167202,BR3167202,-19.442,-44.278
+BR3165552,Setubinha,Setubinha,setubinha-br3165552,BR3165552,-17.622,-42.152
+BR3167301,Silveirânia,Silveirania,silveirania-br3167301,BR3167301,-21.142,-43.199
+BR3167400,Silvianópolis,Silvianopolis,silvianopolis-br3167400,BR3167400,-22.041,-45.802
+BR3167509,Simão Pereira,Simao Pereira,simao-pereira-br3167509,BR3167509,-21.964,-43.293
+BR3167608,Simonésia,Simonesia,simonesia-br3167608,BR3167608,-19.995,-41.961
+BR3167707,Sobrália,Sobralia,sobralia-br3167707,BR3167707,-19.218,-42.142
+BR3167806,Soledade de Minas,Soledade de Minas,soledade-de-minas-br3167806,BR3167806,-22.033,-45.036
+BR3167905,Tabuleiro,Tabuleiro,tabuleiro-br3167905,BR3167905,-21.361,-43.253
+BR3168002,Taiobeiras,Taiobeiras,taiobeiras-br3168002,BR3168002,-15.827,-42.065
+BR3168051,Taparuba,Taparuba,taparuba-br3168051,BR3168051,-19.737,-41.602
+BR3168101,Tapira,Tapira,tapira-br3168101,BR3168101,-23.301,-53.139
+BR3168200,Tapiraí,Tapirai,tapirai-br3168200,BR3168200,-24.011,-47.634
+BR3168309,Taquaraçu de Minas,Taquaracu de Minas,taquaracu-de-minas-br3168309,BR3168309,-19.632,-43.69
+BR3168408,Tarumirim,Tarumirim,tarumirim-br3168408,BR3168408,-19.3,-41.913
+BR3168507,Teixeiras,Teixeiras,teixeiras-br3168507,BR3168507,-20.63,-42.853
+BR3168606,Teófilo Otoni,Teofilo Otoni,teofilo-otoni-br3168606,BR3168606,-17.684,-41.346
+BR3168705,Timóteo,Timoteo,timoteo-br3168705,BR3168705,-19.552,-42.598
+BR3168804,Tiradentes,Tiradentes,tiradentes-br3168804,BR3168804,-21.108,-44.164
+BR3168903,Tiros,Tiros,tiros-br3168903,BR3168903,-18.844,-45.815
+BR3169000,Tocantins,Tocantins,tocantins-br3169000,BR3169000,-21.181,-43.028
+BR3169059,Tocos do Moji,Tocos do Moji,tocos-do-moji-br3169059,BR3169059,-22.358,-46.147
+BR3169109,Toledo,Toledo,toledo-br3169109,BR3169109,-24.722,-53.826
+BR3169208,Tombos,Tombos,tombos-br3169208,BR3169208,-20.883,-42.063
+BR3169307,Três Corações,Tres Coracoes,tres-coracoes-br3169307,BR3169307,-21.699,-45.207
+BR3169356,Três Marias,Tres Marias,tres-marias-br3169356,BR3169356,-18.286,-45.049
+BR3169406,Três Pontas,Tres Pontas,tres-pontas-br3169406,BR3169406,-21.406,-45.502
+BR3169505,Tumiritinga,Tumiritinga,tumiritinga-br3169505,BR3169505,-19.034,-41.711
+BR3169604,Tupaciguara,Tupaciguara,tupaciguara-br3169604,BR3169604,-18.533,-48.715
+BR3169703,Turmalina,Turmalina,turmalina-br3169703,BR3169703,-20.071,-50.464
+BR3169802,Turvolândia,Turvolandia,turvolandia-br3169802,BR3169802,-21.878,-45.794
+BR3169901,Ubá,Uba,uba-br3169901,BR3169901,-21.119,-42.961
+BR3170008,Ubaí,Ubai,ubai-br3170008,BR3170008,-16.385,-44.866
+BR3170057,Ubaporanga,Ubaporanga,ubaporanga-br3170057,BR3170057,-19.667,-42.059
+BR3170107,Uberaba,Uberaba,uberaba-br3170107,BR3170107,-19.552,-47.977
+BR3170206,Uberlândia,Uberlandia,uberlandia-br3170206,BR3170206,-19.007,-48.323
+BR3170305,Umburatiba,Umburatiba,umburatiba-br3170305,BR3170305,-17.266,-40.667
+BR3170404,Unaí,Unai,unai-br3170404,BR3170404,-16.535,-46.75
+BR3170438,União de Minas,Uniao de Minas,uniao-de-minas-br3170438,BR3170438,-19.387,-50.359
+BR3170479,Uruana de Minas,Uruana de Minas,uruana-de-minas-br3170479,BR3170479,-16.085,-46.338
+BR3170503,Urucânia,Urucania,urucania-br3170503,BR3170503,-20.317,-42.719
+BR3170529,Urucuia,Urucuia,urucuia-br3170529,BR3170529,-16.039,-45.58
+BR3170578,Vargem Alegre,Vargem Alegre,vargem-alegre-br3170578,BR3170578,-19.607,-42.322
+BR3170602,Vargem Bonita,Vargem Bonita,vargem-bonita-br3170602,BR3170602,-26.926,-51.754
+BR3170651,Vargem Grande do Rio Pardo,Vargem Grande do Rio Pardo,vargem-grande-do-rio-pardo-br3170651,BR3170651,-15.328,-42.294
+BR3170701,Varginha,Varginha,varginha-br3170701,BR3170701,-21.56,-45.421
+BR3170750,Varjão de Minas,Varjao de Minas,varjao-de-minas-br3170750,BR3170750,-18.468,-45.904
+BR3170800,Várzea da Palma,Varzea da Palma,varzea-da-palma-br3170800,BR3170800,-17.435,-44.731
+BR3170909,Varzelândia,Varzelandia,varzelandia-br3170909,BR3170909,-15.642,-43.926
+BR3171006,Vazante,Vazante,vazante-br3171006,BR3171006,-17.827,-46.82
+BR3171030,Verdelândia,Verdelandia,verdelandia-br3171030,BR3171030,-15.534,-43.701
+BR3171071,Veredinha,Veredinha,veredinha-br3171071,BR3171071,-17.5,-42.738
+BR3171105,Veríssimo,Verissimo,verissimo-br3171105,BR3171105,-19.601,-48.359
+BR3171154,Vermelho Novo,Vermelho Novo,vermelho-novo-br3171154,BR3171154,-20.024,-42.26
+BR3171204,Vespasiano,Vespasiano,vespasiano-br3171204,BR3171204,-19.73,-43.949
+BR3171303,Viçosa,Vicosa,vicosa-br3171303,BR3171303,-20.734,-42.888
+BR3171402,Vieiras,Vieiras,vieiras-br3171402,BR3171402,-20.905,-42.275
+BR3171600,Virgem da Lapa,Virgem da Lapa,virgem-da-lapa-br3171600,BR3171600,-16.713,-42.341
+BR3171709,Virgínia,Virginia,virginia-br3171709,BR3171709,-22.348,-45.123
+BR3171808,Virginópolis,Virginopolis,virginopolis-br3171808,BR3171808,-18.805,-42.649
+BR3171907,Virgolândia,Virgolandia,virgolandia-br3171907,BR3171907,-18.455,-42.303
+BR3172004,Visconde do Rio Branco,Visconde do Rio Branco,visconde-do-rio-branco-br3172004,BR3172004,-21.008,-42.851
+BR3172103,Volta Grande,Volta Grande,volta-grande-br3172103,BR3172103,-21.747,-42.567
+BR3172202,Wenceslau Braz,Wenceslau Braz,wenceslau-braz-br3172202,BR3172202,-23.887,-49.792

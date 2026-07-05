@@ -1,0 +1,45 @@
+{
+  "id": "BR5108956",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Monte Verde",
+    "en": "Nova Monte Verde",
+    "slug": "nova-monte-verde-br5108956"
+  },
+  "code": {
+    "id": "BR5108956",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.915",
+    "lon": "-57.26"
+  },
+  "metadata": {},
+  "source": {}
+}

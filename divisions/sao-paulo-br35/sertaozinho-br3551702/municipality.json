@@ -1,0 +1,45 @@
+{
+  "id": "BR3551702",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sertãozinho",
+    "en": "Sertaozinho",
+    "slug": "sertaozinho-br3551702"
+  },
+  "code": {
+    "id": "BR3551702",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.113",
+    "lon": "-47.997"
+  },
+  "metadata": {},
+  "source": {}
+}

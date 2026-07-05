@@ -1,0 +1,45 @@
+{
+  "id": "BR3137205",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lagoa da Prata",
+    "en": "Lagoa da Prata",
+    "slug": "lagoa-da-prata-br3137205"
+  },
+  "code": {
+    "id": "BR3137205",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.996",
+    "lon": "-45.516"
+  },
+  "metadata": {},
+  "source": {}
+}

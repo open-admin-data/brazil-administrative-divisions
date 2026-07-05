@@ -1,0 +1,45 @@
+{
+  "id": "BR3118908",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cordisburgo",
+    "en": "Cordisburgo",
+    "slug": "cordisburgo-br3118908"
+  },
+  "code": {
+    "id": "BR3118908",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.086",
+    "lon": "-44.158"
+  },
+  "metadata": {},
+  "source": {}
+}

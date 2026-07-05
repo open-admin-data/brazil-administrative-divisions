@@ -1,0 +1,45 @@
+{
+  "id": "BR2301208",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Aracoiaba",
+    "en": "Aracoiaba",
+    "slug": "aracoiaba-br2301208"
+  },
+  "code": {
+    "id": "BR2301208",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.791",
+    "lon": "-35.075"
+  },
+  "metadata": {},
+  "source": {}
+}

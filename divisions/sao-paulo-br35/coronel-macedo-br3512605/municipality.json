@@ -1,0 +1,45 @@
+{
+  "id": "BR3512605",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Coronel Macedo",
+    "en": "Coronel Macedo",
+    "slug": "coronel-macedo-br3512605"
+  },
+  "code": {
+    "id": "BR3512605",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.626",
+    "lon": "-49.3"
+  },
+  "metadata": {},
+  "source": {}
+}

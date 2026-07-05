@@ -1,0 +1,45 @@
+{
+  "id": "BR3167806",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Soledade de Minas",
+    "en": "Soledade de Minas",
+    "slug": "soledade-de-minas-br3167806"
+  },
+  "code": {
+    "id": "BR3167806",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.033",
+    "lon": "-45.036"
+  },
+  "metadata": {},
+  "source": {}
+}

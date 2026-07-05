@@ -1,0 +1,45 @@
+{
+  "id": "BR2206209",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Miguel Alves",
+    "en": "Miguel Alves",
+    "slug": "miguel-alves-br2206209"
+  },
+  "code": {
+    "id": "BR2206209",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.197",
+    "lon": "-42.797"
+  },
+  "metadata": {},
+  "source": {}
+}

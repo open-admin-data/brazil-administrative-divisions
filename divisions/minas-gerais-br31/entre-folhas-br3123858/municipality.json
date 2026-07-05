@@ -1,0 +1,45 @@
+{
+  "id": "BR3123858",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Entre Folhas",
+    "en": "Entre Folhas",
+    "slug": "entre-folhas-br3123858"
+  },
+  "code": {
+    "id": "BR3123858",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.657",
+    "lon": "-42.236"
+  },
+  "metadata": {},
+  "source": {}
+}

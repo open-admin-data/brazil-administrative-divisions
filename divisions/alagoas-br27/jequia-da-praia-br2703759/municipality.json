@@ -1,0 +1,45 @@
+{
+  "id": "BR2703759",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jequiá da Praia",
+    "en": "Jequia da Praia",
+    "slug": "jequia-da-praia-br2703759"
+  },
+  "code": {
+    "id": "BR2703759",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.905",
+    "lon": "-36.098"
+  },
+  "metadata": {},
+  "source": {}
+}

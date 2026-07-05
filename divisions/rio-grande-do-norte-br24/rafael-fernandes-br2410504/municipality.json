@@ -1,0 +1,45 @@
+{
+  "id": "BR2410504",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rafael Fernandes",
+    "en": "Rafael Fernandes",
+    "slug": "rafael-fernandes-br2410504"
+  },
+  "code": {
+    "id": "BR2410504",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR24",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Norte",
+      "en": "Rio Grande do Norte",
+      "slug": "rio-grande-do-norte-br24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.199",
+    "lon": "-38.228"
+  },
+  "metadata": {},
+  "source": {}
+}

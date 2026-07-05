@@ -1,0 +1,45 @@
+{
+  "id": "BR3119807",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Córrego Danta",
+    "en": "Corrego Danta",
+    "slug": "corrego-danta-br3119807"
+  },
+  "code": {
+    "id": "BR3119807",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.786",
+    "lon": "-45.983"
+  },
+  "metadata": {},
+  "source": {}
+}

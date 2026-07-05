@@ -1,0 +1,45 @@
+{
+  "id": "BR2804805",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nossa Senhora do Socorro",
+    "en": "Nossa Senhora do Socorro",
+    "slug": "nossa-senhora-do-socorro-br2804805"
+  },
+  "code": {
+    "id": "BR2804805",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.866",
+    "lon": "-37.139"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR4107538",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Entre Rios do Oeste",
+    "en": "Entre Rios do Oeste",
+    "slug": "entre-rios-do-oeste-br4107538"
+  },
+  "code": {
+    "id": "BR4107538",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.702",
+    "lon": "-54.219"
+  },
+  "metadata": {},
+  "source": {}
+}

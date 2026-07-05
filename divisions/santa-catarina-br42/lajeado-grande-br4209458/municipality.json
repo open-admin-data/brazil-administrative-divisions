@@ -1,0 +1,45 @@
+{
+  "id": "BR4209458",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lajeado Grande",
+    "en": "Lajeado Grande",
+    "slug": "lajeado-grande-br4209458"
+  },
+  "code": {
+    "id": "BR4209458",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.849",
+    "lon": "-52.546"
+  },
+  "metadata": {},
+  "source": {}
+}

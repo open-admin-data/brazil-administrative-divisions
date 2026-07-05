@@ -1,0 +1,45 @@
+{
+  "id": "BR3135456",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jenipapo de Minas",
+    "en": "Jenipapo de Minas",
+    "slug": "jenipapo-de-minas-br3135456"
+  },
+  "code": {
+    "id": "BR3135456",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.176",
+    "lon": "-42.211"
+  },
+  "metadata": {},
+  "source": {}
+}

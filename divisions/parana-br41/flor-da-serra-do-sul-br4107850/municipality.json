@@ -1,0 +1,45 @@
+{
+  "id": "BR4107850",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Flor da Serra do Sul",
+    "en": "Flor da Serra do Sul",
+    "slug": "flor-da-serra-do-sul-br4107850"
+  },
+  "code": {
+    "id": "BR4107850",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.231",
+    "lon": "-53.306"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1507607",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Miguel do Guamá",
+    "en": "Sao Miguel do Guama",
+    "slug": "sao-miguel-do-guama-br1507607"
+  },
+  "code": {
+    "id": "BR1507607",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.593",
+    "lon": "-47.54"
+  },
+  "metadata": {},
+  "source": {}
+}

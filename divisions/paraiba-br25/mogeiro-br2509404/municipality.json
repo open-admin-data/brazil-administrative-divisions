@@ -1,0 +1,45 @@
+{
+  "id": "BR2509404",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mogeiro",
+    "en": "Mogeiro",
+    "slug": "mogeiro-br2509404"
+  },
+  "code": {
+    "id": "BR2509404",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.289",
+    "lon": "-35.487"
+  },
+  "metadata": {},
+  "source": {}
+}

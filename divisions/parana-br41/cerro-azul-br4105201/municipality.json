@@ -1,0 +1,45 @@
+{
+  "id": "BR4105201",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cerro Azul",
+    "en": "Cerro Azul",
+    "slug": "cerro-azul-br4105201"
+  },
+  "code": {
+    "id": "BR4105201",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.877",
+    "lon": "-49.285"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1711803",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Juarina",
+    "en": "Juarina",
+    "slug": "juarina-br1711803"
+  },
+  "code": {
+    "id": "BR1711803",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.137",
+    "lon": "-49.102"
+  },
+  "metadata": {},
+  "source": {}
+}

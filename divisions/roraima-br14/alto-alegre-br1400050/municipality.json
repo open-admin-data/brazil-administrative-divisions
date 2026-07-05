@@ -1,0 +1,45 @@
+{
+  "id": "BR1400050",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alto Alegre",
+    "en": "Alto Alegre",
+    "slug": "alto-alegre-br1400050"
+  },
+  "code": {
+    "id": "BR1400050",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR14",
+    "level": 1,
+    "name": {
+      "local": "Roraima",
+      "en": "Roraima",
+      "slug": "roraima-br14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.802",
+    "lon": "-52.982"
+  },
+  "metadata": {},
+  "source": {}
+}

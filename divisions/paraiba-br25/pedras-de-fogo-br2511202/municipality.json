@@ -1,0 +1,45 @@
+{
+  "id": "BR2511202",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pedras de Fogo",
+    "en": "Pedras de Fogo",
+    "slug": "pedras-de-fogo-br2511202"
+  },
+  "code": {
+    "id": "BR2511202",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.357",
+    "lon": "-35.075"
+  },
+  "metadata": {},
+  "source": {}
+}

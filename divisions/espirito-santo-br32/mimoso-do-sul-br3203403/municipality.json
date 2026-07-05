@@ -1,0 +1,45 @@
+{
+  "id": "BR3203403",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mimoso do Sul",
+    "en": "Mimoso do Sul",
+    "slug": "mimoso-do-sul-br3203403"
+  },
+  "code": {
+    "id": "BR3203403",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.082",
+    "lon": "-41.391"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2107357",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Olinda do Maranhão",
+    "en": "Nova Olinda do Maranhao",
+    "slug": "nova-olinda-do-maranhao-br2107357"
+  },
+  "code": {
+    "id": "BR2107357",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.982",
+    "lon": "-45.958"
+  },
+  "metadata": {},
+  "source": {}
+}

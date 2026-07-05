@@ -1,0 +1,45 @@
+{
+  "id": "BR4316972",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Margarida do Sul",
+    "en": "Santa Margarida do Sul",
+    "slug": "santa-margarida-do-sul-br4316972"
+  },
+  "code": {
+    "id": "BR4316972",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-30.388",
+    "lon": "-54.065"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2112456",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Turilândia",
+    "en": "Turilandia",
+    "slug": "turilandia-br2112456"
+  },
+  "code": {
+    "id": "BR2112456",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.128",
+    "lon": "-45.357"
+  },
+  "metadata": {},
+  "source": {}
+}

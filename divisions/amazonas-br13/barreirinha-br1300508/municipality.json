@@ -1,0 +1,45 @@
+{
+  "id": "BR1300508",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barreirinha",
+    "en": "Barreirinha",
+    "slug": "barreirinha-br1300508"
+  },
+  "code": {
+    "id": "BR1300508",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.012",
+    "lon": "-57.172"
+  },
+  "metadata": {},
+  "source": {}
+}

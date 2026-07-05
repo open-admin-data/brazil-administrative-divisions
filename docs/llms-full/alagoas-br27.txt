@@ -1,0 +1,519 @@
+# Alagoas — Brazil Administrative Divisions
+
+> 102 municipalitys
+> Code: BR27
+> Coordinates: -9.421, -36.643
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Água Branca (Agua Branca)
+
+Code: BR2700102, Coordinates: -9.256, -37.927
+
+
+### Anadia
+
+Code: BR2700201, Coordinates: -9.664, -36.33
+
+
+### Arapiraca
+
+Code: BR2700300, Coordinates: -9.766, -36.603
+
+
+### Atalaia
+
+Code: BR2700409, Coordinates: -23.125, -52.046
+
+
+### Barra de Santo Antônio (Barra de Santo Antonio)
+
+Code: BR2700508, Coordinates: -9.391, -35.56
+
+
+### Barra de São Miguel (Barra de Sao Miguel)
+
+Code: BR2700607, Coordinates: -9.81, -35.949
+
+
+### Batalha
+
+Code: BR2700706, Coordinates: -9.742, -37.087
+
+
+### Belém (Belem)
+
+Code: BR2700805, Coordinates: -9.557, -36.495
+
+
+### Belo Monte
+
+Code: BR2700904, Coordinates: -9.803, -37.194
+
+
+### Boca da Mata
+
+Code: BR2701001, Coordinates: -9.66, -36.154
+
+
+### Branquinha
+
+Code: BR2701100, Coordinates: -9.229, -36.09
+
+
+### Cacimbinhas
+
+Code: BR2701209, Coordinates: -9.458, -36.911
+
+
+### Cajueiro
+
+Code: BR2701308, Coordinates: -9.42, -36.166
+
+
+### Campestre
+
+Code: BR2701357, Coordinates: -21.731, -46.23
+
+
+### Campo Alegre
+
+Code: BR2701407, Coordinates: -26.112, -49.22
+
+
+### Campo Grande
+
+Code: BR2701506, Coordinates: -20.985, -54.228
+
+
+### Canapi
+
+Code: BR2701605, Coordinates: -9.15, -37.51
+
+
+### Capela
+
+Code: BR2701704, Coordinates: -10.438, -37.057
+
+
+### Carneiros
+
+Code: BR2701803, Coordinates: -9.464, -37.343
+
+
+### Chã Preta (Cha Preta)
+
+Code: BR2701902, Coordinates: -9.232, -36.316
+
+
+### Coité do Nóia (Coite do Noia)
+
+Code: BR2702009, Coordinates: -9.629, -36.596
+
+
+### Colônia Leopoldina (Colonia Leopoldina)
+
+Code: BR2702108, Coordinates: -8.908, -35.74
+
+
+### Coqueiro Seco
+
+Code: BR2702207, Coordinates: -9.642, -35.811
+
+
+### Coruripe
+
+Code: BR2702306, Coordinates: -10.093, -36.239
+
+
+### Craíbas (Craibas)
+
+Code: BR2702355, Coordinates: -9.613, -36.803
+
+
+### Delmiro Gouveia
+
+Code: BR2702405, Coordinates: -9.434, -38.043
+
+
+### Dois Riachos
+
+Code: BR2702504, Coordinates: -9.361, -37.069
+
+
+### Estrela de Alagoas
+
+Code: BR2702553, Coordinates: -9.403, -36.771
+
+
+### Feira Grande
+
+Code: BR2702603, Coordinates: -9.9, -36.66
+
+
+### Feliz Deserto
+
+Code: BR2702702, Coordinates: -10.283, -36.354
+
+
+### Flexeiras
+
+Code: BR2702801, Coordinates: -9.211, -35.788
+
+
+### Girau do Ponciano
+
+Code: BR2702900, Coordinates: -9.78, -36.844
+
+
+### Ibateguara
+
+Code: BR2703007, Coordinates: -8.946, -35.916
+
+
+### Igaci
+
+Code: BR2703106, Coordinates: -9.575, -36.675
+
+
+### Igreja Nova
+
+Code: BR2703205, Coordinates: -10.169, -36.64
+
+
+### Inhapi
+
+Code: BR2703304, Coordinates: -9.279, -37.66
+
+
+### Jacaré dos Homens (Jacare dos Homens)
+
+Code: BR2703403, Coordinates: -9.657, -37.222
+
+
+### Jacuípe (Jacuipe)
+
+Code: BR2703502, Coordinates: -8.872, -35.461
+
+
+### Japaratinga
+
+Code: BR2703601, Coordinates: -9.095, -35.291
+
+
+### Jaramataia
+
+Code: BR2703700, Coordinates: -9.65, -36.949
+
+
+### Jequiá da Praia (Jequia da Praia)
+
+Code: BR2703759, Coordinates: -9.905, -36.098
+
+
+### Joaquim Gomes
+
+Code: BR2703809, Coordinates: -9.101, -35.774
+
+
+### Jundiá (Jundia)
+
+Code: BR2703908, Coordinates: -8.952, -35.543
+
+
+### Junqueiro
+
+Code: BR2704005, Coordinates: -9.87, -36.446
+
+
+### Lagoa da Canoa
+
+Code: BR2704104, Coordinates: -9.806, -36.749
+
+
+### Limoeiro de Anadia
+
+Code: BR2704203, Coordinates: -9.741, -36.475
+
+
+### Maceió (Maceio)
+
+Code: BR2704302, Coordinates: -9.57, -35.695
+
+
+### Major Isidoro
+
+Code: BR2704401, Coordinates: -9.529, -36.961
+
+
+### Mar Vermelho
+
+Code: BR2704906, Coordinates: -9.48, -36.408
+
+
+### Maragogi
+
+Code: BR2704500, Coordinates: -8.957, -35.274
+
+
+### Maravilha
+
+Code: BR2704609, Coordinates: -26.758, -53.19
+
+
+### Marechal Deodoro
+
+Code: BR2704708, Coordinates: -9.716, -35.911
+
+
+### Maribondo
+
+Code: BR2704807, Coordinates: -9.559, -36.321
+
+
+### Mata Grande
+
+Code: BR2705002, Coordinates: -8.99, -37.742
+
+
+### Matriz de Camaragibe
+
+Code: BR2705101, Coordinates: -9.122, -35.554
+
+
+### Messias
+
+Code: BR2705200, Coordinates: -9.316, -35.823
+
+
+### Minador do Negrão (Minador do Negrao)
+
+Code: BR2705309, Coordinates: -9.327, -36.886
+
+
+### Monteirópolis (Monteiropolis)
+
+Code: BR2705408, Coordinates: -9.608, -37.287
+
+
+### Murici
+
+Code: BR2705507, Coordinates: -9.317, -35.978
+
+
+### Novo Lino
+
+Code: BR2705606, Coordinates: -8.935, -35.602
+
+
+### Olho d&#39;Água das Flores (Olho d&#39;Agua das Flores)
+
+Code: BR2705705, Coordinates: -9.561, -37.233
+
+
+### Olho d&#39;Água do Casado (Olho d&#39;Agua do Casado)
+
+Code: BR2705804, Coordinates: -9.46, -37.833
+
+
+### Olho d&#39;Água Grande (Olho d&#39;Agua Grande)
+
+Code: BR2705903, Coordinates: -10.057, -36.794
+
+
+### Olivença (Olivenca)
+
+Code: BR2706000, Coordinates: -9.468, -37.18
+
+
+### Ouro Branco
+
+Code: BR2706109, Coordinates: -20.53, -43.702
+
+
+### Palestina
+
+Code: BR2706208, Coordinates: -20.31, -49.525
+
+
+### Palmeira dos Índios (Palmeira dos Indios)
+
+Code: BR2706307, Coordinates: -9.4, -36.615
+
+
+### Pão de Açúcar (Pao de Acucar)
+
+Code: BR2706406, Coordinates: -9.665, -37.467
+
+
+### Pariconha
+
+Code: BR2706422, Coordinates: -9.218, -38.022
+
+
+### Paripueira
+
+Code: BR2706448, Coordinates: -9.435, -35.595
+
+
+### Passo de Camaragibe
+
+Code: BR2706505, Coordinates: -9.248, -35.495
+
+
+### Paulo Jacinto
+
+Code: BR2706604, Coordinates: -9.364, -36.402
+
+
+### Penedo
+
+Code: BR2706703, Coordinates: -10.258, -36.476
+
+
+### Piaçabuçu (Piacabucu)
+
+Code: BR2706802, Coordinates: -10.383, -36.424
+
+
+### Pilar
+
+Code: BR2706901, Coordinates: -9.629, -36.045
+
+
+### Pindoba
+
+Code: BR2707008, Coordinates: -9.468, -36.303
+
+
+### Piranhas
+
+Code: BR2707107, Coordinates: -16.408, -51.838
+
+
+### Poço das Trincheiras (Poco das Trincheiras)
+
+Code: BR2707206, Coordinates: -9.298, -37.333
+
+
+### Porto Calvo
+
+Code: BR2707305, Coordinates: -9.062, -35.385
+
+
+### Porto de Pedras
+
+Code: BR2707404, Coordinates: -9.138, -35.412
+
+
+### Porto Real do Colégio (Porto Real do Colegio)
+
+Code: BR2707503, Coordinates: -10.106, -36.724
+
+
+### Quebrangulo
+
+Code: BR2707602, Coordinates: -9.284, -36.477
+
+
+### Rio Largo
+
+Code: BR2707701, Coordinates: -9.501, -35.904
+
+
+### Roteiro
+
+Code: BR2707800, Coordinates: -9.862, -35.986
+
+
+### Santa Luzia do Norte
+
+Code: BR2707909, Coordinates: -9.608, -35.828
+
+
+### Santana do Ipanema
+
+Code: BR2708006, Coordinates: -9.348, -37.193
+
+
+### Santana do Mundaú (Santana do Mundau)
+
+Code: BR2708105, Coordinates: -9.107, -36.207
+
+
+### São Brás (Sao Bras)
+
+Code: BR2708204, Coordinates: -10.119, -36.855
+
+
+### São José da Laje (Sao Jose da Laje)
+
+Code: BR2708303, Coordinates: -9.002, -36.058
+
+
+### São José da Tapera (Sao Jose da Tapera)
+
+Code: BR2708402, Coordinates: -9.532, -37.567
+
+
+### São Luís do Quitunde (Sao Luis do Quitunde)
+
+Code: BR2708501, Coordinates: -9.213, -35.609
+
+
+### São Miguel dos Campos (Sao Miguel dos Campos)
+
+Code: BR2708600, Coordinates: -9.786, -36.09
+
+
+### São Miguel dos Milagres (Sao Miguel dos Milagres)
+
+Code: BR2708709, Coordinates: -9.242, -35.408
+
+
+### São Sebastião (Sao Sebastiao)
+
+Code: BR2708808, Coordinates: -23.753, -45.598
+
+
+### Satuba
+
+Code: BR2708907, Coordinates: -9.588, -35.845
+
+
+### Senador Rui Palmeira
+
+Code: BR2708956, Coordinates: -9.361, -37.553
+
+
+### Tanque d&#39;Arca
+
+Code: BR2709004, Coordinates: -9.567, -36.403
+
+
+### Taquarana
+
+Code: BR2709103, Coordinates: -9.615, -36.483
+
+
+### Teotônio Vilela (Teotonio Vilela)
+
+Code: BR2709152, Coordinates: -9.978, -36.397
+
+
+### Traipu
+
+Code: BR2709202, Coordinates: -9.89, -36.963
+
+
+### União dos Palmares (Uniao dos Palmares)
+
+Code: BR2709301, Coordinates: -9.105, -36.034
+
+
+### Viçosa (Vicosa)
+
+Code: BR2709400, Coordinates: -20.734, -42.888
+
+

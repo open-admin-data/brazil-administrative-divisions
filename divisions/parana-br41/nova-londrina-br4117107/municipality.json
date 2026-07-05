@@ -1,0 +1,45 @@
+{
+  "id": "BR4117107",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Londrina",
+    "en": "Nova Londrina",
+    "slug": "nova-londrina-br4117107"
+  },
+  "code": {
+    "id": "BR4117107",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.747",
+    "lon": "-52.959"
+  },
+  "metadata": {},
+  "source": {}
+}

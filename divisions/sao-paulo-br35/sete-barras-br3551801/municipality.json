@@ -1,0 +1,45 @@
+{
+  "id": "BR3551801",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sete Barras",
+    "en": "Sete Barras",
+    "slug": "sete-barras-br3551801"
+  },
+  "code": {
+    "id": "BR3551801",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.275",
+    "lon": "-47.933"
+  },
+  "metadata": {},
+  "source": {}
+}

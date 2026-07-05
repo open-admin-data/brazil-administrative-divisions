@@ -1,0 +1,45 @@
+{
+  "id": "BR4318499",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José do Inhacorá",
+    "en": "Sao Jose do Inhacora",
+    "slug": "sao-jose-do-inhacora-br4318499"
+  },
+  "code": {
+    "id": "BR4318499",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.734",
+    "lon": "-54.125"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR4125308",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Jorge do Ivaí",
+    "en": "Sao Jorge do Ivai",
+    "slug": "sao-jorge-do-ivai-br4125308"
+  },
+  "code": {
+    "id": "BR4125308",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.448",
+    "lon": "-52.313"
+  },
+  "metadata": {},
+  "source": {}
+}

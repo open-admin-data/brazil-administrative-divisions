@@ -1,0 +1,45 @@
+{
+  "id": "BR1506708",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santana do Araguaia",
+    "en": "Santana do Araguaia",
+    "slug": "santana-do-araguaia-br1506708"
+  },
+  "code": {
+    "id": "BR1506708",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.146",
+    "lon": "-50.68"
+  },
+  "metadata": {},
+  "source": {}
+}

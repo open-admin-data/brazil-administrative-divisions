@@ -1,0 +1,45 @@
+{
+  "id": "BR2918209",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jiquiriçá",
+    "en": "Jiquirica",
+    "slug": "jiquirica-br2918209"
+  },
+  "code": {
+    "id": "BR2918209",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.325",
+    "lon": "-39.59"
+  },
+  "metadata": {},
+  "source": {}
+}

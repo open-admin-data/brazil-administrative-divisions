@@ -1,0 +1,45 @@
+{
+  "id": "BR2915205",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itagibá",
+    "en": "Itagiba",
+    "slug": "itagiba-br2915205"
+  },
+  "code": {
+    "id": "BR2915205",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.258",
+    "lon": "-39.826"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR4101655",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Arapuã",
+    "en": "Arapua",
+    "slug": "arapua-br4101655"
+  },
+  "code": {
+    "id": "BR4101655",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.321",
+    "lon": "-51.812"
+  },
+  "metadata": {},
+  "source": {}
+}

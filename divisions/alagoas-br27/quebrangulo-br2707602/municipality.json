@@ -1,0 +1,45 @@
+{
+  "id": "BR2707602",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Quebrangulo",
+    "en": "Quebrangulo",
+    "slug": "quebrangulo-br2707602"
+  },
+  "code": {
+    "id": "BR2707602",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.284",
+    "lon": "-36.477"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR5218102",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Portelândia",
+    "en": "Portelandia",
+    "slug": "portelandia-br5218102"
+  },
+  "code": {
+    "id": "BR5218102",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.34",
+    "lon": "-52.695"
+  },
+  "metadata": {},
+  "source": {}
+}

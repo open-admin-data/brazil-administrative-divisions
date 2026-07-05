@@ -1,0 +1,45 @@
+{
+  "id": "BR4311205",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Júlio de Castilhos",
+    "en": "Julio de Castilhos",
+    "slug": "julio-de-castilhos-br4311205"
+  },
+  "code": {
+    "id": "BR4311205",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.269",
+    "lon": "-53.633"
+  },
+  "metadata": {},
+  "source": {}
+}

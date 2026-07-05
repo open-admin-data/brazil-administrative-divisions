@@ -1,0 +1,45 @@
+{
+  "id": "BR2911105",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Formosa do Rio Preto",
+    "en": "Formosa do Rio Preto",
+    "slug": "formosa-do-rio-preto-br2911105"
+  },
+  "code": {
+    "id": "BR2911105",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.949",
+    "lon": "-45.437"
+  },
+  "metadata": {},
+  "source": {}
+}

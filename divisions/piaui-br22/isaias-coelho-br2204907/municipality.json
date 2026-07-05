@@ -1,0 +1,45 @@
+{
+  "id": "BR2204907",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Isaías Coelho",
+    "en": "Isaias Coelho",
+    "slug": "isaias-coelho-br2204907"
+  },
+  "code": {
+    "id": "BR2204907",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.641",
+    "lon": "-41.661"
+  },
+  "metadata": {},
+  "source": {}
+}

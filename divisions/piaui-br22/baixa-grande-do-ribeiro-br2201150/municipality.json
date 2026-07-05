@@ -1,0 +1,45 @@
+{
+  "id": "BR2201150",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Baixa Grande do Ribeiro",
+    "en": "Baixa Grande do Ribeiro",
+    "slug": "baixa-grande-do-ribeiro-br2201150"
+  },
+  "code": {
+    "id": "BR2201150",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.728",
+    "lon": "-45.18"
+  },
+  "metadata": {},
+  "source": {}
+}

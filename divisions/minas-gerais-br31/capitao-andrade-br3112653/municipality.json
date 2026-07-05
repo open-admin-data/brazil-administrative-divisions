@@ -1,0 +1,45 @@
+{
+  "id": "BR3112653",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Capitão Andrade",
+    "en": "Capitao Andrade",
+    "slug": "capitao-andrade-br3112653"
+  },
+  "code": {
+    "id": "BR3112653",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.046",
+    "lon": "-41.829"
+  },
+  "metadata": {},
+  "source": {}
+}

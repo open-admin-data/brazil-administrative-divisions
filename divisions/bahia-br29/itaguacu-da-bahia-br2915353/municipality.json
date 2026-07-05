@@ -1,0 +1,45 @@
+{
+  "id": "BR2915353",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itaguaçu da Bahia",
+    "en": "Itaguacu da Bahia",
+    "slug": "itaguacu-da-bahia-br2915353"
+  },
+  "code": {
+    "id": "BR2915353",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.666",
+    "lon": "-42.292"
+  },
+  "metadata": {},
+  "source": {}
+}

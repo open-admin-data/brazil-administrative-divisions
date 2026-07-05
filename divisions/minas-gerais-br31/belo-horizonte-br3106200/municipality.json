@@ -1,0 +1,45 @@
+{
+  "id": "BR3106200",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Belo Horizonte",
+    "en": "Belo Horizonte",
+    "slug": "belo-horizonte-br3106200"
+  },
+  "code": {
+    "id": "BR3106200",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.891",
+    "lon": "-43.962"
+  },
+  "metadata": {},
+  "source": {}
+}

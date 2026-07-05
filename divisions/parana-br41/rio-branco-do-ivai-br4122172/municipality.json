@@ -1,0 +1,45 @@
+{
+  "id": "BR4122172",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rio Branco do Ivaí",
+    "en": "Rio Branco do Ivai",
+    "slug": "rio-branco-do-ivai-br4122172"
+  },
+  "code": {
+    "id": "BR4122172",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.348",
+    "lon": "-51.347"
+  },
+  "metadata": {},
+  "source": {}
+}

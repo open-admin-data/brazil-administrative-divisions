@@ -1,0 +1,45 @@
+{
+  "id": "BR1101302",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mirante da Serra",
+    "en": "Mirante da Serra",
+    "slug": "mirante-da-serra-br1101302"
+  },
+  "code": {
+    "id": "BR1101302",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.127",
+    "lon": "-62.875"
+  },
+  "metadata": {},
+  "source": {}
+}

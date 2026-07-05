@@ -1,0 +1,45 @@
+{
+  "id": "BR2517001",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Umbuzeiro",
+    "en": "Umbuzeiro",
+    "slug": "umbuzeiro-br2517001"
+  },
+  "code": {
+    "id": "BR2517001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.677",
+    "lon": "-35.746"
+  },
+  "metadata": {},
+  "source": {}
+}

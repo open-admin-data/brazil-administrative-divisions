@@ -1,0 +1,45 @@
+{
+  "id": "BR4105904",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Colorado",
+    "en": "Colorado",
+    "slug": "colorado-br4105904"
+  },
+  "code": {
+    "id": "BR4105904",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.486",
+    "lon": "-52.977"
+  },
+  "metadata": {},
+  "source": {}
+}

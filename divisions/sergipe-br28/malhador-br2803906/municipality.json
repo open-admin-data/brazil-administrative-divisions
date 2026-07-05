@@ -1,0 +1,45 @@
+{
+  "id": "BR2803906",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Malhador",
+    "en": "Malhador",
+    "slug": "malhador-br2803906"
+  },
+  "code": {
+    "id": "BR2803906",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.689",
+    "lon": "-37.274"
+  },
+  "metadata": {},
+  "source": {}
+}

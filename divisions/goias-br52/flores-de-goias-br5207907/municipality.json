@@ -1,0 +1,45 @@
+{
+  "id": "BR5207907",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Flores de Goiás",
+    "en": "Flores de Goias",
+    "slug": "flores-de-goias-br5207907"
+  },
+  "code": {
+    "id": "BR5207907",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.568",
+    "lon": "-46.898"
+  },
+  "metadata": {},
+  "source": {}
+}

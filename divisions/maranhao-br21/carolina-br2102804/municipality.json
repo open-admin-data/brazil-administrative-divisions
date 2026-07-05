@@ -1,0 +1,45 @@
+{
+  "id": "BR2102804",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Carolina",
+    "en": "Carolina",
+    "slug": "carolina-br2102804"
+  },
+  "code": {
+    "id": "BR2102804",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.479",
+    "lon": "-47.157"
+  },
+  "metadata": {},
+  "source": {}
+}

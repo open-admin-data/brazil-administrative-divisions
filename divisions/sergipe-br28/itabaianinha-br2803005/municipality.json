@@ -1,0 +1,45 @@
+{
+  "id": "BR2803005",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itabaianinha",
+    "en": "Itabaianinha",
+    "slug": "itabaianinha-br2803005"
+  },
+  "code": {
+    "id": "BR2803005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.259",
+    "lon": "-37.787"
+  },
+  "metadata": {},
+  "source": {}
+}

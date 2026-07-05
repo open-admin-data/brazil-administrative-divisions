@@ -1,0 +1,45 @@
+{
+  "id": "BR4121356",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rancho Alegre D'Oeste",
+    "en": "Rancho Alegre D'Oeste",
+    "slug": "rancho-alegre-d-oeste-br4121356"
+  },
+  "code": {
+    "id": "BR4121356",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.302",
+    "lon": "-52.98"
+  },
+  "metadata": {},
+  "source": {}
+}

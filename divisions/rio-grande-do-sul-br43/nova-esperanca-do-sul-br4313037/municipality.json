@@ -1,0 +1,45 @@
+{
+  "id": "BR4313037",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Esperança do Sul",
+    "en": "Nova Esperanca do Sul",
+    "slug": "nova-esperanca-do-sul-br4313037"
+  },
+  "code": {
+    "id": "BR4313037",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.39",
+    "lon": "-54.833"
+  },
+  "metadata": {},
+  "source": {}
+}

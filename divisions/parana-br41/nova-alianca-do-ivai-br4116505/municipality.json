@@ -1,0 +1,45 @@
+{
+  "id": "BR4116505",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Aliança do Ivaí",
+    "en": "Nova Alianca do Ivai",
+    "slug": "nova-alianca-do-ivai-br4116505"
+  },
+  "code": {
+    "id": "BR4116505",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.18",
+    "lon": "-52.627"
+  },
+  "metadata": {},
+  "source": {}
+}

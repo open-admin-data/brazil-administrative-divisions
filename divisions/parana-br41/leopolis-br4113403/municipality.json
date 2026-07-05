@@ -1,0 +1,45 @@
+{
+  "id": "BR4113403",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Leópolis",
+    "en": "Leopolis",
+    "slug": "leopolis-br4113403"
+  },
+  "code": {
+    "id": "BR4113403",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.029",
+    "lon": "-50.722"
+  },
+  "metadata": {},
+  "source": {}
+}

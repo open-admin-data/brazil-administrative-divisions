@@ -1,0 +1,45 @@
+{
+  "id": "BR3166501",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Serra Azul de Minas",
+    "en": "Serra Azul de Minas",
+    "slug": "serra-azul-de-minas-br3166501"
+  },
+  "code": {
+    "id": "BR3166501",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.394",
+    "lon": "-43.203"
+  },
+  "metadata": {},
+  "source": {}
+}

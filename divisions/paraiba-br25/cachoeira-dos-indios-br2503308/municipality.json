@@ -1,0 +1,45 @@
+{
+  "id": "BR2503308",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cachoeira dos Índios",
+    "en": "Cachoeira dos Indios",
+    "slug": "cachoeira-dos-indios-br2503308"
+  },
+  "code": {
+    "id": "BR2503308",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.939",
+    "lon": "-38.714"
+  },
+  "metadata": {},
+  "source": {}
+}

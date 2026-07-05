@@ -1,0 +1,45 @@
+{
+  "id": "BR4116802",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Cantu",
+    "en": "Nova Cantu",
+    "slug": "nova-cantu-br4116802"
+  },
+  "code": {
+    "id": "BR4116802",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.656",
+    "lon": "-52.576"
+  },
+  "metadata": {},
+  "source": {}
+}

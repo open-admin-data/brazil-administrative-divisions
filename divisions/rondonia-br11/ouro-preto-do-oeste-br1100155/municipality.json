@@ -1,0 +1,45 @@
+{
+  "id": "BR1100155",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ouro Preto do Oeste",
+    "en": "Ouro Preto do Oeste",
+    "slug": "ouro-preto-do-oeste-br1100155"
+  },
+  "code": {
+    "id": "BR1100155",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.381",
+    "lon": "-61.96"
+  },
+  "metadata": {},
+  "source": {}
+}

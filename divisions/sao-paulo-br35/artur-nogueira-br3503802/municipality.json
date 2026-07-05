@@ -1,0 +1,45 @@
+{
+  "id": "BR3503802",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Artur Nogueira",
+    "en": "Artur Nogueira",
+    "slug": "artur-nogueira-br3503802"
+  },
+  "code": {
+    "id": "BR3503802",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.552",
+    "lon": "-47.131"
+  },
+  "metadata": {},
+  "source": {}
+}

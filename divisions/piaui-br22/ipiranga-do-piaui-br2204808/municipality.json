@@ -1,0 +1,45 @@
+{
+  "id": "BR2204808",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ipiranga do Piauí",
+    "en": "Ipiranga do Piaui",
+    "slug": "ipiranga-do-piaui-br2204808"
+  },
+  "code": {
+    "id": "BR2204808",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.807",
+    "lon": "-41.776"
+  },
+  "metadata": {},
+  "source": {}
+}

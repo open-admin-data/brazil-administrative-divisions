@@ -1,0 +1,45 @@
+{
+  "id": "BR2907806",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cícero Dantas",
+    "en": "Cicero Dantas",
+    "slug": "cicero-dantas-br2907806"
+  },
+  "code": {
+    "id": "BR2907806",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.489",
+    "lon": "-38.458"
+  },
+  "metadata": {},
+  "source": {}
+}

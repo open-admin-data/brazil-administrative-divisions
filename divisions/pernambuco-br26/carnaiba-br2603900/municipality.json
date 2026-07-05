@@ -1,0 +1,45 @@
+{
+  "id": "BR2603900",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Carnaíba",
+    "en": "Carnaiba",
+    "slug": "carnaiba-br2603900"
+  },
+  "code": {
+    "id": "BR2603900",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR26",
+    "level": 1,
+    "name": {
+      "local": "Pernambuco",
+      "en": "Pernambuco",
+      "slug": "pernambuco-br26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.776",
+    "lon": "-37.707"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2111532",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Pedro da Água Branca",
+    "en": "Sao Pedro da Agua Branca",
+    "slug": "sao-pedro-da-agua-branca-br2111532"
+  },
+  "code": {
+    "id": "BR2111532",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.17",
+    "lon": "-48.388"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2923902",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pau Brasil",
+    "en": "Pau Brasil",
+    "slug": "pau-brasil-br2923902"
+  },
+  "code": {
+    "id": "BR2923902",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.477",
+    "lon": "-39.677"
+  },
+  "metadata": {},
+  "source": {}
+}

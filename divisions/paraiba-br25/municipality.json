@@ -1,0 +1,10037 @@
+[
+  {
+    "id": "BR2500106",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Água Branca",
+      "en": "Agua Branca",
+      "slug": "agua-branca-br2500106"
+    },
+    "code": {
+      "id": "BR2500106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.256",
+      "lon": "-37.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2500205",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aguiar",
+      "en": "Aguiar",
+      "slug": "aguiar-br2500205"
+    },
+    "code": {
+      "id": "BR2500205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.095",
+      "lon": "-38.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2500304",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alagoa Grande",
+      "en": "Alagoa Grande",
+      "slug": "alagoa-grande-br2500304"
+    },
+    "code": {
+      "id": "BR2500304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.042",
+      "lon": "-35.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2500403",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alagoa Nova",
+      "en": "Alagoa Nova",
+      "slug": "alagoa-nova-br2500403"
+    },
+    "code": {
+      "id": "BR2500403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.059",
+      "lon": "-35.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2500502",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alagoinha",
+      "en": "Alagoinha",
+      "slug": "alagoinha-br2500502"
+    },
+    "code": {
+      "id": "BR2500502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.535",
+      "lon": "-36.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2500536",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alcantil",
+      "en": "Alcantil",
+      "slug": "alcantil-br2500536"
+    },
+    "code": {
+      "id": "BR2500536",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.684",
+      "lon": "-36.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2500577",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Algodão de Jandaíra",
+      "en": "Algodao de Jandaira",
+      "slug": "algodao-de-jandaira-br2500577"
+    },
+    "code": {
+      "id": "BR2500577",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.892",
+      "lon": "-35.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2500601",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alhandra",
+      "en": "Alhandra",
+      "slug": "alhandra-br2500601"
+    },
+    "code": {
+      "id": "BR2500601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.353",
+      "lon": "-34.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2500734",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amparo",
+      "en": "Amparo",
+      "slug": "amparo-br2500734"
+    },
+    "code": {
+      "id": "BR2500734",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.699",
+      "lon": "-46.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2500775",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aparecida",
+      "en": "Aparecida",
+      "slug": "aparecida-br2500775"
+    },
+    "code": {
+      "id": "BR2500775",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.913",
+      "lon": "-45.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2500809",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Araçagi",
+      "en": "Aracagi",
+      "slug": "aracagi-br2500809"
+    },
+    "code": {
+      "id": "BR2500809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.845",
+      "lon": "-35.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2500908",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arara",
+      "en": "Arara",
+      "slug": "arara-br2500908"
+    },
+    "code": {
+      "id": "BR2500908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.85",
+      "lon": "-35.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2501005",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Araruna",
+      "en": "Araruna",
+      "slug": "araruna-br2501005"
+    },
+    "code": {
+      "id": "BR2501005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.951",
+      "lon": "-52.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2501104",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Areia",
+      "en": "Areia",
+      "slug": "areia-br2501104"
+    },
+    "code": {
+      "id": "BR2501104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.958",
+      "lon": "-35.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2501153",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Areia de Baraúnas",
+      "en": "Areia de Baraunas",
+      "slug": "areia-de-baraunas-br2501153"
+    },
+    "code": {
+      "id": "BR2501153",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.121",
+      "lon": "-36.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2501203",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Areial",
+      "en": "Areial",
+      "slug": "areial-br2501203"
+    },
+    "code": {
+      "id": "BR2501203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.044",
+      "lon": "-35.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2501302",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aroeiras",
+      "en": "Aroeiras",
+      "slug": "aroeiras-br2501302"
+    },
+    "code": {
+      "id": "BR2501302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.522",
+      "lon": "-35.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2501351",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Assunção",
+      "en": "Assuncao",
+      "slug": "assuncao-br2501351"
+    },
+    "code": {
+      "id": "BR2501351",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.078",
+      "lon": "-36.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2501401",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Baía da Traição",
+      "en": "Baia da Traicao",
+      "slug": "baia-da-traicao-br2501401"
+    },
+    "code": {
+      "id": "BR2501401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.654",
+      "lon": "-34.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2501500",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bananeiras",
+      "en": "Bananeiras",
+      "slug": "bananeiras-br2501500"
+    },
+    "code": {
+      "id": "BR2501500",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.675",
+      "lon": "-35.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2501534",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Baraúna",
+      "en": "Barauna",
+      "slug": "barauna-br2501534"
+    },
+    "code": {
+      "id": "BR2501534",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.61",
+      "lon": "-36.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2501609",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barra de Santa Rosa",
+      "en": "Barra de Santa Rosa",
+      "slug": "barra-de-santa-rosa-br2501609"
+    },
+    "code": {
+      "id": "BR2501609",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.731",
+      "lon": "-35.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2501575",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barra de Santana",
+      "en": "Barra de Santana",
+      "slug": "barra-de-santana-br2501575"
+    },
+    "code": {
+      "id": "BR2501575",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.578",
+      "lon": "-35.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2501708",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barra de São Miguel",
+      "en": "Barra de Sao Miguel",
+      "slug": "barra-de-sao-miguel-br2501708"
+    },
+    "code": {
+      "id": "BR2501708",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.81",
+      "lon": "-35.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2501807",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bayeux",
+      "en": "Bayeux",
+      "slug": "bayeux-br2501807"
+    },
+    "code": {
+      "id": "BR2501807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.125",
+      "lon": "-34.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2501906",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Belém",
+      "en": "Belem",
+      "slug": "belem-br2501906"
+    },
+    "code": {
+      "id": "BR2501906",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.557",
+      "lon": "-36.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2502003",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Belém do Brejo do Cruz",
+      "en": "Belem do Brejo do Cruz",
+      "slug": "belem-do-brejo-do-cruz-br2502003"
+    },
+    "code": {
+      "id": "BR2502003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.157",
+      "lon": "-37.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2502052",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bernardino Batista",
+      "en": "Bernardino Batista",
+      "slug": "bernardino-batista-br2502052"
+    },
+    "code": {
+      "id": "BR2502052",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.489",
+      "lon": "-38.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2502102",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Boa Ventura",
+      "en": "Boa Ventura",
+      "slug": "boa-ventura-br2502102"
+    },
+    "code": {
+      "id": "BR2502102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.417",
+      "lon": "-38.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2502151",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Boa Vista",
+      "en": "Boa Vista",
+      "slug": "boa-vista-br2502151"
+    },
+    "code": {
+      "id": "BR2502151",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.298",
+      "lon": "-36.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2502201",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bom Jesus",
+      "en": "Bom Jesus",
+      "slug": "bom-jesus-br2502201"
+    },
+    "code": {
+      "id": "BR2502201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.585",
+      "lon": "-50.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2502300",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bom Sucesso",
+      "en": "Bom Sucesso",
+      "slug": "bom-sucesso-br2502300"
+    },
+    "code": {
+      "id": "BR2502300",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.694",
+      "lon": "-51.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2502409",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bonito de Santa Fé",
+      "en": "Bonito de Santa Fe",
+      "slug": "bonito-de-santa-fe-br2502409"
+    },
+    "code": {
+      "id": "BR2502409",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.286",
+      "lon": "-38.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2502508",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Boqueirão",
+      "en": "Boqueirao",
+      "slug": "boqueirao-br2502508"
+    },
+    "code": {
+      "id": "BR2502508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.523",
+      "lon": "-36.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2502706",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Borborema",
+      "en": "Borborema",
+      "slug": "borborema-br2502706"
+    },
+    "code": {
+      "id": "BR2502706",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.626",
+      "lon": "-49.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2502805",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Brejo do Cruz",
+      "en": "Brejo do Cruz",
+      "slug": "brejo-do-cruz-br2502805"
+    },
+    "code": {
+      "id": "BR2502805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.315",
+      "lon": "-37.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2502904",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Brejo dos Santos",
+      "en": "Brejo dos Santos",
+      "slug": "brejo-dos-santos-br2502904"
+    },
+    "code": {
+      "id": "BR2502904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.396",
+      "lon": "-37.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2503001",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caaporã",
+      "en": "Caapora",
+      "slug": "caapora-br2503001"
+    },
+    "code": {
+      "id": "BR2503001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.492",
+      "lon": "-34.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2503100",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cabaceiras",
+      "en": "Cabaceiras",
+      "slug": "cabaceiras-br2503100"
+    },
+    "code": {
+      "id": "BR2503100",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.465",
+      "lon": "-36.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2503209",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cabedelo",
+      "en": "Cabedelo",
+      "slug": "cabedelo-br2503209"
+    },
+    "code": {
+      "id": "BR2503209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.04",
+      "lon": "-34.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2503308",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cachoeira dos Índios",
+      "en": "Cachoeira dos Indios",
+      "slug": "cachoeira-dos-indios-br2503308"
+    },
+    "code": {
+      "id": "BR2503308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.939",
+      "lon": "-38.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2503407",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cacimba de Areia",
+      "en": "Cacimba de Areia",
+      "slug": "cacimba-de-areia-br2503407"
+    },
+    "code": {
+      "id": "BR2503407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.144",
+      "lon": "-37.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2503506",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cacimba de Dentro",
+      "en": "Cacimba de Dentro",
+      "slug": "cacimba-de-dentro-br2503506"
+    },
+    "code": {
+      "id": "BR2503506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.639",
+      "lon": "-35.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2503555",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cacimbas",
+      "en": "Cacimbas",
+      "slug": "cacimbas-br2503555"
+    },
+    "code": {
+      "id": "BR2503555",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.214",
+      "lon": "-37.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2503605",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caiçara",
+      "en": "Caicara",
+      "slug": "caicara-br2503605"
+    },
+    "code": {
+      "id": "BR2503605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.245",
+      "lon": "-53.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2503704",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cajazeiras",
+      "en": "Cajazeiras",
+      "slug": "cajazeiras-br2503704"
+    },
+    "code": {
+      "id": "BR2503704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.938",
+      "lon": "-38.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2503753",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cajazeirinhas",
+      "en": "Cajazeirinhas",
+      "slug": "cajazeirinhas-br2503753"
+    },
+    "code": {
+      "id": "BR2503753",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.937",
+      "lon": "-37.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2503803",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caldas Brandão",
+      "en": "Caldas Brandao",
+      "slug": "caldas-brandao-br2503803"
+    },
+    "code": {
+      "id": "BR2503803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.124",
+      "lon": "-35.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2503902",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Camalaú",
+      "en": "Camalau",
+      "slug": "camalau-br2503902"
+    },
+    "code": {
+      "id": "BR2503902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.898",
+      "lon": "-36.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2504009",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Campina Grande",
+      "en": "Campina Grande",
+      "slug": "campina-grande-br2504009"
+    },
+    "code": {
+      "id": "BR2504009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.276",
+      "lon": "-35.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2504033",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Capim",
+      "en": "Capim",
+      "slug": "capim-br2504033"
+    },
+    "code": {
+      "id": "BR2504033",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.892",
+      "lon": "-35.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2504074",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caraúbas",
+      "en": "Caraubas",
+      "slug": "caraubas-br2504074"
+    },
+    "code": {
+      "id": "BR2504074",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.745",
+      "lon": "-36.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2504108",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carrapateira",
+      "en": "Carrapateira",
+      "slug": "carrapateira-br2504108"
+    },
+    "code": {
+      "id": "BR2504108",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.044",
+      "lon": "-38.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2504157",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Casserengue",
+      "en": "Casserengue",
+      "slug": "casserengue-br2504157"
+    },
+    "code": {
+      "id": "BR2504157",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.756",
+      "lon": "-35.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2504207",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Catingueira",
+      "en": "Catingueira",
+      "slug": "catingueira-br2504207"
+    },
+    "code": {
+      "id": "BR2504207",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.2",
+      "lon": "-37.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2504306",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Catolé do Rocha",
+      "en": "Catole do Rocha",
+      "slug": "catole-do-rocha-br2504306"
+    },
+    "code": {
+      "id": "BR2504306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.307",
+      "lon": "-37.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2504355",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caturité",
+      "en": "Caturite",
+      "slug": "caturite-br2504355"
+    },
+    "code": {
+      "id": "BR2504355",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.412",
+      "lon": "-36.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2504405",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Conceição",
+      "en": "Conceicao",
+      "slug": "conceicao-br2504405"
+    },
+    "code": {
+      "id": "BR2504405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.51",
+      "lon": "-38.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2504504",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Condado",
+      "en": "Condado",
+      "slug": "condado-br2504504"
+    },
+    "code": {
+      "id": "BR2504504",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.594",
+      "lon": "-35.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2504603",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Conde",
+      "en": "Conde",
+      "slug": "conde-br2504603"
+    },
+    "code": {
+      "id": "BR2504603",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.808",
+      "lon": "-37.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2504702",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Congo",
+      "en": "Congo",
+      "slug": "congo-br2504702"
+    },
+    "code": {
+      "id": "BR2504702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.794",
+      "lon": "-36.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2504801",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coremas",
+      "en": "Coremas",
+      "slug": "coremas-br2504801"
+    },
+    "code": {
+      "id": "BR2504801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.084",
+      "lon": "-37.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2504850",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coxixola",
+      "en": "Coxixola",
+      "slug": "coxixola-br2504850"
+    },
+    "code": {
+      "id": "BR2504850",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.677",
+      "lon": "-36.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2504900",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cruz do Espírito Santo",
+      "en": "Cruz do Espirito Santo",
+      "slug": "cruz-do-espirito-santo-br2504900"
+    },
+    "code": {
+      "id": "BR2504900",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.168",
+      "lon": "-35.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2505006",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cubati",
+      "en": "Cubati",
+      "slug": "cubati-br2505006"
+    },
+    "code": {
+      "id": "BR2505006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.849",
+      "lon": "-36.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2505105",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuité",
+      "en": "Cuite",
+      "slug": "cuite-br2505105"
+    },
+    "code": {
+      "id": "BR2505105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.519",
+      "lon": "-36.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2505238",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuité de Mamanguape",
+      "en": "Cuite de Mamanguape",
+      "slug": "cuite-de-mamanguape-br2505238"
+    },
+    "code": {
+      "id": "BR2505238",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.905",
+      "lon": "-35.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2505204",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuitegi",
+      "en": "Cuitegi",
+      "slug": "cuitegi-br2505204"
+    },
+    "code": {
+      "id": "BR2505204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.9",
+      "lon": "-35.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2505279",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Curral de Cima",
+      "en": "Curral de Cima",
+      "slug": "curral-de-cima-br2505279"
+    },
+    "code": {
+      "id": "BR2505279",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.727",
+      "lon": "-35.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2505303",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Curral Velho",
+      "en": "Curral Velho",
+      "slug": "curral-velho-br2505303"
+    },
+    "code": {
+      "id": "BR2505303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.545",
+      "lon": "-38.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2505352",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Damião",
+      "en": "Damiao",
+      "slug": "damiao-br2505352"
+    },
+    "code": {
+      "id": "BR2505352",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.674",
+      "lon": "-35.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2505402",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Desterro",
+      "en": "Desterro",
+      "slug": "desterro-br2505402"
+    },
+    "code": {
+      "id": "BR2505402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.303",
+      "lon": "-37.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2505600",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Diamante",
+      "en": "Diamante",
+      "slug": "diamante-br2505600"
+    },
+    "code": {
+      "id": "BR2505600",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.451",
+      "lon": "-38.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2505709",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dona Inês",
+      "en": "Dona Ines",
+      "slug": "dona-ines-br2505709"
+    },
+    "code": {
+      "id": "BR2505709",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.603",
+      "lon": "-35.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2505808",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Duas Estradas",
+      "en": "Duas Estradas",
+      "slug": "duas-estradas-br2505808"
+    },
+    "code": {
+      "id": "BR2505808",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.722",
+      "lon": "-35.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2505907",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Emas",
+      "en": "Emas",
+      "slug": "emas-br2505907"
+    },
+    "code": {
+      "id": "BR2505907",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.111",
+      "lon": "-37.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2506004",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Esperança",
+      "en": "Esperanca",
+      "slug": "esperanca-br2506004"
+    },
+    "code": {
+      "id": "BR2506004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.004",
+      "lon": "-35.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2506103",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fagundes",
+      "en": "Fagundes",
+      "slug": "fagundes-br2506103"
+    },
+    "code": {
+      "id": "BR2506103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.397",
+      "lon": "-35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2506202",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Frei Martinho",
+      "en": "Frei Martinho",
+      "slug": "frei-martinho-br2506202"
+    },
+    "code": {
+      "id": "BR2506202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.424",
+      "lon": "-36.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2506251",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gado Bravo",
+      "en": "Gado Bravo",
+      "slug": "gado-bravo-br2506251"
+    },
+    "code": {
+      "id": "BR2506251",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.586",
+      "lon": "-35.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2506301",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guarabira",
+      "en": "Guarabira",
+      "slug": "guarabira-br2506301"
+    },
+    "code": {
+      "id": "BR2506301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.88",
+      "lon": "-35.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2506400",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gurinhém",
+      "en": "Gurinhem",
+      "slug": "gurinhem-br2506400"
+    },
+    "code": {
+      "id": "BR2506400",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.146",
+      "lon": "-35.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2506509",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gurjão",
+      "en": "Gurjao",
+      "slug": "gurjao-br2506509"
+    },
+    "code": {
+      "id": "BR2506509",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.281",
+      "lon": "-36.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2506608",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ibiara",
+      "en": "Ibiara",
+      "slug": "ibiara-br2506608"
+    },
+    "code": {
+      "id": "BR2506608",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.502",
+      "lon": "-38.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2502607",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Igaracy",
+      "en": "Igaracy",
+      "slug": "igaracy-br2502607"
+    },
+    "code": {
+      "id": "BR2502607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.137",
+      "lon": "-38.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2506707",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Imaculada",
+      "en": "Imaculada",
+      "slug": "imaculada-br2506707"
+    },
+    "code": {
+      "id": "BR2506707",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.371",
+      "lon": "-37.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2506806",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ingá",
+      "en": "Inga",
+      "slug": "inga-br2506806"
+    },
+    "code": {
+      "id": "BR2506806",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.264",
+      "lon": "-35.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2506905",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itabaiana",
+      "en": "Itabaiana",
+      "slug": "itabaiana-br2506905"
+    },
+    "code": {
+      "id": "BR2506905",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.691",
+      "lon": "-37.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2507002",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itaporanga",
+      "en": "Itaporanga",
+      "slug": "itaporanga-br2507002"
+    },
+    "code": {
+      "id": "BR2507002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.67",
+      "lon": "-49.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2507101",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itapororoca",
+      "en": "Itapororoca",
+      "slug": "itapororoca-br2507101"
+    },
+    "code": {
+      "id": "BR2507101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.819",
+      "lon": "-35.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2507200",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itatuba",
+      "en": "Itatuba",
+      "slug": "itatuba-br2507200"
+    },
+    "code": {
+      "id": "BR2507200",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.432",
+      "lon": "-35.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2507309",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jacaraú",
+      "en": "Jacarau",
+      "slug": "jacarau-br2507309"
+    },
+    "code": {
+      "id": "BR2507309",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.608",
+      "lon": "-35.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2507408",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jericó",
+      "en": "Jerico",
+      "slug": "jerico-br2507408"
+    },
+    "code": {
+      "id": "BR2507408",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.501",
+      "lon": "-37.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2507507",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "João Pessoa",
+      "en": "Joao Pessoa",
+      "slug": "joao-pessoa-br2507507"
+    },
+    "code": {
+      "id": "BR2507507",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.151",
+      "lon": "-34.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2513653",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Joca Claudino",
+      "en": "Joca Claudino",
+      "slug": "joca-claudino-br2513653"
+    },
+    "code": {
+      "id": "BR2513653",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.47",
+      "lon": "-38.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2507606",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juarez Távora",
+      "en": "Juarez Tavora",
+      "slug": "juarez-tavora-br2507606"
+    },
+    "code": {
+      "id": "BR2507606",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.172",
+      "lon": "-35.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2507705",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juazeirinho",
+      "en": "Juazeirinho",
+      "slug": "juazeirinho-br2507705"
+    },
+    "code": {
+      "id": "BR2507705",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.033",
+      "lon": "-36.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2507804",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Junco do Seridó",
+      "en": "Junco do Serido",
+      "slug": "junco-do-serido-br2507804"
+    },
+    "code": {
+      "id": "BR2507804",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.986",
+      "lon": "-36.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2507903",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juripiranga",
+      "en": "Juripiranga",
+      "slug": "juripiranga-br2507903"
+    },
+    "code": {
+      "id": "BR2507903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.353",
+      "lon": "-35.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2508000",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juru",
+      "en": "Juru",
+      "slug": "juru-br2508000"
+    },
+    "code": {
+      "id": "BR2508000",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.51",
+      "lon": "-37.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2508109",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagoa",
+      "en": "Lagoa",
+      "slug": "lagoa-br2508109"
+    },
+    "code": {
+      "id": "BR2508109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.592",
+      "lon": "-37.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2508208",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagoa de Dentro",
+      "en": "Lagoa de Dentro",
+      "slug": "lagoa-de-dentro-br2508208"
+    },
+    "code": {
+      "id": "BR2508208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.688",
+      "lon": "-35.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2508307",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagoa Seca",
+      "en": "Lagoa Seca",
+      "slug": "lagoa-seca-br2508307"
+    },
+    "code": {
+      "id": "BR2508307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.146",
+      "lon": "-35.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2508406",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lastro",
+      "en": "Lastro",
+      "slug": "lastro-br2508406"
+    },
+    "code": {
+      "id": "BR2508406",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.543",
+      "lon": "-38.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2508505",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Livramento",
+      "en": "Livramento",
+      "slug": "livramento-br2508505"
+    },
+    "code": {
+      "id": "BR2508505",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.359",
+      "lon": "-36.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2508554",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Logradouro",
+      "en": "Logradouro",
+      "slug": "logradouro-br2508554"
+    },
+    "code": {
+      "id": "BR2508554",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.545",
+      "lon": "-35.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2508604",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lucena",
+      "en": "Lucena",
+      "slug": "lucena-br2508604"
+    },
+    "code": {
+      "id": "BR2508604",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.921",
+      "lon": "-34.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2508703",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mãe d'Água",
+      "en": "Mae d'Agua",
+      "slug": "mae-d-agua-br2508703"
+    },
+    "code": {
+      "id": "BR2508703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.245",
+      "lon": "-37.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2508802",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Malta",
+      "en": "Malta",
+      "slug": "malta-br2508802"
+    },
+    "code": {
+      "id": "BR2508802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.891",
+      "lon": "-37.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2508901",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mamanguape",
+      "en": "Mamanguape",
+      "slug": "mamanguape-br2508901"
+    },
+    "code": {
+      "id": "BR2508901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.69",
+      "lon": "-35.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2509008",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Manaíra",
+      "en": "Manaira",
+      "slug": "manaira-br2509008"
+    },
+    "code": {
+      "id": "BR2509008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.726",
+      "lon": "-38.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2509057",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Marcação",
+      "en": "Marcacao",
+      "slug": "marcacao-br2509057"
+    },
+    "code": {
+      "id": "BR2509057",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.757",
+      "lon": "-34.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2509107",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mari",
+      "en": "Mari",
+      "slug": "mari-br2509107"
+    },
+    "code": {
+      "id": "BR2509107",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.041",
+      "lon": "-35.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2509156",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Marizópolis",
+      "en": "Marizopolis",
+      "slug": "marizopolis-br2509156"
+    },
+    "code": {
+      "id": "BR2509156",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.832",
+      "lon": "-38.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2509206",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Massaranduba",
+      "en": "Massaranduba",
+      "slug": "massaranduba-br2509206"
+    },
+    "code": {
+      "id": "BR2509206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.627",
+      "lon": "-48.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2509305",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mataraca",
+      "en": "Mataraca",
+      "slug": "mataraca-br2509305"
+    },
+    "code": {
+      "id": "BR2509305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.557",
+      "lon": "-35.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2509339",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Matinhas",
+      "en": "Matinhas",
+      "slug": "matinhas-br2509339"
+    },
+    "code": {
+      "id": "BR2509339",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.118",
+      "lon": "-35.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2509370",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br2509370"
+    },
+    "code": {
+      "id": "BR2509370",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.556",
+      "lon": "-37.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2509396",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maturéia",
+      "en": "Matureia",
+      "slug": "matureia-br2509396"
+    },
+    "code": {
+      "id": "BR2509396",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.281",
+      "lon": "-37.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2509404",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mogeiro",
+      "en": "Mogeiro",
+      "slug": "mogeiro-br2509404"
+    },
+    "code": {
+      "id": "BR2509404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.289",
+      "lon": "-35.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2509503",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Montadas",
+      "en": "Montadas",
+      "slug": "montadas-br2509503"
+    },
+    "code": {
+      "id": "BR2509503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.095",
+      "lon": "-35.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2509602",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Monte Horebe",
+      "en": "Monte Horebe",
+      "slug": "monte-horebe-br2509602"
+    },
+    "code": {
+      "id": "BR2509602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.206",
+      "lon": "-38.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2509701",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Monteiro",
+      "en": "Monteiro",
+      "slug": "monteiro-br2509701"
+    },
+    "code": {
+      "id": "BR2509701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.912",
+      "lon": "-37.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2509800",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mulungu",
+      "en": "Mulungu",
+      "slug": "mulungu-br2509800"
+    },
+    "code": {
+      "id": "BR2509800",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.996",
+      "lon": "-35.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2509909",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Natuba",
+      "en": "Natuba",
+      "slug": "natuba-br2509909"
+    },
+    "code": {
+      "id": "BR2509909",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.564",
+      "lon": "-35.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2510006",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nazarezinho",
+      "en": "Nazarezinho",
+      "slug": "nazarezinho-br2510006"
+    },
+    "code": {
+      "id": "BR2510006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.947",
+      "lon": "-38.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2510105",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Floresta",
+      "en": "Nova Floresta",
+      "slug": "nova-floresta-br2510105"
+    },
+    "code": {
+      "id": "BR2510105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.453",
+      "lon": "-36.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2510204",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Olinda",
+      "en": "Nova Olinda",
+      "slug": "nova-olinda-br2510204"
+    },
+    "code": {
+      "id": "BR2510204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.455",
+      "lon": "-38.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2510303",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Palmeira",
+      "en": "Nova Palmeira",
+      "slug": "nova-palmeira-br2510303"
+    },
+    "code": {
+      "id": "BR2510303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.67",
+      "lon": "-36.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2510402",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Olho d'Água",
+      "en": "Olho d'Agua",
+      "slug": "olho-d-agua-br2510402"
+    },
+    "code": {
+      "id": "BR2510402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.308",
+      "lon": "-37.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2510501",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Olivedos",
+      "en": "Olivedos",
+      "slug": "olivedos-br2510501"
+    },
+    "code": {
+      "id": "BR2510501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.001",
+      "lon": "-36.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2510600",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ouro Velho",
+      "en": "Ouro Velho",
+      "slug": "ouro-velho-br2510600"
+    },
+    "code": {
+      "id": "BR2510600",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.609",
+      "lon": "-37.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2510659",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Parari",
+      "en": "Parari",
+      "slug": "parari-br2510659"
+    },
+    "code": {
+      "id": "BR2510659",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.325",
+      "lon": "-36.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2510709",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Passagem",
+      "en": "Passagem",
+      "slug": "passagem-br2510709"
+    },
+    "code": {
+      "id": "BR2510709",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.115",
+      "lon": "-37.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2510808",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Patos",
+      "en": "Patos",
+      "slug": "patos-br2510808"
+    },
+    "code": {
+      "id": "BR2510808",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.001",
+      "lon": "-37.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2510907",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paulista",
+      "en": "Paulista",
+      "slug": "paulista-br2510907"
+    },
+    "code": {
+      "id": "BR2510907",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.929",
+      "lon": "-34.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2511004",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedra Branca",
+      "en": "Pedra Branca",
+      "slug": "pedra-branca-br2511004"
+    },
+    "code": {
+      "id": "BR2511004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.471",
+      "lon": "-38.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2511103",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedra Lavrada",
+      "en": "Pedra Lavrada",
+      "slug": "pedra-lavrada-br2511103"
+    },
+    "code": {
+      "id": "BR2511103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.789",
+      "lon": "-36.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2511202",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedras de Fogo",
+      "en": "Pedras de Fogo",
+      "slug": "pedras-de-fogo-br2511202"
+    },
+    "code": {
+      "id": "BR2511202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.357",
+      "lon": "-35.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2512721",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedro Régis",
+      "en": "Pedro Regis",
+      "slug": "pedro-regis-br2512721"
+    },
+    "code": {
+      "id": "BR2512721",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.676",
+      "lon": "-35.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2511301",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Piancó",
+      "en": "Pianco",
+      "slug": "pianco-br2511301"
+    },
+    "code": {
+      "id": "BR2511301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.153",
+      "lon": "-37.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2511400",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Picuí",
+      "en": "Picui",
+      "slug": "picui-br2511400"
+    },
+    "code": {
+      "id": "BR2511400",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.49",
+      "lon": "-36.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2511509",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pilar",
+      "en": "Pilar",
+      "slug": "pilar-br2511509"
+    },
+    "code": {
+      "id": "BR2511509",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.629",
+      "lon": "-36.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2511608",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pilões",
+      "en": "Piloes",
+      "slug": "piloes-br2511608"
+    },
+    "code": {
+      "id": "BR2511608",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.877",
+      "lon": "-35.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2511707",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pilõezinhos",
+      "en": "Piloezinhos",
+      "slug": "piloezinhos-br2511707"
+    },
+    "code": {
+      "id": "BR2511707",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.851",
+      "lon": "-35.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2511806",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pirpirituba",
+      "en": "Pirpirituba",
+      "slug": "pirpirituba-br2511806"
+    },
+    "code": {
+      "id": "BR2511806",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.777",
+      "lon": "-35.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2511905",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pitimbu",
+      "en": "Pitimbu",
+      "slug": "pitimbu-br2511905"
+    },
+    "code": {
+      "id": "BR2511905",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.434",
+      "lon": "-34.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2512002",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pocinhos",
+      "en": "Pocinhos",
+      "slug": "pocinhos-br2512002"
+    },
+    "code": {
+      "id": "BR2512002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.03",
+      "lon": "-36.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2512036",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Poço Dantas",
+      "en": "Poco Dantas",
+      "slug": "poco-dantas-br2512036"
+    },
+    "code": {
+      "id": "BR2512036",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.382",
+      "lon": "-38.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2512077",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Poço de José de Moura",
+      "en": "Poco de Jose de Moura",
+      "slug": "poco-de-jose-de-moura-br2512077"
+    },
+    "code": {
+      "id": "BR2512077",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.6",
+      "lon": "-38.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2512101",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pombal",
+      "en": "Pombal",
+      "slug": "pombal-br2512101"
+    },
+    "code": {
+      "id": "BR2512101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.807",
+      "lon": "-37.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2512200",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Prata",
+      "en": "Prata",
+      "slug": "prata-br2512200"
+    },
+    "code": {
+      "id": "BR2512200",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.321",
+      "lon": "-48.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2512309",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Princesa Isabel",
+      "en": "Princesa Isabel",
+      "slug": "princesa-isabel-br2512309"
+    },
+    "code": {
+      "id": "BR2512309",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.641",
+      "lon": "-38.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2512408",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puxinanã",
+      "en": "Puxinana",
+      "slug": "puxinana-br2512408"
+    },
+    "code": {
+      "id": "BR2512408",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.154",
+      "lon": "-35.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2512507",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Queimadas",
+      "en": "Queimadas",
+      "slug": "queimadas-br2512507"
+    },
+    "code": {
+      "id": "BR2512507",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.983",
+      "lon": "-39.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2512606",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quixaba",
+      "en": "Quixaba",
+      "slug": "quixaba-br2512606"
+    },
+    "code": {
+      "id": "BR2512606",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.712",
+      "lon": "-37.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2512705",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Remígio",
+      "en": "Remigio",
+      "slug": "remigio-br2512705"
+    },
+    "code": {
+      "id": "BR2512705",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.932",
+      "lon": "-35.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2512747",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Riachão",
+      "en": "Riachao",
+      "slug": "riachao-br2512747"
+    },
+    "code": {
+      "id": "BR2512747",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.556",
+      "lon": "-35.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2512754",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Riachão do Bacamarte",
+      "en": "Riachao do Bacamarte",
+      "slug": "riachao-do-bacamarte-br2512754"
+    },
+    "code": {
+      "id": "BR2512754",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.242",
+      "lon": "-35.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2512762",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Riachão do Poço",
+      "en": "Riachao do Poco",
+      "slug": "riachao-do-poco-br2512762"
+    },
+    "code": {
+      "id": "BR2512762",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.145",
+      "lon": "-35.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2512788",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Riacho de Santo Antônio",
+      "en": "Riacho de Santo Antonio",
+      "slug": "riacho-de-santo-antonio-br2512788"
+    },
+    "code": {
+      "id": "BR2512788",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.656",
+      "lon": "-36.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2512804",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Riacho dos Cavalos",
+      "en": "Riacho dos Cavalos",
+      "slug": "riacho-dos-cavalos-br2512804"
+    },
+    "code": {
+      "id": "BR2512804",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.509",
+      "lon": "-37.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2512903",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rio Tinto",
+      "en": "Rio Tinto",
+      "slug": "rio-tinto-br2512903"
+    },
+    "code": {
+      "id": "BR2512903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.781",
+      "lon": "-35.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2513000",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Salgadinho",
+      "en": "Salgadinho",
+      "slug": "salgadinho-br2513000"
+    },
+    "code": {
+      "id": "BR2513000",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.924",
+      "lon": "-35.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2513109",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Salgado de São Félix",
+      "en": "Salgado de Sao Felix",
+      "slug": "salgado-de-sao-felix-br2513109"
+    },
+    "code": {
+      "id": "BR2513109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.42",
+      "lon": "-35.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2513158",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cecília",
+      "en": "Santa Cecilia",
+      "slug": "santa-cecilia-br2513158"
+    },
+    "code": {
+      "id": "BR2513158",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.919",
+      "lon": "-50.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2513208",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz",
+      "en": "Santa Cruz",
+      "slug": "santa-cruz-br2513208"
+    },
+    "code": {
+      "id": "BR2513208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.319",
+      "lon": "-40.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2513307",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Helena",
+      "en": "Santa Helena",
+      "slug": "santa-helena-br2513307"
+    },
+    "code": {
+      "id": "BR2513307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.925",
+      "lon": "-53.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2513356",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Inês",
+      "en": "Santa Ines",
+      "slug": "santa-ines-br2513356"
+    },
+    "code": {
+      "id": "BR2513356",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.69",
+      "lon": "-51.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2513406",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Luzia",
+      "en": "Santa Luzia",
+      "slug": "santa-luzia-br2513406"
+    },
+    "code": {
+      "id": "BR2513406",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.728",
+      "lon": "-43.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2513703",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Rita",
+      "en": "Santa Rita",
+      "slug": "santa-rita-br2513703"
+    },
+    "code": {
+      "id": "BR2513703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.09",
+      "lon": "-34.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2513802",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Teresinha",
+      "en": "Santa Teresinha",
+      "slug": "santa-teresinha-br2513802"
+    },
+    "code": {
+      "id": "BR2513802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.101",
+      "lon": "-37.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2513505",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santana de Mangueira",
+      "en": "Santana de Mangueira",
+      "slug": "santana-de-mangueira-br2513505"
+    },
+    "code": {
+      "id": "BR2513505",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.632",
+      "lon": "-38.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2513604",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santana dos Garrotes",
+      "en": "Santana dos Garrotes",
+      "slug": "santana-dos-garrotes-br2513604"
+    },
+    "code": {
+      "id": "BR2513604",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.371",
+      "lon": "-37.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2513851",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo André",
+      "en": "Santo Andre",
+      "slug": "santo-andre-br2513851"
+    },
+    "code": {
+      "id": "BR2513851",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.732",
+      "lon": "-46.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2513927",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Bentinho",
+      "en": "Sao Bentinho",
+      "slug": "sao-bentinho-br2513927"
+    },
+    "code": {
+      "id": "BR2513927",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.9",
+      "lon": "-37.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2513901",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Bento",
+      "en": "Sao Bento",
+      "slug": "sao-bento-br2513901"
+    },
+    "code": {
+      "id": "BR2513901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.459",
+      "lon": "-37.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2513968",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Domingos",
+      "en": "Sao Domingos",
+      "slug": "sao-domingos-br2513968"
+    },
+    "code": {
+      "id": "BR2513968",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.53",
+      "lon": "-46.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2513943",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Domingos do Cariri",
+      "en": "Sao Domingos do Cariri",
+      "slug": "sao-domingos-do-cariri-br2513943"
+    },
+    "code": {
+      "id": "BR2513943",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.588",
+      "lon": "-36.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2513984",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Francisco",
+      "en": "Sao Francisco",
+      "slug": "sao-francisco-br2513984"
+    },
+    "code": {
+      "id": "BR2513984",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.37",
+      "lon": "-50.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2514008",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São João do Cariri",
+      "en": "Sao Joao do Cariri",
+      "slug": "sao-joao-do-cariri-br2514008"
+    },
+    "code": {
+      "id": "BR2514008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.445",
+      "lon": "-36.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2500700",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São João do Rio do Peixe",
+      "en": "Sao Joao do Rio do Peixe",
+      "slug": "sao-joao-do-rio-do-peixe-br2500700"
+    },
+    "code": {
+      "id": "BR2500700",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.721",
+      "lon": "-38.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2514107",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São João do Tigre",
+      "en": "Sao Joao do Tigre",
+      "slug": "sao-joao-do-tigre-br2514107"
+    },
+    "code": {
+      "id": "BR2514107",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.125",
+      "lon": "-36.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2514206",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José da Lagoa Tapada",
+      "en": "Sao Jose da Lagoa Tapada",
+      "slug": "sao-jose-da-lagoa-tapada-br2514206"
+    },
+    "code": {
+      "id": "BR2514206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.942",
+      "lon": "-38.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2514305",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José de Caiana",
+      "en": "Sao Jose de Caiana",
+      "slug": "sao-jose-de-caiana-br2514305"
+    },
+    "code": {
+      "id": "BR2514305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.248",
+      "lon": "-38.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2514404",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José de Espinharas",
+      "en": "Sao Jose de Espinharas",
+      "slug": "sao-jose-de-espinharas-br2514404"
+    },
+    "code": {
+      "id": "BR2514404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.81",
+      "lon": "-37.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2514503",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José de Piranhas",
+      "en": "Sao Jose de Piranhas",
+      "slug": "sao-jose-de-piranhas-br2514503"
+    },
+    "code": {
+      "id": "BR2514503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.11",
+      "lon": "-38.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2514552",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José de Princesa",
+      "en": "Sao Jose de Princesa",
+      "slug": "sao-jose-de-princesa-br2514552"
+    },
+    "code": {
+      "id": "BR2514552",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.699",
+      "lon": "-38.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2514602",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José do Bonfim",
+      "en": "Sao Jose do Bonfim",
+      "slug": "sao-jose-do-bonfim-br2514602"
+    },
+    "code": {
+      "id": "BR2514602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.146",
+      "lon": "-37.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2514651",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José do Brejo do Cruz",
+      "en": "Sao Jose do Brejo do Cruz",
+      "slug": "sao-jose-do-brejo-do-cruz-br2514651"
+    },
+    "code": {
+      "id": "BR2514651",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.244",
+      "lon": "-37.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2514701",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José do Sabugi",
+      "en": "Sao Jose do Sabugi",
+      "slug": "sao-jose-do-sabugi-br2514701"
+    },
+    "code": {
+      "id": "BR2514701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.851",
+      "lon": "-36.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2514800",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José dos Cordeiros",
+      "en": "Sao Jose dos Cordeiros",
+      "slug": "sao-jose-dos-cordeiros-br2514800"
+    },
+    "code": {
+      "id": "BR2514800",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.413",
+      "lon": "-36.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2514453",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José dos Ramos",
+      "en": "Sao Jose dos Ramos",
+      "slug": "sao-jose-dos-ramos-br2514453"
+    },
+    "code": {
+      "id": "BR2514453",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.245",
+      "lon": "-35.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2514909",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Mamede",
+      "en": "Sao Mamede",
+      "slug": "sao-mamede-br2514909"
+    },
+    "code": {
+      "id": "BR2514909",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.932",
+      "lon": "-37.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2515005",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Miguel de Taipu",
+      "en": "Sao Miguel de Taipu",
+      "slug": "sao-miguel-de-taipu-br2515005"
+    },
+    "code": {
+      "id": "BR2515005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.246",
+      "lon": "-35.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2515104",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Sebastião de Lagoa de Roça",
+      "en": "Sao Sebastiao de Lagoa de Roca",
+      "slug": "sao-sebastiao-de-lagoa-de-roca-br2515104"
+    },
+    "code": {
+      "id": "BR2515104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.086",
+      "lon": "-35.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2515203",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Sebastião do Umbuzeiro",
+      "en": "Sao Sebastiao do Umbuzeiro",
+      "slug": "sao-sebastiao-do-umbuzeiro-br2515203"
+    },
+    "code": {
+      "id": "BR2515203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.146",
+      "lon": "-37.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2515401",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Vicente do Seridó",
+      "en": "Sao Vicente do Serido",
+      "slug": "sao-vicente-do-serido-br2515401"
+    },
+    "code": {
+      "id": "BR2515401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.866",
+      "lon": "-36.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2515302",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sapé",
+      "en": "Sape",
+      "slug": "sape-br2515302"
+    },
+    "code": {
+      "id": "BR2515302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.063",
+      "lon": "-35.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2515500",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Serra Branca",
+      "en": "Serra Branca",
+      "slug": "serra-branca-br2515500"
+    },
+    "code": {
+      "id": "BR2515500",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.58",
+      "lon": "-36.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2515609",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Serra da Raiz",
+      "en": "Serra da Raiz",
+      "slug": "serra-da-raiz-br2515609"
+    },
+    "code": {
+      "id": "BR2515609",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.706",
+      "lon": "-35.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2515708",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Serra Grande",
+      "en": "Serra Grande",
+      "slug": "serra-grande-br2515708"
+    },
+    "code": {
+      "id": "BR2515708",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.247",
+      "lon": "-38.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2515807",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Serra Redonda",
+      "en": "Serra Redonda",
+      "slug": "serra-redonda-br2515807"
+    },
+    "code": {
+      "id": "BR2515807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.161",
+      "lon": "-35.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2515906",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Serraria",
+      "en": "Serraria",
+      "slug": "serraria-br2515906"
+    },
+    "code": {
+      "id": "BR2515906",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.84",
+      "lon": "-35.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2515930",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sertãozinho",
+      "en": "Sertaozinho",
+      "slug": "sertaozinho-br2515930"
+    },
+    "code": {
+      "id": "BR2515930",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.113",
+      "lon": "-47.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2515971",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sobrado",
+      "en": "Sobrado",
+      "slug": "sobrado-br2515971"
+    },
+    "code": {
+      "id": "BR2515971",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.173",
+      "lon": "-35.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2516003",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Solânea",
+      "en": "Solanea",
+      "slug": "solanea-br2516003"
+    },
+    "code": {
+      "id": "BR2516003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.747",
+      "lon": "-35.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2516102",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Soledade",
+      "en": "Soledade",
+      "slug": "soledade-br2516102"
+    },
+    "code": {
+      "id": "BR2516102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.85",
+      "lon": "-52.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2516151",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sossêgo",
+      "en": "Sossego",
+      "slug": "sossego-br2516151"
+    },
+    "code": {
+      "id": "BR2516151",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.691",
+      "lon": "-36.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2516201",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sousa",
+      "en": "Sousa",
+      "slug": "sousa-br2516201"
+    },
+    "code": {
+      "id": "BR2516201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.724",
+      "lon": "-38.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2516300",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sumé",
+      "en": "Sume",
+      "slug": "sume-br2516300"
+    },
+    "code": {
+      "id": "BR2516300",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.647",
+      "lon": "-36.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2516409",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tacima",
+      "en": "Tacima",
+      "slug": "tacima-br2516409"
+    },
+    "code": {
+      "id": "BR2516409",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.533",
+      "lon": "-35.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2516508",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Taperoá",
+      "en": "Taperoa",
+      "slug": "taperoa-br2516508"
+    },
+    "code": {
+      "id": "BR2516508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.566",
+      "lon": "-39.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2516607",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tavares",
+      "en": "Tavares",
+      "slug": "tavares-br2516607"
+    },
+    "code": {
+      "id": "BR2516607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.245",
+      "lon": "-51.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2516706",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Teixeira",
+      "en": "Teixeira",
+      "slug": "teixeira-br2516706"
+    },
+    "code": {
+      "id": "BR2516706",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.248",
+      "lon": "-37.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2516755",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tenório",
+      "en": "Tenorio",
+      "slug": "tenorio-br2516755"
+    },
+    "code": {
+      "id": "BR2516755",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.954",
+      "lon": "-36.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2516805",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Triunfo",
+      "en": "Triunfo",
+      "slug": "triunfo-br2516805"
+    },
+    "code": {
+      "id": "BR2516805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.833",
+      "lon": "-51.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2516904",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Uiraúna",
+      "en": "Uirauna",
+      "slug": "uirauna-br2516904"
+    },
+    "code": {
+      "id": "BR2516904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.513",
+      "lon": "-38.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2517001",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Umbuzeiro",
+      "en": "Umbuzeiro",
+      "slug": "umbuzeiro-br2517001"
+    },
+    "code": {
+      "id": "BR2517001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.677",
+      "lon": "-35.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2517100",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Várzea",
+      "en": "Varzea",
+      "slug": "varzea-br2517100"
+    },
+    "code": {
+      "id": "BR2517100",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.794",
+      "lon": "-37.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2517209",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vieirópolis",
+      "en": "Vieiropolis",
+      "slug": "vieiropolis-br2517209"
+    },
+    "code": {
+      "id": "BR2517209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.565",
+      "lon": "-38.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2505501",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vista Serrana",
+      "en": "Vista Serrana",
+      "slug": "vista-serrana-br2505501"
+    },
+    "code": {
+      "id": "BR2505501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.759",
+      "lon": "-37.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2517407",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zabelê",
+      "en": "Zabele",
+      "slug": "zabele-br2517407"
+    },
+    "code": {
+      "id": "BR2517407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR25",
+        "level": 1,
+        "name": {
+          "local": "Paraíba",
+          "en": "Paraiba",
+          "slug": "paraiba-br25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.077",
+      "lon": "-37.092"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

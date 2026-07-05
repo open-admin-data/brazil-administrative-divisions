@@ -1,0 +1,45 @@
+{
+  "id": "BR1400605",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Luiz",
+    "en": "Sao Luiz",
+    "slug": "sao-luiz-br1400605"
+  },
+  "code": {
+    "id": "BR1400605",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR14",
+    "level": 1,
+    "name": {
+      "local": "Roraima",
+      "en": "Roraima",
+      "slug": "roraima-br14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.834",
+    "lon": "-60.131"
+  },
+  "metadata": {},
+  "source": {}
+}

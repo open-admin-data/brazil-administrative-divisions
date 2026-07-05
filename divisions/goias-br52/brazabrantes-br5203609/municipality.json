@@ -1,0 +1,45 @@
+{
+  "id": "BR5203609",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Brazabrantes",
+    "en": "Brazabrantes",
+    "slug": "brazabrantes-br5203609"
+  },
+  "code": {
+    "id": "BR5203609",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.376",
+    "lon": "-49.379"
+  },
+  "metadata": {},
+  "source": {}
+}

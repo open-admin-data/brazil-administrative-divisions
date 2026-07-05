@@ -1,0 +1,45 @@
+{
+  "id": "BR5215405",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ouro Verde de Goiás",
+    "en": "Ouro Verde de Goias",
+    "slug": "ouro-verde-de-goias-br5215405"
+  },
+  "code": {
+    "id": "BR5215405",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.243",
+    "lon": "-49.223"
+  },
+  "metadata": {},
+  "source": {}
+}

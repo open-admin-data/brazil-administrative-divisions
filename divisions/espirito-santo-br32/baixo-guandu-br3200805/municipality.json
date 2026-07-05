@@ -1,0 +1,45 @@
+{
+  "id": "BR3200805",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Baixo Guandu",
+    "en": "Baixo Guandu",
+    "slug": "baixo-guandu-br3200805"
+  },
+  "code": {
+    "id": "BR3200805",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.535",
+    "lon": "-40.967"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2203404",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dom Expedito Lopes",
+    "en": "Dom Expedito Lopes",
+    "slug": "dom-expedito-lopes-br2203404"
+  },
+  "code": {
+    "id": "BR2203404",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.965",
+    "lon": "-41.699"
+  },
+  "metadata": {},
+  "source": {}
+}

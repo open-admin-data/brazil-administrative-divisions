@@ -1,0 +1,45 @@
+{
+  "id": "BR3109808",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cachoeira Dourada",
+    "en": "Cachoeira Dourada",
+    "slug": "cachoeira-dourada-br3109808"
+  },
+  "code": {
+    "id": "BR3109808",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.496",
+    "lon": "-49.632"
+  },
+  "metadata": {},
+  "source": {}
+}

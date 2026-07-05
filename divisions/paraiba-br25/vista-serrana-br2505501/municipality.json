@@ -1,0 +1,45 @@
+{
+  "id": "BR2505501",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vista Serrana",
+    "en": "Vista Serrana",
+    "slug": "vista-serrana-br2505501"
+  },
+  "code": {
+    "id": "BR2505501",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.759",
+    "lon": "-37.564"
+  },
+  "metadata": {},
+  "source": {}
+}

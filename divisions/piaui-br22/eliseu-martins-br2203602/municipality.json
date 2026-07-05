@@ -1,0 +1,45 @@
+{
+  "id": "BR2203602",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Eliseu Martins",
+    "en": "Eliseu Martins",
+    "slug": "eliseu-martins-br2203602"
+  },
+  "code": {
+    "id": "BR2203602",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.914",
+    "lon": "-43.766"
+  },
+  "metadata": {},
+  "source": {}
+}

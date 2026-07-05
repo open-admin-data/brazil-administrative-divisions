@@ -1,0 +1,45 @@
+{
+  "id": "BR3116159",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chapada Gaúcha",
+    "en": "Chapada Gaucha",
+    "slug": "chapada-gaucha-br3116159"
+  },
+  "code": {
+    "id": "BR3116159",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.447",
+    "lon": "-45.473"
+  },
+  "metadata": {},
+  "source": {}
+}

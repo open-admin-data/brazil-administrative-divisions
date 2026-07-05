@@ -1,0 +1,45 @@
+{
+  "id": "BR2805109",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pedrinhas",
+    "en": "Pedrinhas",
+    "slug": "pedrinhas-br2805109"
+  },
+  "code": {
+    "id": "BR2805109",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.206",
+    "lon": "-37.654"
+  },
+  "metadata": {},
+  "source": {}
+}

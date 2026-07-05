@@ -1,0 +1,45 @@
+{
+  "id": "BR3160454",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Antônio do Retiro",
+    "en": "Santo Antonio do Retiro",
+    "slug": "santo-antonio-do-retiro-br3160454"
+  },
+  "code": {
+    "id": "BR3160454",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.281",
+    "lon": "-42.657"
+  },
+  "metadata": {},
+  "source": {}
+}

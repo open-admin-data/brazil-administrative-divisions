@@ -1,0 +1,45 @@
+{
+  "id": "BR2200608",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Angical do Piauí",
+    "en": "Angical do Piaui",
+    "slug": "angical-do-piaui-br2200608"
+  },
+  "code": {
+    "id": "BR2200608",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.121",
+    "lon": "-42.73"
+  },
+  "metadata": {},
+  "source": {}
+}

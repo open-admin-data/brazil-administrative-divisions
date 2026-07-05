@@ -1,0 +1,45 @@
+{
+  "id": "BR1101500",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Seringueiras",
+    "en": "Seringueiras",
+    "slug": "seringueiras-br1101500"
+  },
+  "code": {
+    "id": "BR1101500",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.886",
+    "lon": "-63.228"
+  },
+  "metadata": {},
+  "source": {}
+}

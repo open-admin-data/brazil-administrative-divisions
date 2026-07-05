@@ -1,0 +1,45 @@
+{
+  "id": "BR3137536",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lagoa Grande",
+    "en": "Lagoa Grande",
+    "slug": "lagoa-grande-br3137536"
+  },
+  "code": {
+    "id": "BR3137536",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.75",
+    "lon": "-46.523"
+  },
+  "metadata": {},
+  "source": {}
+}

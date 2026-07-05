@@ -1,0 +1,45 @@
+{
+  "id": "BR5107404",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Pedro da Cipa",
+    "en": "Sao Pedro da Cipa",
+    "slug": "sao-pedro-da-cipa-br5107404"
+  },
+  "code": {
+    "id": "BR5107404",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.958",
+    "lon": "-54.78"
+  },
+  "metadata": {},
+  "source": {}
+}

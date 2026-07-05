@@ -1,0 +1,3557 @@
+[
+  {
+    "id": "BR5000203",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Água Clara",
+      "en": "Agua Clara",
+      "slug": "agua-clara-br5000203"
+    },
+    "code": {
+      "id": "BR5000203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.088",
+      "lon": "-52.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5000252",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alcinópolis",
+      "en": "Alcinopolis",
+      "slug": "alcinopolis-br5000252"
+    },
+    "code": {
+      "id": "BR5000252",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.191",
+      "lon": "-53.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5000609",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amambai",
+      "en": "Amambai",
+      "slug": "amambai-br5000609"
+    },
+    "code": {
+      "id": "BR5000609",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.113",
+      "lon": "-54.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5000708",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Anastácio",
+      "en": "Anastacio",
+      "slug": "anastacio-br5000708"
+    },
+    "code": {
+      "id": "BR5000708",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.749",
+      "lon": "-55.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5000807",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Anaurilândia",
+      "en": "Anaurilandia",
+      "slug": "anaurilandia-br5000807"
+    },
+    "code": {
+      "id": "BR5000807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.138",
+      "lon": "-52.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5000856",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Angélica",
+      "en": "Angelica",
+      "slug": "angelica-br5000856"
+    },
+    "code": {
+      "id": "BR5000856",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.016",
+      "lon": "-53.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5000906",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Antônio João",
+      "en": "Antonio Joao",
+      "slug": "antonio-joao-br5000906"
+    },
+    "code": {
+      "id": "BR5000906",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.199",
+      "lon": "-55.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5001003",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aparecida do Taboado",
+      "en": "Aparecida do Taboado",
+      "slug": "aparecida-do-taboado-br5001003"
+    },
+    "code": {
+      "id": "BR5001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.016",
+      "lon": "-51.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5001102",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aquidauana",
+      "en": "Aquidauana",
+      "slug": "aquidauana-br5001102"
+    },
+    "code": {
+      "id": "BR5001102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.845",
+      "lon": "-55.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5001243",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aral Moreira",
+      "en": "Aral Moreira",
+      "slug": "aral-moreira-br5001243"
+    },
+    "code": {
+      "id": "BR5001243",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.914",
+      "lon": "-55.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5001508",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bandeirantes",
+      "en": "Bandeirantes",
+      "slug": "bandeirantes-br5001508"
+    },
+    "code": {
+      "id": "BR5001508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.807",
+      "lon": "-54.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5001904",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bataguassu",
+      "en": "Bataguassu",
+      "slug": "bataguassu-br5001904"
+    },
+    "code": {
+      "id": "BR5001904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.769",
+      "lon": "-52.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5002001",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Batayporã",
+      "en": "Bataypora",
+      "slug": "bataypora-br5002001"
+    },
+    "code": {
+      "id": "BR5002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.47",
+      "lon": "-53.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5002100",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bela Vista",
+      "en": "Bela Vista",
+      "slug": "bela-vista-br5002100"
+    },
+    "code": {
+      "id": "BR5002100",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.037",
+      "lon": "-56.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5002159",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bodoquena",
+      "en": "Bodoquena",
+      "slug": "bodoquena-br5002159"
+    },
+    "code": {
+      "id": "BR5002159",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.465",
+      "lon": "-56.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5002209",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bonito",
+      "en": "Bonito",
+      "slug": "bonito-br5002209"
+    },
+    "code": {
+      "id": "BR5002209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.927",
+      "lon": "-56.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5002308",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Brasilândia",
+      "en": "Brasilandia",
+      "slug": "brasilandia-br5002308"
+    },
+    "code": {
+      "id": "BR5002308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.077",
+      "lon": "-52.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5002407",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caarapó",
+      "en": "Caarapo",
+      "slug": "caarapo-br5002407"
+    },
+    "code": {
+      "id": "BR5002407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.603",
+      "lon": "-54.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5002605",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Camapuã",
+      "en": "Camapua",
+      "slug": "camapua-br5002605"
+    },
+    "code": {
+      "id": "BR5002605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.331",
+      "lon": "-53.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5002704",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Campo Grande",
+      "en": "Campo Grande",
+      "slug": "campo-grande-br5002704"
+    },
+    "code": {
+      "id": "BR5002704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.985",
+      "lon": "-54.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5002803",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caracol",
+      "en": "Caracol",
+      "slug": "caracol-br5002803"
+    },
+    "code": {
+      "id": "BR5002803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.976",
+      "lon": "-57.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5002902",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cassilândia",
+      "en": "Cassilandia",
+      "slug": "cassilandia-br5002902"
+    },
+    "code": {
+      "id": "BR5002902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.075",
+      "lon": "-52.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5002951",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chapadão do Sul",
+      "en": "Chapadao do Sul",
+      "slug": "chapadao-do-sul-br5002951"
+    },
+    "code": {
+      "id": "BR5002951",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.074",
+      "lon": "-52.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5003108",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Corguinho",
+      "en": "Corguinho",
+      "slug": "corguinho-br5003108"
+    },
+    "code": {
+      "id": "BR5003108",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.823",
+      "lon": "-54.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5003157",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coronel Sapucaia",
+      "en": "Coronel Sapucaia",
+      "slug": "coronel-sapucaia-br5003157"
+    },
+    "code": {
+      "id": "BR5003157",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.338",
+      "lon": "-55.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5003207",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Corumbá",
+      "en": "Corumba",
+      "slug": "corumba-br5003207"
+    },
+    "code": {
+      "id": "BR5003207",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.646",
+      "lon": "-56.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5003256",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Costa Rica",
+      "en": "Costa Rica",
+      "slug": "costa-rica-br5003256"
+    },
+    "code": {
+      "id": "BR5003256",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.511",
+      "lon": "-53.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5003306",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coxim",
+      "en": "Coxim",
+      "slug": "coxim-br5003306"
+    },
+    "code": {
+      "id": "BR5003306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.284",
+      "lon": "-54.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5003454",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Deodápolis",
+      "en": "Deodapolis",
+      "slug": "deodapolis-br5003454"
+    },
+    "code": {
+      "id": "BR5003454",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.074",
+      "lon": "-54.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5003488",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dois Irmãos do Buriti",
+      "en": "Dois Irmaos do Buriti",
+      "slug": "dois-irmaos-do-buriti-br5003488"
+    },
+    "code": {
+      "id": "BR5003488",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.529",
+      "lon": "-55.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5003504",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Douradina",
+      "en": "Douradina",
+      "slug": "douradina-br5003504"
+    },
+    "code": {
+      "id": "BR5003504",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.996",
+      "lon": "-54.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5003702",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dourados",
+      "en": "Dourados",
+      "slug": "dourados-br5003702"
+    },
+    "code": {
+      "id": "BR5003702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.143",
+      "lon": "-54.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5003751",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Eldorado",
+      "en": "Eldorado",
+      "slug": "eldorado-br5003751"
+    },
+    "code": {
+      "id": "BR5003751",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.784",
+      "lon": "-54.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5003801",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fátima do Sul",
+      "en": "Fatima do Sul",
+      "slug": "fatima-do-sul-br5003801"
+    },
+    "code": {
+      "id": "BR5003801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.328",
+      "lon": "-54.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5003900",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Figueirão",
+      "en": "Figueirao",
+      "slug": "figueirao-br5003900"
+    },
+    "code": {
+      "id": "BR5003900",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.715",
+      "lon": "-53.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5004007",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Glória de Dourados",
+      "en": "Gloria de Dourados",
+      "slug": "gloria-de-dourados-br5004007"
+    },
+    "code": {
+      "id": "BR5004007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.483",
+      "lon": "-54.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5004106",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guia Lopes da Laguna",
+      "en": "Guia Lopes da Laguna",
+      "slug": "guia-lopes-da-laguna-br5004106"
+    },
+    "code": {
+      "id": "BR5004106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.619",
+      "lon": "-55.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5004304",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Iguatemi",
+      "en": "Iguatemi",
+      "slug": "iguatemi-br5004304"
+    },
+    "code": {
+      "id": "BR5004304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.434",
+      "lon": "-54.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5004403",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Inocência",
+      "en": "Inocencia",
+      "slug": "inocencia-br5004403"
+    },
+    "code": {
+      "id": "BR5004403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.664",
+      "lon": "-52.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5004502",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itaporã",
+      "en": "Itapora",
+      "slug": "itapora-br5004502"
+    },
+    "code": {
+      "id": "BR5004502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.948",
+      "lon": "-54.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5004601",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itaquiraí",
+      "en": "Itaquirai",
+      "slug": "itaquirai-br5004601"
+    },
+    "code": {
+      "id": "BR5004601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.302",
+      "lon": "-54.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5004700",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ivinhema",
+      "en": "Ivinhema",
+      "slug": "ivinhema-br5004700"
+    },
+    "code": {
+      "id": "BR5004700",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.385",
+      "lon": "-53.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5004809",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Japorã",
+      "en": "Japora",
+      "slug": "japora-br5004809"
+    },
+    "code": {
+      "id": "BR5004809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.805",
+      "lon": "-54.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5004908",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jaraguari",
+      "en": "Jaraguari",
+      "slug": "jaraguari-br5004908"
+    },
+    "code": {
+      "id": "BR5004908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.258",
+      "lon": "-54.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5005004",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jardim",
+      "en": "Jardim",
+      "slug": "jardim-br5005004"
+    },
+    "code": {
+      "id": "BR5005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.636",
+      "lon": "-56.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5005103",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jateí",
+      "en": "Jatei",
+      "slug": "jatei-br5005103"
+    },
+    "code": {
+      "id": "BR5005103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.741",
+      "lon": "-53.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5005152",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juti",
+      "en": "Juti",
+      "slug": "juti-br5005152"
+    },
+    "code": {
+      "id": "BR5005152",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.839",
+      "lon": "-54.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5005202",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ladário",
+      "en": "Ladario",
+      "slug": "ladario-br5005202"
+    },
+    "code": {
+      "id": "BR5005202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.101",
+      "lon": "-57.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5005251",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Laguna Carapã",
+      "en": "Laguna Carapa",
+      "slug": "laguna-carapa-br5005251"
+    },
+    "code": {
+      "id": "BR5005251",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.708",
+      "lon": "-55.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5005400",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maracaju",
+      "en": "Maracaju",
+      "slug": "maracaju-br5005400"
+    },
+    "code": {
+      "id": "BR5005400",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.454",
+      "lon": "-55.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5005608",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Miranda",
+      "en": "Miranda",
+      "slug": "miranda-br5005608"
+    },
+    "code": {
+      "id": "BR5005608",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.199",
+      "lon": "-56.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5005681",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mundo Novo",
+      "en": "Mundo Novo",
+      "slug": "mundo-novo-br5005681"
+    },
+    "code": {
+      "id": "BR5005681",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.72",
+      "lon": "-50.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5005707",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Naviraí",
+      "en": "Navirai",
+      "slug": "navirai-br5005707"
+    },
+    "code": {
+      "id": "BR5005707",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.1",
+      "lon": "-54.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5005806",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nioaque",
+      "en": "Nioaque",
+      "slug": "nioaque-br5005806"
+    },
+    "code": {
+      "id": "BR5005806",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.18",
+      "lon": "-55.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5006002",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Alvorada do Sul",
+      "en": "Nova Alvorada do Sul",
+      "slug": "nova-alvorada-do-sul-br5006002"
+    },
+    "code": {
+      "id": "BR5006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.497",
+      "lon": "-54.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5006200",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Andradina",
+      "en": "Nova Andradina",
+      "slug": "nova-andradina-br5006200"
+    },
+    "code": {
+      "id": "BR5006200",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.891",
+      "lon": "-53.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5006259",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Novo Horizonte do Sul",
+      "en": "Novo Horizonte do Sul",
+      "slug": "novo-horizonte-do-sul-br5006259"
+    },
+    "code": {
+      "id": "BR5006259",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.61",
+      "lon": "-53.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5006275",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paraíso das Águas",
+      "en": "Paraiso das Aguas",
+      "slug": "paraiso-das-aguas-br5006275"
+    },
+    "code": {
+      "id": "BR5006275",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.258",
+      "lon": "-53.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5006309",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paranaíba",
+      "en": "Paranaiba",
+      "slug": "paranaiba-br5006309"
+    },
+    "code": {
+      "id": "BR5006309",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.514",
+      "lon": "-51.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5006358",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paranhos",
+      "en": "Paranhos",
+      "slug": "paranhos-br5006358"
+    },
+    "code": {
+      "id": "BR5006358",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.721",
+      "lon": "-55.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5006408",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedro Gomes",
+      "en": "Pedro Gomes",
+      "slug": "pedro-gomes-br5006408"
+    },
+    "code": {
+      "id": "BR5006408",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.835",
+      "lon": "-54.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5006606",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ponta Porã",
+      "en": "Ponta Pora",
+      "slug": "ponta-pora-br5006606"
+    },
+    "code": {
+      "id": "BR5006606",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.033",
+      "lon": "-55.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5006903",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto Murtinho",
+      "en": "Porto Murtinho",
+      "slug": "porto-murtinho-br5006903"
+    },
+    "code": {
+      "id": "BR5006903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.26",
+      "lon": "-57.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5007109",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ribas do Rio Pardo",
+      "en": "Ribas do Rio Pardo",
+      "slug": "ribas-do-rio-pardo-br5007109"
+    },
+    "code": {
+      "id": "BR5007109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.74",
+      "lon": "-53.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5007208",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rio Brilhante",
+      "en": "Rio Brilhante",
+      "slug": "rio-brilhante-br5007208"
+    },
+    "code": {
+      "id": "BR5007208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.765",
+      "lon": "-54.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5007307",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rio Negro",
+      "en": "Rio Negro",
+      "slug": "rio-negro-br5007307"
+    },
+    "code": {
+      "id": "BR5007307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.448",
+      "lon": "-54.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5007406",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rio Verde de Mato Grosso",
+      "en": "Rio Verde de Mato Grosso",
+      "slug": "rio-verde-de-mato-grosso-br5007406"
+    },
+    "code": {
+      "id": "BR5007406",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.826",
+      "lon": "-54.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5007505",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rochedo",
+      "en": "Rochedo",
+      "slug": "rochedo-br5007505"
+    },
+    "code": {
+      "id": "BR5007505",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.977",
+      "lon": "-54.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5007554",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Rita do Pardo",
+      "en": "Santa Rita do Pardo",
+      "slug": "santa-rita-do-pardo-br5007554"
+    },
+    "code": {
+      "id": "BR5007554",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.363",
+      "lon": "-52.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5007695",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Gabriel do Oeste",
+      "en": "Sao Gabriel do Oeste",
+      "slug": "sao-gabriel-do-oeste-br5007695"
+    },
+    "code": {
+      "id": "BR5007695",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.13",
+      "lon": "-54.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5007802",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Selvíria",
+      "en": "Selviria",
+      "slug": "selviria-br5007802"
+    },
+    "code": {
+      "id": "BR5007802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.263",
+      "lon": "-51.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5007703",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sete Quedas",
+      "en": "Sete Quedas",
+      "slug": "sete-quedas-br5007703"
+    },
+    "code": {
+      "id": "BR5007703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.867",
+      "lon": "-54.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5007901",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sidrolândia",
+      "en": "Sidrolandia",
+      "slug": "sidrolandia-br5007901"
+    },
+    "code": {
+      "id": "BR5007901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.039",
+      "lon": "-54.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5007935",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-br5007935"
+    },
+    "code": {
+      "id": "BR5007935",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.668",
+      "lon": "-54.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5007950",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tacuru",
+      "en": "Tacuru",
+      "slug": "tacuru-br5007950"
+    },
+    "code": {
+      "id": "BR5007950",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.694",
+      "lon": "-54.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5007976",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Taquarussu",
+      "en": "Taquarussu",
+      "slug": "taquarussu-br5007976"
+    },
+    "code": {
+      "id": "BR5007976",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.74",
+      "lon": "-53.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5008008",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Terenos",
+      "en": "Terenos",
+      "slug": "terenos-br5008008"
+    },
+    "code": {
+      "id": "BR5008008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.413",
+      "lon": "-55.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5008305",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Três Lagoas",
+      "en": "Tres Lagoas",
+      "slug": "tres-lagoas-br5008305"
+    },
+    "code": {
+      "id": "BR5008305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.405",
+      "lon": "-52.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR5008404",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vicentina",
+      "en": "Vicentina",
+      "slug": "vicentina-br5008404"
+    },
+    "code": {
+      "id": "BR5008404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR50",
+        "level": 1,
+        "name": {
+          "local": "Mato Grosso do Sul",
+          "en": "Mato Grosso do Sul",
+          "slug": "mato-grosso-do-sul-br50"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.508",
+      "lon": "-54.453"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "BR3546603",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Fé do Sul",
+    "en": "Santa Fe do Sul",
+    "slug": "santa-fe-do-sul-br3546603"
+  },
+  "code": {
+    "id": "BR3546603",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.259",
+    "lon": "-50.947"
+  },
+  "metadata": {},
+  "source": {}
+}

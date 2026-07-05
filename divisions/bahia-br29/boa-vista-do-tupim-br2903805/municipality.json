@@ -1,0 +1,45 @@
+{
+  "id": "BR2903805",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Boa Vista do Tupim",
+    "en": "Boa Vista do Tupim",
+    "slug": "boa-vista-do-tupim-br2903805"
+  },
+  "code": {
+    "id": "BR2903805",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.781",
+    "lon": "-40.72"
+  },
+  "metadata": {},
+  "source": {}
+}

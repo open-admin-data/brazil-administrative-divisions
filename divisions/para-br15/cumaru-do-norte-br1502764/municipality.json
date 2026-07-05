@@ -1,0 +1,45 @@
+{
+  "id": "BR1502764",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cumaru do Norte",
+    "en": "Cumaru do Norte",
+    "slug": "cumaru-do-norte-br1502764"
+  },
+  "code": {
+    "id": "BR1502764",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.47",
+    "lon": "-51.222"
+  },
+  "metadata": {},
+  "source": {}
+}

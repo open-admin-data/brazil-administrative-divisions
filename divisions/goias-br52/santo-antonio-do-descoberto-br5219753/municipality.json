@@ -1,0 +1,45 @@
+{
+  "id": "BR5219753",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Antônio do Descoberto",
+    "en": "Santo Antonio do Descoberto",
+    "slug": "santo-antonio-do-descoberto-br5219753"
+  },
+  "code": {
+    "id": "BR5219753",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.087",
+    "lon": "-48.298"
+  },
+  "metadata": {},
+  "source": {}
+}

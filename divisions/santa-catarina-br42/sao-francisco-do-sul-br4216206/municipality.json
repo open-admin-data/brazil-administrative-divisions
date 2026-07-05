@@ -1,0 +1,45 @@
+{
+  "id": "BR4216206",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Francisco do Sul",
+    "en": "Sao Francisco do Sul",
+    "slug": "sao-francisco-do-sul-br4216206"
+  },
+  "code": {
+    "id": "BR4216206",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.277",
+    "lon": "-48.635"
+  },
+  "metadata": {},
+  "source": {}
+}

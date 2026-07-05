@@ -1,0 +1,45 @@
+{
+  "id": "BR2313104",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tabuleiro do Norte",
+    "en": "Tabuleiro do Norte",
+    "slug": "tabuleiro-do-norte-br2313104"
+  },
+  "code": {
+    "id": "BR2313104",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.28",
+    "lon": "-38.06"
+  },
+  "metadata": {},
+  "source": {}
+}

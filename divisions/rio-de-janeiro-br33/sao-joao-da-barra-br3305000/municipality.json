@@ -1,0 +1,45 @@
+{
+  "id": "BR3305000",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São João da Barra",
+    "en": "Sao Joao da Barra",
+    "slug": "sao-joao-da-barra-br3305000"
+  },
+  "code": {
+    "id": "BR3305000",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR33",
+    "level": 1,
+    "name": {
+      "local": "Rio de Janeiro",
+      "en": "Rio de Janeiro",
+      "slug": "rio-de-janeiro-br33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.751",
+    "lon": "-41.096"
+  },
+  "metadata": {},
+  "source": {}
+}

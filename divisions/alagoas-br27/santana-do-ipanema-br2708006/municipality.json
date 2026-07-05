@@ -1,0 +1,45 @@
+{
+  "id": "BR2708006",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santana do Ipanema",
+    "en": "Santana do Ipanema",
+    "slug": "santana-do-ipanema-br2708006"
+  },
+  "code": {
+    "id": "BR2708006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.348",
+    "lon": "-37.193"
+  },
+  "metadata": {},
+  "source": {}
+}

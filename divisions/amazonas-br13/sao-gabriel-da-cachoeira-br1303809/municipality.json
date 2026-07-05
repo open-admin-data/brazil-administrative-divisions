@@ -1,0 +1,45 @@
+{
+  "id": "BR1303809",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Gabriel da Cachoeira",
+    "en": "Sao Gabriel da Cachoeira",
+    "slug": "sao-gabriel-da-cachoeira-br1303809"
+  },
+  "code": {
+    "id": "BR1303809",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.231",
+    "lon": "-67.836"
+  },
+  "metadata": {},
+  "source": {}
+}

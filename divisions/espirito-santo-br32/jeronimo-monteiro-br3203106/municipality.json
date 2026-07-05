@@ -1,0 +1,45 @@
+{
+  "id": "BR3203106",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jerônimo Monteiro",
+    "en": "Jeronimo Monteiro",
+    "slug": "jeronimo-monteiro-br3203106"
+  },
+  "code": {
+    "id": "BR3203106",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.8",
+    "lon": "-41.391"
+  },
+  "metadata": {},
+  "source": {}
+}

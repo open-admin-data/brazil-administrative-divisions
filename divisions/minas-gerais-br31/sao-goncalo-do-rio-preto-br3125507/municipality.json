@@ -1,0 +1,45 @@
+{
+  "id": "BR3125507",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Gonçalo do Rio Preto",
+    "en": "Sao Goncalo do Rio Preto",
+    "slug": "sao-goncalo-do-rio-preto-br3125507"
+  },
+  "code": {
+    "id": "BR3125507",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.081",
+    "lon": "-43.355"
+  },
+  "metadata": {},
+  "source": {}
+}

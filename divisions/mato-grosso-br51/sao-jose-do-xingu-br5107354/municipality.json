@@ -1,0 +1,45 @@
+{
+  "id": "BR5107354",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José do Xingu",
+    "en": "Sao Jose do Xingu",
+    "slug": "sao-jose-do-xingu-br5107354"
+  },
+  "code": {
+    "id": "BR5107354",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.66",
+    "lon": "-52.521"
+  },
+  "metadata": {},
+  "source": {}
+}

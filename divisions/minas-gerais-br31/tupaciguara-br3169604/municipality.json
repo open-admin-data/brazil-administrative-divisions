@@ -1,0 +1,45 @@
+{
+  "id": "BR3169604",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tupaciguara",
+    "en": "Tupaciguara",
+    "slug": "tupaciguara-br3169604"
+  },
+  "code": {
+    "id": "BR3169604",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.533",
+    "lon": "-48.715"
+  },
+  "metadata": {},
+  "source": {}
+}

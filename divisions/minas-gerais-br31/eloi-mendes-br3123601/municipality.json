@@ -1,0 +1,45 @@
+{
+  "id": "BR3123601",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Elói Mendes",
+    "en": "Eloi Mendes",
+    "slug": "eloi-mendes-br3123601"
+  },
+  "code": {
+    "id": "BR3123601",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.596",
+    "lon": "-45.596"
+  },
+  "metadata": {},
+  "source": {}
+}

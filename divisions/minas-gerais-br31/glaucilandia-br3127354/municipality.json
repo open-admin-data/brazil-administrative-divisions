@@ -1,0 +1,45 @@
+{
+  "id": "BR3127354",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Glaucilândia",
+    "en": "Glaucilandia",
+    "slug": "glaucilandia-br3127354"
+  },
+  "code": {
+    "id": "BR3127354",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.895",
+    "lon": "-43.65"
+  },
+  "metadata": {},
+  "source": {}
+}

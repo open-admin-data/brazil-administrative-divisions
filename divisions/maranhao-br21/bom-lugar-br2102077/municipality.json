@@ -1,0 +1,45 @@
+{
+  "id": "BR2102077",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bom Lugar",
+    "en": "Bom Lugar",
+    "slug": "bom-lugar-br2102077"
+  },
+  "code": {
+    "id": "BR2102077",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.292",
+    "lon": "-45.066"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2514909",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Mamede",
+    "en": "Sao Mamede",
+    "slug": "sao-mamede-br2514909"
+  },
+  "code": {
+    "id": "BR2514909",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.932",
+    "lon": "-37.069"
+  },
+  "metadata": {},
+  "source": {}
+}

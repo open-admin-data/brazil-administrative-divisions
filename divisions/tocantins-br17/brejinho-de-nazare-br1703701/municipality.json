@@ -1,0 +1,45 @@
+{
+  "id": "BR1703701",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Brejinho de Nazaré",
+    "en": "Brejinho de Nazare",
+    "slug": "brejinho-de-nazare-br1703701"
+  },
+  "code": {
+    "id": "BR1703701",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.031",
+    "lon": "-48.641"
+  },
+  "metadata": {},
+  "source": {}
+}

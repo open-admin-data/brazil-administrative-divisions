@@ -1,0 +1,45 @@
+{
+  "id": "BR5206305",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cristianópolis",
+    "en": "Cristianopolis",
+    "slug": "cristianopolis-br5206305"
+  },
+  "code": {
+    "id": "BR5206305",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.199",
+    "lon": "-48.699"
+  },
+  "metadata": {},
+  "source": {}
+}

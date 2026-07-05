@@ -1,0 +1,45 @@
+{
+  "id": "BR1713809",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Palmeiras do Tocantins",
+    "en": "Palmeiras do Tocantins",
+    "slug": "palmeiras-do-tocantins-br1713809"
+  },
+  "code": {
+    "id": "BR1713809",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.614",
+    "lon": "-47.668"
+  },
+  "metadata": {},
+  "source": {}
+}

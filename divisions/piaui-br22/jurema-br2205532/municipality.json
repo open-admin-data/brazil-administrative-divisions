@@ -1,0 +1,45 @@
+{
+  "id": "BR2205532",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jurema",
+    "en": "Jurema",
+    "slug": "jurema-br2205532"
+  },
+  "code": {
+    "id": "BR2205532",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.78",
+    "lon": "-36.139"
+  },
+  "metadata": {},
+  "source": {}
+}

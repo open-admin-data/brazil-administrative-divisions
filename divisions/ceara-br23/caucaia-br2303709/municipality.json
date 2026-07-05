@@ -1,0 +1,45 @@
+{
+  "id": "BR2303709",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Caucaia",
+    "en": "Caucaia",
+    "slug": "caucaia-br2303709"
+  },
+  "code": {
+    "id": "BR2303709",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.796",
+    "lon": "-38.802"
+  },
+  "metadata": {},
+  "source": {}
+}

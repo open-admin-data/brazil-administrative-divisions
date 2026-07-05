@@ -1,0 +1,45 @@
+{
+  "id": "BR1704105",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Centenário",
+    "en": "Centenario",
+    "slug": "centenario-br1704105"
+  },
+  "code": {
+    "id": "BR1704105",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.787",
+    "lon": "-52.005"
+  },
+  "metadata": {},
+  "source": {}
+}

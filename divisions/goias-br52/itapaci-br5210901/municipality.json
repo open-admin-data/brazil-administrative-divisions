@@ -1,0 +1,45 @@
+{
+  "id": "BR5210901",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itapaci",
+    "en": "Itapaci",
+    "slug": "itapaci-br5210901"
+  },
+  "code": {
+    "id": "BR5210901",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.926",
+    "lon": "-49.682"
+  },
+  "metadata": {},
+  "source": {}
+}

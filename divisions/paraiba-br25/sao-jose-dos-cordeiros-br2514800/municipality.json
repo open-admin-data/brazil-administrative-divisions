@@ -1,0 +1,45 @@
+{
+  "id": "BR2514800",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José dos Cordeiros",
+    "en": "Sao Jose dos Cordeiros",
+    "slug": "sao-jose-dos-cordeiros-br2514800"
+  },
+  "code": {
+    "id": "BR2514800",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.413",
+    "lon": "-36.876"
+  },
+  "metadata": {},
+  "source": {}
+}

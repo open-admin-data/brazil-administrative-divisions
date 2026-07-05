@@ -1,0 +1,45 @@
+{
+  "id": "BR2105658",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Junco do Maranhão",
+    "en": "Junco do Maranhao",
+    "slug": "junco-do-maranhao-br2105658"
+  },
+  "code": {
+    "id": "BR2105658",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.909",
+    "lon": "-46.104"
+  },
+  "metadata": {},
+  "source": {}
+}

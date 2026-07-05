@@ -1,0 +1,45 @@
+{
+  "id": "BR4203253",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Capão Alto",
+    "en": "Capao Alto",
+    "slug": "capao-alto-br4203253"
+  },
+  "code": {
+    "id": "BR4203253",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.069",
+    "lon": "-50.621"
+  },
+  "metadata": {},
+  "source": {}
+}

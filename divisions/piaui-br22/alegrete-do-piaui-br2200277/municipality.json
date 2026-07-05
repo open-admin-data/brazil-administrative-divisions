@@ -1,0 +1,45 @@
+{
+  "id": "BR2200277",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alegrete do Piauí",
+    "en": "Alegrete do Piaui",
+    "slug": "alegrete-do-piaui-br2200277"
+  },
+  "code": {
+    "id": "BR2200277",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.202",
+    "lon": "-40.79"
+  },
+  "metadata": {},
+  "source": {}
+}

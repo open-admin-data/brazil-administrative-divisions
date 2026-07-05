@@ -1,0 +1,45 @@
+{
+  "id": "BR3115706",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Central de Minas",
+    "en": "Central de Minas",
+    "slug": "central-de-minas-br3115706"
+  },
+  "code": {
+    "id": "BR3115706",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.766",
+    "lon": "-41.294"
+  },
+  "metadata": {},
+  "source": {}
+}

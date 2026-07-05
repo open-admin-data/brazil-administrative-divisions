@@ -1,0 +1,45 @@
+{
+  "id": "BR4127601",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tijucas do Sul",
+    "en": "Tijucas do Sul",
+    "slug": "tijucas-do-sul-br4127601"
+  },
+  "code": {
+    "id": "BR4127601",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.897",
+    "lon": "-49.105"
+  },
+  "metadata": {},
+  "source": {}
+}

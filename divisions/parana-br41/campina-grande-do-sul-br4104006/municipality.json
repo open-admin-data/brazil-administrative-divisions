@@ -1,0 +1,45 @@
+{
+  "id": "BR4104006",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campina Grande do Sul",
+    "en": "Campina Grande do Sul",
+    "slug": "campina-grande-do-sul-br4104006"
+  },
+  "code": {
+    "id": "BR4104006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.156",
+    "lon": "-48.816"
+  },
+  "metadata": {},
+  "source": {}
+}

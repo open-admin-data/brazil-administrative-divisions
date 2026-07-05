@@ -1,0 +1,45 @@
+{
+  "id": "BR2307007",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jaguaruana",
+    "en": "Jaguaruana",
+    "slug": "jaguaruana-br2307007"
+  },
+  "code": {
+    "id": "BR2307007",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.823",
+    "lon": "-37.779"
+  },
+  "metadata": {},
+  "source": {}
+}

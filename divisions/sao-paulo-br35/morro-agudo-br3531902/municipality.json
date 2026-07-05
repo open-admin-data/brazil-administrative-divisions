@@ -1,0 +1,45 @@
+{
+  "id": "BR3531902",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Morro Agudo",
+    "en": "Morro Agudo",
+    "slug": "morro-agudo-br3531902"
+  },
+  "code": {
+    "id": "BR3531902",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.659",
+    "lon": "-48.193"
+  },
+  "metadata": {},
+  "source": {}
+}

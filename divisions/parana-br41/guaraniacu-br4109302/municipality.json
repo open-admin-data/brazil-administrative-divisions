@@ -1,0 +1,45 @@
+{
+  "id": "BR4109302",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Guaraniaçu",
+    "en": "Guaraniacu",
+    "slug": "guaraniacu-br4109302"
+  },
+  "code": {
+    "id": "BR4109302",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.063",
+    "lon": "-52.88"
+  },
+  "metadata": {},
+  "source": {}
+}

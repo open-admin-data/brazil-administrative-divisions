@@ -1,0 +1,45 @@
+{
+  "id": "BR2109056",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Porto Rico do Maranhão",
+    "en": "Porto Rico do Maranhao",
+    "slug": "porto-rico-do-maranhao-br2109056"
+  },
+  "code": {
+    "id": "BR2109056",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.874",
+    "lon": "-44.634"
+  },
+  "metadata": {},
+  "source": {}
+}

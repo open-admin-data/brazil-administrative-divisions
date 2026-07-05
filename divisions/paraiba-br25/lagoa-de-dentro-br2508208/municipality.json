@@ -1,0 +1,45 @@
+{
+  "id": "BR2508208",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lagoa de Dentro",
+    "en": "Lagoa de Dentro",
+    "slug": "lagoa-de-dentro-br2508208"
+  },
+  "code": {
+    "id": "BR2508208",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.688",
+    "lon": "-35.359"
+  },
+  "metadata": {},
+  "source": {}
+}

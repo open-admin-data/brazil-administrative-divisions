@@ -1,0 +1,45 @@
+{
+  "id": "BR4124202",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Antônio do Caiuá",
+    "en": "Santo Antonio do Caiua",
+    "slug": "santo-antonio-do-caiua-br4124202"
+  },
+  "code": {
+    "id": "BR4124202",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.693",
+    "lon": "-52.316"
+  },
+  "metadata": {},
+  "source": {}
+}

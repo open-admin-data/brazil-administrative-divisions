@@ -1,0 +1,45 @@
+{
+  "id": "BR1703602",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Brasilândia do Tocantins",
+    "en": "Brasilandia do Tocantins",
+    "slug": "brasilandia-do-tocantins-br1703602"
+  },
+  "code": {
+    "id": "BR1703602",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.277",
+    "lon": "-48.445"
+  },
+  "metadata": {},
+  "source": {}
+}

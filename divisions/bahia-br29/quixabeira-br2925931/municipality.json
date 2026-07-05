@@ -1,0 +1,45 @@
+{
+  "id": "BR2925931",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Quixabeira",
+    "en": "Quixabeira",
+    "slug": "quixabeira-br2925931"
+  },
+  "code": {
+    "id": "BR2925931",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.41",
+    "lon": "-40.122"
+  },
+  "metadata": {},
+  "source": {}
+}

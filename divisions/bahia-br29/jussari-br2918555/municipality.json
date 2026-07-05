@@ -1,0 +1,45 @@
+{
+  "id": "BR2918555",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jussari",
+    "en": "Jussari",
+    "slug": "jussari-br2918555"
+  },
+  "code": {
+    "id": "BR2918555",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.138",
+    "lon": "-39.499"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3159100",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santana dos Montes",
+    "en": "Santana dos Montes",
+    "slug": "santana-dos-montes-br3159100"
+  },
+  "code": {
+    "id": "BR3159100",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.792",
+    "lon": "-43.66"
+  },
+  "metadata": {},
+  "source": {}
+}

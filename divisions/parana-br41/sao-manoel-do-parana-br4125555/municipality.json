@@ -1,0 +1,45 @@
+{
+  "id": "BR4125555",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Manoel do Paraná",
+    "en": "Sao Manoel do Parana",
+    "slug": "sao-manoel-do-parana-br4125555"
+  },
+  "code": {
+    "id": "BR4125555",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.387",
+    "lon": "-52.603"
+  },
+  "metadata": {},
+  "source": {}
+}

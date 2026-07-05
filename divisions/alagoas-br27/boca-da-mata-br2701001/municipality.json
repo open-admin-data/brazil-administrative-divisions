@@ -1,0 +1,45 @@
+{
+  "id": "BR2701001",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Boca da Mata",
+    "en": "Boca da Mata",
+    "slug": "boca-da-mata-br2701001"
+  },
+  "code": {
+    "id": "BR2701001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.66",
+    "lon": "-36.154"
+  },
+  "metadata": {},
+  "source": {}
+}

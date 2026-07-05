@@ -1,0 +1,45 @@
+{
+  "id": "BR4100103",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Abatiá",
+    "en": "Abatia",
+    "slug": "abatia-br4100103"
+  },
+  "code": {
+    "id": "BR4100103",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.3",
+    "lon": "-50.321"
+  },
+  "metadata": {},
+  "source": {}
+}

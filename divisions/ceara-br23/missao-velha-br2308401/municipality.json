@@ -1,0 +1,45 @@
+{
+  "id": "BR2308401",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Missão Velha",
+    "en": "Missao Velha",
+    "slug": "missao-velha-br2308401"
+  },
+  "code": {
+    "id": "BR2308401",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.269",
+    "lon": "-39.136"
+  },
+  "metadata": {},
+  "source": {}
+}

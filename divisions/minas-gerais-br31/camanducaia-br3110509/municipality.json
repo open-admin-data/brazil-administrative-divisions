@@ -1,0 +1,45 @@
+{
+  "id": "BR3110509",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Camanducaia",
+    "en": "Camanducaia",
+    "slug": "camanducaia-br3110509"
+  },
+  "code": {
+    "id": "BR3110509",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.791",
+    "lon": "-46.075"
+  },
+  "metadata": {},
+  "source": {}
+}

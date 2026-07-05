@@ -1,0 +1,45 @@
+{
+  "id": "BR2305605",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Independência",
+    "en": "Independencia",
+    "slug": "independencia-br2305605"
+  },
+  "code": {
+    "id": "BR2305605",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.887",
+    "lon": "-54.201"
+  },
+  "metadata": {},
+  "source": {}
+}

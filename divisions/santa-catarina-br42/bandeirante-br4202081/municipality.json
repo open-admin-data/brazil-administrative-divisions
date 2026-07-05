@@ -1,0 +1,45 @@
+{
+  "id": "BR4202081",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bandeirante",
+    "en": "Bandeirante",
+    "slug": "bandeirante-br4202081"
+  },
+  "code": {
+    "id": "BR4202081",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.766",
+    "lon": "-53.654"
+  },
+  "metadata": {},
+  "source": {}
+}

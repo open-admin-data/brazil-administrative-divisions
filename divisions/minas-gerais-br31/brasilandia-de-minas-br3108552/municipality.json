@@ -1,0 +1,45 @@
+{
+  "id": "BR3108552",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Brasilândia de Minas",
+    "en": "Brasilandia de Minas",
+    "slug": "brasilandia-de-minas-br3108552"
+  },
+  "code": {
+    "id": "BR3108552",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.955",
+    "lon": "-45.915"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2908903",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Coração de Maria",
+    "en": "Coracao de Maria",
+    "slug": "coracao-de-maria-br2908903"
+  },
+  "code": {
+    "id": "BR2908903",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.227",
+    "lon": "-38.792"
+  },
+  "metadata": {},
+  "source": {}
+}

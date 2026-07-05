@@ -1,0 +1,45 @@
+{
+  "id": "BR5210562",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itaguari",
+    "en": "Itaguari",
+    "slug": "itaguari-br5210562"
+  },
+  "code": {
+    "id": "BR5210562",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.924",
+    "lon": "-49.629"
+  },
+  "metadata": {},
+  "source": {}
+}

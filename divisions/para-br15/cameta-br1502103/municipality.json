@@ -1,0 +1,45 @@
+{
+  "id": "BR1502103",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cametá",
+    "en": "Cameta",
+    "slug": "cameta-br1502103"
+  },
+  "code": {
+    "id": "BR1502103",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.301",
+    "lon": "-49.492"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2111300",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Luís",
+    "en": "Sao Luis",
+    "slug": "sao-luis-br2111300"
+  },
+  "code": {
+    "id": "BR2111300",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.622",
+    "lon": "-44.283"
+  },
+  "metadata": {},
+  "source": {}
+}

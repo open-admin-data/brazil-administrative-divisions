@@ -1,0 +1,45 @@
+{
+  "id": "BR2100550",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Amapá do Maranhão",
+    "en": "Amapa do Maranhao",
+    "slug": "amapa-do-maranhao-br2100550"
+  },
+  "code": {
+    "id": "BR2100550",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.699",
+    "lon": "-45.889"
+  },
+  "metadata": {},
+  "source": {}
+}

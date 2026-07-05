@@ -1,0 +1,45 @@
+{
+  "id": "BR4113502",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Loanda",
+    "en": "Loanda",
+    "slug": "loanda-br4113502"
+  },
+  "code": {
+    "id": "BR4113502",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.958",
+    "lon": "-53.014"
+  },
+  "metadata": {},
+  "source": {}
+}

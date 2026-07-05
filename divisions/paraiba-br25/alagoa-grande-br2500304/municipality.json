@@ -1,0 +1,45 @@
+{
+  "id": "BR2500304",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alagoa Grande",
+    "en": "Alagoa Grande",
+    "slug": "alagoa-grande-br2500304"
+  },
+  "code": {
+    "id": "BR2500304",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.042",
+    "lon": "-35.607"
+  },
+  "metadata": {},
+  "source": {}
+}

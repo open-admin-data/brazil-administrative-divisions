@@ -1,0 +1,45 @@
+{
+  "id": "BR5106273",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Novo Horizonte do Norte",
+    "en": "Novo Horizonte do Norte",
+    "slug": "novo-horizonte-do-norte-br5106273"
+  },
+  "code": {
+    "id": "BR5106273",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.369",
+    "lon": "-57.305"
+  },
+  "metadata": {},
+  "source": {}
+}

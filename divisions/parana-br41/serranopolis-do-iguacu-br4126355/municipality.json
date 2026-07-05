@@ -1,0 +1,45 @@
+{
+  "id": "BR4126355",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Serranópolis do Iguaçu",
+    "en": "Serranopolis do Iguacu",
+    "slug": "serranopolis-do-iguacu-br4126355"
+  },
+  "code": {
+    "id": "BR4126355",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.481",
+    "lon": "-54.03"
+  },
+  "metadata": {},
+  "source": {}
+}

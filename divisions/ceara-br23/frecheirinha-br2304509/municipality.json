@@ -1,0 +1,45 @@
+{
+  "id": "BR2304509",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Frecheirinha",
+    "en": "Frecheirinha",
+    "slug": "frecheirinha-br2304509"
+  },
+  "code": {
+    "id": "BR2304509",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.705",
+    "lon": "-40.822"
+  },
+  "metadata": {},
+  "source": {}
+}

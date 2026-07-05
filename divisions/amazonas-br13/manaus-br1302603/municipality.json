@@ -1,0 +1,45 @@
+{
+  "id": "BR1302603",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Manaus",
+    "en": "Manaus",
+    "slug": "manaus-br1302603"
+  },
+  "code": {
+    "id": "BR1302603",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.671",
+    "lon": "-60.128"
+  },
+  "metadata": {},
+  "source": {}
+}

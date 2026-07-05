@@ -1,0 +1,45 @@
+{
+  "id": "BR1710904",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itapiratins",
+    "en": "Itapiratins",
+    "slug": "itapiratins-br1710904"
+  },
+  "code": {
+    "id": "BR1710904",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.321",
+    "lon": "-47.995"
+  },
+  "metadata": {},
+  "source": {}
+}

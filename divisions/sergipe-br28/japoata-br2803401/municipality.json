@@ -1,0 +1,45 @@
+{
+  "id": "BR2803401",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Japoatã",
+    "en": "Japoata",
+    "slug": "japoata-br2803401"
+  },
+  "code": {
+    "id": "BR2803401",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.442",
+    "lon": "-36.794"
+  },
+  "metadata": {},
+  "source": {}
+}

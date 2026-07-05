@@ -1,0 +1,45 @@
+{
+  "id": "BR2930501",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Serrinha",
+    "en": "Serrinha",
+    "slug": "serrinha-br2930501"
+  },
+  "code": {
+    "id": "BR2930501",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.658",
+    "lon": "-38.985"
+  },
+  "metadata": {},
+  "source": {}
+}

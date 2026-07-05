@@ -1,0 +1,45 @@
+{
+  "id": "BR2104628",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Governador Luiz Rocha",
+    "en": "Governador Luiz Rocha",
+    "slug": "governador-luiz-rocha-br2104628"
+  },
+  "code": {
+    "id": "BR2104628",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.537",
+    "lon": "-44.101"
+  },
+  "metadata": {},
+  "source": {}
+}

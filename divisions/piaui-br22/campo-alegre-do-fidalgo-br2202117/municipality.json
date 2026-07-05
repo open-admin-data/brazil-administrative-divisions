@@ -1,0 +1,45 @@
+{
+  "id": "BR2202117",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campo Alegre do Fidalgo",
+    "en": "Campo Alegre do Fidalgo",
+    "slug": "campo-alegre-do-fidalgo-br2202117"
+  },
+  "code": {
+    "id": "BR2202117",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.225",
+    "lon": "-41.767"
+  },
+  "metadata": {},
+  "source": {}
+}

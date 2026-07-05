@@ -1,0 +1,45 @@
+{
+  "id": "BR4217154",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Miguel da Boa Vista",
+    "en": "Sao Miguel da Boa Vista",
+    "slug": "sao-miguel-da-boa-vista-br4217154"
+  },
+  "code": {
+    "id": "BR4217154",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.687",
+    "lon": "-53.255"
+  },
+  "metadata": {},
+  "source": {}
+}

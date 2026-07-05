@@ -1,0 +1,45 @@
+{
+  "id": "BR4306551",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dom Pedro de Alcântara",
+    "en": "Dom Pedro de Alcantara",
+    "slug": "dom-pedro-de-alcantara-br4306551"
+  },
+  "code": {
+    "id": "BR4306551",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.357",
+    "lon": "-49.872"
+  },
+  "metadata": {},
+  "source": {}
+}

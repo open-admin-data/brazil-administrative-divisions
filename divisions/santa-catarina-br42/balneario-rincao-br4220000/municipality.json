@@ -1,0 +1,45 @@
+{
+  "id": "BR4220000",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Balneário Rincão",
+    "en": "Balneario Rincao",
+    "slug": "balneario-rincao-br4220000"
+  },
+  "code": {
+    "id": "BR4220000",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.819",
+    "lon": "-49.262"
+  },
+  "metadata": {},
+  "source": {}
+}

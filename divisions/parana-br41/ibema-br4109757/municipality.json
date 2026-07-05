@@ -1,0 +1,45 @@
+{
+  "id": "BR4109757",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ibema",
+    "en": "Ibema",
+    "slug": "ibema-br4109757"
+  },
+  "code": {
+    "id": "BR4109757",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.159",
+    "lon": "-53.017"
+  },
+  "metadata": {},
+  "source": {}
+}

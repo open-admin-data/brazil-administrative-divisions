@@ -1,0 +1,45 @@
+{
+  "id": "BR3132503",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itamarandiba",
+    "en": "Itamarandiba",
+    "slug": "itamarandiba-br3132503"
+  },
+  "code": {
+    "id": "BR3132503",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.836",
+    "lon": "-42.873"
+  },
+  "metadata": {},
+  "source": {}
+}

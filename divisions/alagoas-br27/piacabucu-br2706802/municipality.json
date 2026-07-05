@@ -1,0 +1,45 @@
+{
+  "id": "BR2706802",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Piaçabuçu",
+    "en": "Piacabucu",
+    "slug": "piacabucu-br2706802"
+  },
+  "code": {
+    "id": "BR2706802",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.383",
+    "lon": "-36.424"
+  },
+  "metadata": {},
+  "source": {}
+}

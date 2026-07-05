@@ -1,0 +1,45 @@
+{
+  "id": "BR2202539",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Caraúbas do Piauí",
+    "en": "Caraubas do Piaui",
+    "slug": "caraubas-do-piaui-br2202539"
+  },
+  "code": {
+    "id": "BR2202539",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.533",
+    "lon": "-41.848"
+  },
+  "metadata": {},
+  "source": {}
+}

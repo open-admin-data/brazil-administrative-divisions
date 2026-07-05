@@ -1,0 +1,45 @@
+{
+  "id": "BR3543204",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ribeirão do Sul",
+    "en": "Ribeirao do Sul",
+    "slug": "ribeirao-do-sul-br3543204"
+  },
+  "code": {
+    "id": "BR3543204",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.741",
+    "lon": "-49.928"
+  },
+  "metadata": {},
+  "source": {}
+}

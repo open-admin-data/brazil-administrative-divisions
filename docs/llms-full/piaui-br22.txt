@@ -1,0 +1,1129 @@
+# Piaui — Brazil Administrative Divisions
+
+> 224 municipalitys
+> Code: BR22
+> Coordinates: -7.28, -42.915
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Acauã (Acaua)
+
+Code: BR2200053, Coordinates: -8.325, -40.985
+
+
+### Agricolândia (Agricolandia)
+
+Code: BR2200103, Coordinates: -5.733, -42.681
+
+
+### Água Branca (Agua Branca)
+
+Code: BR2200202, Coordinates: -9.256, -37.927
+
+
+### Alagoinha do Piauí (Alagoinha do Piaui)
+
+Code: BR2200251, Coordinates: -6.934, -40.911
+
+
+### Alegrete do Piauí (Alegrete do Piaui)
+
+Code: BR2200277, Coordinates: -7.202, -40.79
+
+
+### Alto Longá (Alto Longa)
+
+Code: BR2200301, Coordinates: -5.37, -42.109
+
+
+### Altos
+
+Code: BR2200400, Coordinates: -5.144, -42.461
+
+
+### Alvorada do Gurguéia (Alvorada do Gurgueia)
+
+Code: BR2200459, Coordinates: -8.421, -43.877
+
+
+### Amarante
+
+Code: BR2200509, Coordinates: -6.403, -42.856
+
+
+### Angical do Piauí (Angical do Piaui)
+
+Code: BR2200608, Coordinates: -6.121, -42.73
+
+
+### Anísio de Abreu (Anisio de Abreu)
+
+Code: BR2200707, Coordinates: -9.244, -43.025
+
+
+### Antônio Almeida (Antonio Almeida)
+
+Code: BR2200806, Coordinates: -7.149, -44.249
+
+
+### Aroazes
+
+Code: BR2200905, Coordinates: -6.193, -41.855
+
+
+### Aroeiras do Itaim
+
+Code: BR2200954, Coordinates: -7.257, -41.563
+
+
+### Arraial
+
+Code: BR2201002, Coordinates: -6.685, -42.509
+
+
+### Assunção do Piauí (Assuncao do Piaui)
+
+Code: BR2201051, Coordinates: -5.845, -40.93
+
+
+### Avelino Lopes
+
+Code: BR2201101, Coordinates: -10.143, -43.892
+
+
+### Baixa Grande do Ribeiro
+
+Code: BR2201150, Coordinates: -8.728, -45.18
+
+
+### Barra D&#39;Alcântara (Barra D&#39;Alcantara)
+
+Code: BR2201176, Coordinates: -6.518, -42.108
+
+
+### Barras
+
+Code: BR2201200, Coordinates: -4.145, -42.264
+
+
+### Barreiras do Piauí (Barreiras do Piaui)
+
+Code: BR2201309, Coordinates: -10.009, -45.691
+
+
+### Barro Duro
+
+Code: BR2201408, Coordinates: -5.811, -42.499
+
+
+### Batalha
+
+Code: BR2201507, Coordinates: -9.742, -37.087
+
+
+### Bela Vista do Piauí (Bela Vista do Piaui)
+
+Code: BR2201556, Coordinates: -7.992, -41.859
+
+
+### Belém do Piauí (Belem do Piaui)
+
+Code: BR2201572, Coordinates: -7.387, -40.978
+
+
+### Beneditinos
+
+Code: BR2201606, Coordinates: -5.504, -42.422
+
+
+### Bertolínia (Bertolinia)
+
+Code: BR2201705, Coordinates: -7.738, -43.806
+
+
+### Betânia do Piauí (Betania do Piaui)
+
+Code: BR2201739, Coordinates: -8.136, -40.786
+
+
+### Boa Hora
+
+Code: BR2201770, Coordinates: -4.36, -42.148
+
+
+### Bocaina
+
+Code: BR2201804, Coordinates: -22.104, -48.521
+
+
+### Bom Jesus
+
+Code: BR2201903, Coordinates: -28.585, -50.451
+
+
+### Bom Princípio do Piauí (Bom Principio do Piaui)
+
+Code: BR2201919, Coordinates: -3.15, -41.6
+
+
+### Bonfim do Piauí (Bonfim do Piaui)
+
+Code: BR2201929, Coordinates: -9.207, -42.891
+
+
+### Boqueirão do Piauí (Boqueirao do Piaui)
+
+Code: BR2201945, Coordinates: -4.563, -42.123
+
+
+### Brasileira
+
+Code: BR2201960, Coordinates: -4.129, -41.602
+
+
+### Brejo do Piauí (Brejo do Piaui)
+
+Code: BR2201988, Coordinates: -8.368, -42.796
+
+
+### Buriti dos Lopes
+
+Code: BR2202000, Coordinates: -3.277, -41.854
+
+
+### Buriti dos Montes
+
+Code: BR2202026, Coordinates: -5.12, -41.21
+
+
+### Cabeceiras do Piauí (Cabeceiras do Piaui)
+
+Code: BR2202059, Coordinates: -4.425, -42.291
+
+
+### Cajazeiras do Piauí (Cajazeiras do Piaui)
+
+Code: BR2202075, Coordinates: -6.779, -42.475
+
+
+### Cajueiro da Praia
+
+Code: BR2202083, Coordinates: -2.984, -41.366
+
+
+### Caldeirão Grande do Piauí (Caldeirao Grande do Piaui)
+
+Code: BR2202091, Coordinates: -7.285, -40.607
+
+
+### Campinas do Piauí (Campinas do Piaui)
+
+Code: BR2202109, Coordinates: -7.651, -41.867
+
+
+### Campo Alegre do Fidalgo
+
+Code: BR2202117, Coordinates: -8.225, -41.767
+
+
+### Campo Grande do Piauí (Campo Grande do Piaui)
+
+Code: BR2202133, Coordinates: -7.218, -41.052
+
+
+### Campo Largo do Piauí (Campo Largo do Piaui)
+
+Code: BR2202174, Coordinates: -3.849, -42.591
+
+
+### Campo Maior
+
+Code: BR2202208, Coordinates: -4.812, -42.101
+
+
+### Canavieira
+
+Code: BR2202251, Coordinates: -7.5, -43.65
+
+
+### Canto do Buriti
+
+Code: BR2202307, Coordinates: -8.301, -43.144
+
+
+### Capitão de Campos (Capitao de Campos)
+
+Code: BR2202406, Coordinates: -4.493, -41.885
+
+
+### Capitão Gervásio Oliveira (Capitao Gervasio Oliveira)
+
+Code: BR2202455, Coordinates: -8.61, -41.929
+
+
+### Caracol
+
+Code: BR2202505, Coordinates: -21.976, -57.11
+
+
+### Caraúbas do Piauí (Caraubas do Piaui)
+
+Code: BR2202539, Coordinates: -3.533, -41.848
+
+
+### Caridade do Piauí (Caridade do Piaui)
+
+Code: BR2202554, Coordinates: -7.731, -40.962
+
+
+### Castelo do Piauí (Castelo do Piaui)
+
+Code: BR2202604, Coordinates: -5.287, -41.585
+
+
+### Caxingó (Caxingo)
+
+Code: BR2202653, Coordinates: -3.404, -41.884
+
+
+### Cocal
+
+Code: BR2202703, Coordinates: -3.418, -41.46
+
+
+### Cocal de Telha
+
+Code: BR2202711, Coordinates: -4.638, -41.97
+
+
+### Cocal dos Alves
+
+Code: BR2202729, Coordinates: -3.638, -41.397
+
+
+### Coivaras
+
+Code: BR2202737, Coordinates: -5.152, -42.25
+
+
+### Colônia do Gurguéia (Colonia do Gurgueia)
+
+Code: BR2202752, Coordinates: -8.159, -43.771
+
+
+### Colônia do Piauí (Colonia do Piaui)
+
+Code: BR2202778, Coordinates: -7.236, -42.209
+
+
+### Conceição do Canindé (Conceicao do Caninde)
+
+Code: BR2202802, Coordinates: -7.91, -41.53
+
+
+### Coronel José Dias (Coronel Jose Dias)
+
+Code: BR2202851, Coordinates: -9.074, -42.311
+
+
+### Corrente
+
+Code: BR2202901, Coordinates: -10.458, -45.119
+
+
+### Cristalândia do Piauí (Cristalandia do Piaui)
+
+Code: BR2203008, Coordinates: -10.808, -45.135
+
+
+### Cristino Castro
+
+Code: BR2203107, Coordinates: -8.704, -44.065
+
+
+### Curimatá (Curimata)
+
+Code: BR2203206, Coordinates: -9.872, -44.368
+
+
+### Currais
+
+Code: BR2203230, Coordinates: -8.788, -44.85
+
+
+### Curral Novo do Piauí (Curral Novo do Piaui)
+
+Code: BR2203271, Coordinates: -7.893, -40.714
+
+
+### Curralinhos
+
+Code: BR2203255, Coordinates: -5.575, -42.841
+
+
+### Demerval Lobão (Demerval Lobao)
+
+Code: BR2203305, Coordinates: -5.329, -42.663
+
+
+### Dirceu Arcoverde
+
+Code: BR2203354, Coordinates: -9.351, -42.429
+
+
+### Dom Expedito Lopes
+
+Code: BR2203404, Coordinates: -6.965, -41.699
+
+
+### Dom Inocêncio (Dom Inocencio)
+
+Code: BR2203453, Coordinates: -8.859, -41.765
+
+
+### Domingos Mourão (Domingos Mourao)
+
+Code: BR2203420, Coordinates: -4.2, -41.317
+
+
+### Elesbão Veloso (Elesbao Veloso)
+
+Code: BR2203503, Coordinates: -6.193, -42.176
+
+
+### Eliseu Martins
+
+Code: BR2203602, Coordinates: -7.914, -43.766
+
+
+### Esperantina
+
+Code: BR2203701, Coordinates: -3.856, -42.168
+
+
+### Fartura do Piauí (Fartura do Piaui)
+
+Code: BR2203750, Coordinates: -9.501, -42.792
+
+
+### Flores do Piauí (Flores do Piaui)
+
+Code: BR2203800, Coordinates: -7.66, -42.838
+
+
+### Floresta do Piauí (Floresta do Piaui)
+
+Code: BR2203859, Coordinates: -7.487, -41.824
+
+
+### Floriano
+
+Code: BR2203909, Coordinates: -6.831, -43.135
+
+
+### Francinópolis (Francinopolis)
+
+Code: BR2204006, Coordinates: -6.454, -42.197
+
+
+### Francisco Ayres
+
+Code: BR2204105, Coordinates: -6.683, -42.705
+
+
+### Francisco Macedo
+
+Code: BR2204154, Coordinates: -7.33, -40.779
+
+
+### Francisco Santos
+
+Code: BR2204204, Coordinates: -7.087, -41.158
+
+
+### Fronteiras
+
+Code: BR2204303, Coordinates: -7.025, -40.583
+
+
+### Geminiano
+
+Code: BR2204352, Coordinates: -7.182, -41.374
+
+
+### Gilbués (Gilbues)
+
+Code: BR2204402, Coordinates: -9.72, -45.497
+
+
+### Guadalupe
+
+Code: BR2204501, Coordinates: -6.806, -43.771
+
+
+### Guaribas
+
+Code: BR2204550, Coordinates: -9.075, -43.549
+
+
+### Hugo Napoleão (Hugo Napoleao)
+
+Code: BR2204600, Coordinates: -6.03, -42.473
+
+
+### Ilha Grande
+
+Code: BR2204659, Coordinates: -2.84, -41.823
+
+
+### Inhuma
+
+Code: BR2204709, Coordinates: -6.671, -41.745
+
+
+### Ipiranga do Piauí (Ipiranga do Piaui)
+
+Code: BR2204808, Coordinates: -6.807, -41.776
+
+
+### Isaías Coelho (Isaias Coelho)
+
+Code: BR2204907, Coordinates: -7.641, -41.661
+
+
+### Itainópolis (Itainopolis)
+
+Code: BR2205003, Coordinates: -7.409, -41.515
+
+
+### Itaueira
+
+Code: BR2205102, Coordinates: -7.531, -43.097
+
+
+### Jacobina do Piauí (Jacobina do Piaui)
+
+Code: BR2205151, Coordinates: -7.914, -41.248
+
+
+### Jaicós (Jaicos)
+
+Code: BR2205201, Coordinates: -7.427, -41.225
+
+
+### Jardim do Mulato
+
+Code: BR2205250, Coordinates: -6.15, -42.503
+
+
+### Jatobá do Piauí (Jatoba do Piaui)
+
+Code: BR2205276, Coordinates: -4.822, -41.908
+
+
+### Jerumenha
+
+Code: BR2205300, Coordinates: -7.06, -43.526
+
+
+### João Costa (Joao Costa)
+
+Code: BR2205359, Coordinates: -8.52, -42.589
+
+
+### Joaquim Pires
+
+Code: BR2205409, Coordinates: -3.526, -42.075
+
+
+### Joca Marques
+
+Code: BR2205458, Coordinates: -3.524, -42.44
+
+
+### José de Freitas (Jose de Freitas)
+
+Code: BR2205508, Coordinates: -4.713, -42.585
+
+
+### Juazeiro do Piauí (Juazeiro do Piaui)
+
+Code: BR2205516, Coordinates: -4.998, -41.541
+
+
+### Júlio Borges (Julio Borges)
+
+Code: BR2205524, Coordinates: -10.501, -44.183
+
+
+### Jurema
+
+Code: BR2205532, Coordinates: -8.78, -36.139
+
+
+### Lagoa Alegre
+
+Code: BR2205557, Coordinates: -4.443, -42.548
+
+
+### Lagoa de São Francisco (Lagoa de Sao Francisco)
+
+Code: BR2205573, Coordinates: -4.365, -41.589
+
+
+### Lagoa do Barro do Piauí (Lagoa do Barro do Piaui)
+
+Code: BR2205565, Coordinates: -8.636, -41.56
+
+
+### Lagoa do Piauí (Lagoa do Piaui)
+
+Code: BR2205581, Coordinates: -5.462, -42.554
+
+
+### Lagoa do Sítio (Lagoa do Sitio)
+
+Code: BR2205599, Coordinates: -6.509, -41.409
+
+
+### Lagoinha do Piauí (Lagoinha do Piaui)
+
+Code: BR2205540, Coordinates: -5.812, -42.63
+
+
+### Landri Sales
+
+Code: BR2205607, Coordinates: -7.239, -43.898
+
+
+### Luís Correia (Luis Correia)
+
+Code: BR2205706, Coordinates: -3.046, -41.491
+
+
+### Luzilândia (Luzilandia)
+
+Code: BR2205805, Coordinates: -3.601, -42.391
+
+
+### Madeiro
+
+Code: BR2205854, Coordinates: -3.551, -42.517
+
+
+### Manoel Emídio (Manoel Emidio)
+
+Code: BR2205904, Coordinates: -8.16, -43.847
+
+
+### Marcolândia (Marcolandia)
+
+Code: BR2205953, Coordinates: -7.423, -40.739
+
+
+### Marcos Parente
+
+Code: BR2206001, Coordinates: -7.019, -43.878
+
+
+### Massapê do Piauí (Massape do Piaui)
+
+Code: BR2206050, Coordinates: -7.53, -41.067
+
+
+### Matias Olímpio (Matias Olimpio)
+
+Code: BR2206100, Coordinates: -3.697, -42.6
+
+
+### Miguel Alves
+
+Code: BR2206209, Coordinates: -4.197, -42.797
+
+
+### Miguel Leão (Miguel Leao)
+
+Code: BR2206308, Coordinates: -5.722, -42.688
+
+
+### Milton Brandão (Milton Brandao)
+
+Code: BR2206357, Coordinates: -4.795, -41.461
+
+
+### Monsenhor Gil
+
+Code: BR2206407, Coordinates: -5.62, -42.546
+
+
+### Monsenhor Hipólito (Monsenhor Hipolito)
+
+Code: BR2206506, Coordinates: -6.921, -41.023
+
+
+### Monte Alegre do Piauí (Monte Alegre do Piaui)
+
+Code: BR2206605, Coordinates: -9.746, -45.002
+
+
+### Morro Cabeça no Tempo (Morro Cabeca no Tempo)
+
+Code: BR2206654, Coordinates: -9.859, -43.891
+
+
+### Morro do Chapéu do Piauí (Morro do Chapeu do Piaui)
+
+Code: BR2206670, Coordinates: -3.689, -42.234
+
+
+### Murici dos Portelas
+
+Code: BR2206696, Coordinates: -3.357, -42.001
+
+
+### Nazaré do Piauí (Nazare do Piaui)
+
+Code: BR2206704, Coordinates: -7.021, -42.666
+
+
+### Nazária (Nazaria)
+
+Code: BR2206720, Coordinates: -5.462, -42.89
+
+
+### Nossa Senhora de Nazaré (Nossa Senhora de Nazare)
+
+Code: BR2206753, Coordinates: -4.642, -42.188
+
+
+### Nossa Senhora dos Remédios (Nossa Senhora dos Remedios)
+
+Code: BR2206803, Coordinates: -4.057, -42.633
+
+
+### Nova Santa Rita
+
+Code: BR2207959, Coordinates: -29.832, -51.278
+
+
+### Novo Oriente do Piauí (Novo Oriente do Piaui)
+
+Code: BR2206902, Coordinates: -6.534, -42.015
+
+
+### Novo Santo Antônio (Novo Santo Antonio)
+
+Code: BR2206951, Coordinates: -12.308, -50.879
+
+
+### Oeiras
+
+Code: BR2207009, Coordinates: -6.922, -42.2
+
+
+### Olho D&#39;Água do Piauí (Olho D&#39;Agua do Piaui)
+
+Code: BR2207108, Coordinates: -5.854, -42.544
+
+
+### Padre Marcos
+
+Code: BR2207207, Coordinates: -7.409, -40.892
+
+
+### Paes Landim
+
+Code: BR2207306, Coordinates: -7.842, -42.293
+
+
+### Pajeú do Piauí (Pajeu do Piaui)
+
+Code: BR2207355, Coordinates: -7.964, -42.889
+
+
+### Palmeira do Piauí (Palmeira do Piaui)
+
+Code: BR2207405, Coordinates: -8.594, -44.303
+
+
+### Palmeirais
+
+Code: BR2207504, Coordinates: -5.803, -43.021
+
+
+### Paquetá (Paqueta)
+
+Code: BR2207553, Coordinates: -7.16, -41.659
+
+
+### Parnaguá (Parnagua)
+
+Code: BR2207603, Coordinates: -10.21, -44.561
+
+
+### Parnaíba (Parnaiba)
+
+Code: BR2207702, Coordinates: -2.928, -41.75
+
+
+### Passagem Franca do Piauí (Passagem Franca do Piaui)
+
+Code: BR2207751, Coordinates: -5.854, -42.422
+
+
+### Patos do Piauí (Patos do Piaui)
+
+Code: BR2207777, Coordinates: -7.655, -41.269
+
+
+### Pau D&#39;Arco do Piauí (Pau D&#39;Arco do Piaui)
+
+Code: BR2207793, Coordinates: -5.264, -42.457
+
+
+### Paulistana
+
+Code: BR2207801, Coordinates: -8.137, -41.168
+
+
+### Pavussu
+
+Code: BR2207850, Coordinates: -7.919, -43.301
+
+
+### Pedro II
+
+Code: BR2207900, Coordinates: -4.504, -41.353
+
+
+### Pedro Laurentino
+
+Code: BR2207934, Coordinates: -8.088, -42.245
+
+
+### Picos
+
+Code: BR2208007, Coordinates: -7.083, -41.51
+
+
+### Pimenteiras
+
+Code: BR2208106, Coordinates: -6.36, -41.265
+
+
+### Pio IX
+
+Code: BR2208205, Coordinates: -6.882, -40.63
+
+
+### Piracuruca
+
+Code: BR2208304, Coordinates: -3.834, -41.625
+
+
+### Piripiri
+
+Code: BR2208403, Coordinates: -4.376, -41.762
+
+
+### Porto
+
+Code: BR2208502, Coordinates: -3.951, -42.693
+
+
+### Porto Alegre do Piauí (Porto Alegre do Piaui)
+
+Code: BR2208551, Coordinates: -6.916, -44.083
+
+
+### Prata do Piauí (Prata do Piaui)
+
+Code: BR2208601, Coordinates: -5.715, -42.164
+
+
+### Queimada Nova
+
+Code: BR2208650, Coordinates: -8.493, -41.33
+
+
+### Redenção do Gurguéia (Redencao do Gurgueia)
+
+Code: BR2208700, Coordinates: -9.614, -44.537
+
+
+### Regeneração (Regeneracao)
+
+Code: BR2208809, Coordinates: -6.286, -42.52
+
+
+### Riacho Frio
+
+Code: BR2208858, Coordinates: -9.816, -44.713
+
+
+### Ribeira do Piauí (Ribeira do Piaui)
+
+Code: BR2208874, Coordinates: -8.077, -42.581
+
+
+### Ribeiro Gonçalves (Ribeiro Goncalves)
+
+Code: BR2208908, Coordinates: -8.048, -45.469
+
+
+### Rio Grande do Piauí (Rio Grande do Piaui)
+
+Code: BR2209005, Coordinates: -7.831, -43.126
+
+
+### Santa Cruz do Piauí (Santa Cruz do Piaui)
+
+Code: BR2209104, Coordinates: -7.272, -41.749
+
+
+### Santa Cruz dos Milagres
+
+Code: BR2209153, Coordinates: -5.836, -41.962
+
+
+### Santa Filomena
+
+Code: BR2209203, Coordinates: -8.287, -40.61
+
+
+### Santa Luz
+
+Code: BR2209302, Coordinates: -11.182, -39.478
+
+
+### Santa Rosa do Piauí (Santa Rosa do Piaui)
+
+Code: BR2209377, Coordinates: -6.832, -42.226
+
+
+### Santana do Piauí (Santana do Piaui)
+
+Code: BR2209351, Coordinates: -6.936, -41.5
+
+
+### Santo Antônio de Lisboa (Santo Antonio de Lisboa)
+
+Code: BR2209401, Coordinates: -6.876, -41.221
+
+
+### Santo Antônio dos Milagres (Santo Antonio dos Milagres)
+
+Code: BR2209450, Coordinates: -6.055, -42.692
+
+
+### Santo Inácio do Piauí (Santo Inacio do Piaui)
+
+Code: BR2209500, Coordinates: -7.491, -41.938
+
+
+### São Braz do Piauí (Sao Braz do Piaui)
+
+Code: BR2209559, Coordinates: -8.974, -42.973
+
+
+### São Félix do Piauí (Sao Felix do Piaui)
+
+Code: BR2209609, Coordinates: -5.884, -42.075
+
+
+### São Francisco de Assis do Piauí (Sao Francisco de Assis do Piaui)
+
+Code: BR2209658, Coordinates: -8.231, -41.529
+
+
+### São Francisco do Piauí (Sao Francisco do Piaui)
+
+Code: BR2209708, Coordinates: -7.144, -42.5
+
+
+### São Gonçalo do Gurguéia (Sao Goncalo do Gurgueia)
+
+Code: BR2209757, Coordinates: -10.079, -45.452
+
+
+### São Gonçalo do Piauí (Sao Goncalo do Piaui)
+
+Code: BR2209807, Coordinates: -6.026, -42.679
+
+
+### São João da Canabrava (Sao Joao da Canabrava)
+
+Code: BR2209856, Coordinates: -6.753, -41.375
+
+
+### São João da Fronteira (Sao Joao da Fronteira)
+
+Code: BR2209872, Coordinates: -3.991, -41.224
+
+
+### São João da Serra (Sao Joao da Serra)
+
+Code: BR2209906, Coordinates: -5.46, -41.851
+
+
+### São João da Varjota (Sao Joao da Varjota)
+
+Code: BR2209955, Coordinates: -6.943, -41.909
+
+
+### São João do Arraial (Sao Joao do Arraial)
+
+Code: BR2209971, Coordinates: -3.8, -42.455
+
+
+### São João do Piauí (Sao Joao do Piaui)
+
+Code: BR2210003, Coordinates: -8.244, -42.318
+
+
+### São José do Divino (Sao Jose do Divino)
+
+Code: BR2210052, Coordinates: -18.417, -41.372
+
+
+### São José do Peixe (Sao Jose do Peixe)
+
+Code: BR2210102, Coordinates: -7.475, -42.518
+
+
+### São José do Piauí (Sao Jose do Piaui)
+
+Code: BR2210201, Coordinates: -6.811, -41.462
+
+
+### São Julião (Sao Juliao)
+
+Code: BR2210300, Coordinates: -7.054, -40.826
+
+
+### São Lourenço do Piauí (Sao Lourenco do Piaui)
+
+Code: BR2210359, Coordinates: -9.151, -42.46
+
+
+### São Luis do Piauí (Sao Luis do Piaui)
+
+Code: BR2210375, Coordinates: -6.797, -41.277
+
+
+### São Miguel da Baixa Grande (Sao Miguel da Baixa Grande)
+
+Code: BR2210383, Coordinates: -5.772, -42.282
+
+
+### São Miguel do Fidalgo (Sao Miguel do Fidalgo)
+
+Code: BR2210391, Coordinates: -7.589, -42.374
+
+
+### São Miguel do Tapuio (Sao Miguel do Tapuio)
+
+Code: BR2210409, Coordinates: -5.681, -41.608
+
+
+### São Pedro do Piauí (Sao Pedro do Piaui)
+
+Code: BR2210508, Coordinates: -5.844, -42.766
+
+
+### São Raimundo Nonato (Sao Raimundo Nonato)
+
+Code: BR2210607, Coordinates: -9.08, -42.7
+
+
+### Sebastião Barros (Sebastiao Barros)
+
+Code: BR2210623, Coordinates: -10.647, -44.824
+
+
+### Sebastião Leal (Sebastiao Leal)
+
+Code: BR2210631, Coordinates: -7.514, -44.053
+
+
+### Sigefredo Pacheco
+
+Code: BR2210656, Coordinates: -4.892, -41.801
+
+
+### Simões (Simoes)
+
+Code: BR2210706, Coordinates: -7.707, -40.74
+
+
+### Simplício Mendes (Simplicio Mendes)
+
+Code: BR2210805, Coordinates: -7.845, -41.957
+
+
+### Socorro do Piauí (Socorro do Piaui)
+
+Code: BR2210904, Coordinates: -7.897, -42.488
+
+
+### Sussuapara
+
+Code: BR2210938, Coordinates: -6.978, -41.391
+
+
+### Tamboril do Piauí (Tamboril do Piaui)
+
+Code: BR2210953, Coordinates: -8.499, -43.092
+
+
+### Tanque do Piauí (Tanque do Piaui)
+
+Code: BR2210979, Coordinates: -6.688, -42.279
+
+
+### Teresina
+
+Code: BR2211001, Coordinates: -5.313, -42.82
+
+
+### União (Uniao)
+
+Code: BR2211100, Coordinates: -4.593, -42.869
+
+
+### Uruçuí (Urucui)
+
+Code: BR2211209, Coordinates: -7.361, -44.603
+
+
+### Valença do Piauí (Valenca do Piaui)
+
+Code: BR2211308, Coordinates: -6.296, -41.791
+
+
+### Várzea Branca (Varzea Branca)
+
+Code: BR2211357, Coordinates: -9.311, -42.939
+
+
+### Várzea Grande (Varzea Grande)
+
+Code: BR2211407, Coordinates: -15.549, -56.278
+
+
+### Vera Mendes
+
+Code: BR2211506, Coordinates: -7.576, -41.498
+
+
+### Vila Nova do Piauí (Vila Nova do Piaui)
+
+Code: BR2211605, Coordinates: -7.204, -40.94
+
+
+### Wall Ferraz
+
+Code: BR2211704, Coordinates: -7.297, -41.837
+
+

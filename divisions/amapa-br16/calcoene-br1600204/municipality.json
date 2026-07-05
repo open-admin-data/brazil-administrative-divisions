@@ -1,0 +1,45 @@
+{
+  "id": "BR1600204",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Calçoene",
+    "en": "Calcoene",
+    "slug": "calcoene-br1600204"
+  },
+  "code": {
+    "id": "BR1600204",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR16",
+    "level": 1,
+    "name": {
+      "local": "Amapá",
+      "en": "Amapa",
+      "slug": "amapa-br16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.333",
+    "lon": "-51.501"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1100940",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cujubim",
+    "en": "Cujubim",
+    "slug": "cujubim-br1100940"
+  },
+  "code": {
+    "id": "BR1100940",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.971",
+    "lon": "-62.498"
+  },
+  "metadata": {},
+  "source": {}
+}

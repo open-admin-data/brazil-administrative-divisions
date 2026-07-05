@@ -1,0 +1,45 @@
+{
+  "id": "BR3161056",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Félix de Minas",
+    "en": "Sao Felix de Minas",
+    "slug": "sao-felix-de-minas-br3161056"
+  },
+  "code": {
+    "id": "BR3161056",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.562",
+    "lon": "-41.447"
+  },
+  "metadata": {},
+  "source": {}
+}

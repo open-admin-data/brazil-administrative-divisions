@@ -1,0 +1,45 @@
+{
+  "id": "BR4104709",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Carlópolis",
+    "en": "Carlopolis",
+    "slug": "carlopolis-br4104709"
+  },
+  "code": {
+    "id": "BR4104709",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.45",
+    "lon": "-49.696"
+  },
+  "metadata": {},
+  "source": {}
+}

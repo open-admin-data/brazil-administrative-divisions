@@ -1,0 +1,45 @@
+{
+  "id": "BR1716307",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pau D'Arco",
+    "en": "Pau D'Arco",
+    "slug": "pau-d-arco-br1716307"
+  },
+  "code": {
+    "id": "BR1716307",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.561",
+    "lon": "-48.912"
+  },
+  "metadata": {},
+  "source": {}
+}

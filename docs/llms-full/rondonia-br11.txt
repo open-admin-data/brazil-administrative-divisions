@@ -1,0 +1,269 @@
+# Rondonia — Brazil Administrative Divisions
+
+> 52 municipalitys
+> Code: BR11
+> Coordinates: -10.563, -63.379
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Alta Floresta D&#39;Oeste
+
+Code: BR1100015, Coordinates: -12.557, -62.429
+
+
+### Alto Alegre dos Parecis
+
+Code: BR1100379, Coordinates: -12.791, -62.007
+
+
+### Alto Paraíso (Alto Paraiso)
+
+Code: BR1100403, Coordinates: -23.544, -53.801
+
+
+### Alvorada D&#39;Oeste
+
+Code: BR1100346, Coordinates: -11.286, -62.598
+
+
+### Ariquemes
+
+Code: BR1100023, Coordinates: -9.924, -62.887
+
+
+### Buritis
+
+Code: BR1100452, Coordinates: -15.419, -46.562
+
+
+### Cabixi
+
+Code: BR1100031, Coordinates: -13.539, -60.622
+
+
+### Cacaulândia (Cacaulandia)
+
+Code: BR1100601, Coordinates: -10.326, -63.142
+
+
+### Cacoal
+
+Code: BR1100049, Coordinates: -11.483, -61.424
+
+
+### Campo Novo de Rondônia (Campo Novo de Rondonia)
+
+Code: BR1100700, Coordinates: -10.479, -63.835
+
+
+### Candeias do Jamari
+
+Code: BR1100809, Coordinates: -8.933, -63.363
+
+
+### Castanheiras
+
+Code: BR1100908, Coordinates: -11.435, -61.86
+
+
+### Cerejeiras
+
+Code: BR1100056, Coordinates: -13.181, -61.395
+
+
+### Chupinguaia
+
+Code: BR1100924, Coordinates: -12.669, -60.935
+
+
+### Colorado do Oeste
+
+Code: BR1100064, Coordinates: -13.109, -60.514
+
+
+### Corumbiara
+
+Code: BR1100072, Coordinates: -12.895, -61.095
+
+
+### Costa Marques
+
+Code: BR1100080, Coordinates: -12.086, -64.059
+
+
+### Cujubim
+
+Code: BR1100940, Coordinates: -8.971, -62.498
+
+
+### Espigão D&#39;Oeste (Espigao D&#39;Oeste)
+
+Code: BR1100098, Coordinates: -11.435, -60.712
+
+
+### Governador Jorge Teixeira
+
+Code: BR1101005, Coordinates: -10.8, -63.118
+
+
+### Guajará-Mirim (Guajara-Mirim)
+
+Code: BR1100106, Coordinates: -11.335, -64.472
+
+
+### Itapuã do Oeste (Itapua do Oeste)
+
+Code: BR1101104, Coordinates: -9.027, -63.161
+
+
+### Jaru
+
+Code: BR1100114, Coordinates: -10.64, -62.683
+
+
+### Ji-Paraná (Ji-Parana)
+
+Code: BR1100122, Coordinates: -10.414, -61.74
+
+
+### Machadinho D&#39;Oeste
+
+Code: BR1100130, Coordinates: -9.214, -62.087
+
+
+### Ministro Andreazza
+
+Code: BR1101203, Coordinates: -11.233, -61.661
+
+
+### Mirante da Serra
+
+Code: BR1101302, Coordinates: -11.127, -62.875
+
+
+### Monte Negro
+
+Code: BR1101401, Coordinates: -29.712, -51.484
+
+
+### Nova Brasilândia D&#39;Oeste (Nova Brasilandia D&#39;Oeste)
+
+Code: BR1100148, Coordinates: -11.577, -62.207
+
+
+### Nova Mamoré (Nova Mamore)
+
+Code: BR1100338, Coordinates: -10.513, -64.481
+
+
+### Nova União (Nova Uniao)
+
+Code: BR1101435, Coordinates: -19.64, -43.573
+
+
+### Novo Horizonte do Oeste
+
+Code: BR1100502, Coordinates: -11.714, -62.099
+
+
+### Ouro Preto do Oeste
+
+Code: BR1100155, Coordinates: -10.381, -61.96
+
+
+### Parecis
+
+Code: BR1101450, Coordinates: -12.308, -61.337
+
+
+### Pimenta Bueno
+
+Code: BR1100189, Coordinates: -11.771, -60.801
+
+
+### Pimenteiras do Oeste
+
+Code: BR1101468, Coordinates: -13.201, -61.549
+
+
+### Porto Velho
+
+Code: BR1100205, Coordinates: -9.187, -64.346
+
+
+### Presidente Médici (Presidente Medici)
+
+Code: BR1100254, Coordinates: -2.29, -45.782
+
+
+### Primavera de Rondônia (Primavera de Rondonia)
+
+Code: BR1101476, Coordinates: -11.919, -61.305
+
+
+### Rio Crespo
+
+Code: BR1100262, Coordinates: -9.712, -62.719
+
+
+### Rolim de Moura
+
+Code: BR1100288, Coordinates: -11.747, -61.79
+
+
+### Santa Luzia D&#39;Oeste
+
+Code: BR1100296, Coordinates: -12.118, -61.777
+
+
+### São Felipe D&#39;Oeste (Sao Felipe D&#39;Oeste)
+
+Code: BR1101484, Coordinates: -11.897, -61.477
+
+
+### São Francisco do Guaporé (Sao Francisco do Guapore)
+
+Code: BR1101492, Coordinates: -12.42, -63.106
+
+
+### São Miguel do Guaporé (Sao Miguel do Guapore)
+
+Code: BR1100320, Coordinates: -11.594, -63.098
+
+
+### Seringueiras
+
+Code: BR1101500, Coordinates: -11.886, -63.228
+
+
+### Teixeirópolis (Teixeiropolis)
+
+Code: BR1101559, Coordinates: -10.984, -62.281
+
+
+### Theobroma
+
+Code: BR1101609, Coordinates: -10.089, -62.286
+
+
+### Urupá (Urupa)
+
+Code: BR1101708, Coordinates: -11.078, -62.379
+
+
+### Vale do Anari
+
+Code: BR1101757, Coordinates: -9.71, -61.928
+
+
+### Vale do Paraíso (Vale do Paraiso)
+
+Code: BR1101807, Coordinates: -10.215, -62.074
+
+
+### Vilhena
+
+Code: BR1100304, Coordinates: -11.988, -60.263
+
+

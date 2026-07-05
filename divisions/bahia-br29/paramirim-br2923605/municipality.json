@@ -1,0 +1,45 @@
+{
+  "id": "BR2923605",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Paramirim",
+    "en": "Paramirim",
+    "slug": "paramirim-br2923605"
+  },
+  "code": {
+    "id": "BR2923605",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.536",
+    "lon": "-42.222"
+  },
+  "metadata": {},
+  "source": {}
+}

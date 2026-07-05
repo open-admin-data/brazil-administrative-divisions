@@ -1,0 +1,45 @@
+{
+  "id": "BR3532868",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Castilho",
+    "en": "Nova Castilho",
+    "slug": "nova-castilho-br3532868"
+  },
+  "code": {
+    "id": "BR3532868",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.787",
+    "lon": "-50.35"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2906709",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cândido Sales",
+    "en": "Candido Sales",
+    "slug": "candido-sales-br2906709"
+  },
+  "code": {
+    "id": "BR2906709",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.402",
+    "lon": "-41.217"
+  },
+  "metadata": {},
+  "source": {}
+}

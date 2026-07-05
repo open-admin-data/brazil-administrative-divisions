@@ -1,0 +1,45 @@
+{
+  "id": "BR1100338",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Mamoré",
+    "en": "Nova Mamore",
+    "slug": "nova-mamore-br1100338"
+  },
+  "code": {
+    "id": "BR1100338",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.513",
+    "lon": "-64.481"
+  },
+  "metadata": {},
+  "source": {}
+}

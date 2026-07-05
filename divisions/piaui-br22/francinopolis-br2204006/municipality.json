@@ -1,0 +1,45 @@
+{
+  "id": "BR2204006",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Francinópolis",
+    "en": "Francinopolis",
+    "slug": "francinopolis-br2204006"
+  },
+  "code": {
+    "id": "BR2204006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.454",
+    "lon": "-42.197"
+  },
+  "metadata": {},
+  "source": {}
+}

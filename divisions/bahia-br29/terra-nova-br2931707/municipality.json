@@ -1,0 +1,45 @@
+{
+  "id": "BR2931707",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Terra Nova",
+    "en": "Terra Nova",
+    "slug": "terra-nova-br2931707"
+  },
+  "code": {
+    "id": "BR2931707",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.384",
+    "lon": "-38.598"
+  },
+  "metadata": {},
+  "source": {}
+}

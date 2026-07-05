@@ -1,0 +1,45 @@
+{
+  "id": "BR2505279",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Curral de Cima",
+    "en": "Curral de Cima",
+    "slug": "curral-de-cima-br2505279"
+  },
+  "code": {
+    "id": "BR2505279",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.727",
+    "lon": "-35.282"
+  },
+  "metadata": {},
+  "source": {}
+}

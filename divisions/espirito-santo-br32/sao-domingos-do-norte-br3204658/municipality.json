@@ -1,0 +1,45 @@
+{
+  "id": "BR3204658",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Domingos do Norte",
+    "en": "Sao Domingos do Norte",
+    "slug": "sao-domingos-do-norte-br3204658"
+  },
+  "code": {
+    "id": "BR3204658",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.137",
+    "lon": "-40.561"
+  },
+  "metadata": {},
+  "source": {}
+}

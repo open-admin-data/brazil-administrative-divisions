@@ -1,0 +1,45 @@
+{
+  "id": "BR4104907",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Castro",
+    "en": "Castro",
+    "slug": "castro-br4104907"
+  },
+  "code": {
+    "id": "BR4104907",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.818",
+    "lon": "-49.855"
+  },
+  "metadata": {},
+  "source": {}
+}

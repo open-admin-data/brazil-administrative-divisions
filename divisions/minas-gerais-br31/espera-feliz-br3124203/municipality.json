@@ -1,0 +1,45 @@
+{
+  "id": "BR3124203",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Espera Feliz",
+    "en": "Espera Feliz",
+    "slug": "espera-feliz-br3124203"
+  },
+  "code": {
+    "id": "BR3124203",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.598",
+    "lon": "-41.92"
+  },
+  "metadata": {},
+  "source": {}
+}

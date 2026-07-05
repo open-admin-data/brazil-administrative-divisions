@@ -1,0 +1,45 @@
+{
+  "id": "BR1718808",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sampaio",
+    "en": "Sampaio",
+    "slug": "sampaio-br1718808"
+  },
+  "code": {
+    "id": "BR1718808",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.358",
+    "lon": "-47.918"
+  },
+  "metadata": {},
+  "source": {}
+}

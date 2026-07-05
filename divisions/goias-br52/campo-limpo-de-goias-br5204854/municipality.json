@@ -1,0 +1,45 @@
+{
+  "id": "BR5204854",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campo Limpo de Goiás",
+    "en": "Campo Limpo de Goias",
+    "slug": "campo-limpo-de-goias-br5204854"
+  },
+  "code": {
+    "id": "BR5204854",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.29",
+    "lon": "-49.092"
+  },
+  "metadata": {},
+  "source": {}
+}

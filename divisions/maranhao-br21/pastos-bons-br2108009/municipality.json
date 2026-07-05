@@ -1,0 +1,45 @@
+{
+  "id": "BR2108009",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pastos Bons",
+    "en": "Pastos Bons",
+    "slug": "pastos-bons-br2108009"
+  },
+  "code": {
+    "id": "BR2108009",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.709",
+    "lon": "-44.204"
+  },
+  "metadata": {},
+  "source": {}
+}

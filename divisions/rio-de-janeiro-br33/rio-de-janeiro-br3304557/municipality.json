@@ -1,0 +1,45 @@
+{
+  "id": "BR3304557",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rio de Janeiro",
+    "en": "Rio de Janeiro",
+    "slug": "rio-de-janeiro-br3304557"
+  },
+  "code": {
+    "id": "BR3304557",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR33",
+    "level": 1,
+    "name": {
+      "local": "Rio de Janeiro",
+      "en": "Rio de Janeiro",
+      "slug": "rio-de-janeiro-br33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR33",
+      "level": 1,
+      "name": {
+        "local": "Rio de Janeiro",
+        "en": "Rio de Janeiro",
+        "slug": "rio-de-janeiro-br33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.929",
+    "lon": "-43.447"
+  },
+  "metadata": {},
+  "source": {}
+}

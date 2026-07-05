@@ -1,0 +1,45 @@
+{
+  "id": "BR4112751",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jesuítas",
+    "en": "Jesuitas",
+    "slug": "jesuitas-br4112751"
+  },
+  "code": {
+    "id": "BR4112751",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.408",
+    "lon": "-53.416"
+  },
+  "metadata": {},
+  "source": {}
+}

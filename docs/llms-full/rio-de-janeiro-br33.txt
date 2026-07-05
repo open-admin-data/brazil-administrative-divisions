@@ -1,0 +1,469 @@
+# Rio de Janeiro — Brazil Administrative Divisions
+
+> 92 municipalitys
+> Code: BR33
+> Coordinates: -22.259, -42.652
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Angra dos Reis
+
+Code: BR3300100, Coordinates: -22.957, -44.371
+
+
+### Aperibé (Aperibe)
+
+Code: BR3300159, Coordinates: -21.646, -42.139
+
+
+### Araruama
+
+Code: BR3300209, Coordinates: -22.707, -42.289
+
+
+### Areal
+
+Code: BR3300225, Coordinates: -22.233, -43.111
+
+
+### Armação dos Búzios (Armacao dos Buzios)
+
+Code: BR3300233, Coordinates: -22.772, -41.911
+
+
+### Arraial do Cabo
+
+Code: BR3300258, Coordinates: -22.941, -42.092
+
+
+### Barra do Piraí (Barra do Pirai)
+
+Code: BR3300308, Coordinates: -22.413, -43.897
+
+
+### Barra Mansa
+
+Code: BR3300407, Coordinates: -22.497, -44.193
+
+
+### Belford Roxo
+
+Code: BR3300456, Coordinates: -22.719, -43.381
+
+
+### Bom Jardim
+
+Code: BR3300506, Coordinates: -22.184, -42.339
+
+
+### Bom Jesus do Itabapoana
+
+Code: BR3300605, Coordinates: -21.111, -41.689
+
+
+### Cabo Frio
+
+Code: BR3300704, Coordinates: -22.696, -42.06
+
+
+### Cachoeiras de Macacu
+
+Code: BR3300803, Coordinates: -22.496, -42.722
+
+
+### Cambuci
+
+Code: BR3300902, Coordinates: -21.506, -41.94
+
+
+### Campos dos Goytacazes
+
+Code: BR3301009, Coordinates: -21.665, -41.456
+
+
+### Cantagalo
+
+Code: BR3301108, Coordinates: -25.29, -52.138
+
+
+### Carapebus
+
+Code: BR3300936, Coordinates: -22.216, -41.619
+
+
+### Cardoso Moreira
+
+Code: BR3301157, Coordinates: -21.532, -41.483
+
+
+### Carmo
+
+Code: BR3301207, Coordinates: -21.893, -42.55
+
+
+### Casimiro de Abreu
+
+Code: BR3301306, Coordinates: -22.483, -42.142
+
+
+### Comendador Levy Gasparian
+
+Code: BR3300951, Coordinates: -22.035, -43.249
+
+
+### Conceição de Macabu (Conceicao de Macabu)
+
+Code: BR3301405, Coordinates: -22.141, -41.862
+
+
+### Cordeiro
+
+Code: BR3301504, Coordinates: -22.074, -42.325
+
+
+### Duas Barras
+
+Code: BR3301603, Coordinates: -22.065, -42.52
+
+
+### Duque de Caxias
+
+Code: BR3301702, Coordinates: -22.639, -43.306
+
+
+### Engenheiro Paulo de Frontin
+
+Code: BR3301801, Coordinates: -22.54, -43.663
+
+
+### Guapimirim
+
+Code: BR3301850, Coordinates: -22.581, -42.97
+
+
+### Iguaba Grande
+
+Code: BR3301876, Coordinates: -22.821, -42.214
+
+
+### Itaboraí (Itaborai)
+
+Code: BR3301900, Coordinates: -22.761, -42.869
+
+
+### Itaguaí (Itaguai)
+
+Code: BR3302007, Coordinates: -22.83, -43.812
+
+
+### Italva
+
+Code: BR3302056, Coordinates: -21.396, -41.659
+
+
+### Itaocara
+
+Code: BR3302106, Coordinates: -21.745, -42.073
+
+
+### Itaperuna
+
+Code: BR3302205, Coordinates: -21.215, -41.934
+
+
+### Itatiaia
+
+Code: BR3302254, Coordinates: -22.424, -44.588
+
+
+### Japeri
+
+Code: BR3302270, Coordinates: -22.665, -43.601
+
+
+### Laje do Muriaé (Laje do Muriae)
+
+Code: BR3302304, Coordinates: -21.241, -42.13
+
+
+### Macaé (Macae)
+
+Code: BR3302403, Coordinates: -22.307, -42.009
+
+
+### Macuco
+
+Code: BR3302452, Coordinates: -22.03, -42.271
+
+
+### Magé (Mage)
+
+Code: BR3302502, Coordinates: -22.619, -43.119
+
+
+### Mangaratiba
+
+Code: BR3302601, Coordinates: -22.929, -44.048
+
+
+### Maricá (Marica)
+
+Code: BR3302700, Coordinates: -22.901, -42.815
+
+
+### Mendes
+
+Code: BR3302809, Coordinates: -22.53, -43.75
+
+
+### Mesquita
+
+Code: BR3302858, Coordinates: -22.794, -43.451
+
+
+### Miguel Pereira
+
+Code: BR3302908, Coordinates: -22.511, -43.45
+
+
+### Miracema
+
+Code: BR3303005, Coordinates: -21.377, -42.152
+
+
+### Natividade
+
+Code: BR3303104, Coordinates: -21.042, -41.939
+
+
+### Nilópolis (Nilopolis)
+
+Code: BR3303203, Coordinates: -22.823, -43.43
+
+
+### Niterói (Niteroi)
+
+Code: BR3303302, Coordinates: -22.922, -43.063
+
+
+### Nova Friburgo
+
+Code: BR3303401, Coordinates: -22.325, -42.512
+
+
+### Nova Iguaçu (Nova Iguacu)
+
+Code: BR3303500, Coordinates: -22.681, -43.514
+
+
+### Paracambi
+
+Code: BR3303609, Coordinates: -22.614, -43.722
+
+
+### Paraíba do Sul (Paraiba do Sul)
+
+Code: BR3303708, Coordinates: -22.171, -43.284
+
+
+### Paraty
+
+Code: BR3303807, Coordinates: -23.178, -44.681
+
+
+### Paty do Alferes
+
+Code: BR3303856, Coordinates: -22.409, -43.401
+
+
+### Petrópolis (Petropolis)
+
+Code: BR3303906, Coordinates: -22.383, -43.154
+
+
+### Pinheiral
+
+Code: BR3303955, Coordinates: -22.538, -44.01
+
+
+### Piraí (Pirai)
+
+Code: BR3304003, Coordinates: -22.662, -43.9
+
+
+### Porciúncula (Porciuncula)
+
+Code: BR3304102, Coordinates: -20.895, -41.958
+
+
+### Porto Real
+
+Code: BR3304110, Coordinates: -22.448, -44.326
+
+
+### Quatis
+
+Code: BR3304128, Coordinates: -22.354, -44.237
+
+
+### Queimados
+
+Code: BR3304144, Coordinates: -22.728, -43.582
+
+
+### Quissamã (Quissama)
+
+Code: BR3304151, Coordinates: -22.108, -41.428
+
+
+### Resende
+
+Code: BR3304201, Coordinates: -22.457, -44.503
+
+
+### Rio Bonito
+
+Code: BR3304300, Coordinates: -22.749, -42.607
+
+
+### Rio Claro
+
+Code: BR3304409, Coordinates: -22.402, -47.609
+
+
+### Rio das Flores
+
+Code: BR3304508, Coordinates: -22.157, -43.564
+
+
+### Rio das Ostras
+
+Code: BR3304524, Coordinates: -22.445, -41.948
+
+
+### Rio de Janeiro
+
+Code: BR3304557, Coordinates: -22.929, -43.447
+
+
+### Santa Maria Madalena
+
+Code: BR3304607, Coordinates: -21.961, -41.936
+
+
+### Santo Antônio de Pádua (Santo Antonio de Padua)
+
+Code: BR3304706, Coordinates: -21.564, -42.197
+
+
+### São Fidélis (Sao Fidelis)
+
+Code: BR3304805, Coordinates: -21.702, -41.778
+
+
+### São Francisco de Itabapoana (Sao Francisco de Itabapoana)
+
+Code: BR3304755, Coordinates: -21.401, -41.142
+
+
+### São Gonçalo (Sao Goncalo)
+
+Code: BR3304904, Coordinates: -22.819, -43.008
+
+
+### São João da Barra (Sao Joao da Barra)
+
+Code: BR3305000, Coordinates: -21.751, -41.096
+
+
+### São João de Meriti (Sao Joao de Meriti)
+
+Code: BR3305109, Coordinates: -22.791, -43.37
+
+
+### São José de Ubá (Sao Jose de Uba)
+
+Code: BR3305133, Coordinates: -21.372, -41.95
+
+
+### São José do Vale do Rio Preto (Sao Jose do Vale do Rio Preto)
+
+Code: BR3305158, Coordinates: -22.162, -42.905
+
+
+### São Pedro da Aldeia (Sao Pedro da Aldeia)
+
+Code: BR3305208, Coordinates: -22.824, -42.144
+
+
+### São Sebastião do Alto (Sao Sebastiao do Alto)
+
+Code: BR3305307, Coordinates: -21.878, -42.097
+
+
+### Sapucaia
+
+Code: BR3305406, Coordinates: -22.038, -42.818
+
+
+### Saquarema
+
+Code: BR3305505, Coordinates: -22.867, -42.56
+
+
+### Seropédica (Seropedica)
+
+Code: BR3305554, Coordinates: -22.741, -43.699
+
+
+### Silva Jardim
+
+Code: BR3305604, Coordinates: -22.554, -42.371
+
+
+### Sumidouro
+
+Code: BR3305703, Coordinates: -22.133, -42.66
+
+
+### Tanguá (Tangua)
+
+Code: BR3305752, Coordinates: -22.792, -42.724
+
+
+### Teresópolis (Teresopolis)
+
+Code: BR3305802, Coordinates: -22.32, -42.882
+
+
+### Trajano de Moraes
+
+Code: BR3305901, Coordinates: -22.15, -42.187
+
+
+### Três Rios (Tres Rios)
+
+Code: BR3306008, Coordinates: -22.114, -43.078
+
+
+### Valença (Valenca)
+
+Code: BR3306107, Coordinates: -22.24, -43.872
+
+
+### Varre-Sai
+
+Code: BR3306156, Coordinates: -20.897, -41.821
+
+
+### Vassouras
+
+Code: BR3306206, Coordinates: -22.357, -43.603
+
+
+### Volta Redonda
+
+Code: BR3306305, Coordinates: -22.512, -44.079
+
+

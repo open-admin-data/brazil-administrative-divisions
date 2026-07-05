@@ -1,0 +1,45 @@
+{
+  "id": "BR4215000",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rio Negrinho",
+    "en": "Rio Negrinho",
+    "slug": "rio-negrinho-br4215000"
+  },
+  "code": {
+    "id": "BR4215000",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.405",
+    "lon": "-49.601"
+  },
+  "metadata": {},
+  "source": {}
+}

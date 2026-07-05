@@ -1,0 +1,45 @@
+{
+  "id": "BR3157203",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Bárbara",
+    "en": "Santa Barbara",
+    "slug": "santa-barbara-br3157203"
+  },
+  "code": {
+    "id": "BR3157203",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.027",
+    "lon": "-43.446"
+  },
+  "metadata": {},
+  "source": {}
+}

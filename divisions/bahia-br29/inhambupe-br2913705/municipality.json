@@ -1,0 +1,45 @@
+{
+  "id": "BR2913705",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Inhambupe",
+    "en": "Inhambupe",
+    "slug": "inhambupe-br2913705"
+  },
+  "code": {
+    "id": "BR2913705",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.814",
+    "lon": "-38.389"
+  },
+  "metadata": {},
+  "source": {}
+}

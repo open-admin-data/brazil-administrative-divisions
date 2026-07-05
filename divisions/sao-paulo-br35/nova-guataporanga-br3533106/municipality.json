@@ -1,0 +1,45 @@
+{
+  "id": "BR3533106",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Guataporanga",
+    "en": "Nova Guataporanga",
+    "slug": "nova-guataporanga-br3533106"
+  },
+  "code": {
+    "id": "BR3533106",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.313",
+    "lon": "-51.645"
+  },
+  "metadata": {},
+  "source": {}
+}

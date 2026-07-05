@@ -1,0 +1,45 @@
+{
+  "id": "BR3158805",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santana do Jacaré",
+    "en": "Santana do Jacare",
+    "slug": "santana-do-jacare-br3158805"
+  },
+  "code": {
+    "id": "BR3158805",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.888",
+    "lon": "-45.077"
+  },
+  "metadata": {},
+  "source": {}
+}

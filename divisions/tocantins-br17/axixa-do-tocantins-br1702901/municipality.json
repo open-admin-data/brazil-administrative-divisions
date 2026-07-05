@@ -1,0 +1,45 @@
+{
+  "id": "BR1702901",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Axixá do Tocantins",
+    "en": "Axixa do Tocantins",
+    "slug": "axixa-do-tocantins-br1702901"
+  },
+  "code": {
+    "id": "BR1702901",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.678",
+    "lon": "-47.764"
+  },
+  "metadata": {},
+  "source": {}
+}

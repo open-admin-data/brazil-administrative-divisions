@@ -1,0 +1,45 @@
+{
+  "id": "BR4103156",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bom Jesus do Sul",
+    "en": "Bom Jesus do Sul",
+    "slug": "bom-jesus-do-sul-br4103156"
+  },
+  "code": {
+    "id": "BR4103156",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.158",
+    "lon": "-53.544"
+  },
+  "metadata": {},
+  "source": {}
+}

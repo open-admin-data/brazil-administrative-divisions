@@ -1,0 +1,45 @@
+{
+  "id": "BR1505437",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ourilândia do Norte",
+    "en": "Ourilandia do Norte",
+    "slug": "ourilandia-do-norte-br1505437"
+  },
+  "code": {
+    "id": "BR1505437",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.5",
+    "lon": "-51.449"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1507953",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tailândia",
+    "en": "Tailandia",
+    "slug": "tailandia-br1507953"
+  },
+  "code": {
+    "id": "BR1507953",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.866",
+    "lon": "-48.757"
+  },
+  "metadata": {},
+  "source": {}
+}

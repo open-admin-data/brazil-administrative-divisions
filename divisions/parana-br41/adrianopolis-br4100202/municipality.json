@@ -1,0 +1,45 @@
+{
+  "id": "BR4100202",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Adrianópolis",
+    "en": "Adrianopolis",
+    "slug": "adrianopolis-br4100202"
+  },
+  "code": {
+    "id": "BR4100202",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.757",
+    "lon": "-48.798"
+  },
+  "metadata": {},
+  "source": {}
+}

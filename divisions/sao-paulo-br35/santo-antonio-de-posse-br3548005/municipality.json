@@ -1,0 +1,45 @@
+{
+  "id": "BR3548005",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Antônio de Posse",
+    "en": "Santo Antonio de Posse",
+    "slug": "santo-antonio-de-posse-br3548005"
+  },
+  "code": {
+    "id": "BR3548005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.602",
+    "lon": "-46.947"
+  },
+  "metadata": {},
+  "source": {}
+}

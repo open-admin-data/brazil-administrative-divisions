@@ -1,0 +1,45 @@
+{
+  "id": "BR1508407",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Xinguara",
+    "en": "Xinguara",
+    "slug": "xinguara-br1508407"
+  },
+  "code": {
+    "id": "BR1508407",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.857",
+    "lon": "-49.461"
+  },
+  "metadata": {},
+  "source": {}
+}

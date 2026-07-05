@@ -1,0 +1,45 @@
+{
+  "id": "BR1100924",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chupinguaia",
+    "en": "Chupinguaia",
+    "slug": "chupinguaia-br1100924"
+  },
+  "code": {
+    "id": "BR1100924",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.669",
+    "lon": "-60.935"
+  },
+  "metadata": {},
+  "source": {}
+}

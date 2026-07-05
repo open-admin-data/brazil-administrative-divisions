@@ -1,0 +1,45 @@
+{
+  "id": "BR2501500",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bananeiras",
+    "en": "Bananeiras",
+    "slug": "bananeiras-br2501500"
+  },
+  "code": {
+    "id": "BR2501500",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.675",
+    "lon": "-35.597"
+  },
+  "metadata": {},
+  "source": {}
+}

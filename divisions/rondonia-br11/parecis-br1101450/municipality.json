@@ -1,0 +1,45 @@
+{
+  "id": "BR1101450",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Parecis",
+    "en": "Parecis",
+    "slug": "parecis-br1101450"
+  },
+  "code": {
+    "id": "BR1101450",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.308",
+    "lon": "-61.337"
+  },
+  "metadata": {},
+  "source": {}
+}

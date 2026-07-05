@@ -1,0 +1,45 @@
+{
+  "id": "BR2516102",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Soledade",
+    "en": "Soledade",
+    "slug": "soledade-br2516102"
+  },
+  "code": {
+    "id": "BR2516102",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.85",
+    "lon": "-52.519"
+  },
+  "metadata": {},
+  "source": {}
+}

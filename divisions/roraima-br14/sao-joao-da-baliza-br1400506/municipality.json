@@ -1,0 +1,45 @@
+{
+  "id": "BR1400506",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São João da Baliza",
+    "en": "Sao Joao da Baliza",
+    "slug": "sao-joao-da-baliza-br1400506"
+  },
+  "code": {
+    "id": "BR1400506",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR14",
+    "level": 1,
+    "name": {
+      "local": "Roraima",
+      "en": "Roraima",
+      "slug": "roraima-br14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.697",
+    "lon": "-59.879"
+  },
+  "metadata": {},
+  "source": {}
+}

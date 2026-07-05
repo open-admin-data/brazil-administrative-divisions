@@ -1,0 +1,45 @@
+{
+  "id": "BR4216404",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São João do Sul",
+    "en": "Sao Joao do Sul",
+    "slug": "sao-joao-do-sul-br4216404"
+  },
+  "code": {
+    "id": "BR4216404",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR42",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-br42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR42",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-br42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.21",
+    "lon": "-49.847"
+  },
+  "metadata": {},
+  "source": {}
+}

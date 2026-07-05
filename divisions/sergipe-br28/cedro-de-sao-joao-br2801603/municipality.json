@@ -1,0 +1,45 @@
+{
+  "id": "BR2801603",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cedro de São João",
+    "en": "Cedro de Sao Joao",
+    "slug": "cedro-de-sao-joao-br2801603"
+  },
+  "code": {
+    "id": "BR2801603",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.28",
+    "lon": "-36.895"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2109908",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Inês",
+    "en": "Santa Ines",
+    "slug": "santa-ines-br2109908"
+  },
+  "code": {
+    "id": "BR2109908",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.69",
+    "lon": "-51.91"
+  },
+  "metadata": {},
+  "source": {}
+}

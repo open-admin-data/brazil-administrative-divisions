@@ -1,0 +1,45 @@
+{
+  "id": "BR3135803",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jequitinhonha",
+    "en": "Jequitinhonha",
+    "slug": "jequitinhonha-br3135803"
+  },
+  "code": {
+    "id": "BR3135803",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.388",
+    "lon": "-41.058"
+  },
+  "metadata": {},
+  "source": {}
+}

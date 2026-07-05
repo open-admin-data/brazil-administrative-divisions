@@ -1,0 +1,45 @@
+{
+  "id": "BR4121257",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ramilândia",
+    "en": "Ramilandia",
+    "slug": "ramilandia-br4121257"
+  },
+  "code": {
+    "id": "BR4121257",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.073",
+    "lon": "-54.038"
+  },
+  "metadata": {},
+  "source": {}
+}

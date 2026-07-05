@@ -1,0 +1,45 @@
+{
+  "id": "BR1301308",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Codajás",
+    "en": "Codajas",
+    "slug": "codajas-br1301308"
+  },
+  "code": {
+    "id": "BR1301308",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.155",
+    "lon": "-63.245"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1507961",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Terra Alta",
+    "en": "Terra Alta",
+    "slug": "terra-alta-br1507961"
+  },
+  "code": {
+    "id": "BR1507961",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.997",
+    "lon": "-47.845"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR5106182",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Lacerda",
+    "en": "Nova Lacerda",
+    "slug": "nova-lacerda-br5106182"
+  },
+  "code": {
+    "id": "BR5106182",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.292",
+    "lon": "-59.819"
+  },
+  "metadata": {},
+  "source": {}
+}

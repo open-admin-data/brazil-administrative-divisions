@@ -1,0 +1,45 @@
+{
+  "id": "BR2106102",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Loreto",
+    "en": "Loreto",
+    "slug": "loreto-br2106102"
+  },
+  "code": {
+    "id": "BR2106102",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.146",
+    "lon": "-45.243"
+  },
+  "metadata": {},
+  "source": {}
+}

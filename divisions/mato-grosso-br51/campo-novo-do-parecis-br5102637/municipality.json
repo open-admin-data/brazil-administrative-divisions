@@ -1,0 +1,45 @@
+{
+  "id": "BR5102637",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campo Novo do Parecis",
+    "en": "Campo Novo do Parecis",
+    "slug": "campo-novo-do-parecis-br5102637"
+  },
+  "code": {
+    "id": "BR5102637",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.561",
+    "lon": "-57.9"
+  },
+  "metadata": {},
+  "source": {}
+}

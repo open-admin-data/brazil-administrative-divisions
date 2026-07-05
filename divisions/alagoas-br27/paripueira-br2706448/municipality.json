@@ -1,0 +1,45 @@
+{
+  "id": "BR2706448",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Paripueira",
+    "en": "Paripueira",
+    "slug": "paripueira-br2706448"
+  },
+  "code": {
+    "id": "BR2706448",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.435",
+    "lon": "-35.595"
+  },
+  "metadata": {},
+  "source": {}
+}

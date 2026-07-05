@@ -1,0 +1,45 @@
+{
+  "id": "BR5006259",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Novo Horizonte do Sul",
+    "en": "Novo Horizonte do Sul",
+    "slug": "novo-horizonte-do-sul-br5006259"
+  },
+  "code": {
+    "id": "BR5006259",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR50",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso do Sul",
+      "en": "Mato Grosso do Sul",
+      "slug": "mato-grosso-do-sul-br50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR50",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso do Sul",
+        "en": "Mato Grosso do Sul",
+        "slug": "mato-grosso-do-sul-br50"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.61",
+    "lon": "-53.736"
+  },
+  "metadata": {},
+  "source": {}
+}

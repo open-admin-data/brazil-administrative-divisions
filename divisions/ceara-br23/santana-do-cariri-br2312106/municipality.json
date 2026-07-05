@@ -1,0 +1,45 @@
+{
+  "id": "BR2312106",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santana do Cariri",
+    "en": "Santana do Cariri",
+    "slug": "santana-do-cariri-br2312106"
+  },
+  "code": {
+    "id": "BR2312106",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.173",
+    "lon": "-39.775"
+  },
+  "metadata": {},
+  "source": {}
+}

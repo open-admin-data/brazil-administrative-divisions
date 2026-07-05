@@ -1,0 +1,45 @@
+{
+  "id": "BR5202353",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Arenópolis",
+    "en": "Arenopolis",
+    "slug": "arenopolis-br5202353"
+  },
+  "code": {
+    "id": "BR5202353",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.338",
+    "lon": "-51.598"
+  },
+  "metadata": {},
+  "source": {}
+}

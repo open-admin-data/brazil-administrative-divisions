@@ -1,0 +1,45 @@
+{
+  "id": "BR1502855",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Curuá",
+    "en": "Curua",
+    "slug": "curua-br1502855"
+  },
+  "code": {
+    "id": "BR1502855",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.756",
+    "lon": "-55.097"
+  },
+  "metadata": {},
+  "source": {}
+}

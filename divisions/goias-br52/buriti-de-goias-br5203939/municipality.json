@@ -1,0 +1,45 @@
+{
+  "id": "BR5203939",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Buriti de Goiás",
+    "en": "Buriti de Goias",
+    "slug": "buriti-de-goias-br5203939"
+  },
+  "code": {
+    "id": "BR5203939",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.168",
+    "lon": "-50.431"
+  },
+  "metadata": {},
+  "source": {}
+}

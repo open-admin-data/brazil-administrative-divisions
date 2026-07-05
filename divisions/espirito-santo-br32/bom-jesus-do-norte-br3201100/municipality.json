@@ -1,0 +1,45 @@
+{
+  "id": "BR3201100",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bom Jesus do Norte",
+    "en": "Bom Jesus do Norte",
+    "slug": "bom-jesus-do-norte-br3201100"
+  },
+  "code": {
+    "id": "BR3201100",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.083",
+    "lon": "-41.644"
+  },
+  "metadata": {},
+  "source": {}
+}

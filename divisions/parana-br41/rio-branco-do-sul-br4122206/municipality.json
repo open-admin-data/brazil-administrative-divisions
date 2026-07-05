@@ -1,0 +1,45 @@
+{
+  "id": "BR4122206",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rio Branco do Sul",
+    "en": "Rio Branco do Sul",
+    "slug": "rio-branco-do-sul-br4122206"
+  },
+  "code": {
+    "id": "BR4122206",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.047",
+    "lon": "-49.337"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3108305",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Borda da Mata",
+    "en": "Borda da Mata",
+    "slug": "borda-da-mata-br3108305"
+  },
+  "code": {
+    "id": "BR3108305",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.25",
+    "lon": "-46.16"
+  },
+  "metadata": {},
+  "source": {}
+}

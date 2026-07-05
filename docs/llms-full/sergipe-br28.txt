@@ -1,0 +1,384 @@
+# Sergipe — Brazil Administrative Divisions
+
+> 75 municipalitys
+> Code: BR28
+> Coordinates: -10.467, -37.386
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Amparo do São Francisco (Amparo do Sao Francisco)
+
+Code: BR2800100, Coordinates: -10.144, -36.923
+
+
+### Aquidabã (Aquidaba)
+
+Code: BR2800209, Coordinates: -10.296, -37.094
+
+
+### Aracaju
+
+Code: BR2800308, Coordinates: -10.972, -37.1
+
+
+### Arauá (Araua)
+
+Code: BR2800407, Coordinates: -11.247, -37.57
+
+
+### Areia Branca
+
+Code: BR2800506, Coordinates: -10.783, -37.327
+
+
+### Barra dos Coqueiros
+
+Code: BR2800605, Coordinates: -10.834, -36.966
+
+
+### Boquim
+
+Code: BR2800670, Coordinates: -11.136, -37.607
+
+
+### Brejo Grande
+
+Code: BR2800704, Coordinates: -10.469, -36.465
+
+
+### Campo do Brito
+
+Code: BR2801009, Coordinates: -10.777, -37.497
+
+
+### Canhoba
+
+Code: BR2801108, Coordinates: -10.139, -37
+
+
+### Canindé de São Francisco (Caninde de Sao Francisco)
+
+Code: BR2801207, Coordinates: -9.715, -37.951
+
+
+### Capela
+
+Code: BR2801306, Coordinates: -10.438, -37.057
+
+
+### Carira
+
+Code: BR2801405, Coordinates: -10.337, -37.749
+
+
+### Carmópolis (Carmopolis)
+
+Code: BR2801504, Coordinates: -10.672, -36.941
+
+
+### Cedro de São João (Cedro de Sao Joao)
+
+Code: BR2801603, Coordinates: -10.28, -36.895
+
+
+### Cristinápolis (Cristinapolis)
+
+Code: BR2801702, Coordinates: -11.492, -37.726
+
+
+### Cumbe
+
+Code: BR2801900, Coordinates: -10.339, -37.193
+
+
+### Divina Pastora
+
+Code: BR2802007, Coordinates: -10.676, -37.166
+
+
+### Estância (Estancia)
+
+Code: BR2802106, Coordinates: -11.242, -37.423
+
+
+### Feira Nova
+
+Code: BR2802205, Coordinates: -10.311, -37.334
+
+
+### Frei Paulo
+
+Code: BR2802304, Coordinates: -10.521, -37.59
+
+
+### Gararu
+
+Code: BR2802403, Coordinates: -10.048, -37.24
+
+
+### General Maynard
+
+Code: BR2802502, Coordinates: -10.693, -36.982
+
+
+### Gracho Cardoso
+
+Code: BR2802601, Coordinates: -10.232, -37.201
+
+
+### Ilha das Flores
+
+Code: BR2802700, Coordinates: -10.448, -36.559
+
+
+### Indiaroba
+
+Code: BR2802809, Coordinates: -11.488, -37.541
+
+
+### Itabaiana
+
+Code: BR2802908, Coordinates: -10.691, -37.426
+
+
+### Itabaianinha
+
+Code: BR2803005, Coordinates: -11.259, -37.787
+
+
+### Itabi
+
+Code: BR2803104, Coordinates: -10.091, -37.183
+
+
+### Itaporanga d&#39;Ajuda
+
+Code: BR2803203, Coordinates: -11.035, -37.328
+
+
+### Japaratuba
+
+Code: BR2803302, Coordinates: -10.522, -36.888
+
+
+### Japoatã (Japoata)
+
+Code: BR2803401, Coordinates: -10.442, -36.794
+
+
+### Lagarto
+
+Code: BR2803500, Coordinates: -10.885, -37.669
+
+
+### Laranjeiras
+
+Code: BR2803609, Coordinates: -10.803, -37.158
+
+
+### Macambira
+
+Code: BR2803708, Coordinates: -10.683, -37.598
+
+
+### Malhada dos Bois
+
+Code: BR2803807, Coordinates: -10.328, -36.939
+
+
+### Malhador
+
+Code: BR2803906, Coordinates: -10.689, -37.274
+
+
+### Maruim
+
+Code: BR2804003, Coordinates: -10.736, -37.108
+
+
+### Moita Bonita
+
+Code: BR2804102, Coordinates: -10.597, -37.333
+
+
+### Monte Alegre de Sergipe
+
+Code: BR2804201, Coordinates: -10.075, -37.606
+
+
+### Muribeca
+
+Code: BR2804300, Coordinates: -10.39, -36.962
+
+
+### Neópolis (Neopolis)
+
+Code: BR2804409, Coordinates: -10.354, -36.667
+
+
+### Nossa Senhora Aparecida
+
+Code: BR2804458, Coordinates: -10.301, -37.494
+
+
+### Nossa Senhora da Glória (Nossa Senhora da Gloria)
+
+Code: BR2804508, Coordinates: -10.181, -37.551
+
+
+### Nossa Senhora das Dores
+
+Code: BR2804607, Coordinates: -10.447, -37.247
+
+
+### Nossa Senhora de Lourdes
+
+Code: BR2804706, Coordinates: -10.093, -37.02
+
+
+### Nossa Senhora do Socorro
+
+Code: BR2804805, Coordinates: -10.866, -37.139
+
+
+### Pacatuba
+
+Code: BR2804904, Coordinates: -10.498, -36.66
+
+
+### Pedra Mole
+
+Code: BR2805000, Coordinates: -10.653, -37.686
+
+
+### Pedrinhas
+
+Code: BR2805109, Coordinates: -11.206, -37.654
+
+
+### Pinhão (Pinhao)
+
+Code: BR2805208, Coordinates: -25.766, -51.654
+
+
+### Pirambu
+
+Code: BR2805307, Coordinates: -10.683, -36.848
+
+
+### Poço Redondo (Poco Redondo)
+
+Code: BR2805406, Coordinates: -9.917, -37.753
+
+
+### Poço Verde (Poco Verde)
+
+Code: BR2805505, Coordinates: -10.819, -38.146
+
+
+### Porto da Folha
+
+Code: BR2805604, Coordinates: -9.975, -37.41
+
+
+### Propriá (Propria)
+
+Code: BR2805703, Coordinates: -10.253, -36.791
+
+
+### Riachão do Dantas (Riachao do Dantas)
+
+Code: BR2805802, Coordinates: -11.018, -37.79
+
+
+### Riachuelo
+
+Code: BR2805901, Coordinates: -10.722, -37.223
+
+
+### Ribeirópolis (Ribeiropolis)
+
+Code: BR2806008, Coordinates: -10.521, -37.405
+
+
+### Rosário do Catete (Rosario do Catete)
+
+Code: BR2806107, Coordinates: -10.688, -37.033
+
+
+### Salgado
+
+Code: BR2806206, Coordinates: -11.08, -37.472
+
+
+### Santa Luzia do Itanhy
+
+Code: BR2806305, Coordinates: -11.359, -37.505
+
+
+### Santa Rosa de Lima
+
+Code: BR2806503, Coordinates: -28.006, -49.192
+
+
+### Santana do São Francisco (Santana do Sao Francisco)
+
+Code: BR2806404, Coordinates: -10.274, -36.641
+
+
+### Santo Amaro das Brotas
+
+Code: BR2806602, Coordinates: -10.779, -36.968
+
+
+### São Cristóvão (Sao Cristovao)
+
+Code: BR2806701, Coordinates: -10.964, -37.227
+
+
+### São Domingos (Sao Domingos)
+
+Code: BR2806800, Coordinates: -13.53, -46.491
+
+
+### São Francisco (Sao Francisco)
+
+Code: BR2806909, Coordinates: -20.37, -50.676
+
+
+### São Miguel do Aleixo (Sao Miguel do Aleixo)
+
+Code: BR2807006, Coordinates: -10.371, -37.355
+
+
+### Simão Dias (Simao Dias)
+
+Code: BR2807105, Coordinates: -10.715, -37.787
+
+
+### Siriri
+
+Code: BR2807204, Coordinates: -10.58, -37.123
+
+
+### Telha
+
+Code: BR2807303, Coordinates: -10.179, -36.867
+
+
+### Tobias Barreto
+
+Code: BR2807402, Coordinates: -11.098, -38.023
+
+
+### Tomar do Geru
+
+Code: BR2807501, Coordinates: -11.391, -37.877
+
+
+### Umbaúba (Umbauba)
+
+Code: BR2807600, Coordinates: -11.398, -37.68
+
+

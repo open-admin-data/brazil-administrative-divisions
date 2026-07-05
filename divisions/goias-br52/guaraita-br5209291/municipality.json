@@ -1,0 +1,45 @@
+{
+  "id": "BR5209291",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Guaraíta",
+    "en": "Guaraita",
+    "slug": "guaraita-br5209291"
+  },
+  "code": {
+    "id": "BR5209291",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.677",
+    "lon": "-50.066"
+  },
+  "metadata": {},
+  "source": {}
+}

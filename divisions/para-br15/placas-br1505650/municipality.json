@@ -1,0 +1,45 @@
+{
+  "id": "BR1505650",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Placas",
+    "en": "Placas",
+    "slug": "placas-br1505650"
+  },
+  "code": {
+    "id": "BR1505650",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.983",
+    "lon": "-54.529"
+  },
+  "metadata": {},
+  "source": {}
+}

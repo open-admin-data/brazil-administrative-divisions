@@ -1,0 +1,45 @@
+{
+  "id": "BR2308104",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mauriti",
+    "en": "Mauriti",
+    "slug": "mauriti-br2308104"
+  },
+  "code": {
+    "id": "BR2308104",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.398",
+    "lon": "-38.636"
+  },
+  "metadata": {},
+  "source": {}
+}

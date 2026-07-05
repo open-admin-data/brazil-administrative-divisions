@@ -1,0 +1,45 @@
+{
+  "id": "BR3548708",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Bernardo do Campo",
+    "en": "Sao Bernardo do Campo",
+    "slug": "sao-bernardo-do-campo-br3548708"
+  },
+  "code": {
+    "id": "BR3548708",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.807",
+    "lon": "-46.545"
+  },
+  "metadata": {},
+  "source": {}
+}

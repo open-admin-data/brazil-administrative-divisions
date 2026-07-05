@@ -1,0 +1,45 @@
+{
+  "id": "BR2101970",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Boa Vista do Gurupi",
+    "en": "Boa Vista do Gurupi",
+    "slug": "boa-vista-do-gurupi-br2101970"
+  },
+  "code": {
+    "id": "BR2101970",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.752",
+    "lon": "-46.21"
+  },
+  "metadata": {},
+  "source": {}
+}

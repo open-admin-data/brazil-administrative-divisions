@@ -1,0 +1,45 @@
+{
+  "id": "BR2109270",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Presidente Sarney",
+    "en": "Presidente Sarney",
+    "slug": "presidente-sarney-br2109270"
+  },
+  "code": {
+    "id": "BR2109270",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.623",
+    "lon": "-45.427"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2911501",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Gongogi",
+    "en": "Gongogi",
+    "slug": "gongogi-br2911501"
+  },
+  "code": {
+    "id": "BR2911501",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.296",
+    "lon": "-39.595"
+  },
+  "metadata": {},
+  "source": {}
+}

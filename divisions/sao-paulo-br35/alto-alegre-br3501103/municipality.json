@@ -1,0 +1,45 @@
+{
+  "id": "BR3501103",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alto Alegre",
+    "en": "Alto Alegre",
+    "slug": "alto-alegre-br3501103"
+  },
+  "code": {
+    "id": "BR3501103",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.802",
+    "lon": "-52.982"
+  },
+  "metadata": {},
+  "source": {}
+}

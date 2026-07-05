@@ -1,0 +1,45 @@
+{
+  "id": "BR2933406",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Wagner",
+    "en": "Wagner",
+    "slug": "wagner-br2933406"
+  },
+  "code": {
+    "id": "BR2933406",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.25",
+    "lon": "-41.148"
+  },
+  "metadata": {},
+  "source": {}
+}

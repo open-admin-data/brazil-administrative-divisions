@@ -1,0 +1,45 @@
+{
+  "id": "BR2104651",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Governador Newton Bello",
+    "en": "Governador Newton Bello",
+    "slug": "governador-newton-bello-br2104651"
+  },
+  "code": {
+    "id": "BR2104651",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.397",
+    "lon": "-45.965"
+  },
+  "metadata": {},
+  "source": {}
+}

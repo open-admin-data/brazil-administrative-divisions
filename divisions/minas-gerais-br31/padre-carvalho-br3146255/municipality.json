@@ -1,0 +1,45 @@
+{
+  "id": "BR3146255",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Padre Carvalho",
+    "en": "Padre Carvalho",
+    "slug": "padre-carvalho-br3146255"
+  },
+  "code": {
+    "id": "BR3146255",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.282",
+    "lon": "-42.602"
+  },
+  "metadata": {},
+  "source": {}
+}

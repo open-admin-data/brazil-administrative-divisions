@@ -1,0 +1,33 @@
+{
+  "id": "BR29",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Bahia",
+    "en": "Bahia",
+    "slug": "bahia-br29"
+  },
+  "code": {
+    "id": "BR29",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 417
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.58",
+    "lon": "-41.827"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/br/states/bahia-br29/",
+    "api": "https://openadmindata.org/api/br/"
+  }
+}

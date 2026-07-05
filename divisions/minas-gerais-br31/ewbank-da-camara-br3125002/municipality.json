@@ -1,0 +1,45 @@
+{
+  "id": "BR3125002",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ewbank da Câmara",
+    "en": "Ewbank da Camara",
+    "slug": "ewbank-da-camara-br3125002"
+  },
+  "code": {
+    "id": "BR3125002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.575",
+    "lon": "-43.556"
+  },
+  "metadata": {},
+  "source": {}
+}

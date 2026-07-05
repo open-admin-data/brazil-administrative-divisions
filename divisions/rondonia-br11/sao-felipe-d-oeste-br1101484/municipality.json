@@ -1,0 +1,45 @@
+{
+  "id": "BR1101484",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Felipe D'Oeste",
+    "en": "Sao Felipe D'Oeste",
+    "slug": "sao-felipe-d-oeste-br1101484"
+  },
+  "code": {
+    "id": "BR1101484",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.897",
+    "lon": "-61.477"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3200904",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barra de São Francisco",
+    "en": "Barra de Sao Francisco",
+    "slug": "barra-de-sao-francisco-br3200904"
+  },
+  "code": {
+    "id": "BR3200904",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.635",
+    "lon": "-40.82"
+  },
+  "metadata": {},
+  "source": {}
+}

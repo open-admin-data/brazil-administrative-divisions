@@ -1,0 +1,45 @@
+{
+  "id": "BR2916500",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itapicuru",
+    "en": "Itapicuru",
+    "slug": "itapicuru-br2916500"
+  },
+  "code": {
+    "id": "BR2916500",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.196",
+    "lon": "-38.147"
+  },
+  "metadata": {},
+  "source": {}
+}

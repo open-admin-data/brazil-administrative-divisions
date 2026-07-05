@@ -1,0 +1,45 @@
+{
+  "id": "BR3154200",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Resende Costa",
+    "en": "Resende Costa",
+    "slug": "resende-costa-br3154200"
+  },
+  "code": {
+    "id": "BR3154200",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.837",
+    "lon": "-44.284"
+  },
+  "metadata": {},
+  "source": {}
+}

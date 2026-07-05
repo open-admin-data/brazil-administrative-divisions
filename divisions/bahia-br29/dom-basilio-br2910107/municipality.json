@@ -1,0 +1,45 @@
+{
+  "id": "BR2910107",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dom Basílio",
+    "en": "Dom Basilio",
+    "slug": "dom-basilio-br2910107"
+  },
+  "code": {
+    "id": "BR2910107",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.821",
+    "lon": "-41.744"
+  },
+  "metadata": {},
+  "source": {}
+}

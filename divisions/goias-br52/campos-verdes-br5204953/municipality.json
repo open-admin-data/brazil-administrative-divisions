@@ -1,0 +1,45 @@
+{
+  "id": "BR5204953",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campos Verdes",
+    "en": "Campos Verdes",
+    "slug": "campos-verdes-br5204953"
+  },
+  "code": {
+    "id": "BR5204953",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.194",
+    "lon": "-49.666"
+  },
+  "metadata": {},
+  "source": {}
+}

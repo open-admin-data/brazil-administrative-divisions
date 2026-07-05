@@ -1,0 +1,45 @@
+{
+  "id": "BR4107405",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Enéas Marques",
+    "en": "Eneas Marques",
+    "slug": "eneas-marques-br4107405"
+  },
+  "code": {
+    "id": "BR4107405",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.881",
+    "lon": "-53.162"
+  },
+  "metadata": {},
+  "source": {}
+}

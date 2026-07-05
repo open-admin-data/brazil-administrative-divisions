@@ -1,0 +1,45 @@
+{
+  "id": "BR3147105",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pará de Minas",
+    "en": "Para de Minas",
+    "slug": "para-de-minas-br3147105"
+  },
+  "code": {
+    "id": "BR3147105",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.822",
+    "lon": "-44.605"
+  },
+  "metadata": {},
+  "source": {}
+}

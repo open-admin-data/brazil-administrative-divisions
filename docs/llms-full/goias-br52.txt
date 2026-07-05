@@ -1,0 +1,1239 @@
+# Goias — Brazil Administrative Divisions
+
+> 246 municipalitys
+> Code: BR52
+> Coordinates: -15.856, -49.42
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Abadia de Goiás (Abadia de Goias)
+
+Code: BR5200050, Coordinates: -16.778, -49.467
+
+
+### Abadiânia (Abadiania)
+
+Code: BR5200100, Coordinates: -16.211, -48.662
+
+
+### Acreúna (Acreuna)
+
+Code: BR5200134, Coordinates: -17.438, -50.278
+
+
+### Adelândia (Adelandia)
+
+Code: BR5200159, Coordinates: -16.386, -50.186
+
+
+### Água Fria de Goiás (Agua Fria de Goias)
+
+Code: BR5200175, Coordinates: -14.936, -47.842
+
+
+### Água Limpa (Agua Limpa)
+
+Code: BR5200209, Coordinates: -18.088, -48.798
+
+
+### Águas Lindas de Goiás (Aguas Lindas de Goias)
+
+Code: BR5200258, Coordinates: -15.754, -48.29
+
+
+### Alexânia (Alexania)
+
+Code: BR5200308, Coordinates: -16.148, -48.459
+
+
+### Aloândia (Aloandia)
+
+Code: BR5200506, Coordinates: -17.696, -49.451
+
+
+### Alto Horizonte
+
+Code: BR5200555, Coordinates: -14.198, -49.444
+
+
+### Alto Paraíso de Goiás (Alto Paraiso de Goias)
+
+Code: BR5200605, Coordinates: -14.19, -47.474
+
+
+### Alvorada do Norte
+
+Code: BR5200803, Coordinates: -14.525, -46.677
+
+
+### Amaralina
+
+Code: BR5200829, Coordinates: -13.827, -49.646
+
+
+### Americano do Brasil
+
+Code: BR5200852, Coordinates: -16.267, -49.994
+
+
+### Amorinópolis (Amorinopolis)
+
+Code: BR5200902, Coordinates: -16.641, -51.112
+
+
+### Anápolis (Anapolis)
+
+Code: BR5201108, Coordinates: -16.284, -49.001
+
+
+### Anhanguera
+
+Code: BR5201207, Coordinates: -18.313, -48.226
+
+
+### Anicuns
+
+Code: BR5201306, Coordinates: -16.384, -49.97
+
+
+### Aparecida de Goiânia (Aparecida de Goiania)
+
+Code: BR5201405, Coordinates: -16.832, -49.24
+
+
+### Aparecida do Rio Doce
+
+Code: BR5201454, Coordinates: -18.229, -51.25
+
+
+### Aporé (Apore)
+
+Code: BR5201504, Coordinates: -18.779, -52.035
+
+
+### Araçu (Aracu)
+
+Code: BR5201603, Coordinates: -16.376, -49.711
+
+
+### Aragarças (Aragarcas)
+
+Code: BR5201702, Coordinates: -15.938, -52.106
+
+
+### Aragoiânia (Aragoiania)
+
+Code: BR5201801, Coordinates: -16.952, -49.413
+
+
+### Araguapaz
+
+Code: BR5202155, Coordinates: -15.137, -50.482
+
+
+### Arenópolis (Arenopolis)
+
+Code: BR5202353, Coordinates: -16.338, -51.598
+
+
+### Aruanã (Aruana)
+
+Code: BR5202502, Coordinates: -14.77, -50.933
+
+
+### Aurilândia (Aurilandia)
+
+Code: BR5202601, Coordinates: -16.672, -50.53
+
+
+### Avelinópolis (Avelinopolis)
+
+Code: BR5202809, Coordinates: -16.488, -49.768
+
+
+### Baliza
+
+Code: BR5203104, Coordinates: -16.363, -52.443
+
+
+### Barro Alto
+
+Code: BR5203203, Coordinates: -14.892, -48.87
+
+
+### Bela Vista de Goiás (Bela Vista de Goias)
+
+Code: BR5203302, Coordinates: -16.972, -48.918
+
+
+### Bom Jardim de Goiás (Bom Jardim de Goias)
+
+Code: BR5203401, Coordinates: -16.243, -52.05
+
+
+### Bom Jesus de Goiás (Bom Jesus de Goias)
+
+Code: BR5203500, Coordinates: -18.188, -49.909
+
+
+### Bonfinópolis (Bonfinopolis)
+
+Code: BR5203559, Coordinates: -16.603, -49.013
+
+
+### Bonópolis (Bonopolis)
+
+Code: BR5203575, Coordinates: -13.566, -49.915
+
+
+### Brazabrantes
+
+Code: BR5203609, Coordinates: -16.376, -49.379
+
+
+### Britânia (Britania)
+
+Code: BR5203807, Coordinates: -15.205, -51.166
+
+
+### Buriti Alegre
+
+Code: BR5203906, Coordinates: -18.131, -48.995
+
+
+### Buriti de Goiás (Buriti de Goias)
+
+Code: BR5203939, Coordinates: -16.168, -50.431
+
+
+### Buritinópolis (Buritinopolis)
+
+Code: BR5203962, Coordinates: -14.42, -46.327
+
+
+### Cabeceiras
+
+Code: BR5204003, Coordinates: -15.732, -47.013
+
+
+### Cachoeira Alta
+
+Code: BR5204102, Coordinates: -18.527, -50.987
+
+
+### Cachoeira de Goiás (Cachoeira de Goias)
+
+Code: BR5204201, Coordinates: -16.723, -50.696
+
+
+### Cachoeira Dourada
+
+Code: BR5204250, Coordinates: -18.496, -49.632
+
+
+### Caçu (Cacu)
+
+Code: BR5204300, Coordinates: -18.773, -51.067
+
+
+### Caiapônia (Caiaponia)
+
+Code: BR5204409, Coordinates: -16.952, -51.83
+
+
+### Caldas Novas
+
+Code: BR5204508, Coordinates: -17.734, -48.646
+
+
+### Caldazinha
+
+Code: BR5204557, Coordinates: -16.734, -48.965
+
+
+### Campestre de Goiás (Campestre de Goias)
+
+Code: BR5204607, Coordinates: -16.787, -49.704
+
+
+### Campinaçu (Campinacu)
+
+Code: BR5204656, Coordinates: -13.875, -48.568
+
+
+### Campinorte
+
+Code: BR5204706, Coordinates: -13.975, -48.948
+
+
+### Campo Alegre de Goiás (Campo Alegre de Goias)
+
+Code: BR5204805, Coordinates: -17.642, -47.739
+
+
+### Campo Limpo de Goiás (Campo Limpo de Goias)
+
+Code: BR5204854, Coordinates: -16.29, -49.092
+
+
+### Campos Belos
+
+Code: BR5204904, Coordinates: -12.998, -46.485
+
+
+### Campos Verdes
+
+Code: BR5204953, Coordinates: -14.194, -49.666
+
+
+### Carmo do Rio Verde
+
+Code: BR5205000, Coordinates: -15.425, -49.73
+
+
+### Castelândia (Castelandia)
+
+Code: BR5205059, Coordinates: -18.159, -50.372
+
+
+### Catalão (Catalao)
+
+Code: BR5205109, Coordinates: -17.964, -47.715
+
+
+### Caturaí (Caturai)
+
+Code: BR5205208, Coordinates: -16.456, -49.584
+
+
+### Cavalcante
+
+Code: BR5205307, Coordinates: -13.599, -47.748
+
+
+### Ceres
+
+Code: BR5205406, Coordinates: -15.287, -49.645
+
+
+### Cezarina
+
+Code: BR5205455, Coordinates: -17.116, -49.73
+
+
+### Chapadão do Céu (Chapadao do Ceu)
+
+Code: BR5205471, Coordinates: -18.437, -52.565
+
+
+### Cidade Ocidental
+
+Code: BR5205497, Coordinates: -16.151, -47.811
+
+
+### Cocalzinho de Goiás (Cocalzinho de Goias)
+
+Code: BR5205513, Coordinates: -15.652, -48.586
+
+
+### Colinas do Sul
+
+Code: BR5205521, Coordinates: -14.004, -48.057
+
+
+### Córrego do Ouro (Corrego do Ouro)
+
+Code: BR5205703, Coordinates: -16.394, -50.577
+
+
+### Corumbá de Goiás (Corumba de Goias)
+
+Code: BR5205802, Coordinates: -15.928, -48.659
+
+
+### Corumbaíba (Corumbaiba)
+
+Code: BR5205901, Coordinates: -18.174, -48.542
+
+
+### Cristalina
+
+Code: BR5206206, Coordinates: -16.767, -47.478
+
+
+### Cristianópolis (Cristianopolis)
+
+Code: BR5206305, Coordinates: -17.199, -48.699
+
+
+### Crixás (Crixas)
+
+Code: BR5206404, Coordinates: -14.662, -50.018
+
+
+### Cromínia (Crominia)
+
+Code: BR5206503, Coordinates: -17.252, -49.347
+
+
+### Cumari
+
+Code: BR5206602, Coordinates: -18.315, -48.188
+
+
+### Damianópolis (Damianopolis)
+
+Code: BR5206701, Coordinates: -14.552, -46.192
+
+
+### Damolândia (Damolandia)
+
+Code: BR5206800, Coordinates: -16.257, -49.344
+
+
+### Davinópolis (Davinopolis)
+
+Code: BR5206909, Coordinates: -18.145, -47.582
+
+
+### Diorama
+
+Code: BR5207105, Coordinates: -16.197, -51.382
+
+
+### Divinópolis de Goiás (Divinopolis de Goias)
+
+Code: BR5208301, Coordinates: -13.232, -46.539
+
+
+### Doverlândia (Doverlandia)
+
+Code: BR5207253, Coordinates: -16.848, -52.498
+
+
+### Edealina
+
+Code: BR5207352, Coordinates: -17.445, -49.744
+
+
+### Edéia (Edeia)
+
+Code: BR5207402, Coordinates: -17.543, -50.001
+
+
+### Estrela do Norte
+
+Code: BR5207501, Coordinates: -13.782, -49.09
+
+
+### Faina
+
+Code: BR5207535, Coordinates: -15.429, -50.395
+
+
+### Fazenda Nova
+
+Code: BR5207600, Coordinates: -16.13, -50.917
+
+
+### Firminópolis (Firminopolis)
+
+Code: BR5207808, Coordinates: -16.636, -50.324
+
+
+### Flores de Goiás (Flores de Goias)
+
+Code: BR5207907, Coordinates: -14.568, -46.898
+
+
+### Formosa
+
+Code: BR5208004, Coordinates: -15.247, -47.203
+
+
+### Formoso
+
+Code: BR5208103, Coordinates: -13.705, -48.869
+
+
+### Gameleira de Goiás (Gameleira de Goias)
+
+Code: BR5208152, Coordinates: -16.414, -48.683
+
+
+### Goianápolis (Goianapolis)
+
+Code: BR5208400, Coordinates: -16.524, -49.079
+
+
+### Goiandira
+
+Code: BR5208509, Coordinates: -18.108, -48.158
+
+
+### Goianésia (Goianesia)
+
+Code: BR5208608, Coordinates: -15.302, -49.161
+
+
+### Goiânia (Goiania)
+
+Code: BR5208707, Coordinates: -16.644, -49.252
+
+
+### Goianira
+
+Code: BR5208806, Coordinates: -16.498, -49.442
+
+
+### Goiás (Goias)
+
+Code: BR5208905, Coordinates: -15.815, -50.245
+
+
+### Goiatuba
+
+Code: BR5209101, Coordinates: -18.022, -49.736
+
+
+### Gouvelândia (Gouvelandia)
+
+Code: BR5209150, Coordinates: -18.502, -50.175
+
+
+### Guapó (Guapo)
+
+Code: BR5209200, Coordinates: -16.925, -49.596
+
+
+### Guaraíta (Guaraita)
+
+Code: BR5209291, Coordinates: -15.677, -50.066
+
+
+### Guarani de Goiás (Guarani de Goias)
+
+Code: BR5209408, Coordinates: -13.885, -46.457
+
+
+### Guarinos
+
+Code: BR5209457, Coordinates: -14.668, -49.748
+
+
+### Heitoraí (Heitorai)
+
+Code: BR5209606, Coordinates: -15.736, -49.831
+
+
+### Hidrolândia (Hidrolandia)
+
+Code: BR5209705, Coordinates: -17.012, -49.252
+
+
+### Hidrolina
+
+Code: BR5209804, Coordinates: -14.75, -49.345
+
+
+### Iaciara
+
+Code: BR5209903, Coordinates: -14.091, -46.74
+
+
+### Inaciolândia (Inaciolandia)
+
+Code: BR5209937, Coordinates: -18.516, -49.91
+
+
+### Indiara
+
+Code: BR5209952, Coordinates: -17.229, -49.966
+
+
+### Inhumas
+
+Code: BR5210000, Coordinates: -16.332, -49.5
+
+
+### Ipameri
+
+Code: BR5210109, Coordinates: -17.5, -48.039
+
+
+### Ipiranga de Goiás (Ipiranga de Goias)
+
+Code: BR5210158, Coordinates: -15.139, -49.644
+
+
+### Iporá (Ipora)
+
+Code: BR5210208, Coordinates: -16.456, -51.158
+
+
+### Israelândia (Israelandia)
+
+Code: BR5210307, Coordinates: -16.359, -50.881
+
+
+### Itaberaí (Itaberai)
+
+Code: BR5210406, Coordinates: -16.139, -49.825
+
+
+### Itaguari
+
+Code: BR5210562, Coordinates: -15.924, -49.629
+
+
+### Itaguaru
+
+Code: BR5210604, Coordinates: -15.772, -49.605
+
+
+### Itajá (Itaja)
+
+Code: BR5210802, Coordinates: -19.117, -51.235
+
+
+### Itapaci
+
+Code: BR5210901, Coordinates: -14.926, -49.682
+
+
+### Itapirapuã (Itapirapua)
+
+Code: BR5211008, Coordinates: -15.696, -50.781
+
+
+### Itapuranga
+
+Code: BR5211206, Coordinates: -15.574, -49.931
+
+
+### Itarumã (Itaruma)
+
+Code: BR5211305, Coordinates: -18.886, -51.293
+
+
+### Itauçu (Itaucu)
+
+Code: BR5211404, Coordinates: -16.215, -49.605
+
+
+### Itumbiara
+
+Code: BR5211503, Coordinates: -18.339, -49.455
+
+
+### Ivolândia (Ivolandia)
+
+Code: BR5211602, Coordinates: -16.642, -51.105
+
+
+### Jandaia
+
+Code: BR5211701, Coordinates: -17.132, -50.203
+
+
+### Jaraguá (Jaragua)
+
+Code: BR5211800, Coordinates: -15.679, -49.426
+
+
+### Jataí (Jatai)
+
+Code: BR5211909, Coordinates: -17.872, -51.716
+
+
+### Jaupaci
+
+Code: BR5212006, Coordinates: -16.177, -51.067
+
+
+### Jesúpolis (Jesupolis)
+
+Code: BR5212055, Coordinates: -15.968, -49.411
+
+
+### Joviânia (Joviania)
+
+Code: BR5212105, Coordinates: -17.782, -49.588
+
+
+### Jussara
+
+Code: BR5212204, Coordinates: -15.675, -51.302
+
+
+### Lagoa Santa
+
+Code: BR5212253, Coordinates: -19.22, -51.262
+
+
+### Leopoldo de Bulhões (Leopoldo de Bulhoes)
+
+Code: BR5212303, Coordinates: -16.59, -48.902
+
+
+### Luziânia (Luziania)
+
+Code: BR5212501, Coordinates: -16.538, -47.988
+
+
+### Mairipotaba
+
+Code: BR5212600, Coordinates: -17.308, -49.45
+
+
+### Mambaí (Mambai)
+
+Code: BR5212709, Coordinates: -14.435, -46.049
+
+
+### Mara Rosa
+
+Code: BR5212808, Coordinates: -14.005, -49.404
+
+
+### Marzagão (Marzagao)
+
+Code: BR5212907, Coordinates: -17.98, -48.686
+
+
+### Matrinchã (Matrincha)
+
+Code: BR5212956, Coordinates: -15.331, -50.806
+
+
+### Maurilândia (Maurilandia)
+
+Code: BR5213004, Coordinates: -18.032, -50.343
+
+
+### Mimoso de Goiás (Mimoso de Goias)
+
+Code: BR5213053, Coordinates: -15.045, -48.36
+
+
+### Minaçu (Minacu)
+
+Code: BR5213087, Coordinates: -13.455, -48.38
+
+
+### Mineiros
+
+Code: BR5213103, Coordinates: -17.406, -52.672
+
+
+### Moiporá (Moipora)
+
+Code: BR5213400, Coordinates: -16.496, -50.779
+
+
+### Monte Alegre de Goiás (Monte Alegre de Goias)
+
+Code: BR5213509, Coordinates: -13.275, -46.913
+
+
+### Montes Claros de Goiás (Montes Claros de Goias)
+
+Code: BR5213707, Coordinates: -15.919, -51.543
+
+
+### Montividiu
+
+Code: BR5213756, Coordinates: -17.246, -51.156
+
+
+### Montividiu do Norte
+
+Code: BR5213772, Coordinates: -13.104, -48.755
+
+
+### Morrinhos
+
+Code: BR5213806, Coordinates: -17.79, -49.108
+
+
+### Morro Agudo de Goiás (Morro Agudo de Goias)
+
+Code: BR5213855, Coordinates: -15.317, -50.01
+
+
+### Mossâmedes (Mossamedes)
+
+Code: BR5213905, Coordinates: -16.171, -50.163
+
+
+### Mozarlândia (Mozarlandia)
+
+Code: BR5214002, Coordinates: -14.775, -50.63
+
+
+### Mundo Novo
+
+Code: BR5214051, Coordinates: -13.72, -50.213
+
+
+### Mutunópolis (Mutunopolis)
+
+Code: BR5214101, Coordinates: -13.713, -49.34
+
+
+### Nazário (Nazario)
+
+Code: BR5214408, Coordinates: -16.582, -49.864
+
+
+### Nerópolis (Neropolis)
+
+Code: BR5214507, Coordinates: -16.437, -49.182
+
+
+### Niquelândia (Niquelandia)
+
+Code: BR5214606, Coordinates: -14.499, -48.428
+
+
+### Nova América (Nova America)
+
+Code: BR5214705, Coordinates: -15.052, -49.925
+
+
+### Nova Aurora
+
+Code: BR5214804, Coordinates: -18.099, -48.286
+
+
+### Nova Crixás (Nova Crixas)
+
+Code: BR5214838, Coordinates: -14.209, -50.602
+
+
+### Nova Glória (Nova Gloria)
+
+Code: BR5214861, Coordinates: -15.067, -49.485
+
+
+### Nova Iguaçu de Goiás (Nova Iguacu de Goias)
+
+Code: BR5214879, Coordinates: -14.307, -49.298
+
+
+### Nova Roma
+
+Code: BR5214903, Coordinates: -13.823, -47.001
+
+
+### Nova Veneza
+
+Code: BR5215009, Coordinates: -16.355, -49.305
+
+
+### Novo Brasil
+
+Code: BR5215207, Coordinates: -16.046, -50.642
+
+
+### Novo Gama
+
+Code: BR5215231, Coordinates: -16.122, -48.064
+
+
+### Novo Planalto
+
+Code: BR5215256, Coordinates: -13.37, -49.75
+
+
+### Orizona
+
+Code: BR5215306, Coordinates: -17.005, -48.151
+
+
+### Ouro Verde de Goiás (Ouro Verde de Goias)
+
+Code: BR5215405, Coordinates: -16.243, -49.223
+
+
+### Ouvidor
+
+Code: BR5215504, Coordinates: -18.208, -47.703
+
+
+### Padre Bernardo
+
+Code: BR5215603, Coordinates: -15.329, -48.348
+
+
+### Palestina de Goiás (Palestina de Goias)
+
+Code: BR5215652, Coordinates: -16.699, -51.447
+
+
+### Palmeiras de Goiás (Palmeiras de Goias)
+
+Code: BR5215702, Coordinates: -16.863, -49.905
+
+
+### Palmelo
+
+Code: BR5215801, Coordinates: -17.315, -48.4
+
+
+### Palminópolis (Palminopolis)
+
+Code: BR5215900, Coordinates: -16.834, -50.232
+
+
+### Panamá (Panama)
+
+Code: BR5216007, Coordinates: -18.201, -49.409
+
+
+### Paranaiguara
+
+Code: BR5216304, Coordinates: -18.775, -50.611
+
+
+### Paraúna (Parauna)
+
+Code: BR5216403, Coordinates: -17.087, -50.602
+
+
+### Perolândia (Perolandia)
+
+Code: BR5216452, Coordinates: -17.467, -52.22
+
+
+### Petrolina de Goiás (Petrolina de Goias)
+
+Code: BR5216809, Coordinates: -16.113, -49.288
+
+
+### Pilar de Goiás (Pilar de Goias)
+
+Code: BR5216908, Coordinates: -14.558, -49.507
+
+
+### Piracanjuba
+
+Code: BR5217104, Coordinates: -17.345, -49.025
+
+
+### Piranhas
+
+Code: BR5217203, Coordinates: -16.408, -51.838
+
+
+### Pirenópolis (Pirenopolis)
+
+Code: BR5217302, Coordinates: -15.813, -48.999
+
+
+### Pires do Rio
+
+Code: BR5217401, Coordinates: -17.352, -48.389
+
+
+### Planaltina
+
+Code: BR5217609, Coordinates: -15.216, -47.856
+
+
+### Pontalina
+
+Code: BR5217708, Coordinates: -17.535, -49.586
+
+
+### Porangatu
+
+Code: BR5218003, Coordinates: -13.336, -49.256
+
+
+### Porteirão (Porteirao)
+
+Code: BR5218052, Coordinates: -17.911, -50.163
+
+
+### Portelândia (Portelandia)
+
+Code: BR5218102, Coordinates: -17.34, -52.695
+
+
+### Posse
+
+Code: BR5218300, Coordinates: -14.243, -46.47
+
+
+### Professor Jamil
+
+Code: BR5218391, Coordinates: -17.296, -49.257
+
+
+### Quirinópolis (Quirinopolis)
+
+Code: BR5218508, Coordinates: -18.457, -50.52
+
+
+### Rialma
+
+Code: BR5218607, Coordinates: -15.326, -49.537
+
+
+### Rianápolis (Rianapolis)
+
+Code: BR5218706, Coordinates: -15.474, -49.439
+
+
+### Rio Quente
+
+Code: BR5218789, Coordinates: -17.834, -48.799
+
+
+### Rio Verde
+
+Code: BR5218805, Coordinates: -17.736, -51.006
+
+
+### Rubiataba
+
+Code: BR5218904, Coordinates: -15.173, -49.881
+
+
+### Sanclerlândia (Sanclerlandia)
+
+Code: BR5219001, Coordinates: -16.321, -50.42
+
+
+### Santa Bárbara de Goiás (Santa Barbara de Goias)
+
+Code: BR5219100, Coordinates: -16.596, -49.683
+
+
+### Santa Cruz de Goiás (Santa Cruz de Goias)
+
+Code: BR5219209, Coordinates: -17.435, -48.555
+
+
+### Santa Fé de Goiás (Santa Fe de Goias)
+
+Code: BR5219258, Coordinates: -15.641, -51.155
+
+
+### Santa Helena de Goiás (Santa Helena de Goias)
+
+Code: BR5219308, Coordinates: -17.807, -50.531
+
+
+### Santa Isabel
+
+Code: BR5219357, Coordinates: -15.265, -49.385
+
+
+### Santa Rita do Araguaia
+
+Code: BR5219407, Coordinates: -17.205, -53.066
+
+
+### Santa Rita do Novo Destino
+
+Code: BR5219456, Coordinates: -14.849, -49.068
+
+
+### Santa Rosa de Goiás (Santa Rosa de Goias)
+
+Code: BR5219506, Coordinates: -16.07, -49.48
+
+
+### Santa Tereza de Goiás (Santa Tereza de Goias)
+
+Code: BR5219605, Coordinates: -13.565, -48.986
+
+
+### Santa Terezinha de Goiás (Santa Terezinha de Goias)
+
+Code: BR5219704, Coordinates: -14.28, -49.737
+
+
+### Santo Antônio da Barra (Santo Antonio da Barra)
+
+Code: BR5219712, Coordinates: -17.51, -50.616
+
+
+### Santo Antônio de Goiás (Santo Antonio de Goias)
+
+Code: BR5219738, Coordinates: -16.488, -49.295
+
+
+### Santo Antônio do Descoberto (Santo Antonio do Descoberto)
+
+Code: BR5219753, Coordinates: -16.087, -48.298
+
+
+### São Domingos (Sao Domingos)
+
+Code: BR5219803, Coordinates: -13.53, -46.491
+
+
+### São Francisco de Goiás (Sao Francisco de Goias)
+
+Code: BR5219902, Coordinates: -15.95, -49.252
+
+
+### São João d&#39;Aliança (Sao Joao d&#39;Alianca)
+
+Code: BR5220009, Coordinates: -14.425, -47.407
+
+
+### São João da Paraúna (Sao Joao da Parauna)
+
+Code: BR5220058, Coordinates: -16.82, -50.362
+
+
+### São Luís de Montes Belos (Sao Luis de Montes Belos)
+
+Code: BR5220108, Coordinates: -16.45, -50.378
+
+
+### São Luiz do Norte (Sao Luiz do Norte)
+
+Code: BR5220157, Coordinates: -14.901, -49.272
+
+
+### São Miguel do Araguaia (Sao Miguel do Araguaia)
+
+Code: BR5220207, Coordinates: -13.006, -50.278
+
+
+### São Miguel do Passa Quatro (Sao Miguel do Passa Quatro)
+
+Code: BR5220264, Coordinates: -16.998, -48.672
+
+
+### São Patrício (Sao Patricio)
+
+Code: BR5220280, Coordinates: -15.358, -49.831
+
+
+### São Simão (Sao Simao)
+
+Code: BR5220405, Coordinates: -19.007, -50.594
+
+
+### Senador Canedo
+
+Code: BR5220454, Coordinates: -16.726, -49.116
+
+
+### Serranópolis (Serranopolis)
+
+Code: BR5220504, Coordinates: -18.262, -52.171
+
+
+### Silvânia (Silvania)
+
+Code: BR5220603, Coordinates: -16.583, -48.581
+
+
+### Simolândia (Simolandia)
+
+Code: BR5220686, Coordinates: -14.439, -46.589
+
+
+### Sítio d&#39;Abadia (Sitio d&#39;Abadia)
+
+Code: BR5220702, Coordinates: -14.714, -46.262
+
+
+### Taquaral de Goiás (Taquaral de Goias)
+
+Code: BR5221007, Coordinates: -16.054, -49.594
+
+
+### Teresina de Goiás (Teresina de Goias)
+
+Code: BR5221080, Coordinates: -13.707, -47.247
+
+
+### Terezópolis de Goiás (Terezopolis de Goias)
+
+Code: BR5221197, Coordinates: -16.434, -49.072
+
+
+### Três Ranchos (Tres Ranchos)
+
+Code: BR5221304, Coordinates: -18.371, -47.783
+
+
+### Trindade
+
+Code: BR5221403, Coordinates: -16.666, -49.562
+
+
+### Trombas
+
+Code: BR5221452, Coordinates: -13.408, -48.757
+
+
+### Turvânia (Turvania)
+
+Code: BR5221502, Coordinates: -16.555, -50.164
+
+
+### Turvelândia (Turvelandia)
+
+Code: BR5221551, Coordinates: -17.799, -50.3
+
+
+### Uirapuru
+
+Code: BR5221577, Coordinates: -14.122, -49.924
+
+
+### Uruaçu (Uruacu)
+
+Code: BR5221601, Coordinates: -14.43, -49.072
+
+
+### Uruana
+
+Code: BR5221700, Coordinates: -15.574, -49.647
+
+
+### Urutaí (Urutai)
+
+Code: BR5221809, Coordinates: -17.426, -48.2
+
+
+### Valparaíso de Goiás (Valparaiso de Goias)
+
+Code: BR5221858, Coordinates: -16.101, -47.989
+
+
+### Varjão (Varjao)
+
+Code: BR5221908, Coordinates: -17.079, -49.613
+
+
+### Vianópolis (Vianopolis)
+
+Code: BR5222005, Coordinates: -16.854, -48.46
+
+
+### Vicentinópolis (Vicentinopolis)
+
+Code: BR5222054, Coordinates: -17.71, -49.895
+
+
+### Vila Boa
+
+Code: BR5222203, Coordinates: -14.98, -47.084
+
+
+### Vila Propício (Vila Propicio)
+
+Code: BR5222302, Coordinates: -15.203, -48.782
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "BR1400100",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Boa Vista",
+    "en": "Boa Vista",
+    "slug": "boa-vista-br1400100"
+  },
+  "code": {
+    "id": "BR1400100",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR14",
+    "level": 1,
+    "name": {
+      "local": "Roraima",
+      "en": "Roraima",
+      "slug": "roraima-br14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR14",
+      "level": 1,
+      "name": {
+        "local": "Roraima",
+        "en": "Roraima",
+        "slug": "roraima-br14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.298",
+    "lon": "-36.189"
+  },
+  "metadata": {},
+  "source": {}
+}

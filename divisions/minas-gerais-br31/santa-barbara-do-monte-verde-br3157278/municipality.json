@@ -1,0 +1,45 @@
+{
+  "id": "BR3157278",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Bárbara do Monte Verde",
+    "en": "Santa Barbara do Monte Verde",
+    "slug": "santa-barbara-do-monte-verde-br3157278"
+  },
+  "code": {
+    "id": "BR3157278",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.977",
+    "lon": "-43.692"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2513653",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Joca Claudino",
+    "en": "Joca Claudino",
+    "slug": "joca-claudino-br2513653"
+  },
+  "code": {
+    "id": "BR2513653",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.47",
+    "lon": "-38.481"
+  },
+  "metadata": {},
+  "source": {}
+}

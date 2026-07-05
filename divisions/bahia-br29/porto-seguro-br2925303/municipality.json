@@ -1,0 +1,45 @@
+{
+  "id": "BR2925303",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Porto Seguro",
+    "en": "Porto Seguro",
+    "slug": "porto-seguro-br2925303"
+  },
+  "code": {
+    "id": "BR2925303",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.659",
+    "lon": "-39.304"
+  },
+  "metadata": {},
+  "source": {}
+}

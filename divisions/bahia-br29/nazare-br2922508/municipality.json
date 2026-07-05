@@ -1,0 +1,45 @@
+{
+  "id": "BR2922508",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nazaré",
+    "en": "Nazare",
+    "slug": "nazare-br2922508"
+  },
+  "code": {
+    "id": "BR2922508",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.939",
+    "lon": "-38.98"
+  },
+  "metadata": {},
+  "source": {}
+}

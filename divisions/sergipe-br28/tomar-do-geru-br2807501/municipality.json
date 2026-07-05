@@ -1,0 +1,45 @@
+{
+  "id": "BR2807501",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tomar do Geru",
+    "en": "Tomar do Geru",
+    "slug": "tomar-do-geru-br2807501"
+  },
+  "code": {
+    "id": "BR2807501",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.391",
+    "lon": "-37.877"
+  },
+  "metadata": {},
+  "source": {}
+}

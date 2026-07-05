@@ -1,0 +1,45 @@
+{
+  "id": "BR3100401",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Acaiaca",
+    "en": "Acaiaca",
+    "slug": "acaiaca-br3100401"
+  },
+  "code": {
+    "id": "BR3100401",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.404",
+    "lon": "-43.097"
+  },
+  "metadata": {},
+  "source": {}
+}

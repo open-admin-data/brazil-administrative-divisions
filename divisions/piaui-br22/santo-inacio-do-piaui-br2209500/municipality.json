@@ -1,0 +1,45 @@
+{
+  "id": "BR2209500",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Inácio do Piauí",
+    "en": "Santo Inacio do Piaui",
+    "slug": "santo-inacio-do-piaui-br2209500"
+  },
+  "code": {
+    "id": "BR2209500",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.491",
+    "lon": "-41.938"
+  },
+  "metadata": {},
+  "source": {}
+}

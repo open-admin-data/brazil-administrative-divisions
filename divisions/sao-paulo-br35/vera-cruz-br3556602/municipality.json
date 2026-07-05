@@ -1,0 +1,45 @@
+{
+  "id": "BR3556602",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vera Cruz",
+    "en": "Vera Cruz",
+    "slug": "vera-cruz-br3556602"
+  },
+  "code": {
+    "id": "BR3556602",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.767",
+    "lon": "-52.527"
+  },
+  "metadata": {},
+  "source": {}
+}

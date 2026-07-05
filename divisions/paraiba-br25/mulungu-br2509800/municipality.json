@@ -1,0 +1,45 @@
+{
+  "id": "BR2509800",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mulungu",
+    "en": "Mulungu",
+    "slug": "mulungu-br2509800"
+  },
+  "code": {
+    "id": "BR2509800",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.996",
+    "lon": "-35.405"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2111201",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São José de Ribamar",
+    "en": "Sao Jose de Ribamar",
+    "slug": "sao-jose-de-ribamar-br2111201"
+  },
+  "code": {
+    "id": "BR2111201",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.565",
+    "lon": "-44.137"
+  },
+  "metadata": {},
+  "source": {}
+}

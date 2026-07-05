@@ -1,0 +1,45 @@
+{
+  "id": "BR3520400",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ilhabela",
+    "en": "Ilhabela",
+    "slug": "ilhabela-br3520400"
+  },
+  "code": {
+    "id": "BR3520400",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.856",
+    "lon": "-45.304"
+  },
+  "metadata": {},
+  "source": {}
+}

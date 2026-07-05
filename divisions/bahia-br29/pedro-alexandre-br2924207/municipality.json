@@ -1,0 +1,45 @@
+{
+  "id": "BR2924207",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pedro Alexandre",
+    "en": "Pedro Alexandre",
+    "slug": "pedro-alexandre-br2924207"
+  },
+  "code": {
+    "id": "BR2924207",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.042",
+    "lon": "-37.947"
+  },
+  "metadata": {},
+  "source": {}
+}

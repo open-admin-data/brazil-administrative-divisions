@@ -1,0 +1,33 @@
+{
+  "id": "BR23",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Ceará",
+    "en": "Ceara",
+    "slug": "ceara-br23"
+  },
+  "code": {
+    "id": "BR23",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 184
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.325",
+    "lon": "-39.5"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/br/states/ceara-br23/",
+    "api": "https://openadmindata.org/api/br/"
+  }
+}

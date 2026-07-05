@@ -1,0 +1,45 @@
+{
+  "id": "BR2100709",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Anajatuba",
+    "en": "Anajatuba",
+    "slug": "anajatuba-br2100709"
+  },
+  "code": {
+    "id": "BR2100709",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.242",
+    "lon": "-44.548"
+  },
+  "metadata": {},
+  "source": {}
+}

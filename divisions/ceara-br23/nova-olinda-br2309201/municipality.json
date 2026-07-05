@@ -1,0 +1,45 @@
+{
+  "id": "BR2309201",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Olinda",
+    "en": "Nova Olinda",
+    "slug": "nova-olinda-br2309201"
+  },
+  "code": {
+    "id": "BR2309201",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.455",
+    "lon": "-38.038"
+  },
+  "metadata": {},
+  "source": {}
+}

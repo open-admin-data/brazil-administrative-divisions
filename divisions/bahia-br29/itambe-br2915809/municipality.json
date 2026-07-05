@@ -1,0 +1,45 @@
+{
+  "id": "BR2915809",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itambé",
+    "en": "Itambe",
+    "slug": "itambe-br2915809"
+  },
+  "code": {
+    "id": "BR2915809",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.692",
+    "lon": "-52.016"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2515930",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sertãozinho",
+    "en": "Sertaozinho",
+    "slug": "sertaozinho-br2515930"
+  },
+  "code": {
+    "id": "BR2515930",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.113",
+    "lon": "-47.997"
+  },
+  "metadata": {},
+  "source": {}
+}

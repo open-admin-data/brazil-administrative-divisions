@@ -1,0 +1,45 @@
+{
+  "id": "BR3165909",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Senador Modestino Gonçalves",
+    "en": "Senador Modestino Goncalves",
+    "slug": "senador-modestino-goncalves-br3165909"
+  },
+  "code": {
+    "id": "BR3165909",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.886",
+    "lon": "-43.24"
+  },
+  "metadata": {},
+  "source": {}
+}

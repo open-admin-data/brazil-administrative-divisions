@@ -1,0 +1,45 @@
+{
+  "id": "BR2707800",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Roteiro",
+    "en": "Roteiro",
+    "slug": "roteiro-br2707800"
+  },
+  "code": {
+    "id": "BR2707800",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.862",
+    "lon": "-35.986"
+  },
+  "metadata": {},
+  "source": {}
+}

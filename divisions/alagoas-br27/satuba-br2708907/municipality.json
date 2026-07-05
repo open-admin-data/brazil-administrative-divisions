@@ -1,0 +1,45 @@
+{
+  "id": "BR2708907",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Satuba",
+    "en": "Satuba",
+    "slug": "satuba-br2708907"
+  },
+  "code": {
+    "id": "BR2708907",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.588",
+    "lon": "-35.845"
+  },
+  "metadata": {},
+  "source": {}
+}

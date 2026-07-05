@@ -1,0 +1,45 @@
+{
+  "id": "BR5108303",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "União do Sul",
+    "en": "Uniao do Sul",
+    "slug": "uniao-do-sul-br5108303"
+  },
+  "code": {
+    "id": "BR5108303",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.488",
+    "lon": "-54.264"
+  },
+  "metadata": {},
+  "source": {}
+}

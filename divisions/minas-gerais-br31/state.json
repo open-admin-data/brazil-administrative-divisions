@@ -1,0 +1,33 @@
+{
+  "id": "BR31",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Minas Gerais",
+    "en": "Minas Gerais",
+    "slug": "minas-gerais-br31"
+  },
+  "code": {
+    "id": "BR31",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 853
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.57",
+    "lon": "-45.48"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/br/states/minas-gerais-br31/",
+    "api": "https://openadmindata.org/api/br/"
+  }
+}

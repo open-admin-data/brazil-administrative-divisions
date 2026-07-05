@@ -1,0 +1,45 @@
+{
+  "id": "BR2922003",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mucuri",
+    "en": "Mucuri",
+    "slug": "mucuri-br2922003"
+  },
+  "code": {
+    "id": "BR2922003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.955",
+    "lon": "-39.935"
+  },
+  "metadata": {},
+  "source": {}
+}

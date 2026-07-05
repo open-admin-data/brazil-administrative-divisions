@@ -1,0 +1,45 @@
+{
+  "id": "BR3129905",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ibitiúra de Minas",
+    "en": "Ibitiura de Minas",
+    "slug": "ibitiura-de-minas-br3129905"
+  },
+  "code": {
+    "id": "BR3129905",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.068",
+    "lon": "-46.409"
+  },
+  "metadata": {},
+  "source": {}
+}

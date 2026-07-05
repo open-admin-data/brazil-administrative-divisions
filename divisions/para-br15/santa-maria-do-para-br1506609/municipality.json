@@ -1,0 +1,45 @@
+{
+  "id": "BR1506609",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Maria do Pará",
+    "en": "Santa Maria do Para",
+    "slug": "santa-maria-do-para-br1506609"
+  },
+  "code": {
+    "id": "BR1506609",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.337",
+    "lon": "-47.514"
+  },
+  "metadata": {},
+  "source": {}
+}

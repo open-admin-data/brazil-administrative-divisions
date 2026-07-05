@@ -1,0 +1,45 @@
+{
+  "id": "BR4113759",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lunardelli",
+    "en": "Lunardelli",
+    "slug": "lunardelli-br4113759"
+  },
+  "code": {
+    "id": "BR4113759",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.072",
+    "lon": "-51.763"
+  },
+  "metadata": {},
+  "source": {}
+}

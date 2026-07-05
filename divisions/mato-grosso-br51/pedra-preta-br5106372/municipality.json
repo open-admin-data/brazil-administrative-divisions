@@ -1,0 +1,45 @@
+{
+  "id": "BR5106372",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pedra Preta",
+    "en": "Pedra Preta",
+    "slug": "pedra-preta-br5106372"
+  },
+  "code": {
+    "id": "BR5106372",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.745",
+    "lon": "-54.171"
+  },
+  "metadata": {},
+  "source": {}
+}

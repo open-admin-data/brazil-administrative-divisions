@@ -1,0 +1,45 @@
+{
+  "id": "BR2922854",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Redenção",
+    "en": "Nova Redencao",
+    "slug": "nova-redencao-br2922854"
+  },
+  "code": {
+    "id": "BR2922854",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.822",
+    "lon": "-41.132"
+  },
+  "metadata": {},
+  "source": {}
+}

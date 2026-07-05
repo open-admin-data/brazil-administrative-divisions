@@ -1,0 +1,45 @@
+{
+  "id": "BR3141504",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mendes Pimentel",
+    "en": "Mendes Pimentel",
+    "slug": "mendes-pimentel-br3141504"
+  },
+  "code": {
+    "id": "BR3141504",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.624",
+    "lon": "-41.355"
+  },
+  "metadata": {},
+  "source": {}
+}

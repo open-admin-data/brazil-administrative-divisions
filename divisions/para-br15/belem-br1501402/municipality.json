@@ -1,0 +1,45 @@
+{
+  "id": "BR1501402",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Belém",
+    "en": "Belem",
+    "slug": "belem-br1501402"
+  },
+  "code": {
+    "id": "BR1501402",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.557",
+    "lon": "-36.495"
+  },
+  "metadata": {},
+  "source": {}
+}

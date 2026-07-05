@@ -1,0 +1,45 @@
+{
+  "id": "BR3554656",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Torre de Pedra",
+    "en": "Torre de Pedra",
+    "slug": "torre-de-pedra-br3554656"
+  },
+  "code": {
+    "id": "BR3554656",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.255",
+    "lon": "-48.213"
+  },
+  "metadata": {},
+  "source": {}
+}

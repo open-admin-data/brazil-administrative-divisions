@@ -1,0 +1,45 @@
+{
+  "id": "BR2702306",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Coruripe",
+    "en": "Coruripe",
+    "slug": "coruripe-br2702306"
+  },
+  "code": {
+    "id": "BR2702306",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.093",
+    "lon": "-36.239"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2107001",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Montes Altos",
+    "en": "Montes Altos",
+    "slug": "montes-altos-br2107001"
+  },
+  "code": {
+    "id": "BR2107001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.871",
+    "lon": "-47.079"
+  },
+  "metadata": {},
+  "source": {}
+}

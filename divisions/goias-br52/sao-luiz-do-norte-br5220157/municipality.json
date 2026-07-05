@@ -1,0 +1,45 @@
+{
+  "id": "BR5220157",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Luiz do Norte",
+    "en": "Sao Luiz do Norte",
+    "slug": "sao-luiz-do-norte-br5220157"
+  },
+  "code": {
+    "id": "BR5220157",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.901",
+    "lon": "-49.272"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1501105",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bagre",
+    "en": "Bagre",
+    "slug": "bagre-br1501105"
+  },
+  "code": {
+    "id": "BR1501105",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.415",
+    "lon": "-50.154"
+  },
+  "metadata": {},
+  "source": {}
+}

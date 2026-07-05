@@ -1,0 +1,45 @@
+{
+  "id": "BR1503309",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Igarapé-Miri",
+    "en": "Igarape-Miri",
+    "slug": "igarape-miri-br1503309"
+  },
+  "code": {
+    "id": "BR1503309",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.078",
+    "lon": "-49.153"
+  },
+  "metadata": {},
+  "source": {}
+}

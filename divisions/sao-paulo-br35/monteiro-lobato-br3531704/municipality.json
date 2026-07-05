@@ -1,0 +1,45 @@
+{
+  "id": "BR3531704",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Monteiro Lobato",
+    "en": "Monteiro Lobato",
+    "slug": "monteiro-lobato-br3531704"
+  },
+  "code": {
+    "id": "BR3531704",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.934",
+    "lon": "-45.813"
+  },
+  "metadata": {},
+  "source": {}
+}

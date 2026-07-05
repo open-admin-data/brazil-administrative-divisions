@@ -1,0 +1,45 @@
+{
+  "id": "BR4126108",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Tomé",
+    "en": "Sao Tome",
+    "slug": "sao-tome-br4126108"
+  },
+  "code": {
+    "id": "BR4126108",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.526",
+    "lon": "-52.501"
+  },
+  "metadata": {},
+  "source": {}
+}

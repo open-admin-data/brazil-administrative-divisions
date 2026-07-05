@@ -1,0 +1,45 @@
+{
+  "id": "BR1505601",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Peixe-Boi",
+    "en": "Peixe-Boi",
+    "slug": "peixe-boi-br1505601"
+  },
+  "code": {
+    "id": "BR1505601",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.105",
+    "lon": "-47.269"
+  },
+  "metadata": {},
+  "source": {}
+}

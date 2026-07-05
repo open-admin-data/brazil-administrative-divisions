@@ -1,0 +1,45 @@
+{
+  "id": "BR3530607",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mogi das Cruzes",
+    "en": "Mogi das Cruzes",
+    "slug": "mogi-das-cruzes-br3530607"
+  },
+  "code": {
+    "id": "BR3530607",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.571",
+    "lon": "-46.184"
+  },
+  "metadata": {},
+  "source": {}
+}

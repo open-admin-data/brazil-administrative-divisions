@@ -1,0 +1,45 @@
+{
+  "id": "BR3162658",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São João do Pacuí",
+    "en": "Sao Joao do Pacui",
+    "slug": "sao-joao-do-pacui-br3162658"
+  },
+  "code": {
+    "id": "BR3162658",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.539",
+    "lon": "-44.54"
+  },
+  "metadata": {},
+  "source": {}
+}

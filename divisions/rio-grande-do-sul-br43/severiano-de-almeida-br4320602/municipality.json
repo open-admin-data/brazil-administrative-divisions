@@ -1,0 +1,45 @@
+{
+  "id": "BR4320602",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Severiano de Almeida",
+    "en": "Severiano de Almeida",
+    "slug": "severiano-de-almeida-br4320602"
+  },
+  "code": {
+    "id": "BR4320602",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR43",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Sul",
+      "en": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul-br43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR43",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Sul",
+        "en": "Rio Grande do Sul",
+        "slug": "rio-grande-do-sul-br43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.409",
+    "lon": "-52.11"
+  },
+  "metadata": {},
+  "source": {}
+}

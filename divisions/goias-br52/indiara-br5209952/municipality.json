@@ -1,0 +1,45 @@
+{
+  "id": "BR5209952",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Indiara",
+    "en": "Indiara",
+    "slug": "indiara-br5209952"
+  },
+  "code": {
+    "id": "BR5209952",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.229",
+    "lon": "-49.966"
+  },
+  "metadata": {},
+  "source": {}
+}

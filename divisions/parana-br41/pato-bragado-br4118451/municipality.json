@@ -1,0 +1,45 @@
+{
+  "id": "BR4118451",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pato Bragado",
+    "en": "Pato Bragado",
+    "slug": "pato-bragado-br4118451"
+  },
+  "code": {
+    "id": "BR4118451",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.645",
+    "lon": "-54.234"
+  },
+  "metadata": {},
+  "source": {}
+}

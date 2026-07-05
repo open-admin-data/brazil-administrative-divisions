@@ -1,0 +1,45 @@
+{
+  "id": "BR2206951",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Novo Santo Antônio",
+    "en": "Novo Santo Antonio",
+    "slug": "novo-santo-antonio-br2206951"
+  },
+  "code": {
+    "id": "BR2206951",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.308",
+    "lon": "-50.879"
+  },
+  "metadata": {},
+  "source": {}
+}

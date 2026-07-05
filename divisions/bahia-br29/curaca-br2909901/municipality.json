@@ -1,0 +1,45 @@
+{
+  "id": "BR2909901",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Curaçá",
+    "en": "Curaca",
+    "slug": "curaca-br2909901"
+  },
+  "code": {
+    "id": "BR2909901",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.165",
+    "lon": "-39.669"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2401909",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Caiçara do Rio do Vento",
+    "en": "Caicara do Rio do Vento",
+    "slug": "caicara-do-rio-do-vento-br2401909"
+  },
+  "code": {
+    "id": "BR2401909",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR24",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Norte",
+      "en": "Rio Grande do Norte",
+      "slug": "rio-grande-do-norte-br24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.791",
+    "lon": "-35.993"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2924009",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Paulo Afonso",
+    "en": "Paulo Afonso",
+    "slug": "paulo-afonso-br2924009"
+  },
+  "code": {
+    "id": "BR2924009",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.533",
+    "lon": "-38.228"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3515152",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Engenheiro Coelho",
+    "en": "Engenheiro Coelho",
+    "slug": "engenheiro-coelho-br3515152"
+  },
+  "code": {
+    "id": "BR3515152",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.487",
+    "lon": "-47.175"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR4121802",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ribeirão Claro",
+    "en": "Ribeirao Claro",
+    "slug": "ribeirao-claro-br4121802"
+  },
+  "code": {
+    "id": "BR4121802",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.279",
+    "lon": "-49.788"
+  },
+  "metadata": {},
+  "source": {}
+}

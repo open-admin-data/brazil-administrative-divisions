@@ -1,0 +1,45 @@
+{
+  "id": "BR4113601",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lobato",
+    "en": "Lobato",
+    "slug": "lobato-br4113601"
+  },
+  "code": {
+    "id": "BR4113601",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.969",
+    "lon": "-52.011"
+  },
+  "metadata": {},
+  "source": {}
+}

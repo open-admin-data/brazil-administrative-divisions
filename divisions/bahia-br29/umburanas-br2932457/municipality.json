@@ -1,0 +1,45 @@
+{
+  "id": "BR2932457",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Umburanas",
+    "en": "Umburanas",
+    "slug": "umburanas-br2932457"
+  },
+  "code": {
+    "id": "BR2932457",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.551",
+    "lon": "-41.242"
+  },
+  "metadata": {},
+  "source": {}
+}

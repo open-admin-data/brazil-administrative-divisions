@@ -1,0 +1,45 @@
+{
+  "id": "BR4126801",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tapejara",
+    "en": "Tapejara",
+    "slug": "tapejara-br4126801"
+  },
+  "code": {
+    "id": "BR4126801",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.054",
+    "lon": "-52.019"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3549953",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Lourenço da Serra",
+    "en": "Sao Lourenco da Serra",
+    "slug": "sao-lourenco-da-serra-br3549953"
+  },
+  "code": {
+    "id": "BR3549953",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.854",
+    "lon": "-46.935"
+  },
+  "metadata": {},
+  "source": {}
+}

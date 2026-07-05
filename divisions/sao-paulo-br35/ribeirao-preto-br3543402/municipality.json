@@ -1,0 +1,45 @@
+{
+  "id": "BR3543402",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ribeirão Preto",
+    "en": "Ribeirao Preto",
+    "slug": "ribeirao-preto-br3543402"
+  },
+  "code": {
+    "id": "BR3543402",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.206",
+    "lon": "-47.821"
+  },
+  "metadata": {},
+  "source": {}
+}

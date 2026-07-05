@@ -1,0 +1,45 @@
+{
+  "id": "BR1507805",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Senador José Porfírio",
+    "en": "Senador Jose Porfirio",
+    "slug": "senador-jose-porfirio-br1507805"
+  },
+  "code": {
+    "id": "BR1507805",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.236",
+    "lon": "-51.806"
+  },
+  "metadata": {},
+  "source": {}
+}

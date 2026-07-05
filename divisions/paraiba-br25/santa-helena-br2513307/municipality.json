@@ -1,0 +1,45 @@
+{
+  "id": "BR2513307",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Helena",
+    "en": "Santa Helena",
+    "slug": "santa-helena-br2513307"
+  },
+  "code": {
+    "id": "BR2513307",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.925",
+    "lon": "-53.611"
+  },
+  "metadata": {},
+  "source": {}
+}

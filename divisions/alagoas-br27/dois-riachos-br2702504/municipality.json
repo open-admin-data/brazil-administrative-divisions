@@ -1,0 +1,45 @@
+{
+  "id": "BR2702504",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dois Riachos",
+    "en": "Dois Riachos",
+    "slug": "dois-riachos-br2702504"
+  },
+  "code": {
+    "id": "BR2702504",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.361",
+    "lon": "-37.069"
+  },
+  "metadata": {},
+  "source": {}
+}

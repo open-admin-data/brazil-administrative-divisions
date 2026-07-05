@@ -1,0 +1,45 @@
+{
+  "id": "BR3548906",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Carlos",
+    "en": "Sao Carlos",
+    "slug": "sao-carlos-br3548906"
+  },
+  "code": {
+    "id": "BR3548906",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.039",
+    "lon": "-53.032"
+  },
+  "metadata": {},
+  "source": {}
+}

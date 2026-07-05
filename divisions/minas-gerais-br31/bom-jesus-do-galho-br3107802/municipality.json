@@ -1,0 +1,45 @@
+{
+  "id": "BR3107802",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bom Jesus do Galho",
+    "en": "Bom Jesus do Galho",
+    "slug": "bom-jesus-do-galho-br3107802"
+  },
+  "code": {
+    "id": "BR3107802",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.725",
+    "lon": "-42.361"
+  },
+  "metadata": {},
+  "source": {}
+}

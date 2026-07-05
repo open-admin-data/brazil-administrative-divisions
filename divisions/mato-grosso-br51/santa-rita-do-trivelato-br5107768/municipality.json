@@ -1,0 +1,45 @@
+{
+  "id": "BR5107768",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Rita do Trivelato",
+    "en": "Santa Rita do Trivelato",
+    "slug": "santa-rita-do-trivelato-br5107768"
+  },
+  "code": {
+    "id": "BR5107768",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.755",
+    "lon": "-55.306"
+  },
+  "metadata": {},
+  "source": {}
+}

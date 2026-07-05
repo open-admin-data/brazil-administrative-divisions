@@ -1,0 +1,45 @@
+{
+  "id": "BR2805802",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Riachão do Dantas",
+    "en": "Riachao do Dantas",
+    "slug": "riachao-do-dantas-br2805802"
+  },
+  "code": {
+    "id": "BR2805802",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.018",
+    "lon": "-37.79"
+  },
+  "metadata": {},
+  "source": {}
+}

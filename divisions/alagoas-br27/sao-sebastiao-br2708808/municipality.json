@@ -1,0 +1,45 @@
+{
+  "id": "BR2708808",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Sebastião",
+    "en": "Sao Sebastiao",
+    "slug": "sao-sebastiao-br2708808"
+  },
+  "code": {
+    "id": "BR2708808",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.753",
+    "lon": "-45.598"
+  },
+  "metadata": {},
+  "source": {}
+}

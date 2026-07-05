@@ -1,0 +1,45 @@
+{
+  "id": "BR2202851",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Coronel José Dias",
+    "en": "Coronel Jose Dias",
+    "slug": "coronel-jose-dias-br2202851"
+  },
+  "code": {
+    "id": "BR2202851",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.074",
+    "lon": "-42.311"
+  },
+  "metadata": {},
+  "source": {}
+}

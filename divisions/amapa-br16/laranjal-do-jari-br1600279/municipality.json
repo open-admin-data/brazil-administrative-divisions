@@ -1,0 +1,45 @@
+{
+  "id": "BR1600279",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Laranjal do Jari",
+    "en": "Laranjal do Jari",
+    "slug": "laranjal-do-jari-br1600279"
+  },
+  "code": {
+    "id": "BR1600279",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR16",
+    "level": 1,
+    "name": {
+      "local": "Amapá",
+      "en": "Amapa",
+      "slug": "amapa-br16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.971",
+    "lon": "-53.28"
+  },
+  "metadata": {},
+  "source": {}
+}

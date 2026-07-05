@@ -1,0 +1,45 @@
+{
+  "id": "BR3545001",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Salesópolis",
+    "en": "Salesopolis",
+    "slug": "salesopolis-br3545001"
+  },
+  "code": {
+    "id": "BR3545001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.587",
+    "lon": "-45.846"
+  },
+  "metadata": {},
+  "source": {}
+}

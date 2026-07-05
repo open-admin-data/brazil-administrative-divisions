@@ -1,0 +1,45 @@
+{
+  "id": "BR2210805",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Simplício Mendes",
+    "en": "Simplicio Mendes",
+    "slug": "simplicio-mendes-br2210805"
+  },
+  "code": {
+    "id": "BR2210805",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.845",
+    "lon": "-41.957"
+  },
+  "metadata": {},
+  "source": {}
+}

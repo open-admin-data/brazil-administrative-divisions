@@ -1,0 +1,45 @@
+{
+  "id": "BR2611903",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rio Formoso",
+    "en": "Rio Formoso",
+    "slug": "rio-formoso-br2611903"
+  },
+  "code": {
+    "id": "BR2611903",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR26",
+    "level": 1,
+    "name": {
+      "local": "Pernambuco",
+      "en": "Pernambuco",
+      "slug": "pernambuco-br26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.677",
+    "lon": "-35.204"
+  },
+  "metadata": {},
+  "source": {}
+}

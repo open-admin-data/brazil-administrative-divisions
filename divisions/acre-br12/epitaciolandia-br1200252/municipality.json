@@ -1,0 +1,45 @@
+{
+  "id": "BR1200252",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Epitaciolândia",
+    "en": "Epitaciolandia",
+    "slug": "epitaciolandia-br1200252"
+  },
+  "code": {
+    "id": "BR1200252",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR12",
+    "level": 1,
+    "name": {
+      "local": "Acre",
+      "en": "Acre",
+      "slug": "acre-br12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.879",
+    "lon": "-68.604"
+  },
+  "metadata": {},
+  "source": {}
+}

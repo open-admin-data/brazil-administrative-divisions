@@ -1,0 +1,45 @@
+{
+  "id": "BR3540309",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pontes Gestal",
+    "en": "Pontes Gestal",
+    "slug": "pontes-gestal-br3540309"
+  },
+  "code": {
+    "id": "BR3540309",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.17",
+    "lon": "-49.757"
+  },
+  "metadata": {},
+  "source": {}
+}

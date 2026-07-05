@@ -1,0 +1,45 @@
+{
+  "id": "BR2511905",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pitimbu",
+    "en": "Pitimbu",
+    "slug": "pitimbu-br2511905"
+  },
+  "code": {
+    "id": "BR2511905",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.434",
+    "lon": "-34.842"
+  },
+  "metadata": {},
+  "source": {}
+}

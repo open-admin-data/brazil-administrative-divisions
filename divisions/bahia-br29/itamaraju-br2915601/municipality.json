@@ -1,0 +1,45 @@
+{
+  "id": "BR2915601",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itamaraju",
+    "en": "Itamaraju",
+    "slug": "itamaraju-br2915601"
+  },
+  "code": {
+    "id": "BR2915601",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.983",
+    "lon": "-39.754"
+  },
+  "metadata": {},
+  "source": {}
+}

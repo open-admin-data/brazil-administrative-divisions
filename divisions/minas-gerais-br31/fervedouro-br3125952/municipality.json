@@ -1,0 +1,45 @@
+{
+  "id": "BR3125952",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Fervedouro",
+    "en": "Fervedouro",
+    "slug": "fervedouro-br3125952"
+  },
+  "code": {
+    "id": "BR3125952",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.688",
+    "lon": "-42.343"
+  },
+  "metadata": {},
+  "source": {}
+}

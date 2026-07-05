@@ -1,0 +1,45 @@
+{
+  "id": "BR2307304",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Juazeiro do Norte",
+    "en": "Juazeiro do Norte",
+    "slug": "juazeiro-do-norte-br2307304"
+  },
+  "code": {
+    "id": "BR2307304",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.178",
+    "lon": "-39.265"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2205003",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itainópolis",
+    "en": "Itainopolis",
+    "slug": "itainopolis-br2205003"
+  },
+  "code": {
+    "id": "BR2205003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.409",
+    "lon": "-41.515"
+  },
+  "metadata": {},
+  "source": {}
+}

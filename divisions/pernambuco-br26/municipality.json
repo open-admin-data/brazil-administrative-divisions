@@ -1,0 +1,8327 @@
+[
+  {
+    "id": "BR2600054",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Abreu e Lima",
+      "en": "Abreu e Lima",
+      "slug": "abreu-e-lima-br2600054"
+    },
+    "code": {
+      "id": "BR2600054",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.889",
+      "lon": "-34.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2600104",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Afogados da Ingazeira",
+      "en": "Afogados da Ingazeira",
+      "slug": "afogados-da-ingazeira-br2600104"
+    },
+    "code": {
+      "id": "BR2600104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.712",
+      "lon": "-37.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2600203",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Afrânio",
+      "en": "Afranio",
+      "slug": "afranio-br2600203"
+    },
+    "code": {
+      "id": "BR2600203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.621",
+      "lon": "-41.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2600302",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Agrestina",
+      "en": "Agrestina",
+      "slug": "agrestina-br2600302"
+    },
+    "code": {
+      "id": "BR2600302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.444",
+      "lon": "-35.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2600401",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Água Preta",
+      "en": "Agua Preta",
+      "slug": "agua-preta-br2600401"
+    },
+    "code": {
+      "id": "BR2600401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.75",
+      "lon": "-35.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2600500",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Águas Belas",
+      "en": "Aguas Belas",
+      "slug": "aguas-belas-br2600500"
+    },
+    "code": {
+      "id": "BR2600500",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.085",
+      "lon": "-37.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2600609",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alagoinha",
+      "en": "Alagoinha",
+      "slug": "alagoinha-br2600609"
+    },
+    "code": {
+      "id": "BR2600609",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.535",
+      "lon": "-36.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2600708",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aliança",
+      "en": "Alianca",
+      "slug": "alianca-br2600708"
+    },
+    "code": {
+      "id": "BR2600708",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.599",
+      "lon": "-35.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2600807",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Altinho",
+      "en": "Altinho",
+      "slug": "altinho-br2600807"
+    },
+    "code": {
+      "id": "BR2600807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.482",
+      "lon": "-36.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2600906",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amaraji",
+      "en": "Amaraji",
+      "slug": "amaraji-br2600906"
+    },
+    "code": {
+      "id": "BR2600906",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.351",
+      "lon": "-35.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2601003",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Angelim",
+      "en": "Angelim",
+      "slug": "angelim-br2601003"
+    },
+    "code": {
+      "id": "BR2601003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.848",
+      "lon": "-36.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2601052",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Araçoiaba",
+      "en": "Aracoiaba",
+      "slug": "aracoiaba-br2601052"
+    },
+    "code": {
+      "id": "BR2601052",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.791",
+      "lon": "-35.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2601102",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Araripina",
+      "en": "Araripina",
+      "slug": "araripina-br2601102"
+    },
+    "code": {
+      "id": "BR2601102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.703",
+      "lon": "-40.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2601201",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arcoverde",
+      "en": "Arcoverde",
+      "slug": "arcoverde-br2601201"
+    },
+    "code": {
+      "id": "BR2601201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.38",
+      "lon": "-36.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2601300",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barra de Guabiraba",
+      "en": "Barra de Guabiraba",
+      "slug": "barra-de-guabiraba-br2601300"
+    },
+    "code": {
+      "id": "BR2601300",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.394",
+      "lon": "-35.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2601409",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barreiros",
+      "en": "Barreiros",
+      "slug": "barreiros-br2601409"
+    },
+    "code": {
+      "id": "BR2601409",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.809",
+      "lon": "-35.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2601508",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Belém de Maria",
+      "en": "Belem de Maria",
+      "slug": "belem-de-maria-br2601508"
+    },
+    "code": {
+      "id": "BR2601508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.599",
+      "lon": "-35.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2601607",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Belém do São Francisco",
+      "en": "Belem do Sao Francisco",
+      "slug": "belem-do-sao-francisco-br2601607"
+    },
+    "code": {
+      "id": "BR2601607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.536",
+      "lon": "-38.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2601706",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Belo Jardim",
+      "en": "Belo Jardim",
+      "slug": "belo-jardim-br2601706"
+    },
+    "code": {
+      "id": "BR2601706",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.27",
+      "lon": "-36.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2601805",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Betânia",
+      "en": "Betania",
+      "slug": "betania-br2601805"
+    },
+    "code": {
+      "id": "BR2601805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.284",
+      "lon": "-38.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2601904",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bezerros",
+      "en": "Bezerros",
+      "slug": "bezerros-br2601904"
+    },
+    "code": {
+      "id": "BR2601904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.261",
+      "lon": "-35.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2602001",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bodocó",
+      "en": "Bodoco",
+      "slug": "bodoco-br2602001"
+    },
+    "code": {
+      "id": "BR2602001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.798",
+      "lon": "-39.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2602100",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bom Conselho",
+      "en": "Bom Conselho",
+      "slug": "bom-conselho-br2602100"
+    },
+    "code": {
+      "id": "BR2602100",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.2",
+      "lon": "-36.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2602209",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bom Jardim",
+      "en": "Bom Jardim",
+      "slug": "bom-jardim-br2602209"
+    },
+    "code": {
+      "id": "BR2602209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.184",
+      "lon": "-42.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2602308",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bonito",
+      "en": "Bonito",
+      "slug": "bonito-br2602308"
+    },
+    "code": {
+      "id": "BR2602308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.927",
+      "lon": "-56.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2602407",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Brejão",
+      "en": "Brejao",
+      "slug": "brejao-br2602407"
+    },
+    "code": {
+      "id": "BR2602407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.026",
+      "lon": "-36.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2602506",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Brejinho",
+      "en": "Brejinho",
+      "slug": "brejinho-br2602506"
+    },
+    "code": {
+      "id": "BR2602506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.343",
+      "lon": "-37.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2602605",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Brejo da Madre de Deus",
+      "en": "Brejo da Madre de Deus",
+      "slug": "brejo-da-madre-de-deus-br2602605"
+    },
+    "code": {
+      "id": "BR2602605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.063",
+      "lon": "-36.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2602704",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Buenos Aires",
+      "en": "Buenos Aires",
+      "slug": "buenos-aires-br2602704"
+    },
+    "code": {
+      "id": "BR2602704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.744",
+      "lon": "-35.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2602803",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Buíque",
+      "en": "Buique",
+      "slug": "buique-br2602803"
+    },
+    "code": {
+      "id": "BR2602803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.746",
+      "lon": "-37.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2602902",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cabo de Santo Agostinho",
+      "en": "Cabo de Santo Agostinho",
+      "slug": "cabo-de-santo-agostinho-br2602902"
+    },
+    "code": {
+      "id": "BR2602902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.265",
+      "lon": "-35.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2603009",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cabrobó",
+      "en": "Cabrobo",
+      "slug": "cabrobo-br2603009"
+    },
+    "code": {
+      "id": "BR2603009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.403",
+      "lon": "-39.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2603108",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cachoeirinha",
+      "en": "Cachoeirinha",
+      "slug": "cachoeirinha-br2603108"
+    },
+    "code": {
+      "id": "BR2603108",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.925",
+      "lon": "-51.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2603207",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caetés",
+      "en": "Caetes",
+      "slug": "caetes-br2603207"
+    },
+    "code": {
+      "id": "BR2603207",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.82",
+      "lon": "-36.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2603306",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Calçado",
+      "en": "Calcado",
+      "slug": "calcado-br2603306"
+    },
+    "code": {
+      "id": "BR2603306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.793",
+      "lon": "-36.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2603405",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Calumbi",
+      "en": "Calumbi",
+      "slug": "calumbi-br2603405"
+    },
+    "code": {
+      "id": "BR2603405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.009",
+      "lon": "-38.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2603454",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Camaragibe",
+      "en": "Camaragibe",
+      "slug": "camaragibe-br2603454"
+    },
+    "code": {
+      "id": "BR2603454",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.98",
+      "lon": "-34.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2603504",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Camocim de São Félix",
+      "en": "Camocim de Sao Felix",
+      "slug": "camocim-de-sao-felix-br2603504"
+    },
+    "code": {
+      "id": "BR2603504",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.351",
+      "lon": "-35.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2603603",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Camutanga",
+      "en": "Camutanga",
+      "slug": "camutanga-br2603603"
+    },
+    "code": {
+      "id": "BR2603603",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.426",
+      "lon": "-35.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2603702",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Canhotinho",
+      "en": "Canhotinho",
+      "slug": "canhotinho-br2603702"
+    },
+    "code": {
+      "id": "BR2603702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.906",
+      "lon": "-36.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2603801",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Capoeiras",
+      "en": "Capoeiras",
+      "slug": "capoeiras-br2603801"
+    },
+    "code": {
+      "id": "BR2603801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.708",
+      "lon": "-36.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2603900",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carnaíba",
+      "en": "Carnaiba",
+      "slug": "carnaiba-br2603900"
+    },
+    "code": {
+      "id": "BR2603900",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.776",
+      "lon": "-37.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2603926",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carnaubeira da Penha",
+      "en": "Carnaubeira da Penha",
+      "slug": "carnaubeira-da-penha-br2603926"
+    },
+    "code": {
+      "id": "BR2603926",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.424",
+      "lon": "-38.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2604007",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carpina",
+      "en": "Carpina",
+      "slug": "carpina-br2604007"
+    },
+    "code": {
+      "id": "BR2604007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.821",
+      "lon": "-35.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2604106",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caruaru",
+      "en": "Caruaru",
+      "slug": "caruaru-br2604106"
+    },
+    "code": {
+      "id": "BR2604106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.154",
+      "lon": "-36.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2604155",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Casinhas",
+      "en": "Casinhas",
+      "slug": "casinhas-br2604155"
+    },
+    "code": {
+      "id": "BR2604155",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.764",
+      "lon": "-35.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2604205",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Catende",
+      "en": "Catende",
+      "slug": "catende-br2604205"
+    },
+    "code": {
+      "id": "BR2604205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.669",
+      "lon": "-35.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2604304",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cedro",
+      "en": "Cedro",
+      "slug": "cedro-br2604304"
+    },
+    "code": {
+      "id": "BR2604304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.718",
+      "lon": "-39.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2604403",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chã de Alegria",
+      "en": "Cha de Alegria",
+      "slug": "cha-de-alegria-br2604403"
+    },
+    "code": {
+      "id": "BR2604403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.999",
+      "lon": "-35.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2604502",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chã Grande",
+      "en": "Cha Grande",
+      "slug": "cha-grande-br2604502"
+    },
+    "code": {
+      "id": "BR2604502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.227",
+      "lon": "-35.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2604601",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Condado",
+      "en": "Condado",
+      "slug": "condado-br2604601"
+    },
+    "code": {
+      "id": "BR2604601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.594",
+      "lon": "-35.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2604700",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Correntes",
+      "en": "Correntes",
+      "slug": "correntes-br2604700"
+    },
+    "code": {
+      "id": "BR2604700",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.122",
+      "lon": "-36.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2604809",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cortês",
+      "en": "Cortes",
+      "slug": "cortes-br2604809"
+    },
+    "code": {
+      "id": "BR2604809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.435",
+      "lon": "-35.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2604908",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cumaru",
+      "en": "Cumaru",
+      "slug": "cumaru-br2604908"
+    },
+    "code": {
+      "id": "BR2604908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.028",
+      "lon": "-35.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2605004",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cupira",
+      "en": "Cupira",
+      "slug": "cupira-br2605004"
+    },
+    "code": {
+      "id": "BR2605004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.57",
+      "lon": "-35.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2605103",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Custódia",
+      "en": "Custodia",
+      "slug": "custodia-br2605103"
+    },
+    "code": {
+      "id": "BR2605103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.143",
+      "lon": "-37.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2605152",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dormentes",
+      "en": "Dormentes",
+      "slug": "dormentes-br2605152"
+    },
+    "code": {
+      "id": "BR2605152",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.437",
+      "lon": "-40.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2605202",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Escada",
+      "en": "Escada",
+      "slug": "escada-br2605202"
+    },
+    "code": {
+      "id": "BR2605202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.363",
+      "lon": "-35.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2605301",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Exu",
+      "en": "Exu",
+      "slug": "exu-br2605301"
+    },
+    "code": {
+      "id": "BR2605301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.559",
+      "lon": "-39.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2605400",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Feira Nova",
+      "en": "Feira Nova",
+      "slug": "feira-nova-br2605400"
+    },
+    "code": {
+      "id": "BR2605400",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.311",
+      "lon": "-37.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2605459",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fernando de Noronha",
+      "en": "Fernando de Noronha",
+      "slug": "fernando-de-noronha-br2605459"
+    },
+    "code": {
+      "id": "BR2605459",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.861",
+      "lon": "-32.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2605509",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ferreiros",
+      "en": "Ferreiros",
+      "slug": "ferreiros-br2605509"
+    },
+    "code": {
+      "id": "BR2605509",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.488",
+      "lon": "-35.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2605608",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Flores",
+      "en": "Flores",
+      "slug": "flores-br2605608"
+    },
+    "code": {
+      "id": "BR2605608",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.952",
+      "lon": "-37.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2605707",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Floresta",
+      "en": "Floresta",
+      "slug": "floresta-br2605707"
+    },
+    "code": {
+      "id": "BR2605707",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.629",
+      "lon": "-52.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2605806",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Frei Miguelinho",
+      "en": "Frei Miguelinho",
+      "slug": "frei-miguelinho-br2605806"
+    },
+    "code": {
+      "id": "BR2605806",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.949",
+      "lon": "-35.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2605905",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gameleira",
+      "en": "Gameleira",
+      "slug": "gameleira-br2605905"
+    },
+    "code": {
+      "id": "BR2605905",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.594",
+      "lon": "-35.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2606002",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Garanhuns",
+      "en": "Garanhuns",
+      "slug": "garanhuns-br2606002"
+    },
+    "code": {
+      "id": "BR2606002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.921",
+      "lon": "-36.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2606101",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Glória do Goitá",
+      "en": "Gloria do Goita",
+      "slug": "gloria-do-goita-br2606101"
+    },
+    "code": {
+      "id": "BR2606101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.019",
+      "lon": "-35.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2606200",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Goiana",
+      "en": "Goiana",
+      "slug": "goiana-br2606200"
+    },
+    "code": {
+      "id": "BR2606200",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.559",
+      "lon": "-43.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2606309",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Granito",
+      "en": "Granito",
+      "slug": "granito-br2606309"
+    },
+    "code": {
+      "id": "BR2606309",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.742",
+      "lon": "-39.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2606408",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gravatá",
+      "en": "Gravata",
+      "slug": "gravata-br2606408"
+    },
+    "code": {
+      "id": "BR2606408",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.223",
+      "lon": "-35.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2606507",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Iati",
+      "en": "Iati",
+      "slug": "iati-br2606507"
+    },
+    "code": {
+      "id": "BR2606507",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.174",
+      "lon": "-36.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2606606",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ibimirim",
+      "en": "Ibimirim",
+      "slug": "ibimirim-br2606606"
+    },
+    "code": {
+      "id": "BR2606606",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.574",
+      "lon": "-37.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2606705",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ibirajuba",
+      "en": "Ibirajuba",
+      "slug": "ibirajuba-br2606705"
+    },
+    "code": {
+      "id": "BR2606705",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.619",
+      "lon": "-36.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2606804",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Igarassu",
+      "en": "Igarassu",
+      "slug": "igarassu-br2606804"
+    },
+    "code": {
+      "id": "BR2606804",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.792",
+      "lon": "-34.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2606903",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Iguaracy",
+      "en": "Iguaracy",
+      "slug": "iguaracy-br2606903"
+    },
+    "code": {
+      "id": "BR2606903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.839",
+      "lon": "-37.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2607604",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ilha de Itamaracá",
+      "en": "Ilha de Itamaraca",
+      "slug": "ilha-de-itamaraca-br2607604"
+    },
+    "code": {
+      "id": "BR2607604",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.748",
+      "lon": "-34.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2607000",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Inajá",
+      "en": "Inaja",
+      "slug": "inaja-br2607000"
+    },
+    "code": {
+      "id": "BR2607000",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.715",
+      "lon": "-52.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2607109",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ingazeira",
+      "en": "Ingazeira",
+      "slug": "ingazeira-br2607109"
+    },
+    "code": {
+      "id": "BR2607109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.711",
+      "lon": "-37.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2607208",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ipojuca",
+      "en": "Ipojuca",
+      "slug": "ipojuca-br2607208"
+    },
+    "code": {
+      "id": "BR2607208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.453",
+      "lon": "-35.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2607307",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ipubi",
+      "en": "Ipubi",
+      "slug": "ipubi-br2607307"
+    },
+    "code": {
+      "id": "BR2607307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.439",
+      "lon": "-40.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2607406",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itacuruba",
+      "en": "Itacuruba",
+      "slug": "itacuruba-br2607406"
+    },
+    "code": {
+      "id": "BR2607406",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.765",
+      "lon": "-38.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2607505",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itaíba",
+      "en": "Itaiba",
+      "slug": "itaiba-br2607505"
+    },
+    "code": {
+      "id": "BR2607505",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.978",
+      "lon": "-37.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2607653",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itambé",
+      "en": "Itambe",
+      "slug": "itambe-br2607653"
+    },
+    "code": {
+      "id": "BR2607653",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.692",
+      "lon": "-52.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2607703",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itapetim",
+      "en": "Itapetim",
+      "slug": "itapetim-br2607703"
+    },
+    "code": {
+      "id": "BR2607703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.393",
+      "lon": "-37.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2607752",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itapissuma",
+      "en": "Itapissuma",
+      "slug": "itapissuma-br2607752"
+    },
+    "code": {
+      "id": "BR2607752",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.73",
+      "lon": "-34.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2607802",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itaquitinga",
+      "en": "Itaquitinga",
+      "slug": "itaquitinga-br2607802"
+    },
+    "code": {
+      "id": "BR2607802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.684",
+      "lon": "-35.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2607901",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jaboatão dos Guararapes",
+      "en": "Jaboatao dos Guararapes",
+      "slug": "jaboatao-dos-guararapes-br2607901"
+    },
+    "code": {
+      "id": "BR2607901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.161",
+      "lon": "-34.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2607950",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jaqueira",
+      "en": "Jaqueira",
+      "slug": "jaqueira-br2607950"
+    },
+    "code": {
+      "id": "BR2607950",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.741",
+      "lon": "-35.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2608008",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jataúba",
+      "en": "Jatauba",
+      "slug": "jatauba-br2608008"
+    },
+    "code": {
+      "id": "BR2608008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.071",
+      "lon": "-36.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2608057",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jatobá",
+      "en": "Jatoba",
+      "slug": "jatoba-br2608057"
+    },
+    "code": {
+      "id": "BR2608057",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.225",
+      "lon": "-38.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2608107",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "João Alfredo",
+      "en": "Joao Alfredo",
+      "slug": "joao-alfredo-br2608107"
+    },
+    "code": {
+      "id": "BR2608107",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.865",
+      "lon": "-35.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2608206",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Joaquim Nabuco",
+      "en": "Joaquim Nabuco",
+      "slug": "joaquim-nabuco-br2608206"
+    },
+    "code": {
+      "id": "BR2608206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.549",
+      "lon": "-35.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2608255",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jucati",
+      "en": "Jucati",
+      "slug": "jucati-br2608255"
+    },
+    "code": {
+      "id": "BR2608255",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.738",
+      "lon": "-36.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2608305",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jupi",
+      "en": "Jupi",
+      "slug": "jupi-br2608305"
+    },
+    "code": {
+      "id": "BR2608305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.774",
+      "lon": "-36.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2608404",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jurema",
+      "en": "Jurema",
+      "slug": "jurema-br2608404"
+    },
+    "code": {
+      "id": "BR2608404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.78",
+      "lon": "-36.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2608503",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagoa de Itaenga",
+      "en": "Lagoa de Itaenga",
+      "slug": "lagoa-de-itaenga-br2608503"
+    },
+    "code": {
+      "id": "BR2608503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.897",
+      "lon": "-35.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2608453",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagoa do Carro",
+      "en": "Lagoa do Carro",
+      "slug": "lagoa-do-carro-br2608453"
+    },
+    "code": {
+      "id": "BR2608453",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.851",
+      "lon": "-35.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2608602",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagoa do Ouro",
+      "en": "Lagoa do Ouro",
+      "slug": "lagoa-do-ouro-br2608602"
+    },
+    "code": {
+      "id": "BR2608602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.179",
+      "lon": "-36.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2608701",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagoa dos Gatos",
+      "en": "Lagoa dos Gatos",
+      "slug": "lagoa-dos-gatos-br2608701"
+    },
+    "code": {
+      "id": "BR2608701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.685",
+      "lon": "-35.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2608750",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagoa Grande",
+      "en": "Lagoa Grande",
+      "slug": "lagoa-grande-br2608750"
+    },
+    "code": {
+      "id": "BR2608750",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.75",
+      "lon": "-46.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2608800",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lajedo",
+      "en": "Lajedo",
+      "slug": "lajedo-br2608800"
+    },
+    "code": {
+      "id": "BR2608800",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.655",
+      "lon": "-36.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2608909",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Limoeiro",
+      "en": "Limoeiro",
+      "slug": "limoeiro-br2608909"
+    },
+    "code": {
+      "id": "BR2608909",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.85",
+      "lon": "-35.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2609006",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Macaparana",
+      "en": "Macaparana",
+      "slug": "macaparana-br2609006"
+    },
+    "code": {
+      "id": "BR2609006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.53",
+      "lon": "-35.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2609105",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Machados",
+      "en": "Machados",
+      "slug": "machados-br2609105"
+    },
+    "code": {
+      "id": "BR2609105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.712",
+      "lon": "-35.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2609154",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Manari",
+      "en": "Manari",
+      "slug": "manari-br2609154"
+    },
+    "code": {
+      "id": "BR2609154",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.908",
+      "lon": "-37.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2609204",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maraial",
+      "en": "Maraial",
+      "slug": "maraial-br2609204"
+    },
+    "code": {
+      "id": "BR2609204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.837",
+      "lon": "-35.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2609303",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mirandiba",
+      "en": "Mirandiba",
+      "slug": "mirandiba-br2609303"
+    },
+    "code": {
+      "id": "BR2609303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.18",
+      "lon": "-38.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2614303",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Moreilândia",
+      "en": "Moreilandia",
+      "slug": "moreilandia-br2614303"
+    },
+    "code": {
+      "id": "BR2614303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.636",
+      "lon": "-39.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2609402",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Moreno",
+      "en": "Moreno",
+      "slug": "moreno-br2609402"
+    },
+    "code": {
+      "id": "BR2609402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.156",
+      "lon": "-35.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2609501",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nazaré da Mata",
+      "en": "Nazare da Mata",
+      "slug": "nazare-da-mata-br2609501"
+    },
+    "code": {
+      "id": "BR2609501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.732",
+      "lon": "-35.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2609600",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Olinda",
+      "en": "Olinda",
+      "slug": "olinda-br2609600"
+    },
+    "code": {
+      "id": "BR2609600",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.985",
+      "lon": "-34.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2609709",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Orobó",
+      "en": "Orobo",
+      "slug": "orobo-br2609709"
+    },
+    "code": {
+      "id": "BR2609709",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.701",
+      "lon": "-35.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2609808",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Orocó",
+      "en": "Oroco",
+      "slug": "oroco-br2609808"
+    },
+    "code": {
+      "id": "BR2609808",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.481",
+      "lon": "-39.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2609907",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ouricuri",
+      "en": "Ouricuri",
+      "slug": "ouricuri-br2609907"
+    },
+    "code": {
+      "id": "BR2609907",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.035",
+      "lon": "-40.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2610004",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palmares",
+      "en": "Palmares",
+      "slug": "palmares-br2610004"
+    },
+    "code": {
+      "id": "BR2610004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.635",
+      "lon": "-35.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2610103",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palmeirina",
+      "en": "Palmeirina",
+      "slug": "palmeirina-br2610103"
+    },
+    "code": {
+      "id": "BR2610103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.02",
+      "lon": "-36.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2610202",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Panelas",
+      "en": "Panelas",
+      "slug": "panelas-br2610202"
+    },
+    "code": {
+      "id": "BR2610202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.658",
+      "lon": "-36.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2610301",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paranatama",
+      "en": "Paranatama",
+      "slug": "paranatama-br2610301"
+    },
+    "code": {
+      "id": "BR2610301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.896",
+      "lon": "-36.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2610400",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Parnamirim",
+      "en": "Parnamirim",
+      "slug": "parnamirim-br2610400"
+    },
+    "code": {
+      "id": "BR2610400",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.211",
+      "lon": "-39.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2610509",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Passira",
+      "en": "Passira",
+      "slug": "passira-br2610509"
+    },
+    "code": {
+      "id": "BR2610509",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.998",
+      "lon": "-35.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2610608",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paudalho",
+      "en": "Paudalho",
+      "slug": "paudalho-br2610608"
+    },
+    "code": {
+      "id": "BR2610608",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.929",
+      "lon": "-35.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2610707",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paulista",
+      "en": "Paulista",
+      "slug": "paulista-br2610707"
+    },
+    "code": {
+      "id": "BR2610707",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.929",
+      "lon": "-34.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2610806",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedra",
+      "en": "Pedra",
+      "slug": "pedra-br2610806"
+    },
+    "code": {
+      "id": "BR2610806",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.618",
+      "lon": "-36.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2610905",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pesqueira",
+      "en": "Pesqueira",
+      "slug": "pesqueira-br2610905"
+    },
+    "code": {
+      "id": "BR2610905",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.392",
+      "lon": "-36.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2611002",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Petrolândia",
+      "en": "Petrolandia",
+      "slug": "petrolandia-br2611002"
+    },
+    "code": {
+      "id": "BR2611002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.56",
+      "lon": "-49.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2611101",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Petrolina",
+      "en": "Petrolina",
+      "slug": "petrolina-br2611101"
+    },
+    "code": {
+      "id": "BR2611101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.082",
+      "lon": "-40.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2611200",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Poção",
+      "en": "Pocao",
+      "slug": "pocao-br2611200"
+    },
+    "code": {
+      "id": "BR2611200",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.217",
+      "lon": "-36.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2611309",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pombos",
+      "en": "Pombos",
+      "slug": "pombos-br2611309"
+    },
+    "code": {
+      "id": "BR2611309",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.22",
+      "lon": "-35.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2611408",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Primavera",
+      "en": "Primavera",
+      "slug": "primavera-br2611408"
+    },
+    "code": {
+      "id": "BR2611408",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.33",
+      "lon": "-35.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2611507",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quipapá",
+      "en": "Quipapa",
+      "slug": "quipapa-br2611507"
+    },
+    "code": {
+      "id": "BR2611507",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.845",
+      "lon": "-36.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2611533",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quixaba",
+      "en": "Quixaba",
+      "slug": "quixaba-br2611533"
+    },
+    "code": {
+      "id": "BR2611533",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.712",
+      "lon": "-37.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2611606",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Recife",
+      "en": "Recife",
+      "slug": "recife-br2611606"
+    },
+    "code": {
+      "id": "BR2611606",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.031",
+      "lon": "-34.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2611705",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Riacho das Almas",
+      "en": "Riacho das Almas",
+      "slug": "riacho-das-almas-br2611705"
+    },
+    "code": {
+      "id": "BR2611705",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.064",
+      "lon": "-35.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2611804",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ribeirão",
+      "en": "Ribeirao",
+      "slug": "ribeirao-br2611804"
+    },
+    "code": {
+      "id": "BR2611804",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.505",
+      "lon": "-35.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2611903",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rio Formoso",
+      "en": "Rio Formoso",
+      "slug": "rio-formoso-br2611903"
+    },
+    "code": {
+      "id": "BR2611903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.677",
+      "lon": "-35.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2612000",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sairé",
+      "en": "Saire",
+      "slug": "saire-br2612000"
+    },
+    "code": {
+      "id": "BR2612000",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.293",
+      "lon": "-35.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2612109",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Salgadinho",
+      "en": "Salgadinho",
+      "slug": "salgadinho-br2612109"
+    },
+    "code": {
+      "id": "BR2612109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.924",
+      "lon": "-35.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2612208",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Salgueiro",
+      "en": "Salgueiro",
+      "slug": "salgueiro-br2612208"
+    },
+    "code": {
+      "id": "BR2612208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.072",
+      "lon": "-39.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2612307",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Saloá",
+      "en": "Saloa",
+      "slug": "saloa-br2612307"
+    },
+    "code": {
+      "id": "BR2612307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.022",
+      "lon": "-36.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2612406",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sanharó",
+      "en": "Sanharo",
+      "slug": "sanharo-br2612406"
+    },
+    "code": {
+      "id": "BR2612406",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.299",
+      "lon": "-36.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2612455",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz",
+      "en": "Santa Cruz",
+      "slug": "santa-cruz-br2612455"
+    },
+    "code": {
+      "id": "BR2612455",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.319",
+      "lon": "-40.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2612471",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz da Baixa Verde",
+      "en": "Santa Cruz da Baixa Verde",
+      "slug": "santa-cruz-da-baixa-verde-br2612471"
+    },
+    "code": {
+      "id": "BR2612471",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.843",
+      "lon": "-38.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2612505",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz do Capibaribe",
+      "en": "Santa Cruz do Capibaribe",
+      "slug": "santa-cruz-do-capibaribe-br2612505"
+    },
+    "code": {
+      "id": "BR2612505",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.901",
+      "lon": "-36.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2612554",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Filomena",
+      "en": "Santa Filomena",
+      "slug": "santa-filomena-br2612554"
+    },
+    "code": {
+      "id": "BR2612554",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.287",
+      "lon": "-40.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2612604",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Maria da Boa Vista",
+      "en": "Santa Maria da Boa Vista",
+      "slug": "santa-maria-da-boa-vista-br2612604"
+    },
+    "code": {
+      "id": "BR2612604",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.596",
+      "lon": "-39.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2612703",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Maria do Cambucá",
+      "en": "Santa Maria do Cambuca",
+      "slug": "santa-maria-do-cambuca-br2612703"
+    },
+    "code": {
+      "id": "BR2612703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.822",
+      "lon": "-35.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2612802",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Terezinha",
+      "en": "Santa Terezinha",
+      "slug": "santa-terezinha-br2612802"
+    },
+    "code": {
+      "id": "BR2612802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.379",
+      "lon": "-50.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2612901",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Benedito do Sul",
+      "en": "Sao Benedito do Sul",
+      "slug": "sao-benedito-do-sul-br2612901"
+    },
+    "code": {
+      "id": "BR2612901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.824",
+      "lon": "-35.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2613008",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Bento do Una",
+      "en": "Sao Bento do Una",
+      "slug": "sao-bento-do-una-br2613008"
+    },
+    "code": {
+      "id": "BR2613008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.538",
+      "lon": "-36.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2613107",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Caitano",
+      "en": "Sao Caitano",
+      "slug": "sao-caitano-br2613107"
+    },
+    "code": {
+      "id": "BR2613107",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.337",
+      "lon": "-36.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2613206",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São João",
+      "en": "Sao Joao",
+      "slug": "sao-joao-br2613206"
+    },
+    "code": {
+      "id": "BR2613206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.768",
+      "lon": "-52.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2613305",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Joaquim do Monte",
+      "en": "Sao Joaquim do Monte",
+      "slug": "sao-joaquim-do-monte-br2613305"
+    },
+    "code": {
+      "id": "BR2613305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.465",
+      "lon": "-35.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2613404",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José da Coroa Grande",
+      "en": "Sao Jose da Coroa Grande",
+      "slug": "sao-jose-da-coroa-grande-br2613404"
+    },
+    "code": {
+      "id": "BR2613404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.873",
+      "lon": "-35.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2613503",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José do Belmonte",
+      "en": "Sao Jose do Belmonte",
+      "slug": "sao-jose-do-belmonte-br2613503"
+    },
+    "code": {
+      "id": "BR2613503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.834",
+      "lon": "-38.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2613602",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José do Egito",
+      "en": "Sao Jose do Egito",
+      "slug": "sao-jose-do-egito-br2613602"
+    },
+    "code": {
+      "id": "BR2613602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.546",
+      "lon": "-37.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2613701",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Lourenço da Mata",
+      "en": "Sao Lourenco da Mata",
+      "slug": "sao-lourenco-da-mata-br2613701"
+    },
+    "code": {
+      "id": "BR2613701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.008",
+      "lon": "-35.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2613800",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Vicente Férrer",
+      "en": "Sao Vicente Ferrer",
+      "slug": "sao-vicente-ferrer-br2613800"
+    },
+    "code": {
+      "id": "BR2613800",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.596",
+      "lon": "-35.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2613909",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Serra Talhada",
+      "en": "Serra Talhada",
+      "slug": "serra-talhada-br2613909"
+    },
+    "code": {
+      "id": "BR2613909",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.065",
+      "lon": "-38.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2614006",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Serrita",
+      "en": "Serrita",
+      "slug": "serrita-br2614006"
+    },
+    "code": {
+      "id": "BR2614006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.837",
+      "lon": "-39.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2614105",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sertânia",
+      "en": "Sertania",
+      "slug": "sertania-br2614105"
+    },
+    "code": {
+      "id": "BR2614105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.228",
+      "lon": "-37.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2614204",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sirinhaém",
+      "en": "Sirinhaem",
+      "slug": "sirinhaem-br2614204"
+    },
+    "code": {
+      "id": "BR2614204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.597",
+      "lon": "-35.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2614402",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Solidão",
+      "en": "Solidao",
+      "slug": "solidao-br2614402"
+    },
+    "code": {
+      "id": "BR2614402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.594",
+      "lon": "-37.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2614501",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Surubim",
+      "en": "Surubim",
+      "slug": "surubim-br2614501"
+    },
+    "code": {
+      "id": "BR2614501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.883",
+      "lon": "-35.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2614600",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tabira",
+      "en": "Tabira",
+      "slug": "tabira-br2614600"
+    },
+    "code": {
+      "id": "BR2614600",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.598",
+      "lon": "-37.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2614709",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tacaimbó",
+      "en": "Tacaimbo",
+      "slug": "tacaimbo-br2614709"
+    },
+    "code": {
+      "id": "BR2614709",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.327",
+      "lon": "-36.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2614808",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tacaratu",
+      "en": "Tacaratu",
+      "slug": "tacaratu-br2614808"
+    },
+    "code": {
+      "id": "BR2614808",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.984",
+      "lon": "-37.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2614857",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tamandaré",
+      "en": "Tamandare",
+      "slug": "tamandare-br2614857"
+    },
+    "code": {
+      "id": "BR2614857",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.757",
+      "lon": "-35.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2615003",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Taquaritinga do Norte",
+      "en": "Taquaritinga do Norte",
+      "slug": "taquaritinga-do-norte-br2615003"
+    },
+    "code": {
+      "id": "BR2615003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.871",
+      "lon": "-36.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2615102",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Terezinha",
+      "en": "Terezinha",
+      "slug": "terezinha-br2615102"
+    },
+    "code": {
+      "id": "BR2615102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.082",
+      "lon": "-36.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2615201",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Terra Nova",
+      "en": "Terra Nova",
+      "slug": "terra-nova-br2615201"
+    },
+    "code": {
+      "id": "BR2615201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.384",
+      "lon": "-38.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2615300",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Timbaúba",
+      "en": "Timbauba",
+      "slug": "timbauba-br2615300"
+    },
+    "code": {
+      "id": "BR2615300",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.529",
+      "lon": "-35.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2615409",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Toritama",
+      "en": "Toritama",
+      "slug": "toritama-br2615409"
+    },
+    "code": {
+      "id": "BR2615409",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.998",
+      "lon": "-36.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2615508",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tracunhaém",
+      "en": "Tracunhaem",
+      "slug": "tracunhaem-br2615508"
+    },
+    "code": {
+      "id": "BR2615508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.728",
+      "lon": "-35.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2615607",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Trindade",
+      "en": "Trindade",
+      "slug": "trindade-br2615607"
+    },
+    "code": {
+      "id": "BR2615607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.666",
+      "lon": "-49.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2615706",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Triunfo",
+      "en": "Triunfo",
+      "slug": "triunfo-br2615706"
+    },
+    "code": {
+      "id": "BR2615706",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.833",
+      "lon": "-51.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2615805",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tupanatinga",
+      "en": "Tupanatinga",
+      "slug": "tupanatinga-br2615805"
+    },
+    "code": {
+      "id": "BR2615805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.767",
+      "lon": "-37.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2615904",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tuparetama",
+      "en": "Tuparetama",
+      "slug": "tuparetama-br2615904"
+    },
+    "code": {
+      "id": "BR2615904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.705",
+      "lon": "-37.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2616001",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Venturosa",
+      "en": "Venturosa",
+      "slug": "venturosa-br2616001"
+    },
+    "code": {
+      "id": "BR2616001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.57",
+      "lon": "-36.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2616100",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Verdejante",
+      "en": "Verdejante",
+      "slug": "verdejante-br2616100"
+    },
+    "code": {
+      "id": "BR2616100",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.972",
+      "lon": "-39.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2616183",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vertente do Lério",
+      "en": "Vertente do Lerio",
+      "slug": "vertente-do-lerio-br2616183"
+    },
+    "code": {
+      "id": "BR2616183",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.78",
+      "lon": "-35.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2616209",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vertentes",
+      "en": "Vertentes",
+      "slug": "vertentes-br2616209"
+    },
+    "code": {
+      "id": "BR2616209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.898",
+      "lon": "-35.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2616308",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vicência",
+      "en": "Vicencia",
+      "slug": "vicencia-br2616308"
+    },
+    "code": {
+      "id": "BR2616308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.644",
+      "lon": "-35.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2616407",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vitória de Santo Antão",
+      "en": "Vitoria de Santo Antao",
+      "slug": "vitoria-de-santo-antao-br2616407"
+    },
+    "code": {
+      "id": "BR2616407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.151",
+      "lon": "-35.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2616506",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Xexéu",
+      "en": "Xexeu",
+      "slug": "xexeu-br2616506"
+    },
+    "code": {
+      "id": "BR2616506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR26",
+      "level": 1,
+      "name": {
+        "local": "Pernambuco",
+        "en": "Pernambuco",
+        "slug": "pernambuco-br26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR26",
+        "level": 1,
+        "name": {
+          "local": "Pernambuco",
+          "en": "Pernambuco",
+          "slug": "pernambuco-br26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.854",
+      "lon": "-35.635"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

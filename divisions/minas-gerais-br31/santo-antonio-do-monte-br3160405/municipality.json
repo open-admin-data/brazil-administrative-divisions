@@ -1,0 +1,45 @@
+{
+  "id": "BR3160405",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Antônio do Monte",
+    "en": "Santo Antonio do Monte",
+    "slug": "santo-antonio-do-monte-br3160405"
+  },
+  "code": {
+    "id": "BR3160405",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.077",
+    "lon": "-45.304"
+  },
+  "metadata": {},
+  "source": {}
+}

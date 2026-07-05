@@ -1,0 +1,45 @@
+{
+  "id": "BR2902807",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barra da Estiva",
+    "en": "Barra da Estiva",
+    "slug": "barra-da-estiva-br2902807"
+  },
+  "code": {
+    "id": "BR2902807",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.695",
+    "lon": "-41.087"
+  },
+  "metadata": {},
+  "source": {}
+}

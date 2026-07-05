@@ -1,0 +1,45 @@
+{
+  "id": "BR1508035",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tracuateua",
+    "en": "Tracuateua",
+    "slug": "tracuateua-br1508035"
+  },
+  "code": {
+    "id": "BR1508035",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.003",
+    "lon": "-46.942"
+  },
+  "metadata": {},
+  "source": {}
+}

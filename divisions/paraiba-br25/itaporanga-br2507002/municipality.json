@@ -1,0 +1,45 @@
+{
+  "id": "BR2507002",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Itaporanga",
+    "en": "Itaporanga",
+    "slug": "itaporanga-br2507002"
+  },
+  "code": {
+    "id": "BR2507002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.67",
+    "lon": "-49.478"
+  },
+  "metadata": {},
+  "source": {}
+}

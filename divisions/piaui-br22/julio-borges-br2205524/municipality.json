@@ -1,0 +1,45 @@
+{
+  "id": "BR2205524",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Júlio Borges",
+    "en": "Julio Borges",
+    "slug": "julio-borges-br2205524"
+  },
+  "code": {
+    "id": "BR2205524",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.501",
+    "lon": "-44.183"
+  },
+  "metadata": {},
+  "source": {}
+}

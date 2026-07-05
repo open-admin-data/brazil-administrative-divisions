@@ -1,0 +1,33 @@
+{
+  "id": "BR51",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Mato Grosso",
+    "en": "Mato Grosso",
+    "slug": "mato-grosso-br51"
+  },
+  "code": {
+    "id": "BR51",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 141
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.81",
+    "lon": "-55.812"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/br/states/mato-grosso-br51/",
+    "api": "https://openadmindata.org/api/br/"
+  }
+}

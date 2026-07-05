@@ -1,0 +1,45 @@
+{
+  "id": "BR2917607",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jaguaquara",
+    "en": "Jaguaquara",
+    "slug": "jaguaquara-br2917607"
+  },
+  "code": {
+    "id": "BR2917607",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.568",
+    "lon": "-39.938"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3149309",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pedro Leopoldo",
+    "en": "Pedro Leopoldo",
+    "slug": "pedro-leopoldo-br3149309"
+  },
+  "code": {
+    "id": "BR3149309",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.632",
+    "lon": "-44.036"
+  },
+  "metadata": {},
+  "source": {}
+}

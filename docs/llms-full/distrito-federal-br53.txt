@@ -1,0 +1,14 @@
+# Distrito Federal — Brazil Administrative Divisions
+
+> 1 municipalitys
+> Code: BR53
+> Coordinates: -15.778, -47.862
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Brasília (Brasilia)
+
+Code: BR5300108, Coordinates: -15.82, -47.701
+
+

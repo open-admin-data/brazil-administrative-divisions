@@ -1,0 +1,45 @@
+{
+  "id": "BR2500205",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Aguiar",
+    "en": "Aguiar",
+    "slug": "aguiar-br2500205"
+  },
+  "code": {
+    "id": "BR2500205",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.095",
+    "lon": "-38.222"
+  },
+  "metadata": {},
+  "source": {}
+}

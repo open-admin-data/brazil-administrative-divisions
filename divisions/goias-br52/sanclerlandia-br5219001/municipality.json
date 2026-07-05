@@ -1,0 +1,45 @@
+{
+  "id": "BR5219001",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sanclerlândia",
+    "en": "Sanclerlandia",
+    "slug": "sanclerlandia-br5219001"
+  },
+  "code": {
+    "id": "BR5219001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.321",
+    "lon": "-50.42"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR5203401",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bom Jardim de Goiás",
+    "en": "Bom Jardim de Goias",
+    "slug": "bom-jardim-de-goias-br5203401"
+  },
+  "code": {
+    "id": "BR5203401",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.243",
+    "lon": "-52.05"
+  },
+  "metadata": {},
+  "source": {}
+}

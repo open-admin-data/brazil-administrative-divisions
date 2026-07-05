@@ -1,0 +1,45 @@
+{
+  "id": "BR1100023",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ariquemes",
+    "en": "Ariquemes",
+    "slug": "ariquemes-br1100023"
+  },
+  "code": {
+    "id": "BR1100023",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.924",
+    "lon": "-62.887"
+  },
+  "metadata": {},
+  "source": {}
+}

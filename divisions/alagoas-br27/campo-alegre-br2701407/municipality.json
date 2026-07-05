@@ -1,0 +1,45 @@
+{
+  "id": "BR2701407",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campo Alegre",
+    "en": "Campo Alegre",
+    "slug": "campo-alegre-br2701407"
+  },
+  "code": {
+    "id": "BR2701407",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.112",
+    "lon": "-49.22"
+  },
+  "metadata": {},
+  "source": {}
+}

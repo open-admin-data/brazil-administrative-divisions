@@ -1,0 +1,45 @@
+{
+  "id": "BR2708204",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Brás",
+    "en": "Sao Bras",
+    "slug": "sao-bras-br2708204"
+  },
+  "code": {
+    "id": "BR2708204",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.119",
+    "lon": "-36.855"
+  },
+  "metadata": {},
+  "source": {}
+}

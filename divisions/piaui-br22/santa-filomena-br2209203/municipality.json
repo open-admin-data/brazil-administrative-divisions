@@ -1,0 +1,45 @@
+{
+  "id": "BR2209203",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Filomena",
+    "en": "Santa Filomena",
+    "slug": "santa-filomena-br2209203"
+  },
+  "code": {
+    "id": "BR2209203",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.287",
+    "lon": "-40.61"
+  },
+  "metadata": {},
+  "source": {}
+}

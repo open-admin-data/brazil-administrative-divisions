@@ -1,0 +1,45 @@
+{
+  "id": "BR3162450",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São João das Missões",
+    "en": "Sao Joao das Missoes",
+    "slug": "sao-joao-das-missoes-br3162450"
+  },
+  "code": {
+    "id": "BR3162450",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.897",
+    "lon": "-44.21"
+  },
+  "metadata": {},
+  "source": {}
+}

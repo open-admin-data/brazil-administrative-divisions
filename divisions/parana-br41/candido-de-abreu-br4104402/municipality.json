@@ -1,0 +1,45 @@
+{
+  "id": "BR4104402",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cândido de Abreu",
+    "en": "Candido de Abreu",
+    "slug": "candido-de-abreu-br4104402"
+  },
+  "code": {
+    "id": "BR4104402",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.675",
+    "lon": "-51.269"
+  },
+  "metadata": {},
+  "source": {}
+}

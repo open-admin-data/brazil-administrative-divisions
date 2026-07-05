@@ -1,0 +1,45 @@
+{
+  "id": "BR1703206",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bernardo Sayão",
+    "en": "Bernardo Sayao",
+    "slug": "bernardo-sayao-br1703206"
+  },
+  "code": {
+    "id": "BR1703206",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR17",
+    "level": 1,
+    "name": {
+      "local": "Tocantins",
+      "en": "Tocantins",
+      "slug": "tocantins-br17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR17",
+      "level": 1,
+      "name": {
+        "local": "Tocantins",
+        "en": "Tocantins",
+        "slug": "tocantins-br17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.983",
+    "lon": "-48.96"
+  },
+  "metadata": {},
+  "source": {}
+}

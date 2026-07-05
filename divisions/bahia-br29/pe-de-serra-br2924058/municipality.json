@@ -1,0 +1,45 @@
+{
+  "id": "BR2924058",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pé de Serra",
+    "en": "Pe de Serra",
+    "slug": "pe-de-serra-br2924058"
+  },
+  "code": {
+    "id": "BR2924058",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.901",
+    "lon": "-39.624"
+  },
+  "metadata": {},
+  "source": {}
+}

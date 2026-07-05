@@ -1,0 +1,45 @@
+{
+  "id": "BR5200308",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alexânia",
+    "en": "Alexania",
+    "slug": "alexania-br5200308"
+  },
+  "code": {
+    "id": "BR5200308",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.148",
+    "lon": "-48.459"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2109007",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Porto Franco",
+    "en": "Porto Franco",
+    "slug": "porto-franco-br2109007"
+  },
+  "code": {
+    "id": "BR2109007",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.348",
+    "lon": "-47.078"
+  },
+  "metadata": {},
+  "source": {}
+}

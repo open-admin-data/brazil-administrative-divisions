@@ -1,0 +1,45 @@
+{
+  "id": "BR2111631",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Raimundo do Doca Bezerra",
+    "en": "Sao Raimundo do Doca Bezerra",
+    "slug": "sao-raimundo-do-doca-bezerra-br2111631"
+  },
+  "code": {
+    "id": "BR2111631",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.089",
+    "lon": "-45.143"
+  },
+  "metadata": {},
+  "source": {}
+}

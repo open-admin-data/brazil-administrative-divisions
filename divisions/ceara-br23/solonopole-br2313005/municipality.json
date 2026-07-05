@@ -1,0 +1,45 @@
+{
+  "id": "BR2313005",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Solonópole",
+    "en": "Solonopole",
+    "slug": "solonopole-br2313005"
+  },
+  "code": {
+    "id": "BR2313005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.862",
+    "lon": "-38.996"
+  },
+  "metadata": {},
+  "source": {}
+}

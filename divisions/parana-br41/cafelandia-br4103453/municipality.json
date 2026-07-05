@@ -1,0 +1,45 @@
+{
+  "id": "BR4103453",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cafelândia",
+    "en": "Cafelandia",
+    "slug": "cafelandia-br4103453"
+  },
+  "code": {
+    "id": "BR4103453",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.685",
+    "lon": "-53.35"
+  },
+  "metadata": {},
+  "source": {}
+}

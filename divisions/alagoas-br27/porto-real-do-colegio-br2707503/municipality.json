@@ -1,0 +1,45 @@
+{
+  "id": "BR2707503",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Porto Real do Colégio",
+    "en": "Porto Real do Colegio",
+    "slug": "porto-real-do-colegio-br2707503"
+  },
+  "code": {
+    "id": "BR2707503",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.106",
+    "lon": "-36.724"
+  },
+  "metadata": {},
+  "source": {}
+}

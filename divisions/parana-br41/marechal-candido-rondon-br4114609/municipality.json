@@ -1,0 +1,45 @@
+{
+  "id": "BR4114609",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Marechal Cândido Rondon",
+    "en": "Marechal Candido Rondon",
+    "slug": "marechal-candido-rondon-br4114609"
+  },
+  "code": {
+    "id": "BR4114609",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.565",
+    "lon": "-54.12"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3140803",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Matias Barbosa",
+    "en": "Matias Barbosa",
+    "slug": "matias-barbosa-br3140803"
+  },
+  "code": {
+    "id": "BR3140803",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.879",
+    "lon": "-43.303"
+  },
+  "metadata": {},
+  "source": {}
+}

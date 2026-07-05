@@ -1,0 +1,45 @@
+{
+  "id": "BR1101807",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vale do Paraíso",
+    "en": "Vale do Paraiso",
+    "slug": "vale-do-paraiso-br1101807"
+  },
+  "code": {
+    "id": "BR1101807",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR11",
+    "level": 1,
+    "name": {
+      "local": "Rondônia",
+      "en": "Rondonia",
+      "slug": "rondonia-br11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR11",
+      "level": 1,
+      "name": {
+        "local": "Rondônia",
+        "en": "Rondonia",
+        "slug": "rondonia-br11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.215",
+    "lon": "-62.074"
+  },
+  "metadata": {},
+  "source": {}
+}

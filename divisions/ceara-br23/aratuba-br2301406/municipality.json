@@ -1,0 +1,45 @@
+{
+  "id": "BR2301406",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Aratuba",
+    "en": "Aratuba",
+    "slug": "aratuba-br2301406"
+  },
+  "code": {
+    "id": "BR2301406",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.417",
+    "lon": "-39.041"
+  },
+  "metadata": {},
+  "source": {}
+}

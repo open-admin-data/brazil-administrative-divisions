@@ -1,0 +1,45 @@
+{
+  "id": "BR2904308",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Brejões",
+    "en": "Brejoes",
+    "slug": "brejoes-br2904308"
+  },
+  "code": {
+    "id": "BR2904308",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.104",
+    "lon": "-39.834"
+  },
+  "metadata": {},
+  "source": {}
+}

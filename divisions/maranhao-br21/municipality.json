@@ -1,0 +1,9767 @@
+[
+  {
+    "id": "BR2100055",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Açailândia",
+      "en": "Acailandia",
+      "slug": "acailandia-br2100055"
+    },
+    "code": {
+      "id": "BR2100055",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.73",
+      "lon": "-47.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2100105",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Afonso Cunha",
+      "en": "Afonso Cunha",
+      "slug": "afonso-cunha-br2100105"
+    },
+    "code": {
+      "id": "BR2100105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.204",
+      "lon": "-43.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2100154",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Água Doce do Maranhão",
+      "en": "Agua Doce do Maranhao",
+      "slug": "agua-doce-do-maranhao-br2100154"
+    },
+    "code": {
+      "id": "BR2100154",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.922",
+      "lon": "-42.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2100204",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alcântara",
+      "en": "Alcantara",
+      "slug": "alcantara-br2100204"
+    },
+    "code": {
+      "id": "BR2100204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.393",
+      "lon": "-44.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2100303",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aldeias Altas",
+      "en": "Aldeias Altas",
+      "slug": "aldeias-altas-br2100303"
+    },
+    "code": {
+      "id": "BR2100303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.587",
+      "lon": "-43.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2100402",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Altamira do Maranhão",
+      "en": "Altamira do Maranhao",
+      "slug": "altamira-do-maranhao-br2100402"
+    },
+    "code": {
+      "id": "BR2100402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.16",
+      "lon": "-45.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2100436",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alto Alegre do Maranhão",
+      "en": "Alto Alegre do Maranhao",
+      "slug": "alto-alegre-do-maranhao-br2100436"
+    },
+    "code": {
+      "id": "BR2100436",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.254",
+      "lon": "-44.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2100477",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alto Alegre do Pindaré",
+      "en": "Alto Alegre do Pindare",
+      "slug": "alto-alegre-do-pindare-br2100477"
+    },
+    "code": {
+      "id": "BR2100477",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.843",
+      "lon": "-45.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2100501",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alto Parnaíba",
+      "en": "Alto Parnaiba",
+      "slug": "alto-parnaiba-br2100501"
+    },
+    "code": {
+      "id": "BR2100501",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.498",
+      "lon": "-46.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2100550",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amapá do Maranhão",
+      "en": "Amapa do Maranhao",
+      "slug": "amapa-do-maranhao-br2100550"
+    },
+    "code": {
+      "id": "BR2100550",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.699",
+      "lon": "-45.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2100600",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amarante do Maranhão",
+      "en": "Amarante do Maranhao",
+      "slug": "amarante-do-maranhao-br2100600"
+    },
+    "code": {
+      "id": "BR2100600",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.458",
+      "lon": "-46.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2100709",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Anajatuba",
+      "en": "Anajatuba",
+      "slug": "anajatuba-br2100709"
+    },
+    "code": {
+      "id": "BR2100709",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.242",
+      "lon": "-44.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2100808",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Anapurus",
+      "en": "Anapurus",
+      "slug": "anapurus-br2100808"
+    },
+    "code": {
+      "id": "BR2100808",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.547",
+      "lon": "-43.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2100832",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Apicum-Açu",
+      "en": "Apicum-Acu",
+      "slug": "apicum-acu-br2100832"
+    },
+    "code": {
+      "id": "BR2100832",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.543",
+      "lon": "-45.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2100873",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Araguanã",
+      "en": "Araguana",
+      "slug": "araguana-br2100873"
+    },
+    "code": {
+      "id": "BR2100873",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.003",
+      "lon": "-45.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2100907",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Araioses",
+      "en": "Araioses",
+      "slug": "araioses-br2100907"
+    },
+    "code": {
+      "id": "BR2100907",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.924",
+      "lon": "-42.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2100956",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arame",
+      "en": "Arame",
+      "slug": "arame-br2100956"
+    },
+    "code": {
+      "id": "BR2100956",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.071",
+      "lon": "-45.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2101004",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arari",
+      "en": "Arari",
+      "slug": "arari-br2101004"
+    },
+    "code": {
+      "id": "BR2101004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.581",
+      "lon": "-44.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2101103",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Axixá",
+      "en": "Axixa",
+      "slug": "axixa-br2101103"
+    },
+    "code": {
+      "id": "BR2101103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.848",
+      "lon": "-44.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2101202",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bacabal",
+      "en": "Bacabal",
+      "slug": "bacabal-br2101202"
+    },
+    "code": {
+      "id": "BR2101202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.019",
+      "lon": "-44.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2101251",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bacabeira",
+      "en": "Bacabeira",
+      "slug": "bacabeira-br2101251"
+    },
+    "code": {
+      "id": "BR2101251",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.897",
+      "lon": "-44.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2101301",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bacuri",
+      "en": "Bacuri",
+      "slug": "bacuri-br2101301"
+    },
+    "code": {
+      "id": "BR2101301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.666",
+      "lon": "-45.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2101350",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bacurituba",
+      "en": "Bacurituba",
+      "slug": "bacurituba-br2101350"
+    },
+    "code": {
+      "id": "BR2101350",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.683",
+      "lon": "-44.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2101400",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Balsas",
+      "en": "Balsas",
+      "slug": "balsas-br2101400"
+    },
+    "code": {
+      "id": "BR2101400",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.475",
+      "lon": "-46.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2101509",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barão de Grajaú",
+      "en": "Barao de Grajau",
+      "slug": "barao-de-grajau-br2101509"
+    },
+    "code": {
+      "id": "BR2101509",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.624",
+      "lon": "-43.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2101608",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barra do Corda",
+      "en": "Barra do Corda",
+      "slug": "barra-do-corda-br2101608"
+    },
+    "code": {
+      "id": "BR2101608",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.374",
+      "lon": "-45.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2101707",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barreirinhas",
+      "en": "Barreirinhas",
+      "slug": "barreirinhas-br2101707"
+    },
+    "code": {
+      "id": "BR2101707",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.789",
+      "lon": "-42.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2101772",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bela Vista do Maranhão",
+      "en": "Bela Vista do Maranhao",
+      "slug": "bela-vista-do-maranhao-br2101772"
+    },
+    "code": {
+      "id": "BR2101772",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.786",
+      "lon": "-45.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2101731",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Belágua",
+      "en": "Belagua",
+      "slug": "belagua-br2101731"
+    },
+    "code": {
+      "id": "BR2101731",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.066",
+      "lon": "-43.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2101806",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Benedito Leite",
+      "en": "Benedito Leite",
+      "slug": "benedito-leite-br2101806"
+    },
+    "code": {
+      "id": "BR2101806",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.129",
+      "lon": "-44.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2101905",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bequimão",
+      "en": "Bequimao",
+      "slug": "bequimao-br2101905"
+    },
+    "code": {
+      "id": "BR2101905",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.409",
+      "lon": "-44.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2101939",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bernardo do Mearim",
+      "en": "Bernardo do Mearim",
+      "slug": "bernardo-do-mearim-br2101939"
+    },
+    "code": {
+      "id": "BR2101939",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.681",
+      "lon": "-44.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2101970",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Boa Vista do Gurupi",
+      "en": "Boa Vista do Gurupi",
+      "slug": "boa-vista-do-gurupi-br2101970"
+    },
+    "code": {
+      "id": "BR2101970",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.752",
+      "lon": "-46.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2102002",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bom Jardim",
+      "en": "Bom Jardim",
+      "slug": "bom-jardim-br2102002"
+    },
+    "code": {
+      "id": "BR2102002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.184",
+      "lon": "-42.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2102036",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bom Jesus das Selvas",
+      "en": "Bom Jesus das Selvas",
+      "slug": "bom-jesus-das-selvas-br2102036"
+    },
+    "code": {
+      "id": "BR2102036",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.511",
+      "lon": "-46.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2102077",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bom Lugar",
+      "en": "Bom Lugar",
+      "slug": "bom-lugar-br2102077"
+    },
+    "code": {
+      "id": "BR2102077",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.292",
+      "lon": "-45.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2102101",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Brejo",
+      "en": "Brejo",
+      "slug": "brejo-br2102101"
+    },
+    "code": {
+      "id": "BR2102101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.697",
+      "lon": "-42.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2102150",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Brejo de Areia",
+      "en": "Brejo de Areia",
+      "slug": "brejo-de-areia-br2102150"
+    },
+    "code": {
+      "id": "BR2102150",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.33",
+      "lon": "-45.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2102200",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Buriti",
+      "en": "Buriti",
+      "slug": "buriti-br2102200"
+    },
+    "code": {
+      "id": "BR2102200",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.934",
+      "lon": "-42.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2102309",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Buriti Bravo",
+      "en": "Buriti Bravo",
+      "slug": "buriti-bravo-br2102309"
+    },
+    "code": {
+      "id": "BR2102309",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.749",
+      "lon": "-43.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2102325",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Buriticupu",
+      "en": "Buriticupu",
+      "slug": "buriticupu-br2102325"
+    },
+    "code": {
+      "id": "BR2102325",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.403",
+      "lon": "-46.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2102358",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Buritirana",
+      "en": "Buritirana",
+      "slug": "buritirana-br2102358"
+    },
+    "code": {
+      "id": "BR2102358",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.503",
+      "lon": "-47.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2102374",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cachoeira Grande",
+      "en": "Cachoeira Grande",
+      "slug": "cachoeira-grande-br2102374"
+    },
+    "code": {
+      "id": "BR2102374",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.089",
+      "lon": "-43.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2102408",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cajapió",
+      "en": "Cajapio",
+      "slug": "cajapio-br2102408"
+    },
+    "code": {
+      "id": "BR2102408",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.865",
+      "lon": "-44.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2102507",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cajari",
+      "en": "Cajari",
+      "slug": "cajari-br2102507"
+    },
+    "code": {
+      "id": "BR2102507",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.389",
+      "lon": "-45.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2102556",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Campestre do Maranhão",
+      "en": "Campestre do Maranhao",
+      "slug": "campestre-do-maranhao-br2102556"
+    },
+    "code": {
+      "id": "BR2102556",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.154",
+      "lon": "-47.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2102606",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cândido Mendes",
+      "en": "Candido Mendes",
+      "slug": "candido-mendes-br2102606"
+    },
+    "code": {
+      "id": "BR2102606",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.561",
+      "lon": "-45.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2102705",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cantanhede",
+      "en": "Cantanhede",
+      "slug": "cantanhede-br2102705"
+    },
+    "code": {
+      "id": "BR2102705",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.667",
+      "lon": "-44.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2102754",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Capinzal do Norte",
+      "en": "Capinzal do Norte",
+      "slug": "capinzal-do-norte-br2102754"
+    },
+    "code": {
+      "id": "BR2102754",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.703",
+      "lon": "-44.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2102804",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carolina",
+      "en": "Carolina",
+      "slug": "carolina-br2102804"
+    },
+    "code": {
+      "id": "BR2102804",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.479",
+      "lon": "-47.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2102903",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carutapera",
+      "en": "Carutapera",
+      "slug": "carutapera-br2102903"
+    },
+    "code": {
+      "id": "BR2102903",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.256",
+      "lon": "-46.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2103000",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caxias",
+      "en": "Caxias",
+      "slug": "caxias-br2103000"
+    },
+    "code": {
+      "id": "BR2103000",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.835",
+      "lon": "-43.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2103109",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cedral",
+      "en": "Cedral",
+      "slug": "cedral-br2103109"
+    },
+    "code": {
+      "id": "BR2103109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.917",
+      "lon": "-49.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2103125",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Central do Maranhão",
+      "en": "Central do Maranhao",
+      "slug": "central-do-maranhao-br2103125"
+    },
+    "code": {
+      "id": "BR2103125",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.26",
+      "lon": "-44.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2103158",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Centro do Guilherme",
+      "en": "Centro do Guilherme",
+      "slug": "centro-do-guilherme-br2103158"
+    },
+    "code": {
+      "id": "BR2103158",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.409",
+      "lon": "-46.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2103174",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Centro Novo do Maranhão",
+      "en": "Centro Novo do Maranhao",
+      "slug": "centro-novo-do-maranhao-br2103174"
+    },
+    "code": {
+      "id": "BR2103174",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.083",
+      "lon": "-46.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2103208",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chapadinha",
+      "en": "Chapadinha",
+      "slug": "chapadinha-br2103208"
+    },
+    "code": {
+      "id": "BR2103208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.769",
+      "lon": "-43.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2103257",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cidelândia",
+      "en": "Cidelandia",
+      "slug": "cidelandia-br2103257"
+    },
+    "code": {
+      "id": "BR2103257",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.052",
+      "lon": "-47.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2103307",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Codó",
+      "en": "Codo",
+      "slug": "codo-br2103307"
+    },
+    "code": {
+      "id": "BR2103307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.73",
+      "lon": "-43.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2103406",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coelho Neto",
+      "en": "Coelho Neto",
+      "slug": "coelho-neto-br2103406"
+    },
+    "code": {
+      "id": "BR2103406",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.187",
+      "lon": "-43.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2103505",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colinas",
+      "en": "Colinas",
+      "slug": "colinas-br2103505"
+    },
+    "code": {
+      "id": "BR2103505",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.393",
+      "lon": "-51.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2103554",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Conceição do Lago-Açu",
+      "en": "Conceicao do Lago-Acu",
+      "slug": "conceicao-do-lago-acu-br2103554"
+    },
+    "code": {
+      "id": "BR2103554",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.738",
+      "lon": "-44.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2103604",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coroatá",
+      "en": "Coroata",
+      "slug": "coroata-br2103604"
+    },
+    "code": {
+      "id": "BR2103604",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.088",
+      "lon": "-44.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2103703",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cururupu",
+      "en": "Cururupu",
+      "slug": "cururupu-br2103703"
+    },
+    "code": {
+      "id": "BR2103703",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.72",
+      "lon": "-44.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2103752",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Davinópolis",
+      "en": "Davinopolis",
+      "slug": "davinopolis-br2103752"
+    },
+    "code": {
+      "id": "BR2103752",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.145",
+      "lon": "-47.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2103802",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dom Pedro",
+      "en": "Dom Pedro",
+      "slug": "dom-pedro-br2103802"
+    },
+    "code": {
+      "id": "BR2103802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.052",
+      "lon": "-44.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2103901",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Duque Bacelar",
+      "en": "Duque Bacelar",
+      "slug": "duque-bacelar-br2103901"
+    },
+    "code": {
+      "id": "BR2103901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.111",
+      "lon": "-43.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2104008",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Esperantinópolis",
+      "en": "Esperantinopolis",
+      "slug": "esperantinopolis-br2104008"
+    },
+    "code": {
+      "id": "BR2104008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.914",
+      "lon": "-44.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2104057",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Estreito",
+      "en": "Estreito",
+      "slug": "estreito-br2104057"
+    },
+    "code": {
+      "id": "BR2104057",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.788",
+      "lon": "-47.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2104073",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Feira Nova do Maranhão",
+      "en": "Feira Nova do Maranhao",
+      "slug": "feira-nova-do-maranhao-br2104073"
+    },
+    "code": {
+      "id": "BR2104073",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.973",
+      "lon": "-46.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2104081",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fernando Falcão",
+      "en": "Fernando Falcao",
+      "slug": "fernando-falcao-br2104081"
+    },
+    "code": {
+      "id": "BR2104081",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.246",
+      "lon": "-45.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2104099",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Formosa da Serra Negra",
+      "en": "Formosa da Serra Negra",
+      "slug": "formosa-da-serra-negra-br2104099"
+    },
+    "code": {
+      "id": "BR2104099",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.667",
+      "lon": "-46.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2104107",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fortaleza dos Nogueiras",
+      "en": "Fortaleza dos Nogueiras",
+      "slug": "fortaleza-dos-nogueiras-br2104107"
+    },
+    "code": {
+      "id": "BR2104107",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.819",
+      "lon": "-46.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2104206",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fortuna",
+      "en": "Fortuna",
+      "slug": "fortuna-br2104206"
+    },
+    "code": {
+      "id": "BR2104206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.644",
+      "lon": "-44.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2104305",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Godofredo Viana",
+      "en": "Godofredo Viana",
+      "slug": "godofredo-viana-br2104305"
+    },
+    "code": {
+      "id": "BR2104305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.319",
+      "lon": "-45.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2104404",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gonçalves Dias",
+      "en": "Goncalves Dias",
+      "slug": "goncalves-dias-br2104404"
+    },
+    "code": {
+      "id": "BR2104404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.119",
+      "lon": "-44.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2104503",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Governador Archer",
+      "en": "Governador Archer",
+      "slug": "governador-archer-br2104503"
+    },
+    "code": {
+      "id": "BR2104503",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.946",
+      "lon": "-44.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2104552",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Governador Edison Lobão",
+      "en": "Governador Edison Lobao",
+      "slug": "governador-edison-lobao-br2104552"
+    },
+    "code": {
+      "id": "BR2104552",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.741",
+      "lon": "-47.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2104602",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Governador Eugênio Barros",
+      "en": "Governador Eugenio Barros",
+      "slug": "governador-eugenio-barros-br2104602"
+    },
+    "code": {
+      "id": "BR2104602",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.428",
+      "lon": "-44.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2104628",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Governador Luiz Rocha",
+      "en": "Governador Luiz Rocha",
+      "slug": "governador-luiz-rocha-br2104628"
+    },
+    "code": {
+      "id": "BR2104628",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.537",
+      "lon": "-44.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2104651",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Governador Newton Bello",
+      "en": "Governador Newton Bello",
+      "slug": "governador-newton-bello-br2104651"
+    },
+    "code": {
+      "id": "BR2104651",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.397",
+      "lon": "-45.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2104677",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Governador Nunes Freire",
+      "en": "Governador Nunes Freire",
+      "slug": "governador-nunes-freire-br2104677"
+    },
+    "code": {
+      "id": "BR2104677",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.039",
+      "lon": "-45.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2104701",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Graça Aranha",
+      "en": "Graca Aranha",
+      "slug": "graca-aranha-br2104701"
+    },
+    "code": {
+      "id": "BR2104701",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.417",
+      "lon": "-44.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2104800",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Grajaú",
+      "en": "Grajau",
+      "slug": "grajau-br2104800"
+    },
+    "code": {
+      "id": "BR2104800",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.8",
+      "lon": "-45.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2104909",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guimarães",
+      "en": "Guimaraes",
+      "slug": "guimaraes-br2104909"
+    },
+    "code": {
+      "id": "BR2104909",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.139",
+      "lon": "-44.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2105005",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Humberto de Campos",
+      "en": "Humberto de Campos",
+      "slug": "humberto-de-campos-br2105005"
+    },
+    "code": {
+      "id": "BR2105005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.658",
+      "lon": "-43.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2105104",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Icatu",
+      "en": "Icatu",
+      "slug": "icatu-br2105104"
+    },
+    "code": {
+      "id": "BR2105104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.561",
+      "lon": "-43.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2105153",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Igarapé do Meio",
+      "en": "Igarape do Meio",
+      "slug": "igarape-do-meio-br2105153"
+    },
+    "code": {
+      "id": "BR2105153",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.662",
+      "lon": "-45.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2105203",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Igarapé Grande",
+      "en": "Igarape Grande",
+      "slug": "igarape-grande-br2105203"
+    },
+    "code": {
+      "id": "BR2105203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.571",
+      "lon": "-44.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2105302",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Imperatriz",
+      "en": "Imperatriz",
+      "slug": "imperatriz-br2105302"
+    },
+    "code": {
+      "id": "BR2105302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.35",
+      "lon": "-47.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2105351",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itaipava do Grajaú",
+      "en": "Itaipava do Grajau",
+      "slug": "itaipava-do-grajau-br2105351"
+    },
+    "code": {
+      "id": "BR2105351",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.168",
+      "lon": "-45.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2105401",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itapecuru Mirim",
+      "en": "Itapecuru Mirim",
+      "slug": "itapecuru-mirim-br2105401"
+    },
+    "code": {
+      "id": "BR2105401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.359",
+      "lon": "-44.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2105427",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Itinga do Maranhão",
+      "en": "Itinga do Maranhao",
+      "slug": "itinga-do-maranhao-br2105427"
+    },
+    "code": {
+      "id": "BR2105427",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.114",
+      "lon": "-47.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2105450",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jatobá",
+      "en": "Jatoba",
+      "slug": "jatoba-br2105450"
+    },
+    "code": {
+      "id": "BR2105450",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.225",
+      "lon": "-38.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2105476",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jenipapo dos Vieiras",
+      "en": "Jenipapo dos Vieiras",
+      "slug": "jenipapo-dos-vieiras-br2105476"
+    },
+    "code": {
+      "id": "BR2105476",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.386",
+      "lon": "-45.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2105500",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "João Lisboa",
+      "en": "Joao Lisboa",
+      "slug": "joao-lisboa-br2105500"
+    },
+    "code": {
+      "id": "BR2105500",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.235",
+      "lon": "-47.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2105609",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Joselândia",
+      "en": "Joselandia",
+      "slug": "joselandia-br2105609"
+    },
+    "code": {
+      "id": "BR2105609",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.006",
+      "lon": "-44.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2105658",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Junco do Maranhão",
+      "en": "Junco do Maranhao",
+      "slug": "junco-do-maranhao-br2105658"
+    },
+    "code": {
+      "id": "BR2105658",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.909",
+      "lon": "-46.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2105708",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lago da Pedra",
+      "en": "Lago da Pedra",
+      "slug": "lago-da-pedra-br2105708"
+    },
+    "code": {
+      "id": "BR2105708",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.745",
+      "lon": "-45.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2105807",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lago do Junco",
+      "en": "Lago do Junco",
+      "slug": "lago-do-junco-br2105807"
+    },
+    "code": {
+      "id": "BR2105807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.497",
+      "lon": "-44.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2105948",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lago dos Rodrigues",
+      "en": "Lago dos Rodrigues",
+      "slug": "lago-dos-rodrigues-br2105948"
+    },
+    "code": {
+      "id": "BR2105948",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.604",
+      "lon": "-44.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2105906",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lago Verde",
+      "en": "Lago Verde",
+      "slug": "lago-verde-br2105906"
+    },
+    "code": {
+      "id": "BR2105906",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.98",
+      "lon": "-44.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2105922",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagoa do Mato",
+      "en": "Lagoa do Mato",
+      "slug": "lagoa-do-mato-br2105922"
+    },
+    "code": {
+      "id": "BR2105922",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.97",
+      "lon": "-43.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2105963",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagoa Grande do Maranhão",
+      "en": "Lagoa Grande do Maranhao",
+      "slug": "lagoa-grande-do-maranhao-br2105963"
+    },
+    "code": {
+      "id": "BR2105963",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.891",
+      "lon": "-45.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2105989",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lajeado Novo",
+      "en": "Lajeado Novo",
+      "slug": "lajeado-novo-br2105989"
+    },
+    "code": {
+      "id": "BR2105989",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.103",
+      "lon": "-46.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2106003",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lima Campos",
+      "en": "Lima Campos",
+      "slug": "lima-campos-br2106003"
+    },
+    "code": {
+      "id": "BR2106003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.581",
+      "lon": "-44.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2106102",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Loreto",
+      "en": "Loreto",
+      "slug": "loreto-br2106102"
+    },
+    "code": {
+      "id": "BR2106102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.146",
+      "lon": "-45.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2106201",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Luís Domingues",
+      "en": "Luis Domingues",
+      "slug": "luis-domingues-br2106201"
+    },
+    "code": {
+      "id": "BR2106201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.321",
+      "lon": "-45.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2106300",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Magalhães de Almeida",
+      "en": "Magalhaes de Almeida",
+      "slug": "magalhaes-de-almeida-br2106300"
+    },
+    "code": {
+      "id": "BR2106300",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.326",
+      "lon": "-42.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2106326",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maracaçumé",
+      "en": "Maracacume",
+      "slug": "maracacume-br2106326"
+    },
+    "code": {
+      "id": "BR2106326",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.007",
+      "lon": "-45.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2106359",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Marajá do Sena",
+      "en": "Maraja do Sena",
+      "slug": "maraja-do-sena-br2106359"
+    },
+    "code": {
+      "id": "BR2106359",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.741",
+      "lon": "-45.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2106375",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maranhãozinho",
+      "en": "Maranhaozinho",
+      "slug": "maranhaozinho-br2106375"
+    },
+    "code": {
+      "id": "BR2106375",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.5",
+      "lon": "-45.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2106409",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mata Roma",
+      "en": "Mata Roma",
+      "slug": "mata-roma-br2106409"
+    },
+    "code": {
+      "id": "BR2106409",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.587",
+      "lon": "-43.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2106508",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Matinha",
+      "en": "Matinha",
+      "slug": "matinha-br2106508"
+    },
+    "code": {
+      "id": "BR2106508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.092",
+      "lon": "-45.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2106607",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Matões",
+      "en": "Matoes",
+      "slug": "matoes-br2106607"
+    },
+    "code": {
+      "id": "BR2106607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.356",
+      "lon": "-43.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2106631",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Matões do Norte",
+      "en": "Matoes do Norte",
+      "slug": "matoes-do-norte-br2106631"
+    },
+    "code": {
+      "id": "BR2106631",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.778",
+      "lon": "-44.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2106672",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Milagres do Maranhão",
+      "en": "Milagres do Maranhao",
+      "slug": "milagres-do-maranhao-br2106672"
+    },
+    "code": {
+      "id": "BR2106672",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.505",
+      "lon": "-42.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2106706",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mirador",
+      "en": "Mirador",
+      "slug": "mirador-br2106706"
+    },
+    "code": {
+      "id": "BR2106706",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.218",
+      "lon": "-52.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2106755",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Miranda do Norte",
+      "en": "Miranda do Norte",
+      "slug": "miranda-do-norte-br2106755"
+    },
+    "code": {
+      "id": "BR2106755",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.483",
+      "lon": "-44.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2106805",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mirinzal",
+      "en": "Mirinzal",
+      "slug": "mirinzal-br2106805"
+    },
+    "code": {
+      "id": "BR2106805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.053",
+      "lon": "-44.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2106904",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Monção",
+      "en": "Moncao",
+      "slug": "moncao-br2106904"
+    },
+    "code": {
+      "id": "BR2106904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.551",
+      "lon": "-45.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2107001",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Montes Altos",
+      "en": "Montes Altos",
+      "slug": "montes-altos-br2107001"
+    },
+    "code": {
+      "id": "BR2107001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.871",
+      "lon": "-47.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2107100",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Morros",
+      "en": "Morros",
+      "slug": "morros-br2107100"
+    },
+    "code": {
+      "id": "BR2107100",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.034",
+      "lon": "-43.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2107209",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nina Rodrigues",
+      "en": "Nina Rodrigues",
+      "slug": "nina-rodrigues-br2107209"
+    },
+    "code": {
+      "id": "BR2107209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.469",
+      "lon": "-43.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2107258",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Colinas",
+      "en": "Nova Colinas",
+      "slug": "nova-colinas-br2107258"
+    },
+    "code": {
+      "id": "BR2107258",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.247",
+      "lon": "-46.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2107308",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Iorque",
+      "en": "Nova Iorque",
+      "slug": "nova-iorque-br2107308"
+    },
+    "code": {
+      "id": "BR2107308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.839",
+      "lon": "-44.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2107357",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nova Olinda do Maranhão",
+      "en": "Nova Olinda do Maranhao",
+      "slug": "nova-olinda-do-maranhao-br2107357"
+    },
+    "code": {
+      "id": "BR2107357",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.982",
+      "lon": "-45.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2107407",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Olho d'Água das Cunhãs",
+      "en": "Olho d'Agua das Cunhas",
+      "slug": "olho-d-agua-das-cunhas-br2107407"
+    },
+    "code": {
+      "id": "BR2107407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.123",
+      "lon": "-45.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2107456",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Olinda Nova do Maranhão",
+      "en": "Olinda Nova do Maranhao",
+      "slug": "olinda-nova-do-maranhao-br2107456"
+    },
+    "code": {
+      "id": "BR2107456",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.977",
+      "lon": "-44.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2107506",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paço do Lumiar",
+      "en": "Paco do Lumiar",
+      "slug": "paco-do-lumiar-br2107506"
+    },
+    "code": {
+      "id": "BR2107506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.499",
+      "lon": "-44.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2107605",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palmeirândia",
+      "en": "Palmeirandia",
+      "slug": "palmeirandia-br2107605"
+    },
+    "code": {
+      "id": "BR2107605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.662",
+      "lon": "-45.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2107704",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paraibano",
+      "en": "Paraibano",
+      "slug": "paraibano-br2107704"
+    },
+    "code": {
+      "id": "BR2107704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.392",
+      "lon": "-43.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2107803",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Parnarama",
+      "en": "Parnarama",
+      "slug": "parnarama-br2107803"
+    },
+    "code": {
+      "id": "BR2107803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.613",
+      "lon": "-43.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2107902",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Passagem Franca",
+      "en": "Passagem Franca",
+      "slug": "passagem-franca-br2107902"
+    },
+    "code": {
+      "id": "BR2107902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.112",
+      "lon": "-43.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2108009",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pastos Bons",
+      "en": "Pastos Bons",
+      "slug": "pastos-bons-br2108009"
+    },
+    "code": {
+      "id": "BR2108009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.709",
+      "lon": "-44.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2108058",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paulino Neves",
+      "en": "Paulino Neves",
+      "slug": "paulino-neves-br2108058"
+    },
+    "code": {
+      "id": "BR2108058",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.883",
+      "lon": "-42.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2108108",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paulo Ramos",
+      "en": "Paulo Ramos",
+      "slug": "paulo-ramos-br2108108"
+    },
+    "code": {
+      "id": "BR2108108",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.565",
+      "lon": "-45.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2108207",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedreiras",
+      "en": "Pedreiras",
+      "slug": "pedreiras-br2108207"
+    },
+    "code": {
+      "id": "BR2108207",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.589",
+      "lon": "-44.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2108256",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedro do Rosário",
+      "en": "Pedro do Rosario",
+      "slug": "pedro-do-rosario-br2108256"
+    },
+    "code": {
+      "id": "BR2108256",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.872",
+      "lon": "-45.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2108306",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Penalva",
+      "en": "Penalva",
+      "slug": "penalva-br2108306"
+    },
+    "code": {
+      "id": "BR2108306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.254",
+      "lon": "-45.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2108405",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Peri Mirim",
+      "en": "Peri Mirim",
+      "slug": "peri-mirim-br2108405"
+    },
+    "code": {
+      "id": "BR2108405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.543",
+      "lon": "-44.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2108454",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Peritoró",
+      "en": "Peritoro",
+      "slug": "peritoro-br2108454"
+    },
+    "code": {
+      "id": "BR2108454",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.338",
+      "lon": "-44.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2108504",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pindaré-Mirim",
+      "en": "Pindare-Mirim",
+      "slug": "pindare-mirim-br2108504"
+    },
+    "code": {
+      "id": "BR2108504",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.632",
+      "lon": "-45.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2108603",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pinheiro",
+      "en": "Pinheiro",
+      "slug": "pinheiro-br2108603"
+    },
+    "code": {
+      "id": "BR2108603",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.569",
+      "lon": "-45.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2108702",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pio XII",
+      "en": "Pio XII",
+      "slug": "pio-xii-br2108702"
+    },
+    "code": {
+      "id": "BR2108702",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.817",
+      "lon": "-45.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2108801",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pirapemas",
+      "en": "Pirapemas",
+      "slug": "pirapemas-br2108801"
+    },
+    "code": {
+      "id": "BR2108801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.754",
+      "lon": "-44.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2108900",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Poção de Pedras",
+      "en": "Pocao de Pedras",
+      "slug": "pocao-de-pedras-br2108900"
+    },
+    "code": {
+      "id": "BR2108900",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.808",
+      "lon": "-44.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2109007",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto Franco",
+      "en": "Porto Franco",
+      "slug": "porto-franco-br2109007"
+    },
+    "code": {
+      "id": "BR2109007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.348",
+      "lon": "-47.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2109056",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto Rico do Maranhão",
+      "en": "Porto Rico do Maranhao",
+      "slug": "porto-rico-do-maranhao-br2109056"
+    },
+    "code": {
+      "id": "BR2109056",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.874",
+      "lon": "-44.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2109106",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Presidente Dutra",
+      "en": "Presidente Dutra",
+      "slug": "presidente-dutra-br2109106"
+    },
+    "code": {
+      "id": "BR2109106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.305",
+      "lon": "-41.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2109205",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Presidente Juscelino",
+      "en": "Presidente Juscelino",
+      "slug": "presidente-juscelino-br2109205"
+    },
+    "code": {
+      "id": "BR2109205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.726",
+      "lon": "-44.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2109239",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Presidente Médici",
+      "en": "Presidente Medici",
+      "slug": "presidente-medici-br2109239"
+    },
+    "code": {
+      "id": "BR2109239",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.29",
+      "lon": "-45.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2109270",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Presidente Sarney",
+      "en": "Presidente Sarney",
+      "slug": "presidente-sarney-br2109270"
+    },
+    "code": {
+      "id": "BR2109270",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.623",
+      "lon": "-45.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2109304",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Presidente Vargas",
+      "en": "Presidente Vargas",
+      "slug": "presidente-vargas-br2109304"
+    },
+    "code": {
+      "id": "BR2109304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.435",
+      "lon": "-44.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2109403",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Primeira Cruz",
+      "en": "Primeira Cruz",
+      "slug": "primeira-cruz-br2109403"
+    },
+    "code": {
+      "id": "BR2109403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.666",
+      "lon": "-43.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2109452",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Raposa",
+      "en": "Raposa",
+      "slug": "raposa-br2109452"
+    },
+    "code": {
+      "id": "BR2109452",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.454",
+      "lon": "-44.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2109502",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Riachão",
+      "en": "Riachao",
+      "slug": "riachao-br2109502"
+    },
+    "code": {
+      "id": "BR2109502",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.556",
+      "lon": "-35.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2109551",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ribamar Fiquene",
+      "en": "Ribamar Fiquene",
+      "slug": "ribamar-fiquene-br2109551"
+    },
+    "code": {
+      "id": "BR2109551",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.942",
+      "lon": "-47.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2109601",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rosário",
+      "en": "Rosario",
+      "slug": "rosario-br2109601"
+    },
+    "code": {
+      "id": "BR2109601",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.957",
+      "lon": "-44.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2109700",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sambaíba",
+      "en": "Sambaiba",
+      "slug": "sambaiba-br2109700"
+    },
+    "code": {
+      "id": "BR2109700",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.547",
+      "lon": "-45.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2109759",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Filomena do Maranhão",
+      "en": "Santa Filomena do Maranhao",
+      "slug": "santa-filomena-do-maranhao-br2109759"
+    },
+    "code": {
+      "id": "BR2109759",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.498",
+      "lon": "-44.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2109809",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Helena",
+      "en": "Santa Helena",
+      "slug": "santa-helena-br2109809"
+    },
+    "code": {
+      "id": "BR2109809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.925",
+      "lon": "-53.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2109908",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Inês",
+      "en": "Santa Ines",
+      "slug": "santa-ines-br2109908"
+    },
+    "code": {
+      "id": "BR2109908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.69",
+      "lon": "-51.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2110005",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Luzia",
+      "en": "Santa Luzia",
+      "slug": "santa-luzia-br2110005"
+    },
+    "code": {
+      "id": "BR2110005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.728",
+      "lon": "-43.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2110039",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Luzia do Paruá",
+      "en": "Santa Luzia do Parua",
+      "slug": "santa-luzia-do-parua-br2110039"
+    },
+    "code": {
+      "id": "BR2110039",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.598",
+      "lon": "-45.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2110104",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Quitéria do Maranhão",
+      "en": "Santa Quiteria do Maranhao",
+      "slug": "santa-quiteria-do-maranhao-br2110104"
+    },
+    "code": {
+      "id": "BR2110104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.351",
+      "lon": "-42.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2110203",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Rita",
+      "en": "Santa Rita",
+      "slug": "santa-rita-br2110203"
+    },
+    "code": {
+      "id": "BR2110203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.09",
+      "lon": "-34.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2110237",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santana do Maranhão",
+      "en": "Santana do Maranhao",
+      "slug": "santana-do-maranhao-br2110237"
+    },
+    "code": {
+      "id": "BR2110237",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.148",
+      "lon": "-42.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2110278",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo Amaro do Maranhão",
+      "en": "Santo Amaro do Maranhao",
+      "slug": "santo-amaro-do-maranhao-br2110278"
+    },
+    "code": {
+      "id": "BR2110278",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.637",
+      "lon": "-43.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2110302",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo Antônio dos Lopes",
+      "en": "Santo Antonio dos Lopes",
+      "slug": "santo-antonio-dos-lopes-br2110302"
+    },
+    "code": {
+      "id": "BR2110302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.805",
+      "lon": "-44.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2110401",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Benedito do Rio Preto",
+      "en": "Sao Benedito do Rio Preto",
+      "slug": "sao-benedito-do-rio-preto-br2110401"
+    },
+    "code": {
+      "id": "BR2110401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.361",
+      "lon": "-43.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2110500",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Bento",
+      "en": "Sao Bento",
+      "slug": "sao-bento-br2110500"
+    },
+    "code": {
+      "id": "BR2110500",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.459",
+      "lon": "-37.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2110609",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Bernardo",
+      "en": "Sao Bernardo",
+      "slug": "sao-bernardo-br2110609"
+    },
+    "code": {
+      "id": "BR2110609",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.418",
+      "lon": "-42.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2110658",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Domingos do Azeitão",
+      "en": "Sao Domingos do Azeitao",
+      "slug": "sao-domingos-do-azeitao-br2110658"
+    },
+    "code": {
+      "id": "BR2110658",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.848",
+      "lon": "-44.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2110708",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Domingos do Maranhão",
+      "en": "Sao Domingos do Maranhao",
+      "slug": "sao-domingos-do-maranhao-br2110708"
+    },
+    "code": {
+      "id": "BR2110708",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.638",
+      "lon": "-44.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2110807",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Félix de Balsas",
+      "en": "Sao Felix de Balsas",
+      "slug": "sao-felix-de-balsas-br2110807"
+    },
+    "code": {
+      "id": "BR2110807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.006",
+      "lon": "-44.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2110856",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Francisco do Brejão",
+      "en": "Sao Francisco do Brejao",
+      "slug": "sao-francisco-do-brejao-br2110856"
+    },
+    "code": {
+      "id": "BR2110856",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.161",
+      "lon": "-47.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2110906",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Francisco do Maranhão",
+      "en": "Sao Francisco do Maranhao",
+      "slug": "sao-francisco-do-maranhao-br2110906"
+    },
+    "code": {
+      "id": "BR2110906",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.243",
+      "lon": "-43.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111003",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São João Batista",
+      "en": "Sao Joao Batista",
+      "slug": "sao-joao-batista-br2111003"
+    },
+    "code": {
+      "id": "BR2111003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.327",
+      "lon": "-48.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111029",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São João do Carú",
+      "en": "Sao Joao do Caru",
+      "slug": "sao-joao-do-caru-br2111029"
+    },
+    "code": {
+      "id": "BR2111029",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "-46.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111052",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São João do Paraíso",
+      "en": "Sao Joao do Paraiso",
+      "slug": "sao-joao-do-paraiso-br2111052"
+    },
+    "code": {
+      "id": "BR2111052",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.352",
+      "lon": "-41.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111078",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São João do Soter",
+      "en": "Sao Joao do Soter",
+      "slug": "sao-joao-do-soter-br2111078"
+    },
+    "code": {
+      "id": "BR2111078",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.97",
+      "lon": "-43.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111102",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São João dos Patos",
+      "en": "Sao Joao dos Patos",
+      "slug": "sao-joao-dos-patos-br2111102"
+    },
+    "code": {
+      "id": "BR2111102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.573",
+      "lon": "-43.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111201",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José de Ribamar",
+      "en": "Sao Jose de Ribamar",
+      "slug": "sao-jose-de-ribamar-br2111201"
+    },
+    "code": {
+      "id": "BR2111201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.565",
+      "lon": "-44.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111250",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São José dos Basílios",
+      "en": "Sao Jose dos Basilios",
+      "slug": "sao-jose-dos-basilios-br2111250"
+    },
+    "code": {
+      "id": "BR2111250",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.045",
+      "lon": "-44.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111300",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Luís",
+      "en": "Sao Luis",
+      "slug": "sao-luis-br2111300"
+    },
+    "code": {
+      "id": "BR2111300",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.622",
+      "lon": "-44.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111409",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Luís Gonzaga do Maranhão",
+      "en": "Sao Luis Gonzaga do Maranhao",
+      "slug": "sao-luis-gonzaga-do-maranhao-br2111409"
+    },
+    "code": {
+      "id": "BR2111409",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.41",
+      "lon": "-44.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111508",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Mateus do Maranhão",
+      "en": "Sao Mateus do Maranhao",
+      "slug": "sao-mateus-do-maranhao-br2111508"
+    },
+    "code": {
+      "id": "BR2111508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.977",
+      "lon": "-44.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111532",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Pedro da Água Branca",
+      "en": "Sao Pedro da Agua Branca",
+      "slug": "sao-pedro-da-agua-branca-br2111532"
+    },
+    "code": {
+      "id": "BR2111532",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.17",
+      "lon": "-48.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111573",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Pedro dos Crentes",
+      "en": "Sao Pedro dos Crentes",
+      "slug": "sao-pedro-dos-crentes-br2111573"
+    },
+    "code": {
+      "id": "BR2111573",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.848",
+      "lon": "-46.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111607",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Raimundo das Mangabeiras",
+      "en": "Sao Raimundo das Mangabeiras",
+      "slug": "sao-raimundo-das-mangabeiras-br2111607"
+    },
+    "code": {
+      "id": "BR2111607",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.973",
+      "lon": "-45.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111631",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Raimundo do Doca Bezerra",
+      "en": "Sao Raimundo do Doca Bezerra",
+      "slug": "sao-raimundo-do-doca-bezerra-br2111631"
+    },
+    "code": {
+      "id": "BR2111631",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.089",
+      "lon": "-45.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111672",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Roberto",
+      "en": "Sao Roberto",
+      "slug": "sao-roberto-br2111672"
+    },
+    "code": {
+      "id": "BR2111672",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.027",
+      "lon": "-45.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111706",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "São Vicente Ferrer",
+      "en": "Sao Vicente Ferrer",
+      "slug": "sao-vicente-ferrer-br2111706"
+    },
+    "code": {
+      "id": "BR2111706",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.596",
+      "lon": "-35.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111722",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Satubinha",
+      "en": "Satubinha",
+      "slug": "satubinha-br2111722"
+    },
+    "code": {
+      "id": "BR2111722",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.88",
+      "lon": "-45.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111748",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Senador Alexandre Costa",
+      "en": "Senador Alexandre Costa",
+      "slug": "senador-alexandre-costa-br2111748"
+    },
+    "code": {
+      "id": "BR2111748",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.297",
+      "lon": "-43.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111763",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Senador La Rocque",
+      "en": "Senador La Rocque",
+      "slug": "senador-la-rocque-br2111763"
+    },
+    "code": {
+      "id": "BR2111763",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.395",
+      "lon": "-47.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111789",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Serrano do Maranhão",
+      "en": "Serrano do Maranhao",
+      "slug": "serrano-do-maranhao-br2111789"
+    },
+    "code": {
+      "id": "BR2111789",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.793",
+      "lon": "-45.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111805",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sítio Novo",
+      "en": "Sitio Novo",
+      "slug": "sitio-novo-br2111805"
+    },
+    "code": {
+      "id": "BR2111805",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.125",
+      "lon": "-35.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111904",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sucupira do Norte",
+      "en": "Sucupira do Norte",
+      "slug": "sucupira-do-norte-br2111904"
+    },
+    "code": {
+      "id": "BR2111904",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.469",
+      "lon": "-44.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2111953",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sucupira do Riachão",
+      "en": "Sucupira do Riachao",
+      "slug": "sucupira-do-riachao-br2111953"
+    },
+    "code": {
+      "id": "BR2111953",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.398",
+      "lon": "-43.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2112001",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tasso Fragoso",
+      "en": "Tasso Fragoso",
+      "slug": "tasso-fragoso-br2112001"
+    },
+    "code": {
+      "id": "BR2112001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.283",
+      "lon": "-45.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2112100",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Timbiras",
+      "en": "Timbiras",
+      "slug": "timbiras-br2112100"
+    },
+    "code": {
+      "id": "BR2112100",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.184",
+      "lon": "-43.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2112209",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Timon",
+      "en": "Timon",
+      "slug": "timon-br2112209"
+    },
+    "code": {
+      "id": "BR2112209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.196",
+      "lon": "-42.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2112233",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Trizidela do Vale",
+      "en": "Trizidela do Vale",
+      "slug": "trizidela-do-vale-br2112233"
+    },
+    "code": {
+      "id": "BR2112233",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.557",
+      "lon": "-44.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2112274",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tufilândia",
+      "en": "Tufilandia",
+      "slug": "tufilandia-br2112274"
+    },
+    "code": {
+      "id": "BR2112274",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.698",
+      "lon": "-45.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2112308",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tuntum",
+      "en": "Tuntum",
+      "slug": "tuntum-br2112308"
+    },
+    "code": {
+      "id": "BR2112308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.477",
+      "lon": "-44.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2112407",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Turiaçu",
+      "en": "Turiacu",
+      "slug": "turiacu-br2112407"
+    },
+    "code": {
+      "id": "BR2112407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.7",
+      "lon": "-45.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2112456",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Turilândia",
+      "en": "Turilandia",
+      "slug": "turilandia-br2112456"
+    },
+    "code": {
+      "id": "BR2112456",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.128",
+      "lon": "-45.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2112506",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tutóia",
+      "en": "Tutoia",
+      "slug": "tutoia-br2112506"
+    },
+    "code": {
+      "id": "BR2112506",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.831",
+      "lon": "-42.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2112605",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Urbano Santos",
+      "en": "Urbano Santos",
+      "slug": "urbano-santos-br2112605"
+    },
+    "code": {
+      "id": "BR2112605",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.347",
+      "lon": "-43.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2112704",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vargem Grande",
+      "en": "Vargem Grande",
+      "slug": "vargem-grande-br2112704"
+    },
+    "code": {
+      "id": "BR2112704",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.611",
+      "lon": "-43.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2112803",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Viana",
+      "en": "Viana",
+      "slug": "viana-br2112803"
+    },
+    "code": {
+      "id": "BR2112803",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.38",
+      "lon": "-40.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2112852",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vila Nova dos Martírios",
+      "en": "Vila Nova dos Martirios",
+      "slug": "vila-nova-dos-martirios-br2112852"
+    },
+    "code": {
+      "id": "BR2112852",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.086",
+      "lon": "-48.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2112902",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vitória do Mearim",
+      "en": "Vitoria do Mearim",
+      "slug": "vitoria-do-mearim-br2112902"
+    },
+    "code": {
+      "id": "BR2112902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "-44.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2113009",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vitorino Freire",
+      "en": "Vitorino Freire",
+      "slug": "vitorino-freire-br2113009"
+    },
+    "code": {
+      "id": "BR2113009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.144",
+      "lon": "-45.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR2114007",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zé Doca",
+      "en": "Ze Doca",
+      "slug": "ze-doca-br2114007"
+    },
+    "code": {
+      "id": "BR2114007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR21",
+        "level": 1,
+        "name": {
+          "local": "Maranhão",
+          "en": "Maranhao",
+          "slug": "maranhao-br21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.188",
+      "lon": "-45.949"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

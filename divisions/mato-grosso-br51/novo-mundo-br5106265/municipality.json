@@ -1,0 +1,45 @@
+{
+  "id": "BR5106265",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Novo Mundo",
+    "en": "Novo Mundo",
+    "slug": "novo-mundo-br5106265"
+  },
+  "code": {
+    "id": "BR5106265",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR51",
+    "level": 1,
+    "name": {
+      "local": "Mato Grosso",
+      "en": "Mato Grosso",
+      "slug": "mato-grosso-br51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR51",
+      "level": 1,
+      "name": {
+        "local": "Mato Grosso",
+        "en": "Mato Grosso",
+        "slug": "mato-grosso-br51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.89",
+    "lon": "-55.312"
+  },
+  "metadata": {},
+  "source": {}
+}

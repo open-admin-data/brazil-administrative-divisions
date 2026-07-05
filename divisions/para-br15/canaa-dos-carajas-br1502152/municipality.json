@@ -1,0 +1,45 @@
+{
+  "id": "BR1502152",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Canaã dos Carajás",
+    "en": "Canaa dos Carajas",
+    "slug": "canaa-dos-carajas-br1502152"
+  },
+  "code": {
+    "id": "BR1502152",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.503",
+    "lon": "-50.073"
+  },
+  "metadata": {},
+  "source": {}
+}

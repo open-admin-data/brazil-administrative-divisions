@@ -1,0 +1,45 @@
+{
+  "id": "BR2209153",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Cruz dos Milagres",
+    "en": "Santa Cruz dos Milagres",
+    "slug": "santa-cruz-dos-milagres-br2209153"
+  },
+  "code": {
+    "id": "BR2209153",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.836",
+    "lon": "-41.962"
+  },
+  "metadata": {},
+  "source": {}
+}

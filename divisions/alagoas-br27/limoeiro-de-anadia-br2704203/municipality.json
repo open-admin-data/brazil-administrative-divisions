@@ -1,0 +1,45 @@
+{
+  "id": "BR2704203",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Limoeiro de Anadia",
+    "en": "Limoeiro de Anadia",
+    "slug": "limoeiro-de-anadia-br2704203"
+  },
+  "code": {
+    "id": "BR2704203",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.741",
+    "lon": "-36.475"
+  },
+  "metadata": {},
+  "source": {}
+}

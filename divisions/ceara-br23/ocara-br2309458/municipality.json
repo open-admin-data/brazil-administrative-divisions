@@ -1,0 +1,45 @@
+{
+  "id": "BR2309458",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ocara",
+    "en": "Ocara",
+    "slug": "ocara-br2309458"
+  },
+  "code": {
+    "id": "BR2309458",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR23",
+    "level": 1,
+    "name": {
+      "local": "Ceará",
+      "en": "Ceara",
+      "slug": "ceara-br23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR23",
+      "level": 1,
+      "name": {
+        "local": "Ceará",
+        "en": "Ceara",
+        "slug": "ceara-br23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.535",
+    "lon": "-38.515"
+  },
+  "metadata": {},
+  "source": {}
+}

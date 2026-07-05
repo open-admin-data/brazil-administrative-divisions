@@ -1,0 +1,45 @@
+{
+  "id": "BR1504976",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nova Ipixuna",
+    "en": "Nova Ipixuna",
+    "slug": "nova-ipixuna-br1504976"
+  },
+  "code": {
+    "id": "BR1504976",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.976",
+    "lon": "-49.208"
+  },
+  "metadata": {},
+  "source": {}
+}

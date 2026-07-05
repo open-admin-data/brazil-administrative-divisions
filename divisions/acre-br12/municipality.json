@@ -1,0 +1,992 @@
+[
+  {
+    "id": "BR1200013",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acrelândia",
+      "en": "Acrelandia",
+      "slug": "acrelandia-br1200013"
+    },
+    "code": {
+      "id": "BR1200013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.026",
+      "lon": "-66.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200054",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Assis Brasil",
+      "en": "Assis Brasil",
+      "slug": "assis-brasil-br1200054"
+    },
+    "code": {
+      "id": "BR1200054",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.757",
+      "lon": "-69.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200104",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Brasiléia",
+      "en": "Brasileia",
+      "slug": "brasileia-br1200104"
+    },
+    "code": {
+      "id": "BR1200104",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.814",
+      "lon": "-69.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200138",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bujari",
+      "en": "Bujari",
+      "slug": "bujari-br1200138"
+    },
+    "code": {
+      "id": "BR1200138",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.62",
+      "lon": "-68.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200179",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Capixaba",
+      "en": "Capixaba",
+      "slug": "capixaba-br1200179"
+    },
+    "code": {
+      "id": "BR1200179",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.458",
+      "lon": "-67.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200203",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cruzeiro do Sul",
+      "en": "Cruzeiro do Sul",
+      "slug": "cruzeiro-do-sul-br1200203"
+    },
+    "code": {
+      "id": "BR1200203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.562",
+      "lon": "-52.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200252",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Epitaciolândia",
+      "en": "Epitaciolandia",
+      "slug": "epitaciolandia-br1200252"
+    },
+    "code": {
+      "id": "BR1200252",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.879",
+      "lon": "-68.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200302",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Feijó",
+      "en": "Feijo",
+      "slug": "feijo-br1200302"
+    },
+    "code": {
+      "id": "BR1200302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.935",
+      "lon": "-71.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200328",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jordão",
+      "en": "Jordao",
+      "slug": "jordao-br1200328"
+    },
+    "code": {
+      "id": "BR1200328",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.112",
+      "lon": "-71.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200336",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mâncio Lima",
+      "en": "Mancio Lima",
+      "slug": "mancio-lima-br1200336"
+    },
+    "code": {
+      "id": "BR1200336",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.544",
+      "lon": "-73.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200344",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Manoel Urbano",
+      "en": "Manoel Urbano",
+      "slug": "manoel-urbano-br1200344"
+    },
+    "code": {
+      "id": "BR1200344",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.359",
+      "lon": "-69.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200351",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Marechal Thaumaturgo",
+      "en": "Marechal Thaumaturgo",
+      "slug": "marechal-thaumaturgo-br1200351"
+    },
+    "code": {
+      "id": "BR1200351",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.093",
+      "lon": "-72.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200385",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Plácido de Castro",
+      "en": "Placido de Castro",
+      "slug": "placido-de-castro-br1200385"
+    },
+    "code": {
+      "id": "BR1200385",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.321",
+      "lon": "-67.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200807",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto Acre",
+      "en": "Porto Acre",
+      "slug": "porto-acre-br1200807"
+    },
+    "code": {
+      "id": "BR1200807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.682",
+      "lon": "-67.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200393",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto Walter",
+      "en": "Porto Walter",
+      "slug": "porto-walter-br1200393"
+    },
+    "code": {
+      "id": "BR1200393",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.465",
+      "lon": "-72.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200401",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rio Branco",
+      "en": "Rio Branco",
+      "slug": "rio-branco-br1200401"
+    },
+    "code": {
+      "id": "BR1200401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.272",
+      "lon": "-58.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200427",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rodrigues Alves",
+      "en": "Rodrigues Alves",
+      "slug": "rodrigues-alves-br1200427"
+    },
+    "code": {
+      "id": "BR1200427",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.853",
+      "lon": "-73.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200435",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Rosa do Purus",
+      "en": "Santa Rosa do Purus",
+      "slug": "santa-rosa-do-purus-br1200435"
+    },
+    "code": {
+      "id": "BR1200435",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.532",
+      "lon": "-70.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200500",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sena Madureira",
+      "en": "Sena Madureira",
+      "slug": "sena-madureira-br1200500"
+    },
+    "code": {
+      "id": "BR1200500",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.196",
+      "lon": "-69.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200450",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Senador Guiomard",
+      "en": "Senador Guiomard",
+      "slug": "senador-guiomard-br1200450"
+    },
+    "code": {
+      "id": "BR1200450",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.067",
+      "lon": "-67.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200609",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tarauacá",
+      "en": "Tarauaca",
+      "slug": "tarauaca-br1200609"
+    },
+    "code": {
+      "id": "BR1200609",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.571",
+      "lon": "-71.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BR1200708",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Xapuri",
+      "en": "Xapuri",
+      "slug": "xapuri-br1200708"
+    },
+    "code": {
+      "id": "BR1200708",
+      "iso": null
+    },
+    "parent": {
+      "id": "BR12",
+      "level": 1,
+      "name": {
+        "local": "Acre",
+        "en": "Acre",
+        "slug": "acre-br12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BR12",
+        "level": 1,
+        "name": {
+          "local": "Acre",
+          "en": "Acre",
+          "slug": "acre-br12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.624",
+      "lon": "-68.527"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

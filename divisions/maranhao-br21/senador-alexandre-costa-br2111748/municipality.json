@@ -1,0 +1,45 @@
+{
+  "id": "BR2111748",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Senador Alexandre Costa",
+    "en": "Senador Alexandre Costa",
+    "slug": "senador-alexandre-costa-br2111748"
+  },
+  "code": {
+    "id": "BR2111748",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.297",
+    "lon": "-43.902"
+  },
+  "metadata": {},
+  "source": {}
+}

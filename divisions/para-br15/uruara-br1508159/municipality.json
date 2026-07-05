@@ -1,0 +1,45 @@
+{
+  "id": "BR1508159",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Uruará",
+    "en": "Uruara",
+    "slug": "uruara-br1508159"
+  },
+  "code": {
+    "id": "BR1508159",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.63",
+    "lon": "-53.758"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2800670",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Boquim",
+    "en": "Boquim",
+    "slug": "boquim-br2800670"
+  },
+  "code": {
+    "id": "BR2800670",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.136",
+    "lon": "-37.607"
+  },
+  "metadata": {},
+  "source": {}
+}

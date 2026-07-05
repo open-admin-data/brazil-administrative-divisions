@@ -1,0 +1,45 @@
+{
+  "id": "BR2921302",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Milagres",
+    "en": "Milagres",
+    "slug": "milagres-br2921302"
+  },
+  "code": {
+    "id": "BR2921302",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.921",
+    "lon": "-39.762"
+  },
+  "metadata": {},
+  "source": {}
+}

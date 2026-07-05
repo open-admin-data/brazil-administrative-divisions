@@ -1,0 +1,45 @@
+{
+  "id": "BR3553609",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tapiratiba",
+    "en": "Tapiratiba",
+    "slug": "tapiratiba-br3553609"
+  },
+  "code": {
+    "id": "BR3553609",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.445",
+    "lon": "-46.733"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3160603",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Hipólito",
+    "en": "Santo Hipolito",
+    "slug": "santo-hipolito-br3160603"
+  },
+  "code": {
+    "id": "BR3160603",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.387",
+    "lon": "-44.173"
+  },
+  "metadata": {},
+  "source": {}
+}

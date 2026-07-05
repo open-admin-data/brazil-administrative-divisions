@@ -1,0 +1,45 @@
+{
+  "id": "BR2108603",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pinheiro",
+    "en": "Pinheiro",
+    "slug": "pinheiro-br2108603"
+  },
+  "code": {
+    "id": "BR2108603",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.569",
+    "lon": "-45.093"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR4125209",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Jorge d'Oeste",
+    "en": "Sao Jorge d'Oeste",
+    "slug": "sao-jorge-d-oeste-br4125209"
+  },
+  "code": {
+    "id": "BR4125209",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.662",
+    "lon": "-52.956"
+  },
+  "metadata": {},
+  "source": {}
+}

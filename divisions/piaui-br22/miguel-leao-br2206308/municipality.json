@@ -1,0 +1,45 @@
+{
+  "id": "BR2206308",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Miguel Leão",
+    "en": "Miguel Leao",
+    "slug": "miguel-leao-br2206308"
+  },
+  "code": {
+    "id": "BR2206308",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.722",
+    "lon": "-42.688"
+  },
+  "metadata": {},
+  "source": {}
+}

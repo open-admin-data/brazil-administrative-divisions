@@ -1,0 +1,4274 @@
+# Minas Gerais — Brazil Administrative Divisions
+
+> 853 municipalitys
+> Code: BR31
+> Coordinates: -18.57, -45.48
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Abadia dos Dourados
+
+Code: BR3100104, Coordinates: -18.356, -47.476
+
+
+### Abaeté (Abaete)
+
+Code: BR3100203, Coordinates: -19.103, -45.398
+
+
+### Abre Campo
+
+Code: BR3100302, Coordinates: -20.271, -42.44
+
+
+### Acaiaca
+
+Code: BR3100401, Coordinates: -20.404, -43.097
+
+
+### Açucena (Acucena)
+
+Code: BR3100500, Coordinates: -19.051, -42.445
+
+
+### Água Boa (Agua Boa)
+
+Code: BR3100609, Coordinates: -14.144, -52.475
+
+
+### Água Comprida (Agua Comprida)
+
+Code: BR3100708, Coordinates: -19.989, -48.093
+
+
+### Aguanil
+
+Code: BR3100807, Coordinates: -20.977, -45.409
+
+
+### Águas Formosas (Aguas Formosas)
+
+Code: BR3100906, Coordinates: -17.053, -40.981
+
+
+### Águas Vermelhas (Aguas Vermelhas)
+
+Code: BR3101003, Coordinates: -15.697, -41.56
+
+
+### Aimorés (Aimores)
+
+Code: BR3101102, Coordinates: -19.62, -41.214
+
+
+### Aiuruoca
+
+Code: BR3101201, Coordinates: -21.954, -44.639
+
+
+### Alagoa
+
+Code: BR3101300, Coordinates: -22.183, -44.661
+
+
+### Albertina
+
+Code: BR3101409, Coordinates: -22.199, -46.612
+
+
+### Além Paraíba (Alem Paraiba)
+
+Code: BR3101508, Coordinates: -21.811, -42.756
+
+
+### Alfenas
+
+Code: BR3101607, Coordinates: -21.392, -45.992
+
+
+### Alfredo Vasconcelos
+
+Code: BR3101631, Coordinates: -21.139, -43.71
+
+
+### Almenara
+
+Code: BR3101706, Coordinates: -16.113, -40.733
+
+
+### Alpercata
+
+Code: BR3101805, Coordinates: -18.985, -42.003
+
+
+### Alpinópolis (Alpinopolis)
+
+Code: BR3101904, Coordinates: -20.84, -46.381
+
+
+### Alterosa
+
+Code: BR3102001, Coordinates: -21.219, -46.168
+
+
+### Alto Caparaó (Alto Caparao)
+
+Code: BR3102050, Coordinates: -20.461, -41.873
+
+
+### Alto Jequitibá (Alto Jequitiba)
+
+Code: BR3153509, Coordinates: -20.436, -41.947
+
+
+### Alto Rio Doce
+
+Code: BR3102100, Coordinates: -21.021, -43.409
+
+
+### Alvarenga
+
+Code: BR3102209, Coordinates: -19.428, -41.709
+
+
+### Alvinópolis (Alvinopolis)
+
+Code: BR3102308, Coordinates: -20.114, -43.13
+
+
+### Alvorada de Minas
+
+Code: BR3102407, Coordinates: -18.778, -43.363
+
+
+### Amparo do Serra
+
+Code: BR3102506, Coordinates: -20.521, -42.795
+
+
+### Andradas
+
+Code: BR3102605, Coordinates: -22.075, -46.567
+
+
+### Andrelândia (Andrelandia)
+
+Code: BR3102803, Coordinates: -21.719, -44.29
+
+
+### Angelândia (Angelandia)
+
+Code: BR3102852, Coordinates: -17.699, -42.283
+
+
+### Antônio Carlos (Antonio Carlos)
+
+Code: BR3102902, Coordinates: -27.5, -48.839
+
+
+### Antônio Dias (Antonio Dias)
+
+Code: BR3103009, Coordinates: -19.562, -42.892
+
+
+### Antônio Prado de Minas (Antonio Prado de Minas)
+
+Code: BR3103108, Coordinates: -21.02, -42.152
+
+
+### Araçaí (Aracai)
+
+Code: BR3103207, Coordinates: -19.243, -44.222
+
+
+### Aracitaba
+
+Code: BR3103306, Coordinates: -21.355, -43.408
+
+
+### Araçuaí (Aracuai)
+
+Code: BR3103405, Coordinates: -16.912, -41.983
+
+
+### Araguari
+
+Code: BR3103504, Coordinates: -18.575, -48.279
+
+
+### Arantina
+
+Code: BR3103603, Coordinates: -21.902, -44.228
+
+
+### Araponga
+
+Code: BR3103702, Coordinates: -20.66, -42.5
+
+
+### Araporã (Arapora)
+
+Code: BR3103751, Coordinates: -18.489, -49.136
+
+
+### Arapuá (Arapua)
+
+Code: BR3103801, Coordinates: -24.321, -51.812
+
+
+### Araújos (Araujos)
+
+Code: BR3103900, Coordinates: -19.88, -45.167
+
+
+### Araxá (Araxa)
+
+Code: BR3104007, Coordinates: -19.606, -46.977
+
+
+### Arceburgo
+
+Code: BR3104106, Coordinates: -21.359, -46.935
+
+
+### Arcos
+
+Code: BR3104205, Coordinates: -20.245, -45.559
+
+
+### Areado
+
+Code: BR3104304, Coordinates: -21.347, -46.15
+
+
+### Argirita
+
+Code: BR3104403, Coordinates: -21.638, -42.833
+
+
+### Aricanduva
+
+Code: BR3104452, Coordinates: -17.872, -42.599
+
+
+### Arinos
+
+Code: BR3104502, Coordinates: -15.781, -46
+
+
+### Astolfo Dutra
+
+Code: BR3104601, Coordinates: -21.304, -42.881
+
+
+### Ataléia (Ataleia)
+
+Code: BR3104700, Coordinates: -18.176, -41.169
+
+
+### Augusto de Lima
+
+Code: BR3104809, Coordinates: -18.101, -44.18
+
+
+### Baependi
+
+Code: BR3104908, Coordinates: -21.995, -44.837
+
+
+### Baldim
+
+Code: BR3105004, Coordinates: -19.236, -43.861
+
+
+### Bambuí (Bambui)
+
+Code: BR3105103, Coordinates: -20.117, -45.995
+
+
+### Bandeira
+
+Code: BR3105202, Coordinates: -15.874, -40.6
+
+
+### Bandeira do Sul
+
+Code: BR3105301, Coordinates: -21.726, -46.384
+
+
+### Barão de Cocais (Barao de Cocais)
+
+Code: BR3105400, Coordinates: -19.878, -43.498
+
+
+### Barão de Monte Alto (Barao de Monte Alto)
+
+Code: BR3105509, Coordinates: -21.265, -42.282
+
+
+### Barbacena
+
+Code: BR3105608, Coordinates: -21.249, -43.822
+
+
+### Barra Longa
+
+Code: BR3105707, Coordinates: -20.279, -43.067
+
+
+### Barroso
+
+Code: BR3105905, Coordinates: -21.182, -43.958
+
+
+### Bela Vista de Minas
+
+Code: BR3106002, Coordinates: -19.801, -43.101
+
+
+### Belmiro Braga
+
+Code: BR3106101, Coordinates: -21.967, -43.455
+
+
+### Belo Horizonte
+
+Code: BR3106200, Coordinates: -19.891, -43.962
+
+
+### Belo Oriente
+
+Code: BR3106309, Coordinates: -19.253, -42.436
+
+
+### Belo Vale
+
+Code: BR3106408, Coordinates: -20.411, -44.062
+
+
+### Berilo
+
+Code: BR3106507, Coordinates: -16.876, -42.492
+
+
+### Berizal
+
+Code: BR3106655, Coordinates: -15.681, -41.77
+
+
+### Bertópolis (Bertopolis)
+
+Code: BR3106606, Coordinates: -16.954, -40.563
+
+
+### Betim
+
+Code: BR3106705, Coordinates: -19.96, -44.197
+
+
+### Bias Fortes
+
+Code: BR3106804, Coordinates: -21.638, -43.761
+
+
+### Bicas
+
+Code: BR3106903, Coordinates: -21.731, -43.099
+
+
+### Biquinhas
+
+Code: BR3107000, Coordinates: -18.766, -45.531
+
+
+### Boa Esperança (Boa Esperanca)
+
+Code: BR3107109, Coordinates: -24.246, -52.741
+
+
+### Bocaina de Minas
+
+Code: BR3107208, Coordinates: -22.229, -44.496
+
+
+### Bocaiúva (Bocaiuva)
+
+Code: BR3107307, Coordinates: -17.319, -43.664
+
+
+### Bom Despacho
+
+Code: BR3107406, Coordinates: -19.684, -45.291
+
+
+### Bom Jardim de Minas
+
+Code: BR3107505, Coordinates: -21.945, -44.125
+
+
+### Bom Jesus da Penha
+
+Code: BR3107604, Coordinates: -21.003, -46.544
+
+
+### Bom Jesus do Amparo
+
+Code: BR3107703, Coordinates: -19.719, -43.467
+
+
+### Bom Jesus do Galho
+
+Code: BR3107802, Coordinates: -19.725, -42.361
+
+
+### Bom Repouso
+
+Code: BR3107901, Coordinates: -22.449, -46.183
+
+
+### Bom Sucesso
+
+Code: BR3108008, Coordinates: -23.694, -51.819
+
+
+### Bonfim
+
+Code: BR3108107, Coordinates: -20.327, -44.209
+
+
+### Bonfinópolis de Minas (Bonfinopolis de Minas)
+
+Code: BR3108206, Coordinates: -16.521, -46.166
+
+
+### Bonito de Minas
+
+Code: BR3108255, Coordinates: -14.922, -44.873
+
+
+### Borda da Mata
+
+Code: BR3108305, Coordinates: -22.25, -46.16
+
+
+### Botelhos
+
+Code: BR3108404, Coordinates: -21.651, -46.433
+
+
+### Botumirim
+
+Code: BR3108503, Coordinates: -16.902, -43.007
+
+
+### Brás Pires (Bras Pires)
+
+Code: BR3108701, Coordinates: -20.874, -43.233
+
+
+### Brasilândia de Minas (Brasilandia de Minas)
+
+Code: BR3108552, Coordinates: -16.955, -45.915
+
+
+### Brasília de Minas (Brasilia de Minas)
+
+Code: BR3108602, Coordinates: -16.248, -44.458
+
+
+### Braúnas (Braunas)
+
+Code: BR3108800, Coordinates: -19.034, -42.717
+
+
+### Brazópolis (Brazopolis)
+
+Code: BR3108909, Coordinates: -22.491, -45.631
+
+
+### Brumadinho
+
+Code: BR3109006, Coordinates: -20.206, -44.142
+
+
+### Bueno Brandão (Bueno Brandao)
+
+Code: BR3109105, Coordinates: -22.509, -46.358
+
+
+### Buenópolis (Buenopolis)
+
+Code: BR3109204, Coordinates: -17.879, -44.037
+
+
+### Bugre
+
+Code: BR3109253, Coordinates: -19.366, -42.307
+
+
+### Buritis
+
+Code: BR3109303, Coordinates: -15.419, -46.562
+
+
+### Buritizeiro
+
+Code: BR3109402, Coordinates: -17.307, -45.272
+
+
+### Cabeceira Grande
+
+Code: BR3109451, Coordinates: -16.083, -47.164
+
+
+### Cabo Verde
+
+Code: BR3109501, Coordinates: -21.486, -46.387
+
+
+### Cachoeira da Prata
+
+Code: BR3109600, Coordinates: -19.517, -44.465
+
+
+### Cachoeira de Minas
+
+Code: BR3109709, Coordinates: -22.364, -45.791
+
+
+### Cachoeira de Pajeú (Cachoeira de Pajeu)
+
+Code: BR3102704, Coordinates: -15.977, -41.505
+
+
+### Cachoeira Dourada
+
+Code: BR3109808, Coordinates: -18.496, -49.632
+
+
+### Caetanópolis (Caetanopolis)
+
+Code: BR3109907, Coordinates: -19.344, -44.401
+
+
+### Caeté (Caete)
+
+Code: BR3110004, Coordinates: -19.859, -43.647
+
+
+### Caiana
+
+Code: BR3110103, Coordinates: -20.725, -41.908
+
+
+### Cajuri
+
+Code: BR3110202, Coordinates: -20.789, -42.759
+
+
+### Caldas
+
+Code: BR3110301, Coordinates: -21.883, -46.356
+
+
+### Camacho
+
+Code: BR3110400, Coordinates: -20.643, -45.13
+
+
+### Camanducaia
+
+Code: BR3110509, Coordinates: -22.791, -46.075
+
+
+### Cambuí (Cambui)
+
+Code: BR3110608, Coordinates: -22.579, -46.069
+
+
+### Cambuquira
+
+Code: BR3110707, Coordinates: -21.857, -45.267
+
+
+### Campanário (Campanario)
+
+Code: BR3110806, Coordinates: -18.273, -41.737
+
+
+### Campanha
+
+Code: BR3110905, Coordinates: -21.817, -45.4
+
+
+### Campestre
+
+Code: BR3111002, Coordinates: -21.731, -46.23
+
+
+### Campina Verde
+
+Code: BR3111101, Coordinates: -19.479, -49.737
+
+
+### Campo Azul
+
+Code: BR3111150, Coordinates: -16.522, -44.782
+
+
+### Campo Belo
+
+Code: BR3111200, Coordinates: -20.92, -45.239
+
+
+### Campo do Meio
+
+Code: BR3111309, Coordinates: -21.128, -45.809
+
+
+### Campo Florido
+
+Code: BR3111408, Coordinates: -19.707, -48.651
+
+
+### Campos Altos
+
+Code: BR3111507, Coordinates: -19.61, -46.191
+
+
+### Campos Gerais
+
+Code: BR3111606, Coordinates: -21.255, -45.73
+
+
+### Cana Verde
+
+Code: BR3111903, Coordinates: -21.034, -45.19
+
+
+### Canaã (Canaa)
+
+Code: BR3111705, Coordinates: -20.671, -42.637
+
+
+### Canápolis (Canapolis)
+
+Code: BR3111804, Coordinates: -18.779, -49.275
+
+
+### Candeias
+
+Code: BR3112000, Coordinates: -20.75, -45.269
+
+
+### Cantagalo
+
+Code: BR3112059, Coordinates: -25.29, -52.138
+
+
+### Caparaó (Caparao)
+
+Code: BR3112109, Coordinates: -20.525, -41.95
+
+
+### Capela Nova
+
+Code: BR3112208, Coordinates: -20.921, -43.609
+
+
+### Capelinha
+
+Code: BR3112307, Coordinates: -17.687, -42.503
+
+
+### Capetinga
+
+Code: BR3112406, Coordinates: -20.661, -47.02
+
+
+### Capim Branco
+
+Code: BR3112505, Coordinates: -19.576, -44.165
+
+
+### Capinópolis (Capinopolis)
+
+Code: BR3112604, Coordinates: -18.686, -49.58
+
+
+### Capitão Andrade (Capitao Andrade)
+
+Code: BR3112653, Coordinates: -19.046, -41.829
+
+
+### Capitão Enéas (Capitao Eneas)
+
+Code: BR3112703, Coordinates: -16.042, -43.663
+
+
+### Capitólio (Capitolio)
+
+Code: BR3112802, Coordinates: -20.598, -46.149
+
+
+### Caputira
+
+Code: BR3112901, Coordinates: -20.184, -42.25
+
+
+### Caraí (Carai)
+
+Code: BR3113008, Coordinates: -17.173, -41.565
+
+
+### Caranaíba (Caranaiba)
+
+Code: BR3113107, Coordinates: -20.893, -43.73
+
+
+### Carandaí (Carandai)
+
+Code: BR3113206, Coordinates: -20.992, -43.831
+
+
+### Carangola
+
+Code: BR3113305, Coordinates: -20.711, -42.097
+
+
+### Caratinga
+
+Code: BR3113404, Coordinates: -19.699, -42.119
+
+
+### Carbonita
+
+Code: BR3113503, Coordinates: -17.489, -43.046
+
+
+### Careaçu (Careacu)
+
+Code: BR3113602, Coordinates: -22.069, -45.665
+
+
+### Carlos Chagas
+
+Code: BR3113701, Coordinates: -17.674, -40.867
+
+
+### Carmésia (Carmesia)
+
+Code: BR3113800, Coordinates: -19.065, -43.18
+
+
+### Carmo da Cachoeira
+
+Code: BR3113909, Coordinates: -21.449, -45.194
+
+
+### Carmo da Mata
+
+Code: BR3114006, Coordinates: -20.571, -44.873
+
+
+### Carmo de Minas
+
+Code: BR3114105, Coordinates: -22.091, -45.152
+
+
+### Carmo do Cajuru
+
+Code: BR3114204, Coordinates: -20.189, -44.707
+
+
+### Carmo do Paranaíba (Carmo do Paranaiba)
+
+Code: BR3114303, Coordinates: -18.866, -46.138
+
+
+### Carmo do Rio Claro
+
+Code: BR3114402, Coordinates: -20.985, -46.118
+
+
+### Carmópolis de Minas (Carmopolis de Minas)
+
+Code: BR3114501, Coordinates: -20.563, -44.656
+
+
+### Carneirinho
+
+Code: BR3114550, Coordinates: -19.726, -50.832
+
+
+### Carrancas
+
+Code: BR3114600, Coordinates: -21.488, -44.606
+
+
+### Carvalhópolis (Carvalhopolis)
+
+Code: BR3114709, Coordinates: -21.775, -45.825
+
+
+### Carvalhos
+
+Code: BR3114808, Coordinates: -22.026, -44.488
+
+
+### Casa Grande
+
+Code: BR3114907, Coordinates: -20.833, -43.94
+
+
+### Cascalho Rico
+
+Code: BR3115003, Coordinates: -18.549, -47.86
+
+
+### Cássia (Cassia)
+
+Code: BR3115102, Coordinates: -20.573, -46.916
+
+
+### Cataguases
+
+Code: BR3115300, Coordinates: -21.341, -42.649
+
+
+### Catas Altas
+
+Code: BR3115359, Coordinates: -20.073, -43.417
+
+
+### Catas Altas da Noruega
+
+Code: BR3115409, Coordinates: -20.673, -43.492
+
+
+### Catuji
+
+Code: BR3115458, Coordinates: -17.367, -41.497
+
+
+### Catuti
+
+Code: BR3115474, Coordinates: -15.331, -43.095
+
+
+### Caxambu
+
+Code: BR3115508, Coordinates: -21.982, -44.944
+
+
+### Cedro do Abaeté (Cedro do Abaete)
+
+Code: BR3115607, Coordinates: -19.113, -45.7
+
+
+### Central de Minas
+
+Code: BR3115706, Coordinates: -18.766, -41.294
+
+
+### Centralina
+
+Code: BR3115805, Coordinates: -18.613, -49.169
+
+
+### Chácara (Chacara)
+
+Code: BR3115904, Coordinates: -21.681, -43.215
+
+
+### Chalé (Chale)
+
+Code: BR3116001, Coordinates: -20.028, -41.672
+
+
+### Chapada do Norte
+
+Code: BR3116100, Coordinates: -17.163, -42.378
+
+
+### Chapada Gaúcha (Chapada Gaucha)
+
+Code: BR3116159, Coordinates: -15.447, -45.473
+
+
+### Chiador
+
+Code: BR3116209, Coordinates: -21.996, -43.032
+
+
+### Cipotânea (Cipotanea)
+
+Code: BR3116308, Coordinates: -20.927, -43.359
+
+
+### Claraval
+
+Code: BR3116407, Coordinates: -20.366, -47.238
+
+
+### Claro dos Poções (Claro dos Pocoes)
+
+Code: BR3116506, Coordinates: -17.086, -44.227
+
+
+### Cláudio (Claudio)
+
+Code: BR3116605, Coordinates: -20.393, -44.777
+
+
+### Coimbra
+
+Code: BR3116704, Coordinates: -20.846, -42.79
+
+
+### Coluna
+
+Code: BR3116803, Coordinates: -18.258, -42.827
+
+
+### Comendador Gomes
+
+Code: BR3116902, Coordinates: -19.667, -49.084
+
+
+### Comercinho
+
+Code: BR3117009, Coordinates: -16.285, -41.768
+
+
+### Conceição da Aparecida (Conceicao da Aparecida)
+
+Code: BR3117108, Coordinates: -21.09, -46.227
+
+
+### Conceição da Barra de Minas (Conceicao da Barra de Minas)
+
+Code: BR3115201, Coordinates: -21.131, -44.489
+
+
+### Conceição das Alagoas (Conceicao das Alagoas)
+
+Code: BR3117306, Coordinates: -19.957, -48.338
+
+
+### Conceição das Pedras (Conceicao das Pedras)
+
+Code: BR3117207, Coordinates: -22.137, -45.409
+
+
+### Conceição de Ipanema (Conceicao de Ipanema)
+
+Code: BR3117405, Coordinates: -19.917, -41.696
+
+
+### Conceição do Mato Dentro (Conceicao do Mato Dentro)
+
+Code: BR3117504, Coordinates: -18.925, -43.485
+
+
+### Conceição do Pará (Conceicao do Para)
+
+Code: BR3117603, Coordinates: -19.78, -44.88
+
+
+### Conceição do Rio Verde (Conceicao do Rio Verde)
+
+Code: BR3117702, Coordinates: -21.895, -45.088
+
+
+### Conceição dos Ouros (Conceicao dos Ouros)
+
+Code: BR3117801, Coordinates: -22.446, -45.771
+
+
+### Cônego Marinho (Conego Marinho)
+
+Code: BR3117836, Coordinates: -15.016, -44.593
+
+
+### Confins
+
+Code: BR3117876, Coordinates: -19.645, -43.972
+
+
+### Congonhal
+
+Code: BR3117900, Coordinates: -22.139, -46.044
+
+
+### Congonhas
+
+Code: BR3118007, Coordinates: -20.524, -43.856
+
+
+### Congonhas do Norte
+
+Code: BR3118106, Coordinates: -18.882, -43.685
+
+
+### Conquista
+
+Code: BR3118205, Coordinates: -19.881, -47.62
+
+
+### Conselheiro Lafaiete
+
+Code: BR3118304, Coordinates: -20.663, -43.803
+
+
+### Conselheiro Pena
+
+Code: BR3118403, Coordinates: -19.151, -41.437
+
+
+### Consolação (Consolacao)
+
+Code: BR3118502, Coordinates: -22.531, -45.911
+
+
+### Contagem
+
+Code: BR3118601, Coordinates: -19.886, -44.074
+
+
+### Coqueiral
+
+Code: BR3118700, Coordinates: -21.182, -45.424
+
+
+### Coração de Jesus (Coracao de Jesus)
+
+Code: BR3118809, Coordinates: -16.622, -44.437
+
+
+### Cordisburgo
+
+Code: BR3118908, Coordinates: -19.086, -44.158
+
+
+### Cordislândia (Cordislandia)
+
+Code: BR3119005, Coordinates: -21.786, -45.668
+
+
+### Corinto
+
+Code: BR3119104, Coordinates: -18.347, -44.614
+
+
+### Coroaci
+
+Code: BR3119203, Coordinates: -18.61, -42.26
+
+
+### Coromandel
+
+Code: BR3119302, Coordinates: -18.378, -47.136
+
+
+### Coronel Fabriciano
+
+Code: BR3119401, Coordinates: -19.458, -42.685
+
+
+### Coronel Murta
+
+Code: BR3119500, Coordinates: -16.583, -42.193
+
+
+### Coronel Pacheco
+
+Code: BR3119609, Coordinates: -21.607, -43.293
+
+
+### Coronel Xavier Chaves
+
+Code: BR3119708, Coordinates: -21.031, -44.202
+
+
+### Córrego Danta (Corrego Danta)
+
+Code: BR3119807, Coordinates: -19.786, -45.983
+
+
+### Córrego do Bom Jesus (Corrego do Bom Jesus)
+
+Code: BR3119906, Coordinates: -22.635, -45.989
+
+
+### Córrego Fundo (Corrego Fundo)
+
+Code: BR3119955, Coordinates: -20.448, -45.541
+
+
+### Córrego Novo (Corrego Novo)
+
+Code: BR3120003, Coordinates: -19.831, -42.45
+
+
+### Couto de Magalhães de Minas (Couto de Magalhaes de Minas)
+
+Code: BR3120102, Coordinates: -18.089, -43.43
+
+
+### Crisólita (Crisolita)
+
+Code: BR3120151, Coordinates: -17.24, -40.978
+
+
+### Cristais
+
+Code: BR3120201, Coordinates: -20.817, -45.54
+
+
+### Cristália (Cristalia)
+
+Code: BR3120300, Coordinates: -16.713, -42.824
+
+
+### Cristiano Otoni
+
+Code: BR3120409, Coordinates: -20.838, -43.825
+
+
+### Cristina
+
+Code: BR3120508, Coordinates: -22.214, -45.293
+
+
+### Crucilândia (Crucilandia)
+
+Code: BR3120607, Coordinates: -20.403, -44.364
+
+
+### Cruzeiro da Fortaleza
+
+Code: BR3120706, Coordinates: -18.982, -46.666
+
+
+### Cruzília (Cruzilia)
+
+Code: BR3120805, Coordinates: -21.731, -44.796
+
+
+### Cuparaque
+
+Code: BR3120839, Coordinates: -18.999, -41.13
+
+
+### Curral de Dentro
+
+Code: BR3120870, Coordinates: -15.845, -41.745
+
+
+### Curvelo
+
+Code: BR3120904, Coordinates: -18.795, -44.414
+
+
+### Datas
+
+Code: BR3121001, Coordinates: -18.478, -43.656
+
+
+### Delfim Moreira
+
+Code: BR3121100, Coordinates: -22.506, -45.293
+
+
+### Delfinópolis (Delfinopolis)
+
+Code: BR3121209, Coordinates: -20.353, -46.752
+
+
+### Delta
+
+Code: BR3121258, Coordinates: -19.926, -47.814
+
+
+### Descoberto
+
+Code: BR3121308, Coordinates: -21.451, -42.97
+
+
+### Desterro de Entre Rios
+
+Code: BR3121407, Coordinates: -20.637, -44.275
+
+
+### Desterro do Melo
+
+Code: BR3121506, Coordinates: -21.145, -43.52
+
+
+### Diamantina
+
+Code: BR3121605, Coordinates: -17.93, -43.581
+
+
+### Diogo de Vasconcelos
+
+Code: BR3121704, Coordinates: -20.478, -43.183
+
+
+### Dionísio (Dionisio)
+
+Code: BR3121803, Coordinates: -19.833, -42.67
+
+
+### Divinésia (Divinesia)
+
+Code: BR3121902, Coordinates: -20.991, -42.997
+
+
+### Divino
+
+Code: BR3122009, Coordinates: -20.578, -42.195
+
+
+### Divino das Laranjeiras
+
+Code: BR3122108, Coordinates: -18.71, -41.49
+
+
+### Divinolândia de Minas (Divinolandia de Minas)
+
+Code: BR3122207, Coordinates: -18.781, -42.574
+
+
+### Divinópolis (Divinopolis)
+
+Code: BR3122306, Coordinates: -20.103, -44.919
+
+
+### Divisa Alegre
+
+Code: BR3122355, Coordinates: -15.705, -41.383
+
+
+### Divisa Nova
+
+Code: BR3122405, Coordinates: -21.526, -46.242
+
+
+### Divisópolis (Divisopolis)
+
+Code: BR3122454, Coordinates: -15.768, -40.909
+
+
+### Dom Bosco
+
+Code: BR3122470, Coordinates: -16.776, -46.311
+
+
+### Dom Cavati
+
+Code: BR3122504, Coordinates: -19.387, -42.089
+
+
+### Dom Joaquim
+
+Code: BR3122603, Coordinates: -18.925, -43.26
+
+
+### Dom Silvério (Dom Silverio)
+
+Code: BR3122702, Coordinates: -20.121, -42.943
+
+
+### Dom Viçoso (Dom Vicoso)
+
+Code: BR3122801, Coordinates: -22.236, -45.151
+
+
+### Dona Euzébia (Dona Euzebia)
+
+Code: BR3122900, Coordinates: -21.335, -42.803
+
+
+### Dores de Campos
+
+Code: BR3123007, Coordinates: -21.107, -43.993
+
+
+### Dores de Guanhães (Dores de Guanhaes)
+
+Code: BR3123106, Coordinates: -19.051, -42.92
+
+
+### Dores do Indaiá (Dores do Indaia)
+
+Code: BR3123205, Coordinates: -19.484, -45.543
+
+
+### Dores do Turvo
+
+Code: BR3123304, Coordinates: -21.025, -43.169
+
+
+### Doresópolis (Doresopolis)
+
+Code: BR3123403, Coordinates: -20.296, -45.893
+
+
+### Douradoquara
+
+Code: BR3123502, Coordinates: -18.436, -47.615
+
+
+### Durandé (Durande)
+
+Code: BR3123528, Coordinates: -20.141, -41.794
+
+
+### Elói Mendes (Eloi Mendes)
+
+Code: BR3123601, Coordinates: -21.596, -45.596
+
+
+### Engenheiro Caldas
+
+Code: BR3123700, Coordinates: -19.111, -42.017
+
+
+### Engenheiro Navarro
+
+Code: BR3123809, Coordinates: -17.298, -44.028
+
+
+### Entre Folhas
+
+Code: BR3123858, Coordinates: -19.657, -42.236
+
+
+### Entre Rios de Minas
+
+Code: BR3123908, Coordinates: -20.701, -44.116
+
+
+### Ervália (Ervalia)
+
+Code: BR3124005, Coordinates: -20.852, -42.611
+
+
+### Esmeraldas
+
+Code: BR3124104, Coordinates: -19.75, -44.327
+
+
+### Espera Feliz
+
+Code: BR3124203, Coordinates: -20.598, -41.92
+
+
+### Espinosa
+
+Code: BR3124302, Coordinates: -14.861, -42.983
+
+
+### Espírito Santo do Dourado (Espirito Santo do Dourado)
+
+Code: BR3124401, Coordinates: -22.019, -45.979
+
+
+### Estiva
+
+Code: BR3124500, Coordinates: -22.459, -46.02
+
+
+### Estrela Dalva
+
+Code: BR3124609, Coordinates: -21.7, -42.467
+
+
+### Estrela do Indaiá (Estrela do Indaia)
+
+Code: BR3124708, Coordinates: -19.589, -45.816
+
+
+### Estrela do Sul
+
+Code: BR3124807, Coordinates: -18.713, -47.702
+
+
+### Eugenópolis (Eugenopolis)
+
+Code: BR3124906, Coordinates: -21.023, -42.223
+
+
+### Ewbank da Câmara (Ewbank da Camara)
+
+Code: BR3125002, Coordinates: -21.575, -43.556
+
+
+### Extrema
+
+Code: BR3125101, Coordinates: -22.825, -46.294
+
+
+### Fama
+
+Code: BR3125200, Coordinates: -21.47, -45.817
+
+
+### Faria Lemos
+
+Code: BR3125309, Coordinates: -20.78, -42.021
+
+
+### Felício dos Santos (Felicio dos Santos)
+
+Code: BR3125408, Coordinates: -18.143, -43.245
+
+
+### Felisburgo
+
+Code: BR3125606, Coordinates: -16.659, -40.717
+
+
+### Felixlândia (Felixlandia)
+
+Code: BR3125705, Coordinates: -18.715, -44.935
+
+
+### Fernandes Tourinho
+
+Code: BR3125804, Coordinates: -19.102, -42.091
+
+
+### Ferros
+
+Code: BR3125903, Coordinates: -19.233, -42.971
+
+
+### Fervedouro
+
+Code: BR3125952, Coordinates: -20.688, -42.343
+
+
+### Florestal
+
+Code: BR3126000, Coordinates: -19.861, -44.432
+
+
+### Formiga
+
+Code: BR3126109, Coordinates: -20.531, -45.479
+
+
+### Formoso
+
+Code: BR3126208, Coordinates: -13.705, -48.869
+
+
+### Fortaleza de Minas
+
+Code: BR3126307, Coordinates: -20.883, -46.773
+
+
+### Fortuna de Minas
+
+Code: BR3126406, Coordinates: -19.554, -44.51
+
+
+### Francisco Badaró (Francisco Badaro)
+
+Code: BR3126505, Coordinates: -16.955, -42.281
+
+
+### Francisco Dumont
+
+Code: BR3126604, Coordinates: -17.391, -44.227
+
+
+### Francisco Sá (Francisco Sa)
+
+Code: BR3126703, Coordinates: -16.421, -43.485
+
+
+### Franciscópolis (Franciscopolis)
+
+Code: BR3126752, Coordinates: -17.996, -41.966
+
+
+### Frei Gaspar
+
+Code: BR3126802, Coordinates: -18.142, -41.506
+
+
+### Frei Inocêncio (Frei Inocencio)
+
+Code: BR3126901, Coordinates: -18.516, -41.873
+
+
+### Frei Lagonegro
+
+Code: BR3126950, Coordinates: -18.144, -42.765
+
+
+### Fronteira
+
+Code: BR3127008, Coordinates: -20.217, -49.168
+
+
+### Fronteira dos Vales
+
+Code: BR3127057, Coordinates: -16.892, -40.82
+
+
+### Fruta de Leite
+
+Code: BR3127073, Coordinates: -16.144, -42.526
+
+
+### Frutal
+
+Code: BR3127107, Coordinates: -20.012, -48.975
+
+
+### Funilândia (Funilandia)
+
+Code: BR3127206, Coordinates: -19.363, -44.066
+
+
+### Galiléia (Galileia)
+
+Code: BR3127305, Coordinates: -18.867, -41.517
+
+
+### Gameleiras
+
+Code: BR3127339, Coordinates: -14.981, -43.294
+
+
+### Glaucilândia (Glaucilandia)
+
+Code: BR3127354, Coordinates: -16.895, -43.65
+
+
+### Goiabeira
+
+Code: BR3127370, Coordinates: -19.03, -41.232
+
+
+### Goianá (Goiana)
+
+Code: BR3127388, Coordinates: -21.559, -43.188
+
+
+### Gonçalves (Goncalves)
+
+Code: BR3127404, Coordinates: -22.674, -45.828
+
+
+### Gonzaga
+
+Code: BR3127503, Coordinates: -18.874, -42.505
+
+
+### Gouveia
+
+Code: BR3127602, Coordinates: -18.546, -43.865
+
+
+### Governador Valadares
+
+Code: BR3127701, Coordinates: -18.756, -41.953
+
+
+### Grão Mogol (Grao Mogol)
+
+Code: BR3127800, Coordinates: -16.506, -42.958
+
+
+### Grupiara
+
+Code: BR3127909, Coordinates: -18.484, -47.772
+
+
+### Guanhães (Guanhaes)
+
+Code: BR3128006, Coordinates: -18.863, -42.818
+
+
+### Guapé (Guape)
+
+Code: BR3128105, Coordinates: -20.772, -45.909
+
+
+### Guaraciaba
+
+Code: BR3128204, Coordinates: -26.573, -53.604
+
+
+### Guaraciama
+
+Code: BR3128253, Coordinates: -17.073, -43.616
+
+
+### Guaranésia (Guaranesia)
+
+Code: BR3128303, Coordinates: -21.281, -46.813
+
+
+### Guarani
+
+Code: BR3128402, Coordinates: -21.352, -43.054
+
+
+### Guarará (Guarara)
+
+Code: BR3128501, Coordinates: -21.753, -43.021
+
+
+### Guarda-Mor
+
+Code: BR3128600, Coordinates: -17.744, -47.125
+
+
+### Guaxupé (Guaxupe)
+
+Code: BR3128709, Coordinates: -21.294, -46.687
+
+
+### Guidoval
+
+Code: BR3128808, Coordinates: -21.177, -42.787
+
+
+### Guimarânia (Guimarania)
+
+Code: BR3128907, Coordinates: -18.81, -46.755
+
+
+### Guiricema
+
+Code: BR3129004, Coordinates: -21.009, -42.693
+
+
+### Gurinhatã (Gurinhata)
+
+Code: BR3129103, Coordinates: -19.054, -49.89
+
+
+### Heliodora
+
+Code: BR3129202, Coordinates: -22.046, -45.536
+
+
+### Iapu
+
+Code: BR3129301, Coordinates: -19.36, -42.244
+
+
+### Ibertioga
+
+Code: BR3129400, Coordinates: -21.446, -43.948
+
+
+### Ibiá (Ibia)
+
+Code: BR3129509, Coordinates: -19.556, -46.609
+
+
+### Ibiaí (Ibiai)
+
+Code: BR3129608, Coordinates: -16.813, -44.776
+
+
+### Ibiracatu
+
+Code: BR3129657, Coordinates: -15.666, -44.135
+
+
+### Ibiraci
+
+Code: BR3129707, Coordinates: -20.392, -47.128
+
+
+### Ibirité (Ibirite)
+
+Code: BR3129806, Coordinates: -20.018, -44.073
+
+
+### Ibitiúra de Minas (Ibitiura de Minas)
+
+Code: BR3129905, Coordinates: -22.068, -46.409
+
+
+### Ibituruna
+
+Code: BR3130002, Coordinates: -21.165, -44.786
+
+
+### Icaraí de Minas (Icarai de Minas)
+
+Code: BR3130051, Coordinates: -16.209, -44.865
+
+
+### Igarapé (Igarape)
+
+Code: BR3130101, Coordinates: -20.053, -44.314
+
+
+### Igaratinga
+
+Code: BR3130200, Coordinates: -19.955, -44.722
+
+
+### Iguatama
+
+Code: BR3130309, Coordinates: -20.133, -45.75
+
+
+### Ijaci
+
+Code: BR3130408, Coordinates: -21.176, -44.926
+
+
+### Ilicínea (Ilicinea)
+
+Code: BR3130507, Coordinates: -20.931, -45.815
+
+
+### Imbé de Minas (Imbe de Minas)
+
+Code: BR3130556, Coordinates: -19.643, -41.975
+
+
+### Inconfidentes
+
+Code: BR3130606, Coordinates: -22.335, -46.279
+
+
+### Indaiabira
+
+Code: BR3130655, Coordinates: -15.572, -42.148
+
+
+### Indianópolis (Indianopolis)
+
+Code: BR3130705, Coordinates: -23.477, -52.644
+
+
+### Ingaí (Ingai)
+
+Code: BR3130804, Coordinates: -21.415, -44.931
+
+
+### Inhapim
+
+Code: BR3130903, Coordinates: -19.5, -41.949
+
+
+### Inhaúma (Inhauma)
+
+Code: BR3131000, Coordinates: -19.499, -44.415
+
+
+### Inimutaba
+
+Code: BR3131109, Coordinates: -18.73, -44.269
+
+
+### Ipaba
+
+Code: BR3131158, Coordinates: -19.407, -42.364
+
+
+### Ipanema
+
+Code: BR3131208, Coordinates: -19.768, -41.77
+
+
+### Ipatinga
+
+Code: BR3131307, Coordinates: -19.44, -42.6
+
+
+### Ipiaçu (Ipiacu)
+
+Code: BR3131406, Coordinates: -18.704, -49.933
+
+
+### Ipuiúna (Ipuiuna)
+
+Code: BR3131505, Coordinates: -22.024, -46.136
+
+
+### Iraí de Minas (Irai de Minas)
+
+Code: BR3131604, Coordinates: -19.063, -47.456
+
+
+### Itabira
+
+Code: BR3131703, Coordinates: -19.579, -43.298
+
+
+### Itabirinha
+
+Code: BR3131802, Coordinates: -18.534, -41.25
+
+
+### Itabirito
+
+Code: BR3131901, Coordinates: -20.244, -43.782
+
+
+### Itacambira
+
+Code: BR3132008, Coordinates: -16.887, -43.308
+
+
+### Itacarambi
+
+Code: BR3132107, Coordinates: -15.172, -44.15
+
+
+### Itaguara
+
+Code: BR3132206, Coordinates: -20.366, -44.527
+
+
+### Itaipé (Itaipe)
+
+Code: BR3132305, Coordinates: -17.415, -41.659
+
+
+### Itajubá (Itajuba)
+
+Code: BR3132404, Coordinates: -22.427, -45.407
+
+
+### Itamarandiba
+
+Code: BR3132503, Coordinates: -17.836, -42.873
+
+
+### Itamarati de Minas
+
+Code: BR3132602, Coordinates: -21.426, -42.848
+
+
+### Itambacuri
+
+Code: BR3132701, Coordinates: -18.175, -41.861
+
+
+### Itambé do Mato Dentro (Itambe do Mato Dentro)
+
+Code: BR3132800, Coordinates: -19.405, -43.346
+
+
+### Itamogi
+
+Code: BR3132909, Coordinates: -21.08, -47.045
+
+
+### Itamonte
+
+Code: BR3133006, Coordinates: -22.29, -44.759
+
+
+### Itanhandu
+
+Code: BR3133105, Coordinates: -22.323, -44.912
+
+
+### Itanhomi
+
+Code: BR3133204, Coordinates: -19.151, -41.833
+
+
+### Itaobim
+
+Code: BR3133303, Coordinates: -16.569, -41.527
+
+
+### Itapagipe
+
+Code: BR3133402, Coordinates: -19.752, -49.452
+
+
+### Itapecerica
+
+Code: BR3133501, Coordinates: -20.462, -45.113
+
+
+### Itapeva
+
+Code: BR3133600, Coordinates: -23.932, -48.849
+
+
+### Itatiaiuçu (Itatiaiucu)
+
+Code: BR3133709, Coordinates: -20.216, -44.457
+
+
+### Itaú de Minas (Itau de Minas)
+
+Code: BR3133758, Coordinates: -20.73, -46.775
+
+
+### Itaúna (Itauna)
+
+Code: BR3133808, Coordinates: -20.085, -44.581
+
+
+### Itaverava
+
+Code: BR3133907, Coordinates: -20.699, -43.601
+
+
+### Itinga
+
+Code: BR3134004, Coordinates: -16.584, -41.855
+
+
+### Itueta
+
+Code: BR3134103, Coordinates: -19.377, -41.096
+
+
+### Ituiutaba
+
+Code: BR3134202, Coordinates: -18.992, -49.548
+
+
+### Itumirim
+
+Code: BR3134301, Coordinates: -21.281, -44.835
+
+
+### Iturama
+
+Code: BR3134400, Coordinates: -19.687, -50.369
+
+
+### Itutinga
+
+Code: BR3134509, Coordinates: -21.344, -44.717
+
+
+### Jaboticatubas
+
+Code: BR3134608, Coordinates: -19.444, -43.749
+
+
+### Jacinto
+
+Code: BR3134707, Coordinates: -16.188, -40.33
+
+
+### Jacuí (Jacui)
+
+Code: BR3134806, Coordinates: -21.017, -46.736
+
+
+### Jacutinga
+
+Code: BR3134905, Coordinates: -27.786, -52.552
+
+
+### Jaguaraçu (Jaguaracu)
+
+Code: BR3135001, Coordinates: -19.642, -42.713
+
+
+### Jaíba (Jaiba)
+
+Code: BR3135050, Coordinates: -15.21, -43.663
+
+
+### Jampruca
+
+Code: BR3135076, Coordinates: -18.467, -41.756
+
+
+### Janaúba (Janauba)
+
+Code: BR3135100, Coordinates: -15.812, -43.377
+
+
+### Januária (Januaria)
+
+Code: BR3135209, Coordinates: -15.307, -44.871
+
+
+### Japaraíba (Japaraiba)
+
+Code: BR3135308, Coordinates: -20.134, -45.533
+
+
+### Japonvar
+
+Code: BR3135357, Coordinates: -15.938, -44.338
+
+
+### Jeceaba
+
+Code: BR3135407, Coordinates: -20.556, -44.042
+
+
+### Jenipapo de Minas
+
+Code: BR3135456, Coordinates: -17.176, -42.211
+
+
+### Jequeri
+
+Code: BR3135506, Coordinates: -20.477, -42.619
+
+
+### Jequitaí (Jequitai)
+
+Code: BR3135605, Coordinates: -17.19, -44.461
+
+
+### Jequitibá (Jequitiba)
+
+Code: BR3135704, Coordinates: -19.215, -44.012
+
+
+### Jequitinhonha
+
+Code: BR3135803, Coordinates: -16.388, -41.058
+
+
+### Jesuânia (Jesuania)
+
+Code: BR3135902, Coordinates: -22.009, -45.278
+
+
+### Joaíma (Joaima)
+
+Code: BR3136009, Coordinates: -16.805, -41.019
+
+
+### Joanésia (Joanesia)
+
+Code: BR3136108, Coordinates: -19.206, -42.71
+
+
+### João Monlevade (Joao Monlevade)
+
+Code: BR3136207, Coordinates: -19.831, -43.164
+
+
+### João Pinheiro (Joao Pinheiro)
+
+Code: BR3136306, Coordinates: -17.532, -45.991
+
+
+### Joaquim Felício (Joaquim Felicio)
+
+Code: BR3136405, Coordinates: -17.648, -44.107
+
+
+### Jordânia (Jordania)
+
+Code: BR3136504, Coordinates: -15.876, -40.304
+
+
+### José Gonçalves de Minas (Jose Goncalves de Minas)
+
+Code: BR3136520, Coordinates: -16.899, -42.664
+
+
+### José Raydan (Jose Raydan)
+
+Code: BR3136553, Coordinates: -18.259, -42.471
+
+
+### Josenópolis (Josenopolis)
+
+Code: BR3136579, Coordinates: -16.548, -42.524
+
+
+### Juatuba
+
+Code: BR3136652, Coordinates: -19.955, -44.35
+
+
+### Juiz de Fora
+
+Code: BR3136702, Coordinates: -21.755, -43.445
+
+
+### Juramento
+
+Code: BR3136801, Coordinates: -16.858, -43.581
+
+
+### Juruaia
+
+Code: BR3136900, Coordinates: -21.227, -46.517
+
+
+### Juvenília (Juvenilia)
+
+Code: BR3136959, Coordinates: -14.355, -44.083
+
+
+### Ladainha
+
+Code: BR3137007, Coordinates: -17.639, -41.835
+
+
+### Lagamar
+
+Code: BR3137106, Coordinates: -18.013, -46.719
+
+
+### Lagoa da Prata
+
+Code: BR3137205, Coordinates: -19.996, -45.516
+
+
+### Lagoa dos Patos
+
+Code: BR3137304, Coordinates: -17.021, -44.675
+
+
+### Lagoa Dourada
+
+Code: BR3137403, Coordinates: -20.9, -44.072
+
+
+### Lagoa Formosa
+
+Code: BR3137502, Coordinates: -18.763, -46.32
+
+
+### Lagoa Grande
+
+Code: BR3137536, Coordinates: -17.75, -46.523
+
+
+### Lagoa Santa
+
+Code: BR3137601, Coordinates: -19.22, -51.262
+
+
+### Lajinha
+
+Code: BR3137700, Coordinates: -20.11, -41.595
+
+
+### Lambari
+
+Code: BR3137809, Coordinates: -21.989, -45.365
+
+
+### Lamim
+
+Code: BR3137908, Coordinates: -20.773, -43.481
+
+
+### Laranjal
+
+Code: BR3138005, Coordinates: -24.909, -52.503
+
+
+### Lassance
+
+Code: BR3138104, Coordinates: -17.886, -44.685
+
+
+### Lavras
+
+Code: BR3138203, Coordinates: -21.252, -45.036
+
+
+### Leandro Ferreira
+
+Code: BR3138302, Coordinates: -19.684, -45.047
+
+
+### Leme do Prado
+
+Code: BR3138351, Coordinates: -17.056, -42.744
+
+
+### Leopoldina
+
+Code: BR3138401, Coordinates: -21.53, -42.64
+
+
+### Liberdade
+
+Code: BR3138500, Coordinates: -22.023, -44.34
+
+
+### Lima Duarte
+
+Code: BR3138609, Coordinates: -21.797, -43.877
+
+
+### Limeira do Oeste
+
+Code: BR3138625, Coordinates: -19.402, -50.628
+
+
+### Lontra
+
+Code: BR3138658, Coordinates: -15.849, -44.277
+
+
+### Luisburgo
+
+Code: BR3138674, Coordinates: -20.441, -42.073
+
+
+### Luislândia (Luislandia)
+
+Code: BR3138682, Coordinates: -16.189, -44.594
+
+
+### Luminárias (Luminarias)
+
+Code: BR3138708, Coordinates: -21.523, -44.917
+
+
+### Luz
+
+Code: BR3138807, Coordinates: -19.851, -45.667
+
+
+### Machacalis
+
+Code: BR3138906, Coordinates: -17.098, -40.716
+
+
+### Machado
+
+Code: BR3139003, Coordinates: -21.696, -45.899
+
+
+### Madre de Deus de Minas
+
+Code: BR3139102, Coordinates: -21.488, -44.326
+
+
+### Malacacheta
+
+Code: BR3139201, Coordinates: -17.836, -42.098
+
+
+### Mamonas
+
+Code: BR3139250, Coordinates: -15.019, -42.948
+
+
+### Manga
+
+Code: BR3139300, Coordinates: -14.665, -44.13
+
+
+### Manhuaçu (Manhuacu)
+
+Code: BR3139409, Coordinates: -20.189, -42.101
+
+
+### Manhumirim
+
+Code: BR3139508, Coordinates: -20.347, -41.942
+
+
+### Mantena
+
+Code: BR3139607, Coordinates: -18.687, -41.105
+
+
+### Mar de Espanha
+
+Code: BR3139805, Coordinates: -21.874, -43.025
+
+
+### Maravilhas
+
+Code: BR3139706, Coordinates: -19.504, -44.669
+
+
+### Maria da Fé (Maria da Fe)
+
+Code: BR3139904, Coordinates: -22.32, -45.305
+
+
+### Mariana
+
+Code: BR3140001, Coordinates: -20.322, -43.314
+
+
+### Marilac
+
+Code: BR3140100, Coordinates: -18.498, -42.067
+
+
+### Mário Campos (Mario Campos)
+
+Code: BR3140159, Coordinates: -20.076, -44.175
+
+
+### Maripá de Minas (Maripa de Minas)
+
+Code: BR3140209, Coordinates: -21.695, -42.959
+
+
+### Marliéria (Marlieria)
+
+Code: BR3140308, Coordinates: -19.698, -42.633
+
+
+### Marmelópolis (Marmelopolis)
+
+Code: BR3140407, Coordinates: -22.468, -45.17
+
+
+### Martinho Campos
+
+Code: BR3140506, Coordinates: -19.4, -45.195
+
+
+### Martins Soares
+
+Code: BR3140530, Coordinates: -20.255, -41.847
+
+
+### Mata Verde
+
+Code: BR3140555, Coordinates: -15.761, -40.707
+
+
+### Materlândia (Materlandia)
+
+Code: BR3140605, Coordinates: -18.447, -43.024
+
+
+### Mateus Leme
+
+Code: BR3140704, Coordinates: -20.018, -44.443
+
+
+### Mathias Lobato
+
+Code: BR3171501, Coordinates: -18.598, -41.956
+
+
+### Matias Barbosa
+
+Code: BR3140803, Coordinates: -21.879, -43.303
+
+
+### Matias Cardoso
+
+Code: BR3140852, Coordinates: -14.849, -43.705
+
+
+### Matipó (Matipo)
+
+Code: BR3140902, Coordinates: -20.299, -42.316
+
+
+### Mato Verde
+
+Code: BR3141009, Coordinates: -15.437, -42.882
+
+
+### Matozinhos
+
+Code: BR3141108, Coordinates: -19.52, -44.045
+
+
+### Matutina
+
+Code: BR3141207, Coordinates: -19.185, -45.985
+
+
+### Medeiros
+
+Code: BR3141306, Coordinates: -19.995, -46.353
+
+
+### Medina
+
+Code: BR3141405, Coordinates: -16.296, -41.531
+
+
+### Mendes Pimentel
+
+Code: BR3141504, Coordinates: -18.624, -41.355
+
+
+### Mercês (Merces)
+
+Code: BR3141603, Coordinates: -21.185, -43.332
+
+
+### Mesquita
+
+Code: BR3141702, Coordinates: -22.794, -43.451
+
+
+### Minas Novas
+
+Code: BR3141801, Coordinates: -17.352, -42.427
+
+
+### Minduri
+
+Code: BR3141900, Coordinates: -21.671, -44.612
+
+
+### Mirabela
+
+Code: BR3142007, Coordinates: -16.273, -44.159
+
+
+### Miradouro
+
+Code: BR3142106, Coordinates: -20.847, -42.391
+
+
+### Miraí (Mirai)
+
+Code: BR3142205, Coordinates: -21.148, -42.607
+
+
+### Miravânia (Miravania)
+
+Code: BR3142254, Coordinates: -14.748, -44.413
+
+
+### Moeda
+
+Code: BR3142304, Coordinates: -20.334, -44.018
+
+
+### Moema
+
+Code: BR3142403, Coordinates: -19.835, -45.42
+
+
+### Monjolos
+
+Code: BR3142502, Coordinates: -18.39, -44.024
+
+
+### Monsenhor Paulo
+
+Code: BR3142601, Coordinates: -21.726, -45.473
+
+
+### Montalvânia (Montalvania)
+
+Code: BR3142700, Coordinates: -14.448, -44.494
+
+
+### Monte Alegre de Minas
+
+Code: BR3142809, Coordinates: -18.825, -48.932
+
+
+### Monte Azul
+
+Code: BR3142908, Coordinates: -15.217, -43.009
+
+
+### Monte Belo
+
+Code: BR3143005, Coordinates: -21.32, -46.326
+
+
+### Monte Carmelo
+
+Code: BR3143104, Coordinates: -18.654, -47.498
+
+
+### Monte Formoso
+
+Code: BR3143153, Coordinates: -16.879, -41.275
+
+
+### Monte Santo de Minas
+
+Code: BR3143203, Coordinates: -21.194, -46.949
+
+
+### Monte Sião (Monte Siao)
+
+Code: BR3143401, Coordinates: -22.422, -46.535
+
+
+### Montes Claros
+
+Code: BR3143302, Coordinates: -16.624, -43.925
+
+
+### Montezuma
+
+Code: BR3143450, Coordinates: -15.177, -42.472
+
+
+### Morada Nova de Minas
+
+Code: BR3143500, Coordinates: -18.582, -45.427
+
+
+### Morro da Garça (Morro da Garca)
+
+Code: BR3143609, Coordinates: -18.622, -44.629
+
+
+### Morro do Pilar
+
+Code: BR3143708, Coordinates: -19.223, -43.401
+
+
+### Munhoz
+
+Code: BR3143807, Coordinates: -22.625, -46.307
+
+
+### Muriaé (Muriae)
+
+Code: BR3143906, Coordinates: -21.065, -42.437
+
+
+### Mutum
+
+Code: BR3144003, Coordinates: -19.91, -41.459
+
+
+### Muzambinho
+
+Code: BR3144102, Coordinates: -21.361, -46.523
+
+
+### Nacip Raydan
+
+Code: BR3144201, Coordinates: -18.477, -42.171
+
+
+### Nanuque
+
+Code: BR3144300, Coordinates: -17.791, -40.527
+
+
+### Naque
+
+Code: BR3144359, Coordinates: -19.183, -42.329
+
+
+### Natalândia (Natalandia)
+
+Code: BR3144375, Coordinates: -16.57, -46.49
+
+
+### Natércia (Natercia)
+
+Code: BR3144409, Coordinates: -22.133, -45.511
+
+
+### Nazareno
+
+Code: BR3144508, Coordinates: -21.207, -44.61
+
+
+### Nepomuceno
+
+Code: BR3144607, Coordinates: -21.211, -45.244
+
+
+### Ninheira
+
+Code: BR3144656, Coordinates: -15.406, -41.671
+
+
+### Nova Belém (Nova Belem)
+
+Code: BR3144672, Coordinates: -18.503, -41.107
+
+
+### Nova Era
+
+Code: BR3144706, Coordinates: -19.718, -43.012
+
+
+### Nova Lima
+
+Code: BR3144805, Coordinates: -20.086, -43.898
+
+
+### Nova Módica (Nova Modica)
+
+Code: BR3144904, Coordinates: -18.461, -41.523
+
+
+### Nova Ponte
+
+Code: BR3145000, Coordinates: -19.243, -47.706
+
+
+### Nova Porteirinha
+
+Code: BR3145059, Coordinates: -15.725, -43.277
+
+
+### Nova Resende
+
+Code: BR3145109, Coordinates: -21.094, -46.417
+
+
+### Nova Serrana
+
+Code: BR3145208, Coordinates: -19.848, -44.973
+
+
+### Nova União (Nova Uniao)
+
+Code: BR3136603, Coordinates: -19.64, -43.573
+
+
+### Novo Cruzeiro
+
+Code: BR3145307, Coordinates: -17.376, -41.966
+
+
+### Novo Oriente de Minas
+
+Code: BR3145356, Coordinates: -17.241, -41.225
+
+
+### Novorizonte
+
+Code: BR3145372, Coordinates: -16.014, -42.393
+
+
+### Olaria
+
+Code: BR3145406, Coordinates: -21.905, -43.96
+
+
+### Olhos-d&#39;Água (Olhos-d&#39;Agua)
+
+Code: BR3145455, Coordinates: -17.516, -43.568
+
+
+### Olímpio Noronha (Olimpio Noronha)
+
+Code: BR3145505, Coordinates: -22.089, -45.284
+
+
+### Oliveira
+
+Code: BR3145604, Coordinates: -20.743, -44.717
+
+
+### Oliveira Fortes
+
+Code: BR3145703, Coordinates: -21.34, -43.525
+
+
+### Onça de Pitangui (Onca de Pitangui)
+
+Code: BR3145802, Coordinates: -19.71, -44.746
+
+
+### Oratórios (Oratorios)
+
+Code: BR3145851, Coordinates: -20.437, -42.795
+
+
+### Orizânia (Orizania)
+
+Code: BR3145877, Coordinates: -20.514, -42.21
+
+
+### Ouro Branco
+
+Code: BR3145901, Coordinates: -20.53, -43.702
+
+
+### Ouro Fino
+
+Code: BR3146008, Coordinates: -22.26, -46.381
+
+
+### Ouro Preto
+
+Code: BR3146107, Coordinates: -20.39, -43.626
+
+
+### Ouro Verde de Minas
+
+Code: BR3146206, Coordinates: -18.04, -41.294
+
+
+### Padre Carvalho
+
+Code: BR3146255, Coordinates: -16.282, -42.602
+
+
+### Padre Paraíso (Padre Paraiso)
+
+Code: BR3146305, Coordinates: -17.063, -41.537
+
+
+### Pai Pedro
+
+Code: BR3146552, Coordinates: -15.355, -43.174
+
+
+### Paineiras
+
+Code: BR3146404, Coordinates: -18.913, -45.508
+
+
+### Pains
+
+Code: BR3146503, Coordinates: -20.388, -45.696
+
+
+### Paiva
+
+Code: BR3146602, Coordinates: -21.288, -43.423
+
+
+### Palma
+
+Code: BR3146701, Coordinates: -21.422, -42.322
+
+
+### Palmópolis (Palmopolis)
+
+Code: BR3146750, Coordinates: -16.792, -40.361
+
+
+### Papagaios
+
+Code: BR3146909, Coordinates: -19.388, -44.687
+
+
+### Pará de Minas (Para de Minas)
+
+Code: BR3147105, Coordinates: -19.822, -44.605
+
+
+### Paracatu
+
+Code: BR3147006, Coordinates: -17.162, -46.918
+
+
+### Paraguaçu (Paraguacu)
+
+Code: BR3147204, Coordinates: -21.565, -45.743
+
+
+### Paraisópolis (Paraisopolis)
+
+Code: BR3147303, Coordinates: -22.581, -45.835
+
+
+### Paraopeba
+
+Code: BR3147402, Coordinates: -19.303, -44.448
+
+
+### Passa Quatro
+
+Code: BR3147600, Coordinates: -22.412, -44.957
+
+
+### Passa Tempo
+
+Code: BR3147709, Coordinates: -20.646, -44.484
+
+
+### Passa Vinte
+
+Code: BR3147808, Coordinates: -22.181, -44.255
+
+
+### Passabém (Passabem)
+
+Code: BR3147501, Coordinates: -19.35, -43.19
+
+
+### Passos
+
+Code: BR3147907, Coordinates: -20.745, -46.642
+
+
+### Patis
+
+Code: BR3147956, Coordinates: -16.076, -44.122
+
+
+### Patos de Minas
+
+Code: BR3148004, Coordinates: -18.59, -46.488
+
+
+### Patrocínio (Patrocinio)
+
+Code: BR3148103, Coordinates: -19.002, -47.062
+
+
+### Patrocínio do Muriaé (Patrocinio do Muriae)
+
+Code: BR3148202, Coordinates: -21.168, -42.251
+
+
+### Paula Cândido (Paula Candido)
+
+Code: BR3148301, Coordinates: -20.863, -42.983
+
+
+### Paulistas
+
+Code: BR3148400, Coordinates: -18.443, -42.865
+
+
+### Pavão (Pavao)
+
+Code: BR3148509, Coordinates: -17.465, -41.061
+
+
+### Peçanha (Pecanha)
+
+Code: BR3148608, Coordinates: -18.553, -42.509
+
+
+### Pedra Azul
+
+Code: BR3148707, Coordinates: -15.966, -41.209
+
+
+### Pedra Bonita
+
+Code: BR3148756, Coordinates: -20.47, -42.378
+
+
+### Pedra do Anta
+
+Code: BR3148806, Coordinates: -20.592, -42.726
+
+
+### Pedra do Indaiá (Pedra do Indaia)
+
+Code: BR3148905, Coordinates: -20.286, -45.219
+
+
+### Pedra Dourada
+
+Code: BR3149002, Coordinates: -20.831, -42.156
+
+
+### Pedralva
+
+Code: BR3149101, Coordinates: -22.247, -45.448
+
+
+### Pedras de Maria da Cruz
+
+Code: BR3149150, Coordinates: -15.643, -44.315
+
+
+### Pedrinópolis (Pedrinopolis)
+
+Code: BR3149200, Coordinates: -19.179, -47.516
+
+
+### Pedro Leopoldo
+
+Code: BR3149309, Coordinates: -19.632, -44.036
+
+
+### Pedro Teixeira
+
+Code: BR3149408, Coordinates: -21.731, -43.725
+
+
+### Pequeri
+
+Code: BR3149507, Coordinates: -21.82, -43.138
+
+
+### Pequi
+
+Code: BR3149606, Coordinates: -19.603, -44.629
+
+
+### Perdigão (Perdigao)
+
+Code: BR3149705, Coordinates: -19.934, -45.06
+
+
+### Perdizes
+
+Code: BR3149804, Coordinates: -19.369, -47.157
+
+
+### Perdões (Perdoes)
+
+Code: BR3149903, Coordinates: -21.076, -45.068
+
+
+### Periquito
+
+Code: BR3149952, Coordinates: -19.071, -42.232
+
+
+### Pescador
+
+Code: BR3150000, Coordinates: -18.325, -41.563
+
+
+### Piau
+
+Code: BR3150109, Coordinates: -21.501, -43.311
+
+
+### Piedade de Caratinga
+
+Code: BR3150158, Coordinates: -19.763, -42.042
+
+
+### Piedade de Ponte Nova
+
+Code: BR3150208, Coordinates: -20.245, -42.712
+
+
+### Piedade do Rio Grande
+
+Code: BR3150307, Coordinates: -21.495, -44.17
+
+
+### Piedade dos Gerais
+
+Code: BR3150406, Coordinates: -20.479, -44.243
+
+
+### Pimenta
+
+Code: BR3150505, Coordinates: -20.508, -45.836
+
+
+### Pingo d&#39;Água (Pingo d&#39;Agua)
+
+Code: BR3150539, Coordinates: -19.745, -42.427
+
+
+### Pintópolis (Pintopolis)
+
+Code: BR3150570, Coordinates: -16.034, -45.223
+
+
+### Piracema
+
+Code: BR3150604, Coordinates: -20.521, -44.42
+
+
+### Pirajuba
+
+Code: BR3150703, Coordinates: -19.934, -48.697
+
+
+### Piranga
+
+Code: BR3150802, Coordinates: -20.632, -43.285
+
+
+### Piranguçu (Pirangucu)
+
+Code: BR3150901, Coordinates: -22.564, -45.516
+
+
+### Piranguinho
+
+Code: BR3151008, Coordinates: -22.364, -45.589
+
+
+### Pirapetinga
+
+Code: BR3151107, Coordinates: -21.669, -42.366
+
+
+### Pirapora
+
+Code: BR3151206, Coordinates: -17.385, -44.863
+
+
+### Piraúba (Pirauba)
+
+Code: BR3151305, Coordinates: -21.265, -43.015
+
+
+### Pitangui
+
+Code: BR3151404, Coordinates: -19.596, -44.886
+
+
+### Piumhi
+
+Code: BR3151503, Coordinates: -20.433, -46.069
+
+
+### Planura
+
+Code: BR3151602, Coordinates: -20.07, -48.653
+
+
+### Poço Fundo (Poco Fundo)
+
+Code: BR3151701, Coordinates: -21.803, -45.997
+
+
+### Poços de Caldas (Pocos de Caldas)
+
+Code: BR3151800, Coordinates: -21.794, -46.542
+
+
+### Pocrane
+
+Code: BR3151909, Coordinates: -19.579, -41.545
+
+
+### Pompéu (Pompeu)
+
+Code: BR3152006, Coordinates: -19.099, -44.911
+
+
+### Ponte Nova
+
+Code: BR3152105, Coordinates: -20.397, -42.919
+
+
+### Ponto Chique
+
+Code: BR3152131, Coordinates: -16.625, -44.946
+
+
+### Ponto dos Volantes
+
+Code: BR3152170, Coordinates: -16.86, -41.466
+
+
+### Porteirinha
+
+Code: BR3152204, Coordinates: -15.717, -43.114
+
+
+### Porto Firme
+
+Code: BR3152303, Coordinates: -20.667, -43.076
+
+
+### Poté (Pote)
+
+Code: BR3152402, Coordinates: -17.802, -41.764
+
+
+### Pouso Alegre
+
+Code: BR3152501, Coordinates: -22.242, -45.918
+
+
+### Pouso Alto
+
+Code: BR3152600, Coordinates: -22.174, -44.944
+
+
+### Prados
+
+Code: BR3152709, Coordinates: -21.108, -44.06
+
+
+### Prata
+
+Code: BR3152808, Coordinates: -19.321, -48.954
+
+
+### Pratápolis (Pratapolis)
+
+Code: BR3152907, Coordinates: -20.788, -46.843
+
+
+### Pratinha
+
+Code: BR3153004, Coordinates: -19.764, -46.394
+
+
+### Presidente Bernardes
+
+Code: BR3153103, Coordinates: -22.123, -51.639
+
+
+### Presidente Juscelino
+
+Code: BR3153202, Coordinates: -18.726, -44.086
+
+
+### Presidente Kubitschek
+
+Code: BR3153301, Coordinates: -18.644, -43.577
+
+
+### Presidente Olegário (Presidente Olegario)
+
+Code: BR3153400, Coordinates: -18.189, -46.39
+
+
+### Prudente de Morais
+
+Code: BR3153608, Coordinates: -19.467, -44.115
+
+
+### Quartel Geral
+
+Code: BR3153707, Coordinates: -19.277, -45.631
+
+
+### Queluzito
+
+Code: BR3153806, Coordinates: -20.737, -43.888
+
+
+### Raposos
+
+Code: BR3153905, Coordinates: -19.974, -43.789
+
+
+### Raul Soares
+
+Code: BR3154002, Coordinates: -20.015, -42.381
+
+
+### Recreio
+
+Code: BR3154101, Coordinates: -21.523, -42.434
+
+
+### Reduto
+
+Code: BR3154150, Coordinates: -20.239, -41.938
+
+
+### Resende Costa
+
+Code: BR3154200, Coordinates: -20.837, -44.284
+
+
+### Resplendor
+
+Code: BR3154309, Coordinates: -19.202, -41.136
+
+
+### Ressaquinha
+
+Code: BR3154408, Coordinates: -21.09, -43.771
+
+
+### Riachinho
+
+Code: BR3154457, Coordinates: -16.253, -45.901
+
+
+### Riacho dos Machados
+
+Code: BR3154507, Coordinates: -16.07, -42.989
+
+
+### Ribeirão das Neves (Ribeirao das Neves)
+
+Code: BR3154606, Coordinates: -19.775, -44.067
+
+
+### Ribeirão Vermelho (Ribeirao Vermelho)
+
+Code: BR3154705, Coordinates: -21.154, -45.079
+
+
+### Rio Acima
+
+Code: BR3154804, Coordinates: -20.109, -43.773
+
+
+### Rio Casca
+
+Code: BR3154903, Coordinates: -20.13, -42.663
+
+
+### Rio do Prado
+
+Code: BR3155108, Coordinates: -16.683, -40.565
+
+
+### Rio Doce
+
+Code: BR3155009, Coordinates: -20.208, -42.892
+
+
+### Rio Espera
+
+Code: BR3155207, Coordinates: -20.865, -43.508
+
+
+### Rio Manso
+
+Code: BR3155306, Coordinates: -20.263, -44.347
+
+
+### Rio Novo
+
+Code: BR3155405, Coordinates: -21.47, -43.145
+
+
+### Rio Paranaíba (Rio Paranaiba)
+
+Code: BR3155504, Coordinates: -19.228, -46.303
+
+
+### Rio Pardo de Minas
+
+Code: BR3155603, Coordinates: -15.724, -42.571
+
+
+### Rio Piracicaba
+
+Code: BR3155702, Coordinates: -19.976, -43.153
+
+
+### Rio Pomba
+
+Code: BR3155801, Coordinates: -21.242, -43.169
+
+
+### Rio Preto
+
+Code: BR3155900, Coordinates: -22.051, -43.864
+
+
+### Rio Vermelho
+
+Code: BR3156007, Coordinates: -18.267, -43.05
+
+
+### Ritápolis (Ritapolis)
+
+Code: BR3156106, Coordinates: -21, -44.371
+
+
+### Rochedo de Minas
+
+Code: BR3156205, Coordinates: -21.646, -43.039
+
+
+### Rodeiro
+
+Code: BR3156304, Coordinates: -21.218, -42.846
+
+
+### Romaria
+
+Code: BR3156403, Coordinates: -18.899, -47.562
+
+
+### Rosário da Limeira (Rosario da Limeira)
+
+Code: BR3156452, Coordinates: -20.987, -42.506
+
+
+### Rubelita
+
+Code: BR3156502, Coordinates: -16.355, -42.214
+
+
+### Rubim
+
+Code: BR3156601, Coordinates: -16.462, -40.493
+
+
+### Sabará (Sabara)
+
+Code: BR3156700, Coordinates: -19.853, -43.783
+
+
+### Sabinópolis (Sabinopolis)
+
+Code: BR3156809, Coordinates: -18.659, -43.062
+
+
+### Sacramento
+
+Code: BR3156908, Coordinates: -19.889, -47.247
+
+
+### Salinas
+
+Code: BR3157005, Coordinates: -16.109, -42.17
+
+
+### Salto da Divisa
+
+Code: BR3157104, Coordinates: -16.08, -40.037
+
+
+### Santa Bárbara (Santa Barbara)
+
+Code: BR3157203, Coordinates: -20.027, -43.446
+
+
+### Santa Bárbara do Leste (Santa Barbara do Leste)
+
+Code: BR3157252, Coordinates: -19.943, -42.097
+
+
+### Santa Bárbara do Monte Verde (Santa Barbara do Monte Verde)
+
+Code: BR3157278, Coordinates: -21.977, -43.692
+
+
+### Santa Bárbara do Tugúrio (Santa Barbara do Tugurio)
+
+Code: BR3157302, Coordinates: -21.24, -43.53
+
+
+### Santa Cruz de Minas
+
+Code: BR3157336, Coordinates: -21.12, -44.215
+
+
+### Santa Cruz de Salinas
+
+Code: BR3157377, Coordinates: -16.061, -41.792
+
+
+### Santa Cruz do Escalvado
+
+Code: BR3157401, Coordinates: -20.243, -42.83
+
+
+### Santa Efigênia de Minas (Santa Efigenia de Minas)
+
+Code: BR3157500, Coordinates: -18.862, -42.404
+
+
+### Santa Fé de Minas (Santa Fe de Minas)
+
+Code: BR3157609, Coordinates: -16.688, -45.565
+
+
+### Santa Helena de Minas
+
+Code: BR3157658, Coordinates: -16.899, -40.661
+
+
+### Santa Juliana
+
+Code: BR3157708, Coordinates: -19.373, -47.535
+
+
+### Santa Luzia
+
+Code: BR3157807, Coordinates: -19.728, -43.827
+
+
+### Santa Margarida
+
+Code: BR3157906, Coordinates: -20.436, -42.273
+
+
+### Santa Maria de Itabira
+
+Code: BR3158003, Coordinates: -19.446, -43.042
+
+
+### Santa Maria do Salto
+
+Code: BR3158102, Coordinates: -16.318, -40.109
+
+
+### Santa Maria do Suaçuí (Santa Maria do Suacui)
+
+Code: BR3158201, Coordinates: -18.253, -42.327
+
+
+### Santa Rita de Caldas
+
+Code: BR3159209, Coordinates: -22.022, -46.275
+
+
+### Santa Rita de Ibitipoca
+
+Code: BR3159407, Coordinates: -21.562, -43.947
+
+
+### Santa Rita de Jacutinga
+
+Code: BR3159308, Coordinates: -22.115, -44.102
+
+
+### Santa Rita de Minas
+
+Code: BR3159357, Coordinates: -19.873, -42.131
+
+
+### Santa Rita do Itueto
+
+Code: BR3159506, Coordinates: -19.43, -41.4
+
+
+### Santa Rita do Sapucaí (Santa Rita do Sapucai)
+
+Code: BR3159605, Coordinates: -22.245, -45.692
+
+
+### Santa Rosa da Serra
+
+Code: BR3159704, Coordinates: -19.551, -45.987
+
+
+### Santa Vitória (Santa Vitoria)
+
+Code: BR3159803, Coordinates: -19.057, -50.3
+
+
+### Santana da Vargem
+
+Code: BR3158300, Coordinates: -21.268, -45.494
+
+
+### Santana de Cataguases
+
+Code: BR3158409, Coordinates: -21.278, -42.565
+
+
+### Santana de Pirapama
+
+Code: BR3158508, Coordinates: -18.903, -43.935
+
+
+### Santana do Deserto
+
+Code: BR3158607, Coordinates: -21.944, -43.176
+
+
+### Santana do Garambéu (Santana do Garambeu)
+
+Code: BR3158706, Coordinates: -21.645, -44.065
+
+
+### Santana do Jacaré (Santana do Jacare)
+
+Code: BR3158805, Coordinates: -20.888, -45.077
+
+
+### Santana do Manhuaçu (Santana do Manhuacu)
+
+Code: BR3158904, Coordinates: -20.041, -41.895
+
+
+### Santana do Paraíso (Santana do Paraiso)
+
+Code: BR3158953, Coordinates: -19.386, -42.545
+
+
+### Santana do Riacho
+
+Code: BR3159001, Coordinates: -19.175, -43.683
+
+
+### Santana dos Montes
+
+Code: BR3159100, Coordinates: -20.792, -43.66
+
+
+### Santo Antônio do Amparo (Santo Antonio do Amparo)
+
+Code: BR3159902, Coordinates: -20.918, -44.959
+
+
+### Santo Antônio do Aventureiro (Santo Antonio do Aventureiro)
+
+Code: BR3160009, Coordinates: -21.743, -42.808
+
+
+### Santo Antônio do Grama (Santo Antonio do Grama)
+
+Code: BR3160108, Coordinates: -20.321, -42.619
+
+
+### Santo Antônio do Itambé (Santo Antonio do Itambe)
+
+Code: BR3160207, Coordinates: -18.492, -43.256
+
+
+### Santo Antônio do Jacinto (Santo Antonio do Jacinto)
+
+Code: BR3160306, Coordinates: -16.505, -40.274
+
+
+### Santo Antônio do Monte (Santo Antonio do Monte)
+
+Code: BR3160405, Coordinates: -20.077, -45.304
+
+
+### Santo Antônio do Retiro (Santo Antonio do Retiro)
+
+Code: BR3160454, Coordinates: -15.281, -42.657
+
+
+### Santo Antônio do Rio Abaixo (Santo Antonio do Rio Abaixo)
+
+Code: BR3160504, Coordinates: -19.251, -43.245
+
+
+### Santo Hipólito (Santo Hipolito)
+
+Code: BR3160603, Coordinates: -18.387, -44.173
+
+
+### Santos Dumont
+
+Code: BR3160702, Coordinates: -21.46, -43.523
+
+
+### São Bento Abade (Sao Bento Abade)
+
+Code: BR3160801, Coordinates: -21.568, -45.07
+
+
+### São Brás do Suaçuí (Sao Bras do Suacui)
+
+Code: BR3160900, Coordinates: -20.619, -43.974
+
+
+### São Domingos das Dores (Sao Domingos das Dores)
+
+Code: BR3160959, Coordinates: -19.52, -42.033
+
+
+### São Domingos do Prata (Sao Domingos do Prata)
+
+Code: BR3161007, Coordinates: -19.894, -42.886
+
+
+### São Félix de Minas (Sao Felix de Minas)
+
+Code: BR3161056, Coordinates: -18.562, -41.447
+
+
+### São Francisco (Sao Francisco)
+
+Code: BR3161106, Coordinates: -20.37, -50.676
+
+
+### São Francisco de Paula (Sao Francisco de Paula)
+
+Code: BR3161205, Coordinates: -29.235, -50.46
+
+
+### São Francisco de Sales (Sao Francisco de Sales)
+
+Code: BR3161304, Coordinates: -19.773, -49.817
+
+
+### São Francisco do Glória (Sao Francisco do Gloria)
+
+Code: BR3161403, Coordinates: -20.785, -42.28
+
+
+### São Geraldo (Sao Geraldo)
+
+Code: BR3161502, Coordinates: -20.907, -42.827
+
+
+### São Geraldo da Piedade (Sao Geraldo da Piedade)
+
+Code: BR3161601, Coordinates: -18.898, -42.31
+
+
+### São Geraldo do Baixio (Sao Geraldo do Baixio)
+
+Code: BR3161650, Coordinates: -18.918, -41.362
+
+
+### São Gonçalo do Abaeté (Sao Goncalo do Abaete)
+
+Code: BR3161700, Coordinates: -18.215, -45.591
+
+
+### São Gonçalo do Pará (Sao Goncalo do Para)
+
+Code: BR3161809, Coordinates: -19.975, -44.846
+
+
+### São Gonçalo do Rio Abaixo (Sao Goncalo do Rio Abaixo)
+
+Code: BR3161908, Coordinates: -19.813, -43.322
+
+
+### São Gonçalo do Rio Preto (Sao Goncalo do Rio Preto)
+
+Code: BR3125507, Coordinates: -18.081, -43.355
+
+
+### São Gonçalo do Sapucaí (Sao Goncalo do Sapucai)
+
+Code: BR3162005, Coordinates: -21.909, -45.601
+
+
+### São Gotardo (Sao Gotardo)
+
+Code: BR3162104, Coordinates: -19.358, -45.961
+
+
+### São João Batista do Glória (Sao Joao Batista do Gloria)
+
+Code: BR3162203, Coordinates: -20.553, -46.435
+
+
+### São João da Lagoa (Sao Joao da Lagoa)
+
+Code: BR3162252, Coordinates: -16.862, -44.342
+
+
+### São João da Mata (Sao Joao da Mata)
+
+Code: BR3162302, Coordinates: -21.939, -45.928
+
+
+### São João da Ponte (Sao Joao da Ponte)
+
+Code: BR3162401, Coordinates: -15.892, -43.851
+
+
+### São João das Missões (Sao Joao das Missoes)
+
+Code: BR3162450, Coordinates: -14.897, -44.21
+
+
+### São João del Rei (Sao Joao del Rei)
+
+Code: BR3162500, Coordinates: -21.247, -44.263
+
+
+### São João do Manhuaçu (Sao Joao do Manhuacu)
+
+Code: BR3162559, Coordinates: -20.376, -42.151
+
+
+### São João do Manteninha (Sao Joao do Manteninha)
+
+Code: BR3162575, Coordinates: -18.744, -41.156
+
+
+### São João do Oriente (Sao Joao do Oriente)
+
+Code: BR3162609, Coordinates: -19.354, -42.172
+
+
+### São João do Pacuí (Sao Joao do Pacui)
+
+Code: BR3162658, Coordinates: -16.539, -44.54
+
+
+### São João do Paraíso (Sao Joao do Paraiso)
+
+Code: BR3162708, Coordinates: -15.352, -41.967
+
+
+### São João Evangelista (Sao Joao Evangelista)
+
+Code: BR3162807, Coordinates: -18.511, -42.779
+
+
+### São João Nepomuceno (Sao Joao Nepomuceno)
+
+Code: BR3162906, Coordinates: -21.583, -43.017
+
+
+### São Joaquim de Bicas (Sao Joaquim de Bicas)
+
+Code: BR3162922, Coordinates: -20.05, -44.251
+
+
+### São José da Barra (Sao Jose da Barra)
+
+Code: BR3162948, Coordinates: -20.754, -46.264
+
+
+### São José da Lapa (Sao Jose da Lapa)
+
+Code: BR3162955, Coordinates: -19.696, -43.993
+
+
+### São José da Safira (Sao Jose da Safira)
+
+Code: BR3163003, Coordinates: -18.329, -42.112
+
+
+### São José da Varginha (Sao Jose da Varginha)
+
+Code: BR3163102, Coordinates: -19.69, -44.549
+
+
+### São José do Alegre (Sao Jose do Alegre)
+
+Code: BR3163201, Coordinates: -22.336, -45.512
+
+
+### São José do Divino (Sao Jose do Divino)
+
+Code: BR3163300, Coordinates: -18.417, -41.372
+
+
+### São José do Goiabal (Sao Jose do Goiabal)
+
+Code: BR3163409, Coordinates: -19.924, -42.685
+
+
+### São José do Jacuri (Sao Jose do Jacuri)
+
+Code: BR3163508, Coordinates: -18.253, -42.677
+
+
+### São José do Mantimento (Sao Jose do Mantimento)
+
+Code: BR3163607, Coordinates: -20.026, -41.763
+
+
+### São Lourenço (Sao Lourenco)
+
+Code: BR3163706, Coordinates: -22.116, -45.035
+
+
+### São Miguel do Anta (Sao Miguel do Anta)
+
+Code: BR3163805, Coordinates: -20.737, -42.703
+
+
+### São Pedro da União (Sao Pedro da Uniao)
+
+Code: BR3163904, Coordinates: -21.114, -46.647
+
+
+### São Pedro do Suaçuí (Sao Pedro do Suacui)
+
+Code: BR3164100, Coordinates: -18.358, -42.601
+
+
+### São Pedro dos Ferros (Sao Pedro dos Ferros)
+
+Code: BR3164001, Coordinates: -20.078, -42.567
+
+
+### São Romão (Sao Romao)
+
+Code: BR3164209, Coordinates: -16.36, -45.432
+
+
+### São Roque de Minas (Sao Roque de Minas)
+
+Code: BR3164308, Coordinates: -20.194, -46.478
+
+
+### São Sebastião da Bela Vista (Sao Sebastiao da Bela Vista)
+
+Code: BR3164407, Coordinates: -22.163, -45.791
+
+
+### São Sebastião da Vargem Alegre (Sao Sebastiao da Vargem Alegre)
+
+Code: BR3164431, Coordinates: -21.022, -42.602
+
+
+### São Sebastião do Anta (Sao Sebastiao do Anta)
+
+Code: BR3164472, Coordinates: -19.517, -41.947
+
+
+### São Sebastião do Maranhão (Sao Sebastiao do Maranhao)
+
+Code: BR3164506, Coordinates: -18.052, -42.54
+
+
+### São Sebastião do Oeste (Sao Sebastiao do Oeste)
+
+Code: BR3164605, Coordinates: -20.247, -45.048
+
+
+### São Sebastião do Paraíso (Sao Sebastiao do Paraiso)
+
+Code: BR3164704, Coordinates: -20.926, -47.004
+
+
+### São Sebastião do Rio Preto (Sao Sebastiao do Rio Preto)
+
+Code: BR3164803, Coordinates: -19.298, -43.227
+
+
+### São Sebastião do Rio Verde (Sao Sebastiao do Rio Verde)
+
+Code: BR3164902, Coordinates: -22.213, -45.024
+
+
+### São Tiago (Sao Tiago)
+
+Code: BR3165008, Coordinates: -20.95, -44.562
+
+
+### São Tomás de Aquino (Sao Tomas de Aquino)
+
+Code: BR3165107, Coordinates: -20.776, -47.126
+
+
+### São Tomé das Letras (Sao Tome das Letras)
+
+Code: BR3165206, Coordinates: -21.744, -44.966
+
+
+### São Vicente de Minas (Sao Vicente de Minas)
+
+Code: BR3165305, Coordinates: -21.675, -44.46
+
+
+### Sapucaí-Mirim (Sapucai-Mirim)
+
+Code: BR3165404, Coordinates: -22.797, -45.839
+
+
+### Sardoá (Sardoa)
+
+Code: BR3165503, Coordinates: -18.777, -42.399
+
+
+### Sarzedo
+
+Code: BR3165537, Coordinates: -20.05, -44.126
+
+
+### Sem-Peixe
+
+Code: BR3165560, Coordinates: -20.077, -42.822
+
+
+### Senador Amaral
+
+Code: BR3165578, Coordinates: -22.557, -46.22
+
+
+### Senador Cortes
+
+Code: BR3165602, Coordinates: -21.761, -42.908
+
+
+### Senador Firmino
+
+Code: BR3165701, Coordinates: -20.897, -43.103
+
+
+### Senador José Bento (Senador Jose Bento)
+
+Code: BR3165800, Coordinates: -22.158, -46.141
+
+
+### Senador Modestino Gonçalves (Senador Modestino Goncalves)
+
+Code: BR3165909, Coordinates: -17.886, -43.24
+
+
+### Senhora de Oliveira
+
+Code: BR3166006, Coordinates: -20.803, -43.343
+
+
+### Senhora do Porto
+
+Code: BR3166105, Coordinates: -18.904, -43.081
+
+
+### Senhora dos Remédios (Senhora dos Remedios)
+
+Code: BR3166204, Coordinates: -21.032, -43.599
+
+
+### Sericita
+
+Code: BR3166303, Coordinates: -20.5, -42.458
+
+
+### Seritinga
+
+Code: BR3166402, Coordinates: -21.919, -44.476
+
+
+### Serra Azul de Minas
+
+Code: BR3166501, Coordinates: -18.394, -43.203
+
+
+### Serra da Saudade
+
+Code: BR3166600, Coordinates: -19.387, -45.785
+
+
+### Serra do Salitre
+
+Code: BR3166808, Coordinates: -19.162, -46.665
+
+
+### Serra dos Aimorés (Serra dos Aimores)
+
+Code: BR3166709, Coordinates: -17.758, -40.263
+
+
+### Serrania
+
+Code: BR3166907, Coordinates: -21.561, -46.096
+
+
+### Serranópolis de Minas (Serranopolis de Minas)
+
+Code: BR3166956, Coordinates: -15.884, -42.846
+
+
+### Serranos
+
+Code: BR3167004, Coordinates: -21.831, -44.544
+
+
+### Serro
+
+Code: BR3167103, Coordinates: -18.534, -43.38
+
+
+### Sete Lagoas
+
+Code: BR3167202, Coordinates: -19.442, -44.278
+
+
+### Setubinha
+
+Code: BR3165552, Coordinates: -17.622, -42.152
+
+
+### Silveirânia (Silveirania)
+
+Code: BR3167301, Coordinates: -21.142, -43.199
+
+
+### Silvianópolis (Silvianopolis)
+
+Code: BR3167400, Coordinates: -22.041, -45.802
+
+
+### Simão Pereira (Simao Pereira)
+
+Code: BR3167509, Coordinates: -21.964, -43.293
+
+
+### Simonésia (Simonesia)
+
+Code: BR3167608, Coordinates: -19.995, -41.961
+
+
+### Sobrália (Sobralia)
+
+Code: BR3167707, Coordinates: -19.218, -42.142
+
+
+### Soledade de Minas
+
+Code: BR3167806, Coordinates: -22.033, -45.036
+
+
+### Tabuleiro
+
+Code: BR3167905, Coordinates: -21.361, -43.253
+
+
+### Taiobeiras
+
+Code: BR3168002, Coordinates: -15.827, -42.065
+
+
+### Taparuba
+
+Code: BR3168051, Coordinates: -19.737, -41.602
+
+
+### Tapira
+
+Code: BR3168101, Coordinates: -23.301, -53.139
+
+
+### Tapiraí (Tapirai)
+
+Code: BR3168200, Coordinates: -24.011, -47.634
+
+
+### Taquaraçu de Minas (Taquaracu de Minas)
+
+Code: BR3168309, Coordinates: -19.632, -43.69
+
+
+### Tarumirim
+
+Code: BR3168408, Coordinates: -19.3, -41.913
+
+
+### Teixeiras
+
+Code: BR3168507, Coordinates: -20.63, -42.853
+
+
+### Teófilo Otoni (Teofilo Otoni)
+
+Code: BR3168606, Coordinates: -17.684, -41.346
+
+
+### Timóteo (Timoteo)
+
+Code: BR3168705, Coordinates: -19.552, -42.598
+
+
+### Tiradentes
+
+Code: BR3168804, Coordinates: -21.108, -44.164
+
+
+### Tiros
+
+Code: BR3168903, Coordinates: -18.844, -45.815
+
+
+### Tocantins
+
+Code: BR3169000, Coordinates: -21.181, -43.028
+
+
+### Tocos do Moji
+
+Code: BR3169059, Coordinates: -22.358, -46.147
+
+
+### Toledo
+
+Code: BR3169109, Coordinates: -24.722, -53.826
+
+
+### Tombos
+
+Code: BR3169208, Coordinates: -20.883, -42.063
+
+
+### Três Corações (Tres Coracoes)
+
+Code: BR3169307, Coordinates: -21.699, -45.207
+
+
+### Três Marias (Tres Marias)
+
+Code: BR3169356, Coordinates: -18.286, -45.049
+
+
+### Três Pontas (Tres Pontas)
+
+Code: BR3169406, Coordinates: -21.406, -45.502
+
+
+### Tumiritinga
+
+Code: BR3169505, Coordinates: -19.034, -41.711
+
+
+### Tupaciguara
+
+Code: BR3169604, Coordinates: -18.533, -48.715
+
+
+### Turmalina
+
+Code: BR3169703, Coordinates: -20.071, -50.464
+
+
+### Turvolândia (Turvolandia)
+
+Code: BR3169802, Coordinates: -21.878, -45.794
+
+
+### Ubá (Uba)
+
+Code: BR3169901, Coordinates: -21.119, -42.961
+
+
+### Ubaí (Ubai)
+
+Code: BR3170008, Coordinates: -16.385, -44.866
+
+
+### Ubaporanga
+
+Code: BR3170057, Coordinates: -19.667, -42.059
+
+
+### Uberaba
+
+Code: BR3170107, Coordinates: -19.552, -47.977
+
+
+### Uberlândia (Uberlandia)
+
+Code: BR3170206, Coordinates: -19.007, -48.323
+
+
+### Umburatiba
+
+Code: BR3170305, Coordinates: -17.266, -40.667
+
+
+### Unaí (Unai)
+
+Code: BR3170404, Coordinates: -16.535, -46.75
+
+
+### União de Minas (Uniao de Minas)
+
+Code: BR3170438, Coordinates: -19.387, -50.359
+
+
+### Uruana de Minas
+
+Code: BR3170479, Coordinates: -16.085, -46.338
+
+
+### Urucânia (Urucania)
+
+Code: BR3170503, Coordinates: -20.317, -42.719
+
+
+### Urucuia
+
+Code: BR3170529, Coordinates: -16.039, -45.58
+
+
+### Vargem Alegre
+
+Code: BR3170578, Coordinates: -19.607, -42.322
+
+
+### Vargem Bonita
+
+Code: BR3170602, Coordinates: -26.926, -51.754
+
+
+### Vargem Grande do Rio Pardo
+
+Code: BR3170651, Coordinates: -15.328, -42.294
+
+
+### Varginha
+
+Code: BR3170701, Coordinates: -21.56, -45.421
+
+
+### Varjão de Minas (Varjao de Minas)
+
+Code: BR3170750, Coordinates: -18.468, -45.904
+
+
+### Várzea da Palma (Varzea da Palma)
+
+Code: BR3170800, Coordinates: -17.435, -44.731
+
+
+### Varzelândia (Varzelandia)
+
+Code: BR3170909, Coordinates: -15.642, -43.926
+
+
+### Vazante
+
+Code: BR3171006, Coordinates: -17.827, -46.82
+
+
+### Verdelândia (Verdelandia)
+
+Code: BR3171030, Coordinates: -15.534, -43.701
+
+
+### Veredinha
+
+Code: BR3171071, Coordinates: -17.5, -42.738
+
+
+### Veríssimo (Verissimo)
+
+Code: BR3171105, Coordinates: -19.601, -48.359
+
+
+### Vermelho Novo
+
+Code: BR3171154, Coordinates: -20.024, -42.26
+
+
+### Vespasiano
+
+Code: BR3171204, Coordinates: -19.73, -43.949
+
+
+### Viçosa (Vicosa)
+
+Code: BR3171303, Coordinates: -20.734, -42.888
+
+
+### Vieiras
+
+Code: BR3171402, Coordinates: -20.905, -42.275
+
+
+### Virgem da Lapa
+
+Code: BR3171600, Coordinates: -16.713, -42.341
+
+
+### Virgínia (Virginia)
+
+Code: BR3171709, Coordinates: -22.348, -45.123
+
+
+### Virginópolis (Virginopolis)
+
+Code: BR3171808, Coordinates: -18.805, -42.649
+
+
+### Virgolândia (Virgolandia)
+
+Code: BR3171907, Coordinates: -18.455, -42.303
+
+
+### Visconde do Rio Branco
+
+Code: BR3172004, Coordinates: -21.008, -42.851
+
+
+### Volta Grande
+
+Code: BR3172103, Coordinates: -21.747, -42.567
+
+
+### Wenceslau Braz
+
+Code: BR3172202, Coordinates: -23.887, -49.792
+
+

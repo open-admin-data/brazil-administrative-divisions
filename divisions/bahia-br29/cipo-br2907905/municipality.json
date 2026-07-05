@@ -1,0 +1,45 @@
+{
+  "id": "BR2907905",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cipó",
+    "en": "Cipo",
+    "slug": "cipo-br2907905"
+  },
+  "code": {
+    "id": "BR2907905",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.092",
+    "lon": "-38.526"
+  },
+  "metadata": {},
+  "source": {}
+}

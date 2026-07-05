@@ -1,0 +1,45 @@
+{
+  "id": "BR2410702",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Riacho da Cruz",
+    "en": "Riacho da Cruz",
+    "slug": "riacho-da-cruz-br2410702"
+  },
+  "code": {
+    "id": "BR2410702",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR24",
+    "level": 1,
+    "name": {
+      "local": "Rio Grande do Norte",
+      "en": "Rio Grande do Norte",
+      "slug": "rio-grande-do-norte-br24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR24",
+      "level": 1,
+      "name": {
+        "local": "Rio Grande do Norte",
+        "en": "Rio Grande do Norte",
+        "slug": "rio-grande-do-norte-br24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.931",
+    "lon": "-37.976"
+  },
+  "metadata": {},
+  "source": {}
+}

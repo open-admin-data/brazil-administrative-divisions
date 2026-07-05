@@ -1,0 +1,45 @@
+{
+  "id": "BR2707206",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Poço das Trincheiras",
+    "en": "Poco das Trincheiras",
+    "slug": "poco-das-trincheiras-br2707206"
+  },
+  "code": {
+    "id": "BR2707206",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.298",
+    "lon": "-37.333"
+  },
+  "metadata": {},
+  "source": {}
+}

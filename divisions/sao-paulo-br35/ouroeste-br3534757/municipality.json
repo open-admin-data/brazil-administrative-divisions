@@ -1,0 +1,45 @@
+{
+  "id": "BR3534757",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ouroeste",
+    "en": "Ouroeste",
+    "slug": "ouroeste-br3534757"
+  },
+  "code": {
+    "id": "BR3534757",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.919",
+    "lon": "-50.419"
+  },
+  "metadata": {},
+  "source": {}
+}

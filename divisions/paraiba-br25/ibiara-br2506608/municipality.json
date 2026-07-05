@@ -1,0 +1,45 @@
+{
+  "id": "BR2506608",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ibiara",
+    "en": "Ibiara",
+    "slug": "ibiara-br2506608"
+  },
+  "code": {
+    "id": "BR2506608",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.502",
+    "lon": "-38.389"
+  },
+  "metadata": {},
+  "source": {}
+}

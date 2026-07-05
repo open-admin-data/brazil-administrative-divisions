@@ -1,0 +1,33 @@
+{
+  "id": "BR28",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Sergipe",
+    "en": "Sergipe",
+    "slug": "sergipe-br28"
+  },
+  "code": {
+    "id": "BR28",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 75
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.467",
+    "lon": "-37.386"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/br/states/sergipe-br28/",
+    "api": "https://openadmindata.org/api/br/"
+  }
+}

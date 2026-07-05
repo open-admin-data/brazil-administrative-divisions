@@ -1,0 +1,45 @@
+{
+  "id": "BR2919306",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lençóis",
+    "en": "Lencois",
+    "slug": "lencois-br2919306"
+  },
+  "code": {
+    "id": "BR2919306",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.465",
+    "lon": "-41.329"
+  },
+  "metadata": {},
+  "source": {}
+}

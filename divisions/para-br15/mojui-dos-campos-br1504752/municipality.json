@@ -1,0 +1,45 @@
+{
+  "id": "BR1504752",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mojuí dos Campos",
+    "en": "Mojui dos Campos",
+    "slug": "mojui-dos-campos-br1504752"
+  },
+  "code": {
+    "id": "BR1504752",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR15",
+    "level": 1,
+    "name": {
+      "local": "Pará",
+      "en": "Para",
+      "slug": "para-br15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR15",
+      "level": 1,
+      "name": {
+        "local": "Pará",
+        "en": "Para",
+        "slug": "para-br15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.145",
+    "lon": "-54.478"
+  },
+  "metadata": {},
+  "source": {}
+}

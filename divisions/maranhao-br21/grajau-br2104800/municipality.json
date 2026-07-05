@@ -1,0 +1,45 @@
+{
+  "id": "BR2104800",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Grajaú",
+    "en": "Grajau",
+    "slug": "grajau-br2104800"
+  },
+  "code": {
+    "id": "BR2104800",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.8",
+    "lon": "-45.908"
+  },
+  "metadata": {},
+  "source": {}
+}

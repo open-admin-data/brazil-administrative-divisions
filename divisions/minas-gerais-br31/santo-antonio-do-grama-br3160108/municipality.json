@@ -1,0 +1,45 @@
+{
+  "id": "BR3160108",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Antônio do Grama",
+    "en": "Santo Antonio do Grama",
+    "slug": "santo-antonio-do-grama-br3160108"
+  },
+  "code": {
+    "id": "BR3160108",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.321",
+    "lon": "-42.619"
+  },
+  "metadata": {},
+  "source": {}
+}

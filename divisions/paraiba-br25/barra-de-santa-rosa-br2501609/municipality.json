@@ -1,0 +1,45 @@
+{
+  "id": "BR2501609",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Barra de Santa Rosa",
+    "en": "Barra de Santa Rosa",
+    "slug": "barra-de-santa-rosa-br2501609"
+  },
+  "code": {
+    "id": "BR2501609",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR25",
+    "level": 1,
+    "name": {
+      "local": "Paraíba",
+      "en": "Paraiba",
+      "slug": "paraiba-br25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR25",
+      "level": 1,
+      "name": {
+        "local": "Paraíba",
+        "en": "Paraiba",
+        "slug": "paraiba-br25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.731",
+    "lon": "-35.977"
+  },
+  "metadata": {},
+  "source": {}
+}

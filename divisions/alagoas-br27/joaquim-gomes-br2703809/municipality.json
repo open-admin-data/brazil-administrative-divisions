@@ -1,0 +1,45 @@
+{
+  "id": "BR2703809",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Joaquim Gomes",
+    "en": "Joaquim Gomes",
+    "slug": "joaquim-gomes-br2703809"
+  },
+  "code": {
+    "id": "BR2703809",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.101",
+    "lon": "-35.774"
+  },
+  "metadata": {},
+  "source": {}
+}

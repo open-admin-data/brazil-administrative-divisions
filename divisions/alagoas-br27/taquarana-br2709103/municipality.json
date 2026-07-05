@@ -1,0 +1,45 @@
+{
+  "id": "BR2709103",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Taquarana",
+    "en": "Taquarana",
+    "slug": "taquarana-br2709103"
+  },
+  "code": {
+    "id": "BR2709103",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR27",
+    "level": 1,
+    "name": {
+      "local": "Alagoas",
+      "en": "Alagoas",
+      "slug": "alagoas-br27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR27",
+      "level": 1,
+      "name": {
+        "local": "Alagoas",
+        "en": "Alagoas",
+        "slug": "alagoas-br27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.615",
+    "lon": "-36.483"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR1301803",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ipixuna",
+    "en": "Ipixuna",
+    "slug": "ipixuna-br1301803"
+  },
+  "code": {
+    "id": "BR1301803",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR13",
+    "level": 1,
+    "name": {
+      "local": "Amazonas",
+      "en": "Amazonas",
+      "slug": "amazonas-br13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR13",
+      "level": 1,
+      "name": {
+        "local": "Amazonas",
+        "en": "Amazonas",
+        "slug": "amazonas-br13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.137",
+    "lon": "-71.259"
+  },
+  "metadata": {},
+  "source": {}
+}

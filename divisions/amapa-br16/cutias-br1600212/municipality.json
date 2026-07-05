@@ -1,0 +1,45 @@
+{
+  "id": "BR1600212",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cutias",
+    "en": "Cutias",
+    "slug": "cutias-br1600212"
+  },
+  "code": {
+    "id": "BR1600212",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR16",
+    "level": 1,
+    "name": {
+      "local": "Amapá",
+      "en": "Amapa",
+      "slug": "amapa-br16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR16",
+      "level": 1,
+      "name": {
+        "local": "Amapá",
+        "en": "Amapa",
+        "slug": "amapa-br16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.009",
+    "lon": "-50.532"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR2925956",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rafael Jambeiro",
+    "en": "Rafael Jambeiro",
+    "slug": "rafael-jambeiro-br2925956"
+  },
+  "code": {
+    "id": "BR2925956",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.485",
+    "lon": "-39.517"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR4113205",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lapa",
+    "en": "Lapa",
+    "slug": "lapa-br4113205"
+  },
+  "code": {
+    "id": "BR4113205",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR41",
+    "level": 1,
+    "name": {
+      "local": "Paraná",
+      "en": "Parana",
+      "slug": "parana-br41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR41",
+      "level": 1,
+      "name": {
+        "local": "Paraná",
+        "en": "Parana",
+        "slug": "parana-br41"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.777",
+    "lon": "-49.913"
+  },
+  "metadata": {},
+  "source": {}
+}

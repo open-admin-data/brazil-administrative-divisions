@@ -1,0 +1,45 @@
+{
+  "id": "BR3148707",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pedra Azul",
+    "en": "Pedra Azul",
+    "slug": "pedra-azul-br3148707"
+  },
+  "code": {
+    "id": "BR3148707",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.966",
+    "lon": "-41.209"
+  },
+  "metadata": {},
+  "source": {}
+}

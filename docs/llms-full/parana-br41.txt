@@ -1,0 +1,2004 @@
+# Parana — Brazil Administrative Divisions
+
+> 399 municipalitys
+> Code: BR41
+> Coordinates: -24.782, -51.661
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Abatiá (Abatia)
+
+Code: BR4100103, Coordinates: -23.3, -50.321
+
+
+### Adrianópolis (Adrianopolis)
+
+Code: BR4100202, Coordinates: -24.757, -48.798
+
+
+### Agudos do Sul
+
+Code: BR4100301, Coordinates: -26.03, -49.316
+
+
+### Almirante Tamandaré (Almirante Tamandare)
+
+Code: BR4100400, Coordinates: -25.299, -49.336
+
+
+### Altamira do Paraná (Altamira do Parana)
+
+Code: BR4100459, Coordinates: -24.811, -52.711
+
+
+### Alto Paraíso (Alto Paraiso)
+
+Code: BR4128625, Coordinates: -23.544, -53.801
+
+
+### Alto Paraná (Alto Parana)
+
+Code: BR4100608, Coordinates: -23.058, -52.316
+
+
+### Alto Piquiri
+
+Code: BR4100707, Coordinates: -24.142, -53.359
+
+
+### Altônia (Altonia)
+
+Code: BR4100509, Coordinates: -23.905, -53.938
+
+
+### Alvorada do Sul
+
+Code: BR4100806, Coordinates: -22.816, -51.276
+
+
+### Amaporã (Amapora)
+
+Code: BR4100905, Coordinates: -23.138, -52.84
+
+
+### Ampére (Ampere)
+
+Code: BR4101002, Coordinates: -25.919, -53.5
+
+
+### Anahy
+
+Code: BR4101051, Coordinates: -24.639, -53.131
+
+
+### Andirá (Andira)
+
+Code: BR4101101, Coordinates: -23.047, -50.277
+
+
+### Ângulo (Angulo)
+
+Code: BR4101150, Coordinates: -23.206, -51.939
+
+
+### Antonina
+
+Code: BR4101200, Coordinates: -25.278, -48.704
+
+
+### Antônio Olinto (Antonio Olinto)
+
+Code: BR4101309, Coordinates: -25.965, -50.135
+
+
+### Apucarana
+
+Code: BR4101408, Coordinates: -23.576, -51.441
+
+
+### Arapongas
+
+Code: BR4101507, Coordinates: -23.438, -51.458
+
+
+### Arapoti
+
+Code: BR4101606, Coordinates: -24.063, -50.015
+
+
+### Arapuã (Arapua)
+
+Code: BR4101655, Coordinates: -24.321, -51.812
+
+
+### Araruna
+
+Code: BR4101705, Coordinates: -23.951, -52.583
+
+
+### Araucária (Araucaria)
+
+Code: BR4101804, Coordinates: -25.61, -49.445
+
+
+### Ariranha do Ivaí (Ariranha do Ivai)
+
+Code: BR4101853, Coordinates: -24.355, -51.531
+
+
+### Assaí (Assai)
+
+Code: BR4101903, Coordinates: -23.414, -50.882
+
+
+### Assis Chateaubriand
+
+Code: BR4102000, Coordinates: -24.399, -53.536
+
+
+### Astorga
+
+Code: BR4102109, Coordinates: -23.271, -51.722
+
+
+### Atalaia
+
+Code: BR4102208, Coordinates: -23.125, -52.046
+
+
+### Balsa Nova
+
+Code: BR4102307, Coordinates: -25.511, -49.691
+
+
+### Bandeirantes
+
+Code: BR4102406, Coordinates: -19.807, -54.34
+
+
+### Barbosa Ferraz
+
+Code: BR4102505, Coordinates: -24.093, -52.051
+
+
+### Barra do Jacaré (Barra do Jacare)
+
+Code: BR4102703, Coordinates: -23.112, -50.16
+
+
+### Barracão (Barracao)
+
+Code: BR4102604, Coordinates: -27.737, -51.436
+
+
+### Bela Vista da Caroba
+
+Code: BR4102752, Coordinates: -25.875, -53.625
+
+
+### Bela Vista do Paraíso (Bela Vista do Paraiso)
+
+Code: BR4102802, Coordinates: -22.973, -51.281
+
+
+### Bituruna
+
+Code: BR4102901, Coordinates: -26.175, -51.53
+
+
+### Boa Esperança (Boa Esperanca)
+
+Code: BR4103008, Coordinates: -24.246, -52.741
+
+
+### Boa Esperança do Iguaçu (Boa Esperanca do Iguacu)
+
+Code: BR4103024, Coordinates: -25.639, -53.229
+
+
+### Boa Ventura de São Roque (Boa Ventura de Sao Roque)
+
+Code: BR4103040, Coordinates: -24.84, -51.553
+
+
+### Boa Vista da Aparecida
+
+Code: BR4103057, Coordinates: -25.433, -53.419
+
+
+### Bocaiúva do Sul (Bocaiuva do Sul)
+
+Code: BR4103107, Coordinates: -25.101, -48.879
+
+
+### Bom Jesus do Sul
+
+Code: BR4103156, Coordinates: -26.158, -53.544
+
+
+### Bom Sucesso
+
+Code: BR4103206, Coordinates: -23.694, -51.819
+
+
+### Bom Sucesso do Sul
+
+Code: BR4103222, Coordinates: -26.08, -52.85
+
+
+### Borrazópolis (Borrazopolis)
+
+Code: BR4103305, Coordinates: -23.94, -51.607
+
+
+### Braganey
+
+Code: BR4103354, Coordinates: -24.782, -53.081
+
+
+### Brasilândia do Sul (Brasilandia do Sul)
+
+Code: BR4103370, Coordinates: -24.208, -53.57
+
+
+### Cafeara
+
+Code: BR4103404, Coordinates: -22.801, -51.715
+
+
+### Cafelândia (Cafelandia)
+
+Code: BR4103453, Coordinates: -24.685, -53.35
+
+
+### Cafezal do Sul
+
+Code: BR4103479, Coordinates: -23.934, -53.588
+
+
+### Califórnia (California)
+
+Code: BR4103503, Coordinates: -23.662, -51.33
+
+
+### Cambará (Cambara)
+
+Code: BR4103602, Coordinates: -23.003, -50.083
+
+
+### Cambé (Cambe)
+
+Code: BR4103701, Coordinates: -23.18, -51.299
+
+
+### Cambira
+
+Code: BR4103800, Coordinates: -23.628, -51.563
+
+
+### Campina da Lagoa
+
+Code: BR4103909, Coordinates: -24.614, -52.806
+
+
+### Campina do Simão (Campina do Simao)
+
+Code: BR4103958, Coordinates: -25.093, -51.779
+
+
+### Campina Grande do Sul
+
+Code: BR4104006, Coordinates: -25.156, -48.816
+
+
+### Campo Bonito
+
+Code: BR4104055, Coordinates: -24.882, -53.006
+
+
+### Campo do Tenente
+
+Code: BR4104105, Coordinates: -25.972, -49.66
+
+
+### Campo Largo
+
+Code: BR4104204, Coordinates: -25.263, -49.61
+
+
+### Campo Magro
+
+Code: BR4104253, Coordinates: -25.27, -49.473
+
+
+### Campo Mourão (Campo Mourao)
+
+Code: BR4104303, Coordinates: -24.121, -52.388
+
+
+### Cândido de Abreu (Candido de Abreu)
+
+Code: BR4104402, Coordinates: -24.675, -51.269
+
+
+### Candói (Candoi)
+
+Code: BR4104428, Coordinates: -25.529, -52.034
+
+
+### Cantagalo
+
+Code: BR4104451, Coordinates: -25.29, -52.138
+
+
+### Capanema
+
+Code: BR4104501, Coordinates: -25.619, -53.777
+
+
+### Capitão Leônidas Marques (Capitao Leonidas Marques)
+
+Code: BR4104600, Coordinates: -25.459, -53.607
+
+
+### Carambeí (Carambei)
+
+Code: BR4104659, Coordinates: -24.896, -50.158
+
+
+### Carlópolis (Carlopolis)
+
+Code: BR4104709, Coordinates: -23.45, -49.696
+
+
+### Cascavel
+
+Code: BR4104808, Coordinates: -25.042, -53.392
+
+
+### Castro
+
+Code: BR4104907, Coordinates: -24.818, -49.855
+
+
+### Catanduvas
+
+Code: BR4105003, Coordinates: -27.054, -51.719
+
+
+### Centenário do Sul (Centenario do Sul)
+
+Code: BR4105102, Coordinates: -22.799, -51.542
+
+
+### Cerro Azul
+
+Code: BR4105201, Coordinates: -24.877, -49.285
+
+
+### Céu Azul (Ceu Azul)
+
+Code: BR4105300, Coordinates: -25.329, -53.749
+
+
+### Chopinzinho
+
+Code: BR4105409, Coordinates: -25.797, -52.459
+
+
+### Cianorte
+
+Code: BR4105508, Coordinates: -23.705, -52.59
+
+
+### Cidade Gaúcha (Cidade Gaucha)
+
+Code: BR4105607, Coordinates: -23.367, -52.972
+
+
+### Clevelândia (Clevelandia)
+
+Code: BR4105706, Coordinates: -26.297, -52.373
+
+
+### Colombo
+
+Code: BR4105805, Coordinates: -25.3, -49.185
+
+
+### Colorado
+
+Code: BR4105904, Coordinates: -28.486, -52.977
+
+
+### Congonhinhas
+
+Code: BR4106001, Coordinates: -23.639, -50.489
+
+
+### Conselheiro Mairinck
+
+Code: BR4106100, Coordinates: -23.591, -50.119
+
+
+### Contenda
+
+Code: BR4106209, Coordinates: -25.71, -49.5
+
+
+### Corbélia (Corbelia)
+
+Code: BR4106308, Coordinates: -24.725, -53.228
+
+
+### Cornélio Procópio (Cornelio Procopio)
+
+Code: BR4106407, Coordinates: -23.229, -50.641
+
+
+### Coronel Domingos Soares
+
+Code: BR4106456, Coordinates: -26.2, -51.975
+
+
+### Coronel Vivida
+
+Code: BR4106506, Coordinates: -26.005, -52.611
+
+
+### Corumbataí do Sul (Corumbatai do Sul)
+
+Code: BR4106555, Coordinates: -24.13, -52.152
+
+
+### Cruz Machado
+
+Code: BR4106803, Coordinates: -25.921, -51.251
+
+
+### Cruzeiro do Iguaçu (Cruzeiro do Iguacu)
+
+Code: BR4106571, Coordinates: -25.595, -53.122
+
+
+### Cruzeiro do Oeste
+
+Code: BR4106605, Coordinates: -23.792, -53.081
+
+
+### Cruzeiro do Sul
+
+Code: BR4106704, Coordinates: -29.562, -52.029
+
+
+### Cruzmaltina
+
+Code: BR4106852, Coordinates: -24.028, -51.492
+
+
+### Curitiba
+
+Code: BR4106902, Coordinates: -25.493, -49.296
+
+
+### Curiúva (Curiuva)
+
+Code: BR4107009, Coordinates: -24.002, -50.468
+
+
+### Diamante D&#39;Oeste
+
+Code: BR4107157, Coordinates: -24.947, -54.106
+
+
+### Diamante do Norte
+
+Code: BR4107108, Coordinates: -22.644, -52.883
+
+
+### Diamante do Sul
+
+Code: BR4107124, Coordinates: -24.977, -52.701
+
+
+### Dois Vizinhos
+
+Code: BR4107207, Coordinates: -25.74, -53.09
+
+
+### Douradina
+
+Code: BR4107256, Coordinates: -21.996, -54.577
+
+
+### Doutor Camargo
+
+Code: BR4107306, Coordinates: -23.562, -52.223
+
+
+### Doutor Ulysses
+
+Code: BR4128633, Coordinates: -24.632, -49.39
+
+
+### Enéas Marques (Eneas Marques)
+
+Code: BR4107405, Coordinates: -25.881, -53.162
+
+
+### Engenheiro Beltrão (Engenheiro Beltrao)
+
+Code: BR4107504, Coordinates: -23.754, -52.206
+
+
+### Entre Rios do Oeste
+
+Code: BR4107538, Coordinates: -24.702, -54.219
+
+
+### Esperança Nova (Esperanca Nova)
+
+Code: BR4107520, Coordinates: -23.711, -53.787
+
+
+### Espigão Alto do Iguaçu (Espigao Alto do Iguacu)
+
+Code: BR4107546, Coordinates: -25.377, -52.79
+
+
+### Farol
+
+Code: BR4107553, Coordinates: -24.114, -52.656
+
+
+### Faxinal
+
+Code: BR4107603, Coordinates: -24.023, -51.304
+
+
+### Fazenda Rio Grande
+
+Code: BR4107652, Coordinates: -25.678, -49.299
+
+
+### Fênix (Fenix)
+
+Code: BR4107702, Coordinates: -23.899, -52.028
+
+
+### Fernandes Pinheiro
+
+Code: BR4107736, Coordinates: -25.482, -50.497
+
+
+### Figueira
+
+Code: BR4107751, Coordinates: -23.858, -50.423
+
+
+### Flor da Serra do Sul
+
+Code: BR4107850, Coordinates: -26.231, -53.306
+
+
+### Floraí (Florai)
+
+Code: BR4107801, Coordinates: -23.323, -52.328
+
+
+### Floresta
+
+Code: BR4107900, Coordinates: -23.629, -52.088
+
+
+### Florestópolis (Florestopolis)
+
+Code: BR4108007, Coordinates: -22.892, -51.384
+
+
+### Flórida (Florida)
+
+Code: BR4108106, Coordinates: -23.115, -51.974
+
+
+### Formosa do Oeste
+
+Code: BR4108205, Coordinates: -24.294, -53.337
+
+
+### Foz do Iguaçu (Foz do Iguacu)
+
+Code: BR4108304, Coordinates: -25.45, -54.45
+
+
+### Foz do Jordão (Foz do Jordao)
+
+Code: BR4108452, Coordinates: -25.7, -52.074
+
+
+### Francisco Alves
+
+Code: BR4108320, Coordinates: -24.099, -53.883
+
+
+### Francisco Beltrão (Francisco Beltrao)
+
+Code: BR4108403, Coordinates: -26.047, -53.117
+
+
+### General Carneiro
+
+Code: BR4108502, Coordinates: -15.555, -53.324
+
+
+### Godoy Moreira
+
+Code: BR4108551, Coordinates: -24.155, -51.924
+
+
+### Goioerê (Goioere)
+
+Code: BR4108601, Coordinates: -24.19, -53.084
+
+
+### Goioxim
+
+Code: BR4108650, Coordinates: -25.104, -52.012
+
+
+### Grandes Rios
+
+Code: BR4108700, Coordinates: -24.187, -51.448
+
+
+### Guaíra (Guaira)
+
+Code: BR4108809, Coordinates: -24.237, -54.216
+
+
+### Guairaçá (Guairaca)
+
+Code: BR4108908, Coordinates: -22.92, -52.741
+
+
+### Guamiranga
+
+Code: BR4108957, Coordinates: -25.175, -50.85
+
+
+### Guapirama
+
+Code: BR4109005, Coordinates: -23.471, -50.092
+
+
+### Guaporema
+
+Code: BR4109104, Coordinates: -23.308, -52.82
+
+
+### Guaraci
+
+Code: BR4109203, Coordinates: -22.969, -51.698
+
+
+### Guaraniaçu (Guaraniacu)
+
+Code: BR4109302, Coordinates: -25.063, -52.88
+
+
+### Guarapuava
+
+Code: BR4109401, Coordinates: -25.37, -51.496
+
+
+### Guaraqueçaba (Guaraquecaba)
+
+Code: BR4109500, Coordinates: -25.181, -48.377
+
+
+### Guaratuba
+
+Code: BR4109609, Coordinates: -25.792, -48.796
+
+
+### Honório Serpa (Honorio Serpa)
+
+Code: BR4109658, Coordinates: -26.162, -52.416
+
+
+### Ibaiti
+
+Code: BR4109708, Coordinates: -23.788, -50.33
+
+
+### Ibema
+
+Code: BR4109757, Coordinates: -25.159, -53.017
+
+
+### Ibiporã (Ibipora)
+
+Code: BR4109807, Coordinates: -23.218, -51.033
+
+
+### Icaraíma (Icaraima)
+
+Code: BR4109906, Coordinates: -23.353, -53.6
+
+
+### Iguaraçu (Iguaracu)
+
+Code: BR4110003, Coordinates: -23.233, -51.855
+
+
+### Iguatu
+
+Code: BR4110052, Coordinates: -24.681, -53.086
+
+
+### Imbaú (Imbau)
+
+Code: BR4110078, Coordinates: -24.443, -50.74
+
+
+### Imbituva
+
+Code: BR4110102, Coordinates: -25.223, -50.64
+
+
+### Inácio Martins (Inacio Martins)
+
+Code: BR4110201, Coordinates: -25.638, -51.214
+
+
+### Inajá (Inaja)
+
+Code: BR4110300, Coordinates: -22.715, -52.235
+
+
+### Indianópolis (Indianopolis)
+
+Code: BR4110409, Coordinates: -23.477, -52.644
+
+
+### Ipiranga
+
+Code: BR4110508, Coordinates: -24.993, -50.569
+
+
+### Iporã (Ipora)
+
+Code: BR4110607, Coordinates: -16.456, -51.158
+
+
+### Iracema do Oeste
+
+Code: BR4110656, Coordinates: -24.428, -53.346
+
+
+### Irati
+
+Code: BR4110706, Coordinates: -26.625, -52.899
+
+
+### Iretama
+
+Code: BR4110805, Coordinates: -24.34, -52.097
+
+
+### Itaguajé (Itaguaje)
+
+Code: BR4110904, Coordinates: -22.648, -51.979
+
+
+### Itaipulândia (Itaipulandia)
+
+Code: BR4110953, Coordinates: -25.168, -54.346
+
+
+### Itambaracá (Itambaraca)
+
+Code: BR4111001, Coordinates: -22.986, -50.43
+
+
+### Itambé (Itambe)
+
+Code: BR4111100, Coordinates: -23.692, -52.016
+
+
+### Itapejara d&#39;Oeste
+
+Code: BR4111209, Coordinates: -25.977, -52.825
+
+
+### Itaperuçu (Itaperucu)
+
+Code: BR4111258, Coordinates: -25.124, -49.497
+
+
+### Itaúna do Sul (Itauna do Sul)
+
+Code: BR4111308, Coordinates: -22.732, -52.907
+
+
+### Ivaí (Ivai)
+
+Code: BR4111407, Coordinates: -24.988, -50.858
+
+
+### Ivaiporã (Ivaipora)
+
+Code: BR4111506, Coordinates: -24.284, -51.629
+
+
+### Ivaté (Ivate)
+
+Code: BR4111555, Coordinates: -23.342, -53.426
+
+
+### Ivatuba
+
+Code: BR4111605, Coordinates: -23.599, -52.189
+
+
+### Jaboti
+
+Code: BR4111704, Coordinates: -23.701, -50.074
+
+
+### Jacarezinho
+
+Code: BR4111803, Coordinates: -23.181, -49.948
+
+
+### Jaguapitã (Jaguapita)
+
+Code: BR4111902, Coordinates: -23.079, -51.58
+
+
+### Jaguariaíva (Jaguariaiva)
+
+Code: BR4112009, Coordinates: -24.327, -49.695
+
+
+### Jandaia do Sul
+
+Code: BR4112108, Coordinates: -23.634, -51.695
+
+
+### Janiópolis (Janiopolis)
+
+Code: BR4112207, Coordinates: -24.095, -52.808
+
+
+### Japira
+
+Code: BR4112306, Coordinates: -23.688, -50.18
+
+
+### Japurá (Japura)
+
+Code: BR4112405, Coordinates: -23.422, -52.557
+
+
+### Jardim Alegre
+
+Code: BR4112504, Coordinates: -24.214, -51.732
+
+
+### Jardim Olinda
+
+Code: BR4112603, Coordinates: -22.568, -52.065
+
+
+### Jataizinho
+
+Code: BR4112702, Coordinates: -23.272, -50.924
+
+
+### Jesuítas (Jesuitas)
+
+Code: BR4112751, Coordinates: -24.408, -53.416
+
+
+### Joaquim Távora (Joaquim Tavora)
+
+Code: BR4112801, Coordinates: -23.429, -49.905
+
+
+### Jundiaí do Sul (Jundiai do Sul)
+
+Code: BR4112900, Coordinates: -23.469, -50.186
+
+
+### Juranda
+
+Code: BR4112959, Coordinates: -24.419, -52.826
+
+
+### Jussara
+
+Code: BR4113007, Coordinates: -15.675, -51.302
+
+
+### Kaloré (Kalore)
+
+Code: BR4113106, Coordinates: -23.871, -51.689
+
+
+### Lapa
+
+Code: BR4113205, Coordinates: -25.777, -49.913
+
+
+### Laranjal
+
+Code: BR4113254, Coordinates: -24.909, -52.503
+
+
+### Laranjeiras do Sul
+
+Code: BR4113304, Coordinates: -25.315, -52.365
+
+
+### Leópolis (Leopolis)
+
+Code: BR4113403, Coordinates: -23.029, -50.722
+
+
+### Lidianópolis (Lidianopolis)
+
+Code: BR4113429, Coordinates: -24.074, -51.644
+
+
+### Lindoeste
+
+Code: BR4113452, Coordinates: -25.26, -53.565
+
+
+### Loanda
+
+Code: BR4113502, Coordinates: -22.958, -53.014
+
+
+### Lobato
+
+Code: BR4113601, Coordinates: -22.969, -52.011
+
+
+### Londrina
+
+Code: BR4113700, Coordinates: -23.545, -51.103
+
+
+### Luiziana
+
+Code: BR4113734, Coordinates: -24.346, -52.275
+
+
+### Lunardelli
+
+Code: BR4113759, Coordinates: -24.072, -51.763
+
+
+### Lupionópolis (Lupionopolis)
+
+Code: BR4113809, Coordinates: -22.729, -51.684
+
+
+### Mallet
+
+Code: BR4113908, Coordinates: -25.898, -50.847
+
+
+### Mamborê (Mambore)
+
+Code: BR4114005, Coordinates: -24.412, -52.632
+
+
+### Mandaguaçu (Mandaguacu)
+
+Code: BR4114104, Coordinates: -23.272, -52.042
+
+
+### Mandaguari
+
+Code: BR4114203, Coordinates: -23.477, -51.72
+
+
+### Mandirituba
+
+Code: BR4114302, Coordinates: -25.846, -49.331
+
+
+### Manfrinópolis (Manfrinopolis)
+
+Code: BR4114351, Coordinates: -26.095, -53.368
+
+
+### Mangueirinha
+
+Code: BR4114401, Coordinates: -26.038, -52.211
+
+
+### Manoel Ribas
+
+Code: BR4114500, Coordinates: -24.509, -51.648
+
+
+### Marechal Cândido Rondon (Marechal Candido Rondon)
+
+Code: BR4114609, Coordinates: -24.565, -54.12
+
+
+### Maria Helena
+
+Code: BR4114708, Coordinates: -23.571, -53.237
+
+
+### Marialva
+
+Code: BR4114807, Coordinates: -23.528, -51.898
+
+
+### Marilândia do Sul (Marilandia do Sul)
+
+Code: BR4114906, Coordinates: -23.749, -51.294
+
+
+### Marilena
+
+Code: BR4115002, Coordinates: -22.723, -53.08
+
+
+### Mariluz
+
+Code: BR4115101, Coordinates: -24.072, -53.244
+
+
+### Maringá (Maringa)
+
+Code: BR4115200, Coordinates: -23.39, -51.953
+
+
+### Mariópolis (Mariopolis)
+
+Code: BR4115309, Coordinates: -26.318, -52.577
+
+
+### Maripá (Maripa)
+
+Code: BR4115358, Coordinates: -24.479, -53.822
+
+
+### Marmeleiro
+
+Code: BR4115408, Coordinates: -26.237, -53.105
+
+
+### Marquinho
+
+Code: BR4115457, Coordinates: -25.1, -52.26
+
+
+### Marumbi
+
+Code: BR4115507, Coordinates: -23.765, -51.663
+
+
+### Matelândia (Matelandia)
+
+Code: BR4115606, Coordinates: -25.372, -53.879
+
+
+### Matinhos
+
+Code: BR4115705, Coordinates: -25.768, -48.571
+
+
+### Mato Rico
+
+Code: BR4115739, Coordinates: -24.714, -52.24
+
+
+### Mauá da Serra (Maua da Serra)
+
+Code: BR4115754, Coordinates: -23.882, -51.212
+
+
+### Medianeira
+
+Code: BR4115804, Coordinates: -25.255, -54.126
+
+
+### Mercedes
+
+Code: BR4115853, Coordinates: -24.421, -54.166
+
+
+### Mirador
+
+Code: BR4115903, Coordinates: -23.218, -52.76
+
+
+### Miraselva
+
+Code: BR4116000, Coordinates: -22.976, -51.477
+
+
+### Missal
+
+Code: BR4116059, Coordinates: -25.117, -54.261
+
+
+### Moreira Sales
+
+Code: BR4116109, Coordinates: -24.01, -52.973
+
+
+### Morretes
+
+Code: BR4116208, Coordinates: -25.531, -48.872
+
+
+### Munhoz de Melo
+
+Code: BR4116307, Coordinates: -23.123, -51.742
+
+
+### Nossa Senhora das Graças (Nossa Senhora das Gracas)
+
+Code: BR4116406, Coordinates: -22.924, -51.799
+
+
+### Nova Aliança do Ivaí (Nova Alianca do Ivai)
+
+Code: BR4116505, Coordinates: -23.18, -52.627
+
+
+### Nova América da Colina (Nova America da Colina)
+
+Code: BR4116604, Coordinates: -23.335, -50.7
+
+
+### Nova Aurora
+
+Code: BR4116703, Coordinates: -18.099, -48.286
+
+
+### Nova Cantu
+
+Code: BR4116802, Coordinates: -24.656, -52.576
+
+
+### Nova Esperança (Nova Esperanca)
+
+Code: BR4116901, Coordinates: -23.18, -52.245
+
+
+### Nova Esperança do Sudoeste (Nova Esperanca do Sudoeste)
+
+Code: BR4116950, Coordinates: -25.89, -53.261
+
+
+### Nova Fátima (Nova Fatima)
+
+Code: BR4117008, Coordinates: -23.403, -50.538
+
+
+### Nova Laranjeiras
+
+Code: BR4117057, Coordinates: -25.21, -52.585
+
+
+### Nova Londrina
+
+Code: BR4117107, Coordinates: -22.747, -52.959
+
+
+### Nova Olímpia (Nova Olimpia)
+
+Code: BR4117206, Coordinates: -14.788, -57.413
+
+
+### Nova Prata do Iguaçu (Nova Prata do Iguacu)
+
+Code: BR4117255, Coordinates: -25.603, -53.383
+
+
+### Nova Santa Bárbara (Nova Santa Barbara)
+
+Code: BR4117214, Coordinates: -23.6, -50.764
+
+
+### Nova Santa Rosa
+
+Code: BR4117222, Coordinates: -24.45, -53.987
+
+
+### Nova Tebas
+
+Code: BR4117271, Coordinates: -24.43, -51.946
+
+
+### Novo Itacolomi
+
+Code: BR4117297, Coordinates: -23.774, -51.53
+
+
+### Ortigueira
+
+Code: BR4117305, Coordinates: -24.126, -50.993
+
+
+### Ourizona
+
+Code: BR4117404, Coordinates: -23.477, -52.238
+
+
+### Ouro Verde do Oeste
+
+Code: BR4117453, Coordinates: -24.789, -53.95
+
+
+### Paiçandu (Paicandu)
+
+Code: BR4117503, Coordinates: -23.469, -52.133
+
+
+### Palmas
+
+Code: BR4117602, Coordinates: -26.394, -51.842
+
+
+### Palmeira
+
+Code: BR4117701, Coordinates: -27.546, -50.161
+
+
+### Palmital
+
+Code: BR4117800, Coordinates: -24.877, -52.284
+
+
+### Palotina
+
+Code: BR4117909, Coordinates: -24.234, -53.777
+
+
+### Paraíso do Norte (Paraiso do Norte)
+
+Code: BR4118006, Coordinates: -23.271, -52.655
+
+
+### Paranacity
+
+Code: BR4118105, Coordinates: -22.841, -52.125
+
+
+### Paranaguá (Paranagua)
+
+Code: BR4118204, Coordinates: -25.556, -48.538
+
+
+### Paranapoema
+
+Code: BR4118303, Coordinates: -22.66, -52.083
+
+
+### Paranavaí (Paranavai)
+
+Code: BR4118402, Coordinates: -22.933, -52.524
+
+
+### Pato Bragado
+
+Code: BR4118451, Coordinates: -24.645, -54.234
+
+
+### Pato Branco
+
+Code: BR4118501, Coordinates: -26.157, -52.667
+
+
+### Paula Freitas
+
+Code: BR4118600, Coordinates: -26.19, -50.845
+
+
+### Paulo Frontin
+
+Code: BR4118709, Coordinates: -26.053, -50.759
+
+
+### Peabiru
+
+Code: BR4118808, Coordinates: -23.967, -52.29
+
+
+### Perobal
+
+Code: BR4118857, Coordinates: -23.961, -53.328
+
+
+### Pérola (Perola)
+
+Code: BR4118907, Coordinates: -23.818, -53.717
+
+
+### Pérola d&#39;Oeste (Perola d&#39;Oeste)
+
+Code: BR4119004, Coordinates: -25.841, -53.756
+
+
+### Piên (Pien)
+
+Code: BR4119103, Coordinates: -26.078, -49.46
+
+
+### Pinhais
+
+Code: BR4119152, Coordinates: -25.423, -49.158
+
+
+### Pinhal de São Bento (Pinhal de Sao Bento)
+
+Code: BR4119251, Coordinates: -26.008, -53.485
+
+
+### Pinhalão (Pinhalao)
+
+Code: BR4119202, Coordinates: -23.92, -50.05
+
+
+### Pinhão (Pinhao)
+
+Code: BR4119301, Coordinates: -25.766, -51.654
+
+
+### Piraí do Sul (Pirai do Sul)
+
+Code: BR4119400, Coordinates: -24.474, -49.927
+
+
+### Piraquara
+
+Code: BR4119509, Coordinates: -25.475, -49.043
+
+
+### Pitanga
+
+Code: BR4119608, Coordinates: -24.659, -51.791
+
+
+### Pitangueiras
+
+Code: BR4119657, Coordinates: -23.201, -51.567
+
+
+### Planaltina do Paraná (Planaltina do Parana)
+
+Code: BR4119707, Coordinates: -23.102, -52.924
+
+
+### Planalto
+
+Code: BR4119806, Coordinates: -27.343, -53.093
+
+
+### Ponta Grossa
+
+Code: BR4119905, Coordinates: -25.122, -50.07
+
+
+### Pontal do Paraná (Pontal do Parana)
+
+Code: BR4119954, Coordinates: -25.643, -48.498
+
+
+### Porecatu
+
+Code: BR4120002, Coordinates: -22.751, -51.396
+
+
+### Porto Amazonas
+
+Code: BR4120101, Coordinates: -25.544, -49.891
+
+
+### Porto Barreiro
+
+Code: BR4120150, Coordinates: -25.586, -52.381
+
+
+### Porto Rico
+
+Code: BR4120200, Coordinates: -22.84, -53.323
+
+
+### Porto Vitória (Porto Vitoria)
+
+Code: BR4120309, Coordinates: -26.246, -51.246
+
+
+### Prado Ferreira
+
+Code: BR4120333, Coordinates: -23.02, -51.378
+
+
+### Pranchita
+
+Code: BR4120358, Coordinates: -25.967, -53.695
+
+
+### Presidente Castelo Branco
+
+Code: BR4120408, Coordinates: -23.261, -52.145
+
+
+### Primeiro de Maio
+
+Code: BR4120507, Coordinates: -22.868, -51.075
+
+
+### Prudentópolis (Prudentopolis)
+
+Code: BR4120606, Coordinates: -25.14, -51.125
+
+
+### Quarto Centenário (Quarto Centenario)
+
+Code: BR4120655, Coordinates: -24.312, -53.152
+
+
+### Quatiguá (Quatigua)
+
+Code: BR4120705, Coordinates: -23.558, -49.921
+
+
+### Quatro Barras
+
+Code: BR4120804, Coordinates: -25.378, -48.991
+
+
+### Quatro Pontes
+
+Code: BR4120853, Coordinates: -24.562, -53.969
+
+
+### Quedas do Iguaçu (Quedas do Iguacu)
+
+Code: BR4120903, Coordinates: -25.444, -52.977
+
+
+### Querência do Norte (Querencia do Norte)
+
+Code: BR4121000, Coordinates: -23.103, -53.555
+
+
+### Quinta do Sol
+
+Code: BR4121109, Coordinates: -23.8, -52.154
+
+
+### Quitandinha
+
+Code: BR4121208, Coordinates: -25.913, -49.477
+
+
+### Ramilândia (Ramilandia)
+
+Code: BR4121257, Coordinates: -25.073, -54.038
+
+
+### Rancho Alegre
+
+Code: BR4121307, Coordinates: -23.069, -50.921
+
+
+### Rancho Alegre D&#39;Oeste
+
+Code: BR4121356, Coordinates: -24.302, -52.98
+
+
+### Realeza
+
+Code: BR4121406, Coordinates: -25.664, -53.551
+
+
+### Rebouças (Reboucas)
+
+Code: BR4121505, Coordinates: -25.684, -50.63
+
+
+### Renascença (Renascenca)
+
+Code: BR4121604, Coordinates: -26.208, -52.939
+
+
+### Reserva
+
+Code: BR4121703, Coordinates: -24.568, -50.95
+
+
+### Reserva do Iguaçu (Reserva do Iguacu)
+
+Code: BR4121752, Coordinates: -25.858, -51.961
+
+
+### Ribeirão Claro (Ribeirao Claro)
+
+Code: BR4121802, Coordinates: -23.279, -49.788
+
+
+### Ribeirão do Pinhal (Ribeirao do Pinhal)
+
+Code: BR4121901, Coordinates: -23.403, -50.421
+
+
+### Rio Azul
+
+Code: BR4122008, Coordinates: -25.732, -50.749
+
+
+### Rio Bom
+
+Code: BR4122107, Coordinates: -23.8, -51.445
+
+
+### Rio Bonito do Iguaçu (Rio Bonito do Iguacu)
+
+Code: BR4122156, Coordinates: -25.552, -52.631
+
+
+### Rio Branco do Ivaí (Rio Branco do Ivai)
+
+Code: BR4122172, Coordinates: -24.348, -51.347
+
+
+### Rio Branco do Sul
+
+Code: BR4122206, Coordinates: -25.047, -49.337
+
+
+### Rio Negro
+
+Code: BR4122305, Coordinates: -19.448, -54.992
+
+
+### Rolândia (Rolandia)
+
+Code: BR4122404, Coordinates: -23.276, -51.414
+
+
+### Roncador
+
+Code: BR4122503, Coordinates: -24.553, -52.224
+
+
+### Rondon
+
+Code: BR4122602, Coordinates: -23.471, -52.836
+
+
+### Rosário do Ivaí (Rosario do Ivai)
+
+Code: BR4122651, Coordinates: -24.3, -51.2
+
+
+### Sabáudia (Sabaudia)
+
+Code: BR4122701, Coordinates: -23.366, -51.6
+
+
+### Salgado Filho
+
+Code: BR4122800, Coordinates: -26.118, -53.441
+
+
+### Salto do Itararé (Salto do Itarare)
+
+Code: BR4122909, Coordinates: -23.62, -49.688
+
+
+### Salto do Lontra
+
+Code: BR4123006, Coordinates: -25.777, -53.306
+
+
+### Santa Amélia (Santa Amelia)
+
+Code: BR4123105, Coordinates: -23.26, -50.407
+
+
+### Santa Cecília do Pavão (Santa Cecilia do Pavao)
+
+Code: BR4123204, Coordinates: -23.544, -50.818
+
+
+### Santa Cruz de Monte Castelo
+
+Code: BR4123303, Coordinates: -23.147, -53.374
+
+
+### Santa Fé (Santa Fe)
+
+Code: BR4123402, Coordinates: -23.048, -51.821
+
+
+### Santa Helena
+
+Code: BR4123501, Coordinates: -26.925, -53.611
+
+
+### Santa Inês (Santa Ines)
+
+Code: BR4123600, Coordinates: -22.69, -51.91
+
+
+### Santa Isabel do Ivaí (Santa Isabel do Ivai)
+
+Code: BR4123709, Coordinates: -23.148, -53.254
+
+
+### Santa Izabel do Oeste
+
+Code: BR4123808, Coordinates: -25.77, -53.406
+
+
+### Santa Lúcia (Santa Lucia)
+
+Code: BR4123824, Coordinates: -25.399, -53.539
+
+
+### Santa Maria do Oeste
+
+Code: BR4123857, Coordinates: -24.924, -51.962
+
+
+### Santa Mariana
+
+Code: BR4123907, Coordinates: -23.051, -50.527
+
+
+### Santa Mônica (Santa Monica)
+
+Code: BR4123956, Coordinates: -23.164, -53.117
+
+
+### Santa Tereza do Oeste
+
+Code: BR4124020, Coordinates: -25.041, -53.608
+
+
+### Santa Terezinha de Itaipu
+
+Code: BR4124053, Coordinates: -25.42, -54.408
+
+
+### Santana do Itararé (Santana do Itarare)
+
+Code: BR4124004, Coordinates: -23.74, -49.624
+
+
+### Santo Antônio da Platina (Santo Antonio da Platina)
+
+Code: BR4124103, Coordinates: -23.267, -50.1
+
+
+### Santo Antônio do Caiuá (Santo Antonio do Caiua)
+
+Code: BR4124202, Coordinates: -22.693, -52.316
+
+
+### Santo Antônio do Paraíso (Santo Antonio do Paraiso)
+
+Code: BR4124301, Coordinates: -23.566, -50.621
+
+
+### Santo Antônio do Sudoeste (Santo Antonio do Sudoeste)
+
+Code: BR4124400, Coordinates: -26.049, -53.59
+
+
+### Santo Inácio (Santo Inacio)
+
+Code: BR4124509, Coordinates: -22.711, -51.798
+
+
+### São Carlos do Ivaí (Sao Carlos do Ivai)
+
+Code: BR4124608, Coordinates: -23.359, -52.512
+
+
+### São Jerônimo da Serra (Sao Jeronimo da Serra)
+
+Code: BR4124707, Coordinates: -23.675, -50.805
+
+
+### São João (Sao Joao)
+
+Code: BR4124806, Coordinates: -25.768, -52.81
+
+
+### São João do Caiuá (Sao Joao do Caiua)
+
+Code: BR4124905, Coordinates: -22.837, -52.292
+
+
+### São João do Ivaí (Sao Joao do Ivai)
+
+Code: BR4125001, Coordinates: -23.981, -51.886
+
+
+### São João do Triunfo (Sao Joao do Triunfo)
+
+Code: BR4125100, Coordinates: -25.695, -50.265
+
+
+### São Jorge d&#39;Oeste (Sao Jorge d&#39;Oeste)
+
+Code: BR4125209, Coordinates: -25.662, -52.956
+
+
+### São Jorge do Ivaí (Sao Jorge do Ivai)
+
+Code: BR4125308, Coordinates: -23.448, -52.313
+
+
+### São Jorge do Patrocínio (Sao Jorge do Patrocinio)
+
+Code: BR4125357, Coordinates: -23.751, -53.899
+
+
+### São José da Boa Vista (Sao Jose da Boa Vista)
+
+Code: BR4125407, Coordinates: -23.961, -49.654
+
+
+### São José das Palmeiras (Sao Jose das Palmeiras)
+
+Code: BR4125456, Coordinates: -24.831, -54.126
+
+
+### São José dos Pinhais (Sao Jose dos Pinhais)
+
+Code: BR4125506, Coordinates: -25.691, -49.055
+
+
+### São Manoel do Paraná (Sao Manoel do Parana)
+
+Code: BR4125555, Coordinates: -23.387, -52.603
+
+
+### São Mateus do Sul (Sao Mateus do Sul)
+
+Code: BR4125605, Coordinates: -25.926, -50.462
+
+
+### São Miguel do Iguaçu (Sao Miguel do Iguacu)
+
+Code: BR4125704, Coordinates: -25.381, -54.239
+
+
+### São Pedro do Iguaçu (Sao Pedro do Iguacu)
+
+Code: BR4125753, Coordinates: -24.901, -53.898
+
+
+### São Pedro do Ivaí (Sao Pedro do Ivai)
+
+Code: BR4125803, Coordinates: -23.84, -51.878
+
+
+### São Pedro do Paraná (Sao Pedro do Parana)
+
+Code: BR4125902, Coordinates: -22.788, -53.173
+
+
+### São Sebastião da Amoreira (Sao Sebastiao da Amoreira)
+
+Code: BR4126009, Coordinates: -23.455, -50.717
+
+
+### São Tomé (Sao Tome)
+
+Code: BR4126108, Coordinates: -23.526, -52.501
+
+
+### Sapopema
+
+Code: BR4126207, Coordinates: -23.884, -50.603
+
+
+### Sarandi
+
+Code: BR4126256, Coordinates: -27.918, -52.94
+
+
+### Saudade do Iguaçu (Saudade do Iguacu)
+
+Code: BR4126272, Coordinates: -25.707, -52.604
+
+
+### Sengés (Senges)
+
+Code: BR4126306, Coordinates: -24.211, -49.467
+
+
+### Serranópolis do Iguaçu (Serranopolis do Iguacu)
+
+Code: BR4126355, Coordinates: -25.481, -54.03
+
+
+### Sertaneja
+
+Code: BR4126405, Coordinates: -22.954, -50.887
+
+
+### Sertanópolis (Sertanopolis)
+
+Code: BR4126504, Coordinates: -23.057, -51.041
+
+
+### Siqueira Campos
+
+Code: BR4126603, Coordinates: -23.634, -49.781
+
+
+### Sulina
+
+Code: BR4126652, Coordinates: -25.679, -52.686
+
+
+### Tamarana
+
+Code: BR4126678, Coordinates: -23.82, -51.042
+
+
+### Tamboara
+
+Code: BR4126702, Coordinates: -23.199, -52.478
+
+
+### Tapejara
+
+Code: BR4126801, Coordinates: -28.054, -52.019
+
+
+### Tapira
+
+Code: BR4126900, Coordinates: -23.301, -53.139
+
+
+### Teixeira Soares
+
+Code: BR4127007, Coordinates: -25.291, -50.424
+
+
+### Telêmaco Borba (Telemaco Borba)
+
+Code: BR4127106, Coordinates: -24.224, -50.562
+
+
+### Terra Boa
+
+Code: BR4127205, Coordinates: -23.685, -52.35
+
+
+### Terra Rica
+
+Code: BR4127304, Coordinates: -22.728, -52.688
+
+
+### Terra Roxa
+
+Code: BR4127403, Coordinates: -24.215, -54.093
+
+
+### Tibagi
+
+Code: BR4127502, Coordinates: -24.669, -50.5
+
+
+### Tijucas do Sul
+
+Code: BR4127601, Coordinates: -25.897, -49.105
+
+
+### Toledo
+
+Code: BR4127700, Coordinates: -24.722, -53.826
+
+
+### Tomazina
+
+Code: BR4127809, Coordinates: -23.687, -49.982
+
+
+### Três Barras do Paraná (Tres Barras do Parana)
+
+Code: BR4127858, Coordinates: -25.429, -53.229
+
+
+### Tunas do Paraná (Tunas do Parana)
+
+Code: BR4127882, Coordinates: -24.974, -48.898
+
+
+### Tuneiras do Oeste
+
+Code: BR4127908, Coordinates: -23.905, -52.835
+
+
+### Tupãssi (Tupassi)
+
+Code: BR4127957, Coordinates: -24.633, -53.498
+
+
+### Turvo
+
+Code: BR4127965, Coordinates: -28.917, -49.677
+
+
+### Ubiratã (Ubirata)
+
+Code: BR4128005, Coordinates: -24.529, -53.018
+
+
+### Umuarama
+
+Code: BR4128104, Coordinates: -23.689, -53.399
+
+
+### União da Vitória (Uniao da Vitoria)
+
+Code: BR4128203, Coordinates: -26.095, -51.104
+
+
+### Uniflor
+
+Code: BR4128302, Coordinates: -23.057, -52.094
+
+
+### Uraí (Urai)
+
+Code: BR4128401, Coordinates: -23.207, -50.793
+
+
+### Ventania
+
+Code: BR4128534, Coordinates: -24.158, -50.233
+
+
+### Vera Cruz do Oeste
+
+Code: BR4128559, Coordinates: -24.945, -53.936
+
+
+### Verê (Vere)
+
+Code: BR4128609, Coordinates: -25.866, -52.952
+
+
+### Virmond
+
+Code: BR4128658, Coordinates: -25.438, -52.245
+
+
+### Vitorino
+
+Code: BR4128708, Coordinates: -26.242, -52.82
+
+
+### Wenceslau Braz
+
+Code: BR4128500, Coordinates: -23.887, -49.792
+
+
+### Xambrê (Xambre)
+
+Code: BR4128807, Coordinates: -23.74, -53.609
+
+

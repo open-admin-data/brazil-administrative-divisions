@@ -1,0 +1,45 @@
+{
+  "id": "BR5205406",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ceres",
+    "en": "Ceres",
+    "slug": "ceres-br5205406"
+  },
+  "code": {
+    "id": "BR5205406",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR52",
+    "level": 1,
+    "name": {
+      "local": "Goiás",
+      "en": "Goias",
+      "slug": "goias-br52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR52",
+      "level": 1,
+      "name": {
+        "local": "Goiás",
+        "en": "Goias",
+        "slug": "goias-br52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.287",
+    "lon": "-49.645"
+  },
+  "metadata": {},
+  "source": {}
+}

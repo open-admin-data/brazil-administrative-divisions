@@ -1,0 +1,45 @@
+{
+  "id": "BR2801207",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Canindé de São Francisco",
+    "en": "Caninde de Sao Francisco",
+    "slug": "caninde-de-sao-francisco-br2801207"
+  },
+  "code": {
+    "id": "BR2801207",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR28",
+    "level": 1,
+    "name": {
+      "local": "Sergipe",
+      "en": "Sergipe",
+      "slug": "sergipe-br28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR28",
+      "level": 1,
+      "name": {
+        "local": "Sergipe",
+        "en": "Sergipe",
+        "slug": "sergipe-br28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.715",
+    "lon": "-37.951"
+  },
+  "metadata": {},
+  "source": {}
+}

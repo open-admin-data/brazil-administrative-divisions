@@ -1,0 +1,45 @@
+{
+  "id": "BR2112605",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Urbano Santos",
+    "en": "Urbano Santos",
+    "slug": "urbano-santos-br2112605"
+  },
+  "code": {
+    "id": "BR2112605",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR21",
+    "level": 1,
+    "name": {
+      "local": "Maranhão",
+      "en": "Maranhao",
+      "slug": "maranhao-br21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR21",
+      "level": 1,
+      "name": {
+        "local": "Maranhão",
+        "en": "Maranhao",
+        "slug": "maranhao-br21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.347",
+    "lon": "-43.293"
+  },
+  "metadata": {},
+  "source": {}
+}

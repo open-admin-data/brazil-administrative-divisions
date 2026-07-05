@@ -1,0 +1,45 @@
+{
+  "id": "BR3162922",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Joaquim de Bicas",
+    "en": "Sao Joaquim de Bicas",
+    "slug": "sao-joaquim-de-bicas-br3162922"
+  },
+  "code": {
+    "id": "BR3162922",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR31",
+    "level": 1,
+    "name": {
+      "local": "Minas Gerais",
+      "en": "Minas Gerais",
+      "slug": "minas-gerais-br31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR31",
+      "level": 1,
+      "name": {
+        "local": "Minas Gerais",
+        "en": "Minas Gerais",
+        "slug": "minas-gerais-br31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.05",
+    "lon": "-44.251"
+  },
+  "metadata": {},
+  "source": {}
+}

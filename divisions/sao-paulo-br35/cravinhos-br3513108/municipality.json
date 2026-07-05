@@ -1,0 +1,45 @@
+{
+  "id": "BR3513108",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cravinhos",
+    "en": "Cravinhos",
+    "slug": "cravinhos-br3513108"
+  },
+  "code": {
+    "id": "BR3513108",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR35",
+    "level": 1,
+    "name": {
+      "local": "São Paulo",
+      "en": "Sao Paulo",
+      "slug": "sao-paulo-br35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR35",
+      "level": 1,
+      "name": {
+        "local": "São Paulo",
+        "en": "Sao Paulo",
+        "slug": "sao-paulo-br35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.334",
+    "lon": "-47.745"
+  },
+  "metadata": {},
+  "source": {}
+}

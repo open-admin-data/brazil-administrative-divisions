@@ -1,0 +1,45 @@
+{
+  "id": "BR2210508",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "São Pedro do Piauí",
+    "en": "Sao Pedro do Piaui",
+    "slug": "sao-pedro-do-piaui-br2210508"
+  },
+  "code": {
+    "id": "BR2210508",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR22",
+    "level": 1,
+    "name": {
+      "local": "Piauí",
+      "en": "Piaui",
+      "slug": "piaui-br22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR22",
+      "level": 1,
+      "name": {
+        "local": "Piauí",
+        "en": "Piaui",
+        "slug": "piaui-br22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.844",
+    "lon": "-42.766"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BR3204054",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pedro Canário",
+    "en": "Pedro Canario",
+    "slug": "pedro-canario-br3204054"
+  },
+  "code": {
+    "id": "BR3204054",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR32",
+    "level": 1,
+    "name": {
+      "local": "Espírito Santo",
+      "en": "Espirito Santo",
+      "slug": "espirito-santo-br32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR32",
+      "level": 1,
+      "name": {
+        "local": "Espírito Santo",
+        "en": "Espirito Santo",
+        "slug": "espirito-santo-br32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.184",
+    "lon": "-40.043"
+  },
+  "metadata": {},
+  "source": {}
+}

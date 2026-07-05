@@ -1,0 +1,45 @@
+{
+  "id": "BR2906006",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campo Formoso",
+    "en": "Campo Formoso",
+    "slug": "campo-formoso-br2906006"
+  },
+  "code": {
+    "id": "BR2906006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BR29",
+    "level": 1,
+    "name": {
+      "local": "Bahia",
+      "en": "Bahia",
+      "slug": "bahia-br29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BR29",
+      "level": 1,
+      "name": {
+        "local": "Bahia",
+        "en": "Bahia",
+        "slug": "bahia-br29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.233",
+    "lon": "-40.845"
+  },
+  "metadata": {},
+  "source": {}
+}
