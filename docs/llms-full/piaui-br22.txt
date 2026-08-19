@@ -3,7 +3,7 @@
 > 224 municipalitys
 > Code: BR22
 > Coordinates: -7.28, -42.915
-> Last updated: 2026-07-05. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 

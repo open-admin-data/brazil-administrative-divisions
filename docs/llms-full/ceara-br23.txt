@@ -3,7 +3,7 @@
 > 184 municipalitys
 > Code: BR23
 > Coordinates: -5.325, -39.5
-> Last updated: 2026-07-05. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 

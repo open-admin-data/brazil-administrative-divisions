@@ -3,7 +3,7 @@
 > 417 municipalitys
 > Code: BR29
 > Coordinates: -12.58, -41.827
-> Last updated: 2026-07-05. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 
