@@ -3,7 +3,7 @@
 > 217 municipalitys
 > Code: BR21
 > Coordinates: -5.232, -45.409
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Municipalitys
 

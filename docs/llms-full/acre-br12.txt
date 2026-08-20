@@ -3,7 +3,7 @@
 > 22 municipalitys
 > Code: BR12
 > Coordinates: -9.48, -70.508
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Municipalitys
 

@@ -3,7 +3,7 @@
 > 141 municipalitys
 > Code: BR51
 > Coordinates: -13.81, -55.812
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Municipalitys
 

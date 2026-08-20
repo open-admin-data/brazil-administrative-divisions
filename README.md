@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/br](https://openadmindata.org/br/) |
 | API | [openadmindata.org/api/br](https://openadmindata.org/api/br/) |
+| Flag | [PNG](https://onlygames.me/flags-png/br/) · [SVG](https://onlygames.me/flags-svg/br/) · [PDF](https://onlygames.me/flags-pdf/br/) |
 | National Anthem | [🎵 Listen & Download Brazil National Anthem MP3](https://onlygames.me/national-anthems/br/) |
 
 ## Browse by State

@@ -3,7 +3,7 @@
 > 223 municipalitys
 > Code: BR25
 > Coordinates: -7.164, -37.035
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Municipalitys
 
